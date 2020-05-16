@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: posts/test
+  path: src/posts/test
   label: Test
 - type: directory
-  path: posts
+  path: src/posts
   label: Posts
   create: all
   match: "**/*"

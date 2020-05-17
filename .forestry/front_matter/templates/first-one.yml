@@ -27,4 +27,4 @@ fields:
     required: false
   label: Path
 pages:
-- src/posts/first-one.md
+- src/posts/how-i-learnt-gatsby-in-one-day.md

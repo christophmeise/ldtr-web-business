@@ -16,5 +16,15 @@ fields:
     schema:
       format: markdown
   label: Content
+- name: date
+  type: text
+  config:
+    required: false
+  label: Date
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
 pages:
 - src/posts/first-one.md

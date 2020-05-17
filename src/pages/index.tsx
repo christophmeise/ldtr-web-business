@@ -1,5 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import React from 'react';
+import 'semantic-ui-css/semantic.min.css';
+import { Card, CardHeader } from 'semantic-ui-react';
 
 // import '../css/index.css'; // add some style if you want!
 
@@ -11,13 +13,20 @@ export default function Index({ data }) {
                 .filter((post) => post.node.frontmatter.title.length > 0)
                 .map(({ node: post }) => {
                     return (
-                        <div className="blog-post-preview" key={post.id}>
-                            <h1>
-                                <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
-                            </h1>
-                            <h2>{post.frontmatter.date}</h2>
-                            <p>{post.excerpt}</p>
-                        </div>
+                        <Card>
+                            <CardHeader>
+                                <div className="blog-post-preview" key={post.id}>
+                                    <h1>
+                                        <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                                    </h1>
+                                </div>
+                            </CardHeader>
+
+                            <Card.Content description={post.excerpt}></Card.Content>
+                            <Card.Content extra>
+                                <h2>{post.frontmatter.date}</h2>
+                            </Card.Content>
+                        </Card>
                     );
                 })}
         </div>

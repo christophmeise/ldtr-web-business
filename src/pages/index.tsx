@@ -1,14 +1,43 @@
-import { Link } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import React from 'react';
-import Header from './../../components/header';
 
-export default function Home() {
+// import '../css/index.css'; // add some style if you want!
+
+export default function Index({ data }) {
+    const { edges: posts } = data.allMarkdownRemark;
     return (
-        <div style={{ color: `purple` }}>
-            <Link to="/contact/">Contact</Link>
-            <Header headerText="Hello Gatsby!" />
-            <p>What a world.</p>
-            <img src="https://source.unsplash.com/random/400x200" alt="" />
+        <div className="blog-posts">
+            {posts
+                .filter((post) => post.node.frontmatter.title.length > 0)
+                .map(({ node: post }) => {
+                    return (
+                        <div className="blog-post-preview" key={post.id}>
+                            <h1>
+                                <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                            </h1>
+                            <h2>{post.frontmatter.date}</h2>
+                            <p>{post.excerpt}</p>
+                        </div>
+                    );
+                })}
         </div>
     );
 }
+
+export const pageQuery = graphql`
+    query IndexQuery {
+        allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+            edges {
+                node {
+                    excerpt(pruneLength: 250)
+                    id
+                    frontmatter {
+                        title
+                        date(formatString: "MMMM DD, YYYY")
+                        path
+                    }
+                }
+            }
+        }
+    }
+`;

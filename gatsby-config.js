@@ -9,11 +9,18 @@ module.exports = {
     plugins: [
         'gatsby-plugin-catch-links',
         'gatsby-plugin-react-helmet',
+        'gatsby-plugin-sharp',
         {
             resolve: `gatsby-source-filesystem`,
             options: {
                 path: `${__dirname}/src/posts`,
                 name: 'posts',
+            },
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                path: `${__dirname}/uploads`,
             },
         },
         {
@@ -28,7 +35,14 @@ module.exports = {
                 // GitHub Flavored Markdown mode (default: true)
                 gfm: true,
                 // Plugins configs
-                plugins: [],
+                plugins: [
+                    {
+                        resolve: `gatsby-remark-images`,
+                        options: {
+                            maxWidth: 800,
+                        },
+                    },
+                ],
             },
         },
     ],

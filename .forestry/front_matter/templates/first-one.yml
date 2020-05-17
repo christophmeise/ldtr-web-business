@@ -26,3 +26,5 @@ fields:
   config:
     required: false
   label: Path
+pages:
+- src/posts/first-one.md

@@ -2,12 +2,11 @@ import { Link } from 'gatsby';
 import React from 'react';
 
 interface Props {
-    location: Location;
     title: string;
     children?: any;
 }
 
-const Layout = ({ location, title, children }: Props) => {
+const Layout = ({ title, children }: Props) => {
     let header = (
         <h1
             style={{

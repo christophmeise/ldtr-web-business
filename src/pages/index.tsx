@@ -29,7 +29,7 @@ export default class Index extends React.Component<Props, Props> {
         const siteTitle = data.site.siteMetadata.title;
 
         return (
-            <Layout location={window.location} title={siteTitle}>
+            <Layout title={siteTitle}>
                 <SEO title="All posts" />
                 <div className="blog-posts">
                     {posts

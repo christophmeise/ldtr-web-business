@@ -1,8 +1,7 @@
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import React from 'react';
-import { Helmet } from 'react-helmet';
-
 // import '../css/blog-post.css'; // make it pretty!
+import SEO from './../components/seo';
 
 export default function Template({
     data, // this prop will be injected by the GraphQL query we'll write in a bit
@@ -11,11 +10,12 @@ export default function Template({
 
     return (
         <div className="blog-post-container">
-            <Helmet title={`Your Blog Name - ${post.frontmatter.title}`} />
+            <SEO description={post.frontmatter.title} title={post.frontmatter.title} />
             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
                 <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
             </div>
+            <Link to="/">Back to the Future</Link>
         </div>
     );
 }

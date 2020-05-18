@@ -13,6 +13,7 @@ interface Props {
         site: {
             siteMetadata: {
                 title: string;
+                description: string;
             };
         };
     };
@@ -31,10 +32,11 @@ export default class Index extends React.Component<Props, Props> {
         const data = this.props.data;
         const posts = data.allMarkdownRemark.edges;
         const siteTitle = data.site.siteMetadata.title;
+        const description = data.site.siteMetadata.description;
 
         return (
             <Layout title={siteTitle}>
-                <SEO title="All posts" />
+                <SEO description={description} title="All posts" />
                 <Container>
                     <div className="blog-posts">
                         {posts
@@ -44,9 +46,9 @@ export default class Index extends React.Component<Props, Props> {
                                     <Card>
                                         <CardHeader>
                                             <div className="blog-post-preview" key={post.id}>
-                                                <h1>
+                                                <h2>
                                                     <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
-                                                </h1>
+                                                </h2>
                                             </div>
                                         </CardHeader>
                                         <CardContent>

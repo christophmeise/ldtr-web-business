@@ -45,7 +45,9 @@ export default class Index extends React.Component<Props, Props> {
                                         </div>
                                     </CardHeader>
                                     <CardContent>
-                                        <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+                                        {post.frontmatter.featuredImage != null && (
+                                            <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+                                        )}
                                     </CardContent>
                                     <Card.Content description={post.excerpt}></Card.Content>
                                     <Card.Content extra>

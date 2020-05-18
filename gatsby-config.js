@@ -61,5 +61,28 @@ module.exports = {
                 pathToConfigModule: `src/utils/typography`,
             },
         },
+        {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+                name: `Love.Dream.Travel.Repeat`,
+                short_name: `LDTR`,
+                start_url: `/`,
+                background_color: `#f7f0eb`,
+                theme_color: `#a2466c`,
+                display: `standalone`,
+                icon: `src/images/Logo.png`,
+                cache_busting_mode: 'none',
+                theme_color_in_head: false,
+            },
+        },
+        {
+            resolve: 'gatsby-plugin-offline',
+            options: {
+                workboxConfig: {
+                    globPatterns: ['**/*'],
+                },
+                precachePages: [`/*`],
+            },
+        },
     ],
 };

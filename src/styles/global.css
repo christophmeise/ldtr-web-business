@@ -4,3 +4,12 @@
     height: 300px;
     width: 100%;
 }
+
+.rounded-corners-top img {
+    border-top-left-radius: 16px !important;
+    border-top-right-radius: 16px !important;
+}
+
+.rounded-corners {
+    border-radius: 16px !important;
+}

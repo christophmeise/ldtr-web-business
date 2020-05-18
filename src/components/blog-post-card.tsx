@@ -10,8 +10,8 @@ interface Props {
 export default function BlogPostCard({ post }: Props) {
     return (
         <Grid.Column>
-            <Card fluid centered textAlign="left">
-                <Image wrapped ui={false}>
+            <Card className="rounded-corners" fluid centered textAlign="left">
+                <Image className="rounded-corners-top" wrapped ui={false}>
                     {post.frontmatter.featuredImage != null && (
                         <Img className="center-cropped" fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
                     )}

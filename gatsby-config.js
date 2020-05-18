@@ -6,6 +6,11 @@
  */
 
 module.exports = {
+    siteMetadata: {
+        title: `Love.Dream.Travel.Repeat`,
+        siteUrl: `https://loving-poincare-49748d.netlify.app/`,
+        description: `Spread love, light & consciousness`,
+    },
     plugins: [
         'gatsby-plugin-catch-links',
         'gatsby-plugin-react-helmet',

@@ -8,8 +8,12 @@
 module.exports = {
     siteMetadata: {
         title: `Love.Dream.Travel.Repeat`,
+        author: `Christoph Meise`,
         siteUrl: `https://loving-poincare-49748d.netlify.app/`,
         description: `Spread love, light & consciousness`,
+        social: {
+            instagram: `love.dream.travel.repeat`,
+        },
     },
     plugins: [
         'gatsby-plugin-catch-links',
@@ -48,6 +52,12 @@ module.exports = {
                         },
                     },
                 ],
+            },
+        },
+        {
+            resolve: `gatsby-plugin-typography`,
+            options: {
+                pathToConfigModule: `src/utils/typography`,
             },
         },
     ],

@@ -7,22 +7,26 @@ fields:
   config:
     required: false
   label: Title
-- name: date
-  type: text
-  config:
-    required: false
-  label: Date
 - name: path
   type: text
   config:
     required: false
   label: Path
-- name: featuredImage
-  type: text
+- name: feature
+  type: file
+  config:
+    maxSize: 64
+  label: Featured Image
+  description: Vorschaubild für einen Blogeintrag
+- name: date
+  type: datetime
+  label: Date
+  description: Datum des Blogeintrags
   config:
     required: false
-  label: Features Image
-  description: Das Bild, dass als Vorschau zu einem Post erscheint.
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - src/posts/how-i-learnt-gatsby-in-one-day.md
 - src/posts/linis-botchen.md

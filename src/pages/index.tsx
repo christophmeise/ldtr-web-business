@@ -36,7 +36,7 @@ export default class Index extends React.Component<Props, Props> {
 
         return (
             <Layout title={siteTitle}>
-                <SEO description={description} title="All posts" />
+                <SEO lang="en" description={description} title="All posts" />
                 <Container>
                     <div className="blog-posts">
                         {posts

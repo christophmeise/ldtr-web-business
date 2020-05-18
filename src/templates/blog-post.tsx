@@ -10,7 +10,7 @@ export default function Template({
 
     return (
         <div className="blog-post-container">
-            <SEO description={post.frontmatter.title} title={post.frontmatter.title} />
+            <SEO lang="en" description={post.frontmatter.title} title={post.frontmatter.title} />
             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
                 <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />

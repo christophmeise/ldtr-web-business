@@ -7,11 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: date
-  type: text
-  config:
-    required: false
-  label: Date
 - name: path
   type: text
   config:
@@ -23,6 +18,15 @@ fields:
     maxSize: 64
   label: Featured Image
   description: Vorschaubild für einen Blogeintrag
+- name: date
+  type: datetime
+  label: Date
+  description: Datum des Blogeintrags
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - src/posts/how-i-learnt-gatsby-in-one-day.md
 - src/posts/linis-botchen.md

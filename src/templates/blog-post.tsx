@@ -1,5 +1,4 @@
 import { graphql } from 'gatsby';
-import Img from 'gatsby-image';
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
@@ -8,14 +7,13 @@ import { Helmet } from 'react-helmet';
 export default function Template({
     data, // this prop will be injected by the GraphQL query we'll write in a bit
 }) {
-    const { markdownRemark: post } = data; // data.markdownRemark holds your post data
-    let featuredImgFluid = post.frontmatter.featuredImage.childImageSharp.fluid;
+    const { markdownRemark: post } = data; // data.markdownRemark holds your post dat
+
     return (
         <div className="blog-post-container">
             <Helmet title={`Your Blog Name - ${post.frontmatter.title}`} />
             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
-                <Img fluid={featuredImgFluid} />
                 <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
             </div>
         </div>
@@ -30,13 +28,6 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 path
                 title
-                featuredImage {
-                    childImageSharp {
-                        fluid(maxWidth: 800) {
-                            ...GatsbyImageSharpFluid
-                        }
-                    }
-                }
             }
         }
     }

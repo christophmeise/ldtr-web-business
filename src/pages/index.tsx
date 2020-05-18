@@ -1,7 +1,8 @@
 import { graphql, Link } from 'gatsby';
+import Img from 'gatsby-image';
 import React from 'react';
 import 'semantic-ui-css/semantic.min.css';
-import { Card, CardHeader } from 'semantic-ui-react';
+import { Card, CardContent, CardHeader } from 'semantic-ui-react';
 // import '../css/index.css'; // add some style if you want!
 import Layout from './../components/layout';
 import SEO from './../components/seo';
@@ -43,7 +44,9 @@ export default class Index extends React.Component<Props, Props> {
                                             </h1>
                                         </div>
                                     </CardHeader>
-
+                                    <CardContent>
+                                        <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+                                    </CardContent>
                                     <Card.Content description={post.excerpt}></Card.Content>
                                     <Card.Content extra>
                                         <h2>{post.frontmatter.date}</h2>
@@ -73,6 +76,13 @@ export const pageQuery = graphql`
                         title
                         date(formatString: "MMMM DD, YYYY")
                         path
+                        featuredImage {
+                            childImageSharp {
+                                fluid(maxWidth: 800) {
+                                    ...GatsbyImageSharpFluid
+                                }
+                            }
+                        }
                     }
                 }
             }

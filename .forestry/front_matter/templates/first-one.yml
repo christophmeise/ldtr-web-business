@@ -17,12 +17,12 @@ fields:
   config:
     required: false
   label: Path
-- name: featuredImage
-  type: text
+- name: feature
+  type: file
   config:
-    required: false
-  label: Features Image
-  description: Das Bild, dass als Vorschau zu einem Post erscheint.
+    maxSize: 64
+  label: Featured Image
+  description: Vorschaubild für einen Blogeintrag
 pages:
 - src/posts/how-i-learnt-gatsby-in-one-day.md
 - src/posts/linis-botchen.md

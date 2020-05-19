@@ -10,11 +10,13 @@ interface Props {
 export default function BlogPostCard({ post }: Props) {
     return (
         <Card className="rounded-corners" fluid centered textAlign="left">
-            <Image className="rounded-corners-top" wrapped ui={false}>
-                {post.frontmatter.featuredImage != null && (
-                    <Img className="center-cropped" fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
-                )}
-            </Image>
+            <Link to={post.frontmatter.path}>
+                <Image className="rounded-corners-top" wrapped ui={false}>
+                    {post.frontmatter.featuredImage != null && (
+                        <Img className="center-cropped" fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+                    )}
+                </Image>
+            </Link>
             <CardContent>
                 <CardHeader>
                     <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>

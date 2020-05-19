@@ -42,11 +42,39 @@ export default class Index extends React.Component<Props, Props> {
                     <SEO lang="en" description={description} title="All posts" />
                     <Container>
                         <Grid stackable centered columns={3}>
-                            {posts
-                                .filter((post) => post.node.frontmatter.title.length > 0)
-                                .map(({ node: post }) => {
-                                    return <BlogPostCard post={post}></BlogPostCard>;
-                                })}
+                            <Grid.Column>
+                                {posts
+                                    .filter((post) => post.node.frontmatter.title.length > 0)
+                                    .map(({ node: post }) => {
+                                        return (
+                                            posts.findIndex((entry) => entry.node.id === post.id) % 3 === 0 && (
+                                                <BlogPostCard post={post}></BlogPostCard>
+                                            )
+                                        );
+                                    })}
+                            </Grid.Column>
+                            <Grid.Column>
+                                {posts
+                                    .filter((post) => post.node.frontmatter.title.length > 0)
+                                    .map(({ node: post }) => {
+                                        return (
+                                            posts.findIndex((entry) => entry.node.id === post.id) % 3 === 1 && (
+                                                <BlogPostCard post={post}></BlogPostCard>
+                                            )
+                                        );
+                                    })}
+                            </Grid.Column>
+                            <Grid.Column>
+                                {posts
+                                    .filter((post) => post.node.frontmatter.title.length > 0)
+                                    .map(({ node: post }) => {
+                                        return (
+                                            posts.findIndex((entry) => entry.node.id === post.id) % 3 === 2 && (
+                                                <BlogPostCard post={post}></BlogPostCard>
+                                            )
+                                        );
+                                    })}
+                            </Grid.Column>
                         </Grid>
                     </Container>
                 </Layout>

@@ -22,5 +22,9 @@ fields:
   config:
     maxSize: 64
   label: Picture
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - src/articles/Hypnotherapy.md

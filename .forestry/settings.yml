@@ -12,9 +12,10 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
-- type: document
-  path: src/articles/**/*
+- type: directory
+  path: src/articles
   label: Shop articles
+  create: all
   match: "**/*"
 upload_dir: uploads
 public_path: "../../uploads"

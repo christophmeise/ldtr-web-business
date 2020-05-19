@@ -5,6 +5,7 @@ import Logo from './logo';
 
 interface HeaderState {
     fixed: boolean;
+    location: any;
 }
 
 const getWidth = (): any => {
@@ -13,20 +14,21 @@ const getWidth = (): any => {
     return isSSR ? Responsive.onlyTablet.minWidth : window.innerWidth;
 };
 
-export default class DesktopContainer extends React.Component {
-    state: HeaderState = { fixed: false };
-
-    handleItemClick = (e, { name, content }) => {
-        this.setState({ activeItem: content });
-        navigate(name);
-    };
-
-    hideFixedMenu = () => this.setState({ fixed: false });
-    showFixedMenu = () => this.setState({ fixed: true });
-
+export default class DesktopContainer extends React.Component<any, HeaderState> {
     constructor(props) {
         super(props);
+        this.state = { fixed: false, location: null };
     }
+
+    componentWillMount() {
+        if (window != null) {
+            this.setState({ location: window.location });
+        }
+    }
+
+    handleItemClick = (e, { name, content }) => navigate(name);
+    hideFixedMenu = () => this.setState({ fixed: false });
+    showFixedMenu = () => this.setState({ fixed: true });
 
     render() {
         const { children } = this.props;
@@ -54,21 +56,21 @@ export default class DesktopContainer extends React.Component {
                                     name="/"
                                     content="About me"
                                     link
-                                    active={location != null && location.pathname === '/'}
+                                    active={this.state.location.pathname === '/'}
                                     onClick={this.handleItemClick}
                                 ></Menu.Item>
                                 <Menu.Item
                                     name="/shop"
                                     content="Shop"
                                     link
-                                    active={location != null && location.pathname === '/shop'}
+                                    active={this.state.location.pathname === '/shop'}
                                     onClick={this.handleItemClick}
                                 ></Menu.Item>
                                 <Menu.Item
                                     name="/blog"
                                     content="Blog"
                                     link
-                                    active={location != null && location.pathname === '/blog'}
+                                    active={this.state.location.pathname === '/blog'}
                                     onClick={this.handleItemClick}
                                 ></Menu.Item>
                                 <Menu.Item position="right">

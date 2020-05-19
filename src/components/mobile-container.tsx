@@ -14,21 +14,15 @@ const getWidth = (): any => {
     return isSSR ? Responsive.onlyTablet.minWidth : window.innerWidth;
 };
 
-export default class MobileContainer extends React.Component {
-    state: HeaderState = { activeItem: null, sidebarOpened: false };
-
-    handleItemClick = (e, { name, content }) => {
-        this.setState({ activeItem: content });
-        navigate(name);
-    };
-
-    handleSidebarHide = () => this.setState({ sidebarOpened: false });
-
-    handleToggle = () => this.setState({ sidebarOpened: true });
-
+export default class MobileContainer extends React.Component<any, HeaderState> {
     constructor(props) {
         super(props);
+        this.state = { activeItem: null, sidebarOpened: false };
     }
+
+    handleItemClick = (e, { name, content }) => navigate(name);
+    handleSidebarHide = () => this.setState({ sidebarOpened: false });
+    handleToggle = () => this.setState({ sidebarOpened: true });
 
     render() {
         const { children } = this.props;

@@ -7,7 +7,7 @@ const HeaderOverlay = () => {
     const { file } = useStaticQuery(
         graphql`
             query {
-                file(relativePath: { eq: "meditation.jpg" }) {
+                file(relativePath: { eq: "main-banner.webp" }) {
                     childImageSharp {
                         fluid {
                             ...GatsbyImageSharpFluid

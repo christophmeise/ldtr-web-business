@@ -54,21 +54,21 @@ export default class DesktopContainer extends React.Component {
                                     name="/"
                                     content="About me"
                                     link
-                                    active={location.pathname === '/'}
+                                    active={location != null && location.pathname === '/'}
                                     onClick={this.handleItemClick}
                                 ></Menu.Item>
                                 <Menu.Item
                                     name="/shop"
                                     content="Shop"
                                     link
-                                    active={location.pathname === '/shop'}
+                                    active={location != null && location.pathname === '/shop'}
                                     onClick={this.handleItemClick}
                                 ></Menu.Item>
                                 <Menu.Item
                                     name="/blog"
                                     content="Blog"
                                     link
-                                    active={location.pathname === '/blog'}
+                                    active={location != null && location.pathname === '/blog'}
                                     onClick={this.handleItemClick}
                                 ></Menu.Item>
                                 <Menu.Item position="right">

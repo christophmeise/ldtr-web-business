@@ -33,12 +33,17 @@ export default class DesktopContainer extends React.Component {
         const { fixed } = this.state;
 
         return (
-            <Responsive className="flex-container" getWidth={getWidth} minWidth={Responsive.onlyTablet.minWidth}>
+            <Responsive getWidth={getWidth} minWidth={Responsive.onlyTablet.minWidth}>
                 <Visibility once={false} onBottomPassed={this.showFixedMenu} onBottomPassedReverse={this.hideFixedMenu}>
-                    <Segment inverted textAlign="center" style={{ padding: '0em 0em', marginBottom: '1em' }} vertical>
+                    <Segment
+                        textAlign="center"
+                        className="global-navbar"
+                        style={{ padding: '0em 0em', marginBottom: '1em' }}
+                        vertical
+                    >
                         <Menu
                             fixed={fixed ? 'top' : null}
-                            inverted={!fixed}
+                            //inverted={!fixed}
                             pointing={!fixed}
                             secondary={!fixed}
                             size="large"

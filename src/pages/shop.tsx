@@ -2,6 +2,7 @@ import { graphql } from 'gatsby';
 import React from 'react';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import HeaderOverlay from './../components/header-overlay';
 
 interface Props {
     data: {
@@ -26,13 +27,10 @@ export default class Shop extends React.Component<Props> {
         const description = data.site.siteMetadata.description;
 
         return (
-            <div>
-                <Layout title={siteTitle}>
-                    <SEO title="404: Not Found" />
-                    <h1>Not Found</h1>
-                    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-                </Layout>
-            </div>
+            <Layout title={siteTitle}>
+                <SEO title="Shop" />
+                <HeaderOverlay />
+            </Layout>
         );
     }
 }

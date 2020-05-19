@@ -2,6 +2,7 @@ import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 import React from 'react';
 import { Card, CardContent, CardHeader, CardMeta, Image } from 'semantic-ui-react';
+import './blog-post-card.css';
 
 interface Props {
     post: any;

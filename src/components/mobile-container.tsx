@@ -36,12 +36,7 @@ export default class MobileContainer extends React.Component {
         const { sidebarOpened } = this.state;
 
         return (
-            <Responsive
-                className="flex-container"
-                as={Sidebar.Pushable}
-                getWidth={getWidth}
-                maxWidth={Responsive.onlyMobile.maxWidth}
-            >
+            <Responsive as={Sidebar.Pushable} getWidth={getWidth} maxWidth={Responsive.onlyMobile.maxWidth}>
                 <Sidebar
                     as={Menu}
                     animation="push"

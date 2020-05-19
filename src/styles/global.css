@@ -23,24 +23,19 @@ body > div {
 }
 
 .main-container {
-    padding-top: 2em;
     padding-bottom: 2em;
     display: flex;
     flex: 1 1 auto;
 }
 
-.center-cropped {
-    object-fit: none; /* Do not scale the image */
-    object-position: center; /* Center the image within the element */
-    height: 300px;
+.global-navbar {
+    background: transparent !important;
+    position: absolute !important;
+    top: 0;
     width: 100%;
+    z-index: 100;
 }
 
-.rounded-corners-top img {
-    border-top-left-radius: 16px !important;
-    border-top-right-radius: 16px !important;
-}
-
-.rounded-corners {
-    border-radius: 16px !important;
+.global-header-padding {
+    padding-top: 60px;
 }

@@ -19,7 +19,7 @@ interface Props {
     };
 }
 
-export default class Index extends React.Component<Props, Props> {
+export default class Blog extends React.Component<Props, Props> {
     constructor(props: Props) {
         super(props);
     }
@@ -80,7 +80,7 @@ export default class Index extends React.Component<Props, Props> {
 }
 
 export const pageQuery = graphql`
-    query IndexQuery {
+    query BlogQuery {
         site {
             siteMetadata {
                 title

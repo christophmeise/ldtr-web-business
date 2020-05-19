@@ -43,11 +43,7 @@ export default class DesktopContainer extends React.Component<any, HeaderState> 
         return (
             <Responsive getWidth={getWidth} minWidth={Responsive.onlyTablet.minWidth}>
                 <Visibility once={false} onBottomPassed={this.showFixedMenu} onBottomPassedReverse={this.hideFixedMenu}>
-                    <GlobalNavbar
-                        fixed={fixed}
-                        location={this.state.location.pathname}
-                        handleItemClick={this.handleItemClick}
-                    />
+                    <GlobalNavbar fixed={fixed} location={this.state.location} handleItemClick={this.handleItemClick} />
                 </Visibility>
 
                 {children}

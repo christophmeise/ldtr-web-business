@@ -2,7 +2,7 @@ import { graphql } from 'gatsby';
 import React from 'react';
 import 'semantic-ui-css/semantic.min.css';
 import { Container, Grid } from 'semantic-ui-react';
-import BlogPostCard from './../components/blog-post-card';
+import BlogPostCard from '../components/blog-post-card/blog-post-card';
 // import '../css/index.css'; // add some style if you want!
 import Layout from './../components/layout';
 import SEO from './../components/seo';

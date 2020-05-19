@@ -1,7 +1,7 @@
 import { navigate } from 'gatsby';
 import React from 'react';
-import { Button, Container, Menu, Responsive, Segment, Visibility } from 'semantic-ui-react';
-import Logo from './logo';
+import { Responsive, Visibility } from 'semantic-ui-react';
+import GlobalNavbar from './global-navbar';
 
 interface HeaderState {
     fixed: boolean;
@@ -21,7 +21,8 @@ export default class DesktopContainer extends React.Component<any, HeaderState> 
     }
 
     componentWillMount() {
-        if (window != null) {
+        const isSSR = typeof window === 'undefined';
+        if (!isSSR) {
             this.setState({ location: window.location });
         }
     }
@@ -37,53 +38,11 @@ export default class DesktopContainer extends React.Component<any, HeaderState> 
         return (
             <Responsive getWidth={getWidth} minWidth={Responsive.onlyTablet.minWidth}>
                 <Visibility once={false} onBottomPassed={this.showFixedMenu} onBottomPassedReverse={this.hideFixedMenu}>
-                    <Segment
-                        textAlign="center"
-                        className="global-navbar"
-                        style={{ padding: '0em 0em', marginBottom: '1em' }}
-                        vertical
-                    >
-                        <Menu
-                            fixed={fixed ? 'top' : null}
-                            //inverted={!fixed}
-                            pointing={!fixed}
-                            secondary={!fixed}
-                            size="large"
-                        >
-                            <Container>
-                                <Logo />
-                                <Menu.Item
-                                    name="/"
-                                    content="About me"
-                                    link
-                                    active={this.state.location.pathname === '/'}
-                                    onClick={this.handleItemClick}
-                                ></Menu.Item>
-                                <Menu.Item
-                                    name="/shop"
-                                    content="Shop"
-                                    link
-                                    active={this.state.location.pathname === '/shop'}
-                                    onClick={this.handleItemClick}
-                                ></Menu.Item>
-                                <Menu.Item
-                                    name="/blog"
-                                    content="Blog"
-                                    link
-                                    active={this.state.location.pathname === '/blog'}
-                                    onClick={this.handleItemClick}
-                                ></Menu.Item>
-                                <Menu.Item position="right">
-                                    <Button as="a" inverted={!fixed}>
-                                        Log in
-                                    </Button>
-                                    <Button as="a" inverted={!fixed} primary={fixed} style={{ marginLeft: '0.5em' }}>
-                                        Sign Up
-                                    </Button>
-                                </Menu.Item>
-                            </Container>
-                        </Menu>
-                    </Segment>
+                    <GlobalNavbar
+                        fixed={fixed}
+                        location={this.state.location.pathname}
+                        handleItemClick={this.handleItemClick}
+                    />
                 </Visibility>
 
                 {children}

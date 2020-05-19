@@ -3,13 +3,6 @@ import Img from 'gatsby-image';
 import React from 'react';
 import { Menu } from 'semantic-ui-react';
 
-interface Props {
-    description?: string;
-    lang?: string;
-    meta?: [];
-    title: string;
-}
-
 const Logo = () => {
     const { file } = useStaticQuery(
         graphql`

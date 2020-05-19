@@ -1,8 +1,8 @@
 import { graphql } from 'gatsby';
 import React from 'react';
+import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import HeaderOverlay from './../components/header-overlay';
 
 interface Props {
     data: {

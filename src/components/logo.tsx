@@ -1,7 +1,6 @@
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 import React from 'react';
-import { Menu } from 'semantic-ui-react';
 
 const Logo = () => {
     const { file } = useStaticQuery(
@@ -9,7 +8,7 @@ const Logo = () => {
             query {
                 file(relativePath: { eq: "Logo.png" }) {
                     childImageSharp {
-                        fixed(width: 32, height: 32) {
+                        fixed(height: 32) {
                             ...GatsbyImageSharpFixed
                         }
                     }
@@ -18,13 +17,7 @@ const Logo = () => {
         `,
     );
 
-    return (
-        file != null && (
-            <Menu.Item>
-                <Img fixed={file.childImageSharp.fixed} />
-            </Menu.Item>
-        )
-    );
+    return file != null && <Img fixed={file.childImageSharp.fixed} />;
 };
 
 export default Logo;

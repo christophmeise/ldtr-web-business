@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Container, Menu, Segment } from 'semantic-ui-react';
+import { Container, Menu, Segment } from 'semantic-ui-react';
 import Logo from './logo';
 
 export default function GlobalNavbar({ fixed, location, handleItemClick }) {
@@ -10,18 +10,20 @@ export default function GlobalNavbar({ fixed, location, handleItemClick }) {
             style={{ padding: '0em 0em', marginBottom: '1em' }}
             vertical
         >
-            <Menu
-                fixed={fixed ? 'top' : null}
-                //inverted={!fixed}
-                pointing={!fixed}
-                secondary={!fixed}
-                size="large"
-            >
+            <Menu fixed={'top'} inverted={false} pointing={false} secondary={true} size="large" borderless>
                 <Container>
-                    <Logo />
                     <Menu.Item
                         name="/"
-                        content="About me"
+                        content="About"
+                        link
+                        active={location.pathname === '/'}
+                        onClick={handleItemClick}
+                    >
+                        <Logo />
+                    </Menu.Item>
+                    <Menu.Item
+                        name="/"
+                        content="About"
                         link
                         active={location.pathname === '/'}
                         onClick={handleItemClick}
@@ -40,14 +42,14 @@ export default function GlobalNavbar({ fixed, location, handleItemClick }) {
                         active={location.pathname === '/blog'}
                         onClick={handleItemClick}
                     ></Menu.Item>
-                    <Menu.Item position="right">
+                    {/*   <Menu.Item position="right">
                         <Button as="a" inverted={!fixed}>
                             Log in
                         </Button>
                         <Button as="a" inverted={!fixed} primary={fixed} style={{ marginLeft: '0.5em' }}>
                             Sign Up
                         </Button>
-                    </Menu.Item>
+                    </Menu.Item> */}
                 </Container>
             </Menu>
         </Segment>

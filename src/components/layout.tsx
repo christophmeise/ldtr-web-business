@@ -1,31 +1,12 @@
-import { Link } from 'gatsby';
 import React from 'react';
+import Header from '../components/header';
 
 interface Props {
     title: string;
     children?: any;
 }
 
-const Layout = ({ title, children }: Props) => {
-    let header = (
-        <h1
-            style={{
-                marginTop: 0,
-            }}
-        >
-            <Link
-                style={{
-                    boxShadow: `none`,
-                    textDecoration: `none`,
-                    color: `inherit`,
-                }}
-                to={`/`}
-            >
-                {title}
-            </Link>
-        </h1>
-    );
-
+const Layout = ({ children }: Props) => {
     return (
         <div
             style={{
@@ -33,7 +14,7 @@ const Layout = ({ title, children }: Props) => {
                 marginRight: `auto`,
             }}
         >
-            <header>{header}</header>
+            <Header></Header>
             <main>{children}</main>
             <footer>
                 © {new Date().getFullYear()}, Built with

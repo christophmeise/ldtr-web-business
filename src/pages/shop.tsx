@@ -1,6 +1,5 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import Header from '../components/header';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 
@@ -28,7 +27,6 @@ export default class Shop extends React.Component<Props> {
 
         return (
             <div>
-                <Header></Header>
                 <Layout title={siteTitle}>
                     <SEO title="404: Not Found" />
                     <h1>Not Found</h1>

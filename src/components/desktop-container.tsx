@@ -17,7 +17,12 @@ const getWidth = (): any => {
 export default class DesktopContainer extends React.Component<any, HeaderState> {
     constructor(props) {
         super(props);
-        this.state = { fixed: false, location: null };
+        this.state = {
+            fixed: false,
+            location: {
+                pathname: null,
+            },
+        };
     }
 
     componentWillMount() {

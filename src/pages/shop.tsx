@@ -4,6 +4,7 @@ import { Container, Grid } from 'semantic-ui-react';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import ShopArticleCard from './../components/shop-article-card/shop-article-card';
 
 interface Props {
     data: {
@@ -51,9 +52,9 @@ export default class Shop extends React.Component<Props> {
                     <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
                         <Grid.Column>
                             {products
-                                .filter((product) => product.node.frontmatter.title.length > 0)
+                                .filter((product) => product.node.frontmatter.product_name.length > 0)
                                 .map(({ node: product }) => {
-                                    return <div>product.price</div>;
+                                    return <ShopArticleCard article={product} />;
                                 })}
                         </Grid.Column>
                     </Grid>
@@ -85,7 +86,10 @@ export const pageQuery = graphql`
                 description
             }
         }
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+        allMarkdownRemark(
+            filter: { fileAbsolutePath: { regex: "/(articles)/" } }
+            sort: { fields: [frontmatter___date], order: DESC }
+        ) {
             edges {
                 node {
                     id
@@ -93,8 +97,8 @@ export const pageQuery = graphql`
                     frontmatter {
                         product_name
                         price
-                        tags
-                        featuredImage {
+                        path
+                        picture {
                             childImageSharp {
                                 fluid(maxWidth: 800) {
                                     ...GatsbyImageSharpFluid

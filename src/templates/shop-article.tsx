@@ -27,7 +27,6 @@ export const pageQuery = graphql`
             frontmatter {
                 product_name
                 price
-                tags
             }
         }
     }

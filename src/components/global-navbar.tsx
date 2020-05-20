@@ -12,7 +12,7 @@ export default function GlobalNavbar({ location, handleItemClick }) {
         >
             <Menu fixed={'top'} inverted={false} pointing={false} secondary={true} size="large" borderless>
                 <Container>
-                    <Menu.Item name="/" content="About" link onClick={handleItemClick}>
+                    <Menu.Item name="/" link onClick={handleItemClick}>
                         <Logo />
                     </Menu.Item>
                     <Menu.Item

@@ -3,19 +3,68 @@
     height: 700px;
     width: 100% !important;
     background-color: #f5f4f0;
-}
-
-.header-overlay-center-cropped {
-    object-fit: none; /* Do not scale the image */
-    object-position: center; /* Center the image within the element */
-    width: 100%;
-    height: 700px;
-    max-width: 1200px;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
 .header-overlay-container {
+    height: 100%;
     display: flex !important;
-    align-items: center !important;
+}
+
+.header-overlay-center-cropped {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: top center !important;
+    background-size: cover;
+}
+
+@media (min-width: 1600px) {
+    .header-overlay-center-cropped,
+    .header-overlay-center-cropped::before,
+    .header-overlay-center-cropped::after {
+        background-size: contain !important;
+    }
+}
+
+.header-overlay-container-desktop {
+    display: flex !important;
+    align-self: center !important;
+    text-align: left;
+}
+
+.header-overlay-container-mobile {
+    display: flex !important;
+    align-self: flex-end !important;
+    text-align: center;
+    padding-bottom: 3em;
+}
+
+.header-overlay-headline {
+    font-size: 4.5rem;
+    line-height: 5rem;
+}
+.header-overlay-subheadline {
+    margin-top: 0.5rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+}
+
+@media only screen and (max-width: 767px) {
+    .header-overlay-headline {
+        font-size: 3.5rem;
+        line-height: 4rem;
+    }
+
+    .header-overlay-subheadline {
+        margin-top: 0.5rem;
+        font-weight: 400;
+        font-size: 1.4rem;
+        line-height: 1.75rem;
+    }
 }

@@ -2,19 +2,21 @@ import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
 import { Container, Grid, GridColumn, Responsive } from 'semantic-ui-react';
+import getWidth from './../../utils/device-width';
 import './header-overlay.css';
 
-const getWidth = (): any => {
-    const isSSR = typeof window === 'undefined';
-
-    return isSSR ? Responsive.onlyTablet.minWidth : window.innerWidth;
-};
-
 const HeaderOverlay = () => {
-    const { file } = useStaticQuery(
+    const data = useStaticQuery(
         graphql`
             query {
-                file(relativePath: { eq: "main-banner.jpg" }) {
+                desktopImage: file(relativePath: { eq: "main-banner.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 1600, quality: 100) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
+                mobileImage: file(relativePath: { eq: "main-banner-mobile.jpg" }) {
                     childImageSharp {
                         fluid(maxWidth: 1200, quality: 100) {
                             ...GatsbyImageSharpFluid
@@ -24,46 +26,67 @@ const HeaderOverlay = () => {
             }
         `,
     );
+    let sources;
+    if (data != null) {
+        sources = [
+            data.mobileImage.childImageSharp.fluid,
+            {
+                ...data.desktopImage.childImageSharp.fluid,
+                media: `(min-width: 768px)`,
+            },
+        ];
+    }
 
     return (
-        file != null && (
+        data != null && (
             <div className="header-overlay">
-                <Container>
-                    <BackgroundImage
-                        Tag="section"
-                        className="header-overlay-image header-overlay-center-cropped"
-                        fluid={file.childImageSharp.fluid}
-                        backgroundColor={`#040e18`}
-                    >
-                        <Grid>
-                            <Responsive as={'div'} getWidth={getWidth} maxWidth={Responsive.onlyMobile.maxWidth}>
+                <BackgroundImage
+                    Tag="section"
+                    className="header-overlay-image header-overlay-center-cropped"
+                    fluid={sources}
+                >
+                    <Container className="header-overlay-container">
+                        <Responsive
+                            className="header-overlay-container-desktop"
+                            as={'div'}
+                            getWidth={getWidth}
+                            minWidth={Responsive.onlyMobile.maxWidth}
+                        >
+                            <Grid>
                                 <GridColumn width={8}>
-                                    <div className="header-overlay-content">
-                                        <h1>Transform Your Life</h1>
-                                        <h2>
-                                            Learn from the world’s best teachers, on the world’s leading personal growth
-                                            platform. Join our community of 12 million students from 80 countries.
-                                        </h2>
-                                    </div>
+                                    <OverlayContent></OverlayContent>
                                 </GridColumn>
-                            </Responsive>
-                            <Responsive as={'div'} getWidth={getWidth} minWidth={Responsive.onlyMobile.maxWidth}>
-                                <GridColumn width={8}>
-                                    <div className="header-overlay-content">
-                                        <h1>Transform Your Life</h1>
-                                        <h2>
-                                            Learn from the world’s best teachers, on the world’s leading personal growth
-                                            platform. Join our community of 12 million students from 80 countries.
-                                        </h2>
-                                    </div>
+                            </Grid>
+                        </Responsive>
+                        <Responsive
+                            className="header-overlay-container-mobile"
+                            as={'div'}
+                            getWidth={getWidth}
+                            maxWidth={Responsive.onlyMobile.maxWidth}
+                        >
+                            <Grid>
+                                <GridColumn>
+                                    <OverlayContent></OverlayContent>
                                 </GridColumn>
-                            </Responsive>
-                        </Grid>
-                    </BackgroundImage>
-                </Container>
+                            </Grid>
+                        </Responsive>
+                    </Container>
+                </BackgroundImage>
             </div>
         )
     );
 };
 
 export default HeaderOverlay;
+
+const OverlayContent = () => {
+    return (
+        <div>
+            <h1 className="header-overlay-headline">Transform Your Life</h1>
+            <h2 className="header-overlay-subheadline">
+                Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
+                community of 12 million students from 80 countries.
+            </h2>
+        </div>
+    );
+};

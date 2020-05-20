@@ -1,13 +1,8 @@
 import React from 'react';
 import { Responsive, Sidebar } from 'semantic-ui-react';
+import getWidth from './../../utils/device-width';
 import DesktopContainer from './desktop-container';
 import MobileContainer from './mobile-container';
-
-const getWidth = (): any => {
-    const isSSR = typeof window === 'undefined';
-
-    return isSSR ? Responsive.onlyTablet.minWidth : window.innerWidth;
-};
 
 interface ResponsiveContainerState {
     location: any;

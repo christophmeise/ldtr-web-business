@@ -39,3 +39,11 @@ body > div {
 .global-header-padding {
     padding-top: 60px;
 }
+
+@media only screen and (min-width: 1200px) {
+    .ui.container {
+        width: 1200px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+}

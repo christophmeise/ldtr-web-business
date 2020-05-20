@@ -12,6 +12,8 @@ interface Props {
                 description: string;
             };
         };
+        mobileImage: any;
+        desktopImage: any;
     };
 }
 
@@ -26,10 +28,18 @@ export default class Shop extends React.Component<Props> {
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
 
+        const sources = [
+            data.mobileImage.childImageSharp.fluid,
+            {
+                ...data.desktopImage.childImageSharp.fluid,
+                media: `(min-width: 768px)`,
+            },
+        ];
+
         return (
             <Layout title={siteTitle}>
                 <SEO title="Shop" />
-                <HeaderOverlay />
+                <HeaderOverlay sources={sources} color="#000000" inverted={true} />
             </Layout>
         );
     }
@@ -41,6 +51,20 @@ export const pageQuery = graphql`
             siteMetadata {
                 title
                 description
+            }
+        }
+        desktopImage: file(relativePath: { eq: "shop-banner.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        mobileImage: file(relativePath: { eq: "shop-banner.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1200, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                }
             }
         }
     }

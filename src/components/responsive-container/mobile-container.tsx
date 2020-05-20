@@ -28,7 +28,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
             <Sidebar.Pushable as={Segment}>
                 <Sidebar
                     as={Menu}
-                    animation="push"
+                    animation="slide along"
                     inverted
                     onHide={this.handleSidebarHide}
                     vertical

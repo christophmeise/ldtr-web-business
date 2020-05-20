@@ -2,7 +2,6 @@
     position: relative;
     height: 700px;
     width: 100% !important;
-    background-color: #f5f4f0;
     display: flex;
     justify-content: center;
 }
@@ -67,4 +66,12 @@
         font-size: 1.4rem;
         line-height: 1.75rem;
     }
+}
+
+.header-overlay-headline-inverted {
+    color: #fff;
+}
+
+.header-overlay-subheadline-inverted {
+    color: #fff;
 }

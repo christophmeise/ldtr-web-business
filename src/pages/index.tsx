@@ -12,6 +12,8 @@ interface Props {
                 description: string;
             };
         };
+        mobileImage: any;
+        desktopImage: any;
     };
 }
 
@@ -24,11 +26,17 @@ export default class Index extends React.Component<Props> {
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-
+        const sources = [
+            data.mobileImage.childImageSharp.fluid,
+            {
+                ...data.desktopImage.childImageSharp.fluid,
+                media: `(min-width: 768px)`,
+            },
+        ];
         return (
             <Layout title={siteTitle}>
                 <SEO title="Index" />
-                <HeaderOverlay />
+                <HeaderOverlay sources={sources} color="#f5f4f0" inverted={false} />
             </Layout>
         );
     }
@@ -40,6 +48,20 @@ export const pageQuery = graphql`
             siteMetadata {
                 title
                 description
+            }
+        }
+        desktopImage: file(relativePath: { eq: "main-banner.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+        mobileImage: file(relativePath: { eq: "main-banner-mobile.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1200, quality: 100) {
+                    ...GatsbyImageSharpFluid
+                }
             }
         }
     }

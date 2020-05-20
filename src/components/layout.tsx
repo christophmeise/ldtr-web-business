@@ -1,6 +1,6 @@
 import React from 'react';
 import PageFooter from './page-footer';
-import ResponsiveContainer from './responsive-container';
+import ResponsiveContainer from './responsive-container/responsive-container';
 
 interface Props {
     title: string;

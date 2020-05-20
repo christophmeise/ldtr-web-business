@@ -9,7 +9,7 @@ const Logo = () => {
                 file(relativePath: { eq: "Logo.png" }) {
                     childImageSharp {
                         fixed(height: 32) {
-                            ...GatsbyImageSharpFixed
+                            ...GatsbyImageSharpFixed_noBase64
                         }
                     }
                 }
@@ -17,7 +17,7 @@ const Logo = () => {
         `,
     );
 
-    return file != null && <Img fixed={file.childImageSharp.fixed} />;
+    return file != null && <Img loading="eager" fixed={file.childImageSharp.fixed} />;
 };
 
 export default Logo;

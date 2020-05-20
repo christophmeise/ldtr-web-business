@@ -4,6 +4,7 @@ export async function createPages({ actions, graphql, reporter }) {
     const { createPage } = actions;
 
     const blogPostTemplate = resolve(`src/templates/blog-post.tsx`);
+    const shopArticleTemplate = resolve(`src/templates/shop-article.tsx`);
 
     const result = await graphql(`
         {
@@ -24,10 +25,18 @@ export async function createPages({ actions, graphql, reporter }) {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        createPage({
-            path: node.frontmatter.path,
-            component: blogPostTemplate,
-            context: {}, // additional data can be passed via context
-        });
+        if (node.title != null) {
+            createPage({
+                path: node.frontmatter.path,
+                component: blogPostTemplate,
+                context: {}, // additional data can be passed via context
+            });
+        } else {
+            createPage({
+                path: node.frontmatter.path,
+                component: shopArticleTemplate,
+                context: {}, // additional data can be passed via context
+            });
+        }
     });
 }

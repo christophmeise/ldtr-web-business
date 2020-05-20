@@ -4,7 +4,7 @@ import { Container, Grid, GridColumn, Responsive } from 'semantic-ui-react';
 import getWidth from './../../utils/device-width';
 import './header-overlay.css';
 
-const HeaderOverlay = ({ sources, color, inverted }) => {
+const HeaderOverlay = ({ sources, color, inverted, content }) => {
     return (
         <div
             className="header-overlay"
@@ -25,9 +25,7 @@ const HeaderOverlay = ({ sources, color, inverted }) => {
                         minWidth={Responsive.onlyMobile.maxWidth}
                     >
                         <Grid>
-                            <GridColumn width={8}>
-                                <OverlayContent inverted={inverted}></OverlayContent>
-                            </GridColumn>
+                            <GridColumn width={8}>{content}</GridColumn>
                         </Grid>
                     </Responsive>
                     <Responsive
@@ -37,9 +35,7 @@ const HeaderOverlay = ({ sources, color, inverted }) => {
                         maxWidth={Responsive.onlyMobile.maxWidth}
                     >
                         <Grid>
-                            <GridColumn>
-                                <OverlayContent inverted={inverted}></OverlayContent>
-                            </GridColumn>
+                            <GridColumn>{content}</GridColumn>
                         </Grid>
                     </Responsive>
                 </Container>
@@ -49,17 +45,3 @@ const HeaderOverlay = ({ sources, color, inverted }) => {
 };
 
 export default HeaderOverlay;
-
-const OverlayContent = ({ inverted }) => {
-    return (
-        <div>
-            <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
-                Transform Your Life
-            </h1>
-            <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
-                Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
-                community of 12 million students from 80 countries.
-            </h2>
-        </div>
-    );
-};

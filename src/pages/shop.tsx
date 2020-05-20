@@ -1,6 +1,6 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import { Container, Grid } from 'semantic-ui-react';
+import { Container, Grid, Item } from 'semantic-ui-react';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -49,13 +49,15 @@ export default class Shop extends React.Component<Props> {
                     content={<OverlayContent inverted={true} />}
                 />
                 <Container className="global-header-padding">
-                    <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
-                        <Grid.Column>
-                            {products
-                                .filter((product) => product.node.frontmatter.product_name.length > 0)
-                                .map(({ node: product }) => {
-                                    return <ShopArticleCard article={product} />;
-                                })}
+                    <Grid style={{ paddingTop: '2em' }} centered columns={1}>
+                        <Grid.Column width={10}>
+                            <Item.Group>
+                                {products
+                                    .filter((product) => product.node.frontmatter.product_name.length > 0)
+                                    .map(({ node: product }) => {
+                                        return <ShopArticleCard article={product} />;
+                                    })}
+                            </Item.Group>
                         </Grid.Column>
                     </Grid>
                 </Container>
@@ -98,6 +100,7 @@ export const pageQuery = graphql`
                         product_name
                         price
                         path
+                        tags
                         picture {
                             childImageSharp {
                                 fluid(maxWidth: 800) {

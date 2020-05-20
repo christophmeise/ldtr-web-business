@@ -26,5 +26,10 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
 pages:
 - src/articles/Hypnotherapy.md

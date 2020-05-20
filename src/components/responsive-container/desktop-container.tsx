@@ -1,6 +1,5 @@
 import { navigate } from 'gatsby';
 import React from 'react';
-import { Visibility } from 'semantic-ui-react';
 import GlobalNavbar from './../global-navbar';
 
 interface DesktopContainerProps {
@@ -21,9 +20,7 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
 
         return (
             <React.Fragment>
-                <Visibility once={false} onBottomPassed={this.showFixedMenu} onBottomPassedReverse={this.hideFixedMenu}>
-                    <GlobalNavbar location={this.props.location} handleItemClick={this.handleItemClick} />
-                </Visibility>
+                <GlobalNavbar location={this.props.location} handleItemClick={this.handleItemClick} />
 
                 {children}
             </React.Fragment>

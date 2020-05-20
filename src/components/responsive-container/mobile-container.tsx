@@ -25,7 +25,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
         const { sidebarOpened } = this.state;
 
         return (
-            <React.Fragment>
+            <Sidebar.Pushable as={Segment}>
                 <Sidebar
                     as={Menu}
                     animation="push"
@@ -33,6 +33,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                     onHide={this.handleSidebarHide}
                     vertical
                     visible={sidebarOpened}
+                    width="thin"
                 >
                     {/* <Logo /> */}
                     <Menu.Item
@@ -65,21 +66,13 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                                 <Menu.Item onClick={this.handleToggle}>
                                     <Icon name="sidebar" />
                                 </Menu.Item>
-                                {/*                                 <Menu.Item position="right">
-                                    <Button as="a" inverted>
-                                        Log in
-                                    </Button>
-                                    <Button as="a" inverted style={{ marginLeft: '0.5em' }}>
-                                        Sign Up
-                                    </Button>
-                                </Menu.Item> */}
                             </Menu>
                         </Container>
                     </Segment>
 
                     {children}
                 </Sidebar.Pusher>
-            </React.Fragment>
+            </Sidebar.Pushable>
         );
     }
 }

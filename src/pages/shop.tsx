@@ -37,7 +37,7 @@ export default class Shop extends React.Component<Props> {
         ];
 
         return (
-            <Layout title={siteTitle}>
+            <Layout title={siteTitle} invertedHeader={true}>
                 <SEO title="Shop" />
                 <HeaderOverlay sources={sources} color="#000000" inverted={true} />
             </Layout>

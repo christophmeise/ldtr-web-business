@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Menu, Segment } from 'semantic-ui-react';
 import Logo from './logo';
 
-export default function GlobalNavbar({ location, handleItemClick }) {
+export default function GlobalNavbar({ location, handleItemClick, inverted }) {
     return (
         <Segment
             textAlign="center"
@@ -10,10 +10,10 @@ export default function GlobalNavbar({ location, handleItemClick }) {
             style={{ padding: '0em 0em', marginBottom: '1em' }}
             vertical
         >
-            <Menu fixed={'top'} inverted={false} pointing={false} secondary={true} size="large" borderless>
+            <Menu fixed={'top'} inverted={inverted} pointing={false} secondary={true} size="large" borderless>
                 <Container>
                     <Menu.Item name="/" link onClick={handleItemClick}>
-                        <Logo />
+                        <Logo inverted={inverted} />
                     </Menu.Item>
                     <Menu.Item
                         name="/"

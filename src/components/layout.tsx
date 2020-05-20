@@ -4,13 +4,14 @@ import ResponsiveContainer from './responsive-container/responsive-container';
 
 interface Props {
     title: string;
+    invertedHeader?: boolean;
     children?: any;
     headerOverlay?: any;
 }
 
-const Layout = ({ children }: Props) => {
+const Layout = ({ children, invertedHeader }: Props) => {
     return (
-        <ResponsiveContainer>
+        <ResponsiveContainer invertedHeader={invertedHeader ? true : false}>
             <div className="flex-container">
                 <main className="main-container">{children}</main>
                 <PageFooter />

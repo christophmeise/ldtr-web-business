@@ -8,7 +8,11 @@ interface ResponsiveContainerState {
     location: any;
 }
 
-class ResponsiveContainer extends React.Component<any, ResponsiveContainerState> {
+interface ResponsiveContainerProps {
+    invertedHeader: boolean;
+}
+
+class ResponsiveContainer extends React.Component<ResponsiveContainerProps, ResponsiveContainerState> {
     constructor(props) {
         super(props);
         this.state = {
@@ -27,11 +31,14 @@ class ResponsiveContainer extends React.Component<any, ResponsiveContainerState>
 
     render() {
         const { children } = this.props;
+        const invertedHeader = this.props.invertedHeader;
 
         return (
             <React.Fragment>
                 <Responsive getWidth={getWidth} minWidth={Responsive.onlyTablet.minWidth}>
-                    <DesktopContainer location={this.state.location}>{children}</DesktopContainer>
+                    <DesktopContainer location={this.state.location} invertedHeader={invertedHeader}>
+                        {children}
+                    </DesktopContainer>
                 </Responsive>
                 <Responsive as={Sidebar.Pushable} getWidth={getWidth} maxWidth={Responsive.onlyMobile.maxWidth}>
                     <MobileContainer location={this.state.location}>{children}</MobileContainer>

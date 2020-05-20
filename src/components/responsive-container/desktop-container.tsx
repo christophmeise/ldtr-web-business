@@ -4,6 +4,7 @@ import GlobalNavbar from './../global-navbar';
 
 interface DesktopContainerProps {
     location: any;
+    invertedHeader: boolean;
 }
 
 export default class DesktopContainer extends React.Component<DesktopContainerProps, any> {
@@ -17,10 +18,15 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
 
     render() {
         const { children } = this.props;
+        const inverted = this.props.invertedHeader;
 
         return (
             <React.Fragment>
-                <GlobalNavbar location={this.props.location} handleItemClick={this.handleItemClick} />
+                <GlobalNavbar
+                    location={this.props.location}
+                    handleItemClick={this.handleItemClick}
+                    inverted={inverted}
+                />
 
                 {children}
             </React.Fragment>

@@ -41,12 +41,13 @@ export default class Blog extends React.Component<Props, BlogState> {
     }
 
     getTags(posts: any) {
+        const flatten = (ary) => ary.reduce((a, b) => a.concat(Array.isArray(b) ? flatten(b) : b), []);
         const allTags = posts
             .filter((post) => post.node.frontmatter.tags != null && post.node.frontmatter.tags.length > 0)
             .map(({ node: post }) => {
                 return post.frontmatter.tags;
             });
-        const allTagsFlat = allTags.flat(1);
+        const allTagsFlat = flatten(allTags);
         const tags = ['All', ...new Set(allTagsFlat)];
         return tags;
     }

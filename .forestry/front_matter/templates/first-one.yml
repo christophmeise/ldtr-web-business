@@ -40,12 +40,7 @@ fields:
     max: 
 pages:
 - src/posts/another-one.md
-- src/posts/another-one.md
-- src/posts/cute-otter.md
 - src/posts/cute-otter.md
 - src/posts/how-i-learnt-gatsby-in-one-day.md
-- src/posts/how-i-learnt-gatsby-in-one-day.md
 - src/posts/linis-botchen.md
-- src/posts/linis-botchen.md
-- src/posts/tscheppard.md
 - src/posts/tscheppard.md

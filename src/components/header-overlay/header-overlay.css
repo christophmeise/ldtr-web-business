@@ -22,12 +22,11 @@
     background-size: cover;
 }
 
-@media (min-width: 1600px) {
-    .header-overlay-center-cropped,
-    .header-overlay-center-cropped::before,
-    .header-overlay-center-cropped::after {
-        background-size: contain !important;
-    }
+.header-overlay-image-wrapper {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    max-width: 1600px;
 }
 
 .header-overlay-container-desktop {

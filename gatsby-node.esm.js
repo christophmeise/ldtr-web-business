@@ -13,6 +13,7 @@ export async function createPages({ actions, graphql, reporter }) {
                     node {
                         frontmatter {
                             path
+                            title
                         }
                     }
                 }
@@ -25,7 +26,7 @@ export async function createPages({ actions, graphql, reporter }) {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        if (node.title != null) {
+        if (node.frontmatter.title != null) {
             createPage({
                 path: node.frontmatter.path,
                 component: blogPostTemplate,

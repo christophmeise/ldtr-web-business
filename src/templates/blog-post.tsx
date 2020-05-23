@@ -1,24 +1,41 @@
 import { graphql, Link } from 'gatsby';
 import React from 'react';
-// import '../css/blog-post.css'; // make it pretty!
+import HeaderOverlay from './../components/header-overlay/header-overlay';
+import Layout from './../components/layout';
 import SEO from './../components/seo';
 
-export default function Template({
-    data, // this prop will be injected by the GraphQL query we'll write in a bit
-}) {
-    const { markdownRemark: post } = data; // data.markdownRemark holds your post dat
+export default function BlogPostTemplate({ data }) {
+    const { markdownRemark: post } = data;
+
+    const sources = [post.frontmatter.featuredImage.childImageSharp.fluid];
 
     return (
-        <div className="blog-post-container">
+        <Layout title={post.frontmatter.title} invertedHeader={true}>
             <SEO lang="en" description={post.frontmatter.title} title={post.frontmatter.title} />
+            <HeaderOverlay
+                sources={sources}
+                color="#000000"
+                inverted={true}
+                content={<OverlayContent title={post.frontmatter.title} inverted={true} />}
+            />
             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
                 <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
             </div>
-            <Link to="/">Back to the Future</Link>
-        </div>
+            <Link to="/">Back to the Future!</Link>
+        </Layout>
     );
 }
+
+const OverlayContent = ({ title, inverted }) => {
+    return (
+        <div>
+            <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
+                {title}
+            </h1>
+        </div>
+    );
+};
 
 export const pageQuery = graphql`
     query BlogPostByPath($path: String!) {
@@ -28,6 +45,14 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 path
                 title
+                tags
+                featuredImage {
+                    childImageSharp {
+                        fluid(maxWidth: 800) {
+                            ...GatsbyImageSharpFluid
+                        }
+                    }
+                }
             }
         }
     }

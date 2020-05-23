@@ -34,6 +34,7 @@
     display: flex;
     align-self: center;
     text-align: left;
+    width: 100%;
 }
 
 .header-overlay-container-mobile {
@@ -41,6 +42,7 @@
     align-self: flex-end;
     text-align: center;
     padding-bottom: 3em;
+    width: 100%;
 }
 
 .header-overlay-headline {

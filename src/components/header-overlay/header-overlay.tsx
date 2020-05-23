@@ -17,16 +17,12 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
                 fluid={sources}
             >
                 <Container className="header-overlay-container">
-                    <div className="header-overlay-container-desktop responsive-desktop-container">
-                        <Grid>
-                            <GridColumn width={8}>{content}</GridColumn>
-                        </Grid>
-                    </div>
-                    <div className="header-overlay-container-mobile responsive-mobile-container">
-                        <Grid>
-                            <GridColumn>{content}</GridColumn>
-                        </Grid>
-                    </div>
+                    <Grid className="header-overlay-container-desktop responsive-desktop-container">
+                        <GridColumn width={8}>{content}</GridColumn>
+                    </Grid>
+                    <Grid className="header-overlay-container-mobile responsive-mobile-container">
+                        <GridColumn>{content}</GridColumn>
+                    </Grid>
                 </Container>
             </BackgroundImage>
         </div>

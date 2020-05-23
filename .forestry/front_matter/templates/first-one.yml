@@ -1,5 +1,5 @@
 ---
-label: First one
+label: Blog Entries
 hide_body: false
 fields:
 - name: title
@@ -27,6 +27,10 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - src/posts/another-one.md
 - src/posts/cute-otter.md

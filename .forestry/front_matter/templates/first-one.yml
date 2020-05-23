@@ -31,6 +31,13 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - src/posts/another-one.md
 - src/posts/cute-otter.md

@@ -3,6 +3,7 @@ import React from 'react';
 import 'semantic-ui-css/semantic.min.css';
 import { Container, Grid } from 'semantic-ui-react';
 import BlogPostCard from '../components/blog-post-card/blog-post-card';
+import PlainHeader from '../components/plain-overlay/plain-header';
 // import '../css/index.css'; // add some style if you want!
 import Layout from './../components/layout';
 import SEO from './../components/seo';
@@ -38,6 +39,7 @@ export default class Blog extends React.Component<Props, Props> {
             <Layout title={siteTitle}>
                 <SEO lang="en" description={description} title="All posts" />
                 <Container className="global-header-padding">
+                    <PlainHeader content={<HeaderContent />} />
                     <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
                         <Grid.Column>
                             {posts
@@ -78,6 +80,18 @@ export default class Blog extends React.Component<Props, Props> {
         );
     }
 }
+
+const HeaderContent = () => {
+    return (
+        <div>
+            <h1 className="header-overlay-headline">Latest on the blog</h1>
+            <h2 className="header-overlay-subheadline">
+                Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
+                community of 12 million students from 80 countries.
+            </h2>
+        </div>
+    );
+};
 
 export const pageQuery = graphql`
     query BlogQuery {

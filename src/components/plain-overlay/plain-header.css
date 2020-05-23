@@ -1,0 +1,31 @@
+.plain-header {
+    position: relative;
+    height: 250px;
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+}
+
+.plain-header-container {
+    height: 100%;
+    display: flex !important;
+    justify-content: center;
+}
+
+.plain-header-container-desktop {
+    display: flex !important;
+    align-self: center !important;
+    justify-self: center;
+    text-align: center;
+}
+
+.plain-header-container-mobile {
+    display: flex !important;
+    align-self: flex-end !important;
+    text-align: center;
+    padding-bottom: 3em;
+}
+
+.plain-header-grid {
+    justify-content: center;
+}

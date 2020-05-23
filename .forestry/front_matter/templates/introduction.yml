@@ -15,3 +15,5 @@ fields:
     schema:
       format: markdown
   label: content
+pages:
+- File.md

@@ -40,18 +40,23 @@ export default class Blog extends React.Component<Props, BlogState> {
         this.setState({ tagFilter: data.children });
     }
 
+    getTags(posts: any) {
+        const allTags = posts
+            .filter((post) => post.node.frontmatter.tags != null && post.node.frontmatter.tags.length > 0)
+            .map(({ node: post }) => {
+                return post.frontmatter.tags;
+            });
+        const allTagsFlat = allTags.flat(1);
+        const tags = ['All', ...new Set(allTagsFlat)];
+        return tags;
+    }
+
     render() {
         const data = this.props.data;
         let posts = data.allMarkdownRemark.edges;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-        const allTags = posts
-            .filter((post) => post.node.frontmatter.tags != null && post.node.frontmatter.tags.length > 0)
-            .map(({ node: post }) => {
-                return post.frontmatter.tags;
-            })
-            .flat(1);
-        const tags = ['All', ...new Set(allTags)];
+        const tags = this.getTags(posts);
         if (this.state.tagFilter.length > 0 && this.state.tagFilter != 'All') {
             posts = posts.filter((post) => post.node.frontmatter.tags.includes(this.state.tagFilter));
         }

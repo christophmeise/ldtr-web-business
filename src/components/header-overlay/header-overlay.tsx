@@ -1,7 +1,6 @@
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
-import { Container, Grid, GridColumn, Responsive } from 'semantic-ui-react';
-import getWidth from './../../utils/device-width';
+import { Container, Grid, GridColumn } from 'semantic-ui-react';
 import './header-overlay.css';
 
 const HeaderOverlay = ({ sources, color, inverted, content }) => {
@@ -18,26 +17,16 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
                 fluid={sources}
             >
                 <Container className="header-overlay-container">
-                    <Responsive
-                        className="header-overlay-container-desktop"
-                        as={'div'}
-                        getWidth={getWidth}
-                        minWidth={Responsive.onlyMobile.maxWidth}
-                    >
+                    <div className="responsive-desktop-container">
                         <Grid>
                             <GridColumn width={8}>{content}</GridColumn>
                         </Grid>
-                    </Responsive>
-                    <Responsive
-                        className="header-overlay-container-mobile"
-                        as={'div'}
-                        getWidth={getWidth}
-                        maxWidth={Responsive.onlyMobile.maxWidth}
-                    >
+                    </div>
+                    <div className="responsive-mobile-container">
                         <Grid>
                             <GridColumn>{content}</GridColumn>
                         </Grid>
-                    </Responsive>
+                    </div>
                 </Container>
             </BackgroundImage>
         </div>

@@ -1,32 +1,21 @@
 import React from 'react';
-import { Container, Grid, GridColumn, Responsive } from 'semantic-ui-react';
-import getWidth from '../../utils/device-width';
+import { Container, Grid, GridColumn } from 'semantic-ui-react';
 import './plain-header.css';
 
 const PlainHeader = ({ content }) => {
     return (
         <div className="plain-header">
             <Container className="plain-header-container">
-                <Responsive
-                    className="plain-header-container-desktop"
-                    as={'div'}
-                    getWidth={getWidth}
-                    minWidth={Responsive.onlyMobile.maxWidth}
-                >
+                <div className="responsive-desktop-container">
                     <Grid className="plain-header-grid">
                         <GridColumn width={12}>{content}</GridColumn>
                     </Grid>
-                </Responsive>
-                <Responsive
-                    className="plain-header-container-mobile"
-                    as={'div'}
-                    getWidth={getWidth}
-                    maxWidth={Responsive.onlyMobile.maxWidth}
-                >
+                </div>
+                <div className="responsive-mobile-container">
                     <Grid>
                         <GridColumn>{content}</GridColumn>
                     </Grid>
-                </Responsive>
+                </div>
             </Container>
         </div>
     );

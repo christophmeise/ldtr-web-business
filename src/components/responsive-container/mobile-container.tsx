@@ -20,19 +20,13 @@ export default class MobileContainer extends React.Component<MobileContainerProp
     handleSidebarHide = () => this.setState({ sidebarOpened: false });
     handleToggle = () => this.setState({ sidebarOpened: true });
 
-    componentWillMount() {
-        const isSSR = typeof window === 'undefined';
-        if (!isSSR) {
-            this.forceUpdate();
-        }
-    }
-
     render() {
         const { children } = this.props;
         const { sidebarOpened } = this.state;
+
         return (
-            <Sidebar.Pushable as={Segment}>
-                {typeof window !== 'undefined' && (
+            <Sidebar.Pushable>
+                <Sidebar.Pushable as={Segment}>
                     <Sidebar
                         as={Menu}
                         animation="slide along"
@@ -65,21 +59,21 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                             onClick={this.handleItemClick}
                         ></Menu.Item>
                     </Sidebar>
-                )}
 
-                <Sidebar.Pusher dimmed={sidebarOpened}>
-                    <Segment inverted textAlign="center" style={{ padding: '1em 0em' }} vertical>
-                        <Container>
-                            <Menu inverted pointing secondary size="large">
-                                <Menu.Item onClick={this.handleToggle}>
-                                    <Icon name="sidebar" />
-                                </Menu.Item>
-                            </Menu>
-                        </Container>
-                    </Segment>
+                    <Sidebar.Pusher dimmed={sidebarOpened}>
+                        <Segment inverted textAlign="center" style={{ padding: '1em 0em' }} vertical>
+                            <Container>
+                                <Menu inverted pointing secondary size="large">
+                                    <Menu.Item onClick={this.handleToggle}>
+                                        <Icon name="sidebar" />
+                                    </Menu.Item>
+                                </Menu>
+                            </Container>
+                        </Segment>
 
-                    {children}
-                </Sidebar.Pusher>
+                        {children}
+                    </Sidebar.Pusher>
+                </Sidebar.Pushable>
             </Sidebar.Pushable>
         );
     }

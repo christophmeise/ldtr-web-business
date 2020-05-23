@@ -1,6 +1,4 @@
 import React from 'react';
-import { Responsive, Sidebar } from 'semantic-ui-react';
-import getWidth from './../../utils/device-width';
 import DesktopContainer from './desktop-container';
 import MobileContainer from './mobile-container';
 
@@ -35,14 +33,14 @@ class ResponsiveContainer extends React.Component<ResponsiveContainerProps, Resp
 
         return (
             <React.Fragment>
-                <Responsive getWidth={getWidth} minWidth={Responsive.onlyTablet.minWidth}>
+                <div className="responsive-desktop-container">
                     <DesktopContainer location={this.state.location} invertedHeader={invertedHeader}>
                         {children}
                     </DesktopContainer>
-                </Responsive>
-                <Responsive as={Sidebar.Pushable} getWidth={getWidth} maxWidth={Responsive.onlyMobile.maxWidth}>
+                </div>
+                <div className="responsive-mobile-container">
                     <MobileContainer location={this.state.location}>{children}</MobileContainer>
-                </Responsive>
+                </div>
             </React.Fragment>
         );
     }

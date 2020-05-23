@@ -6,3 +6,12 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content

@@ -31,14 +31,14 @@
 }
 
 .header-overlay-container-desktop {
-    display: flex !important;
-    align-self: center !important;
+    display: flex;
+    align-self: center;
     text-align: left;
 }
 
 .header-overlay-container-mobile {
-    display: flex !important;
-    align-self: flex-end !important;
+    display: flex;
+    align-self: flex-end;
     text-align: center;
     padding-bottom: 3em;
 }

@@ -49,7 +49,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                     {/* <Logo /> */}
                     <Menu.Item
                         name="/"
-                        content="About me"
+                        content="About me test"
                         link
                         active={this.props.location.pathname === 'aboutMe'}
                         onClick={this.handleItemClick}

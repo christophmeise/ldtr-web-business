@@ -1,0 +1,22 @@
+---
+label: Introduction
+hide_body: true
+fields:
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Content

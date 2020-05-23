@@ -6,7 +6,7 @@ tags:
 title: Linis Bötchen
 path: "/lini"
 featuredImage: "../../uploads/linisboetchen.jpg"
-date: 
+date: 2020-05-23T00:00:00+02:00
 blocks:
 - template: introduction
   title: Linis Bötchen, Best Bötchen

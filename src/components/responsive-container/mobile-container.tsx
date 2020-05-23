@@ -20,9 +20,20 @@ export default class MobileContainer extends React.Component<MobileContainerProp
     handleSidebarHide = () => this.setState({ sidebarOpened: false });
     handleToggle = () => this.setState({ sidebarOpened: true });
 
+    componentWillMount() {
+        const isSSR = typeof window === 'undefined';
+        if (!isSSR) {
+            this.forceUpdate();
+        }
+    }
+
     render() {
         const { children } = this.props;
         const { sidebarOpened } = this.state;
+        const isSSR = typeof window === 'undefined';
+        if (isSSR) {
+            return;
+        }
 
         return (
             <Sidebar.Pushable as={Segment}>

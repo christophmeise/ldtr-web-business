@@ -8,6 +8,12 @@ tags:
 - Inspirational
 - Dogs
 - Fun
+blocks:
+- template: introduction
+  images:
+  - "../../uploads/tscheppard.jpeg"
+  title: Australien Sheppard
+  content: Content
 
 ---
 Das ist ein Tscheppard:

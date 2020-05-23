@@ -30,45 +30,42 @@ export default class MobileContainer extends React.Component<MobileContainerProp
     render() {
         const { children } = this.props;
         const { sidebarOpened } = this.state;
-        const isSSR = typeof window === 'undefined';
-        if (isSSR) {
-            return;
-        }
-
         return (
             <Sidebar.Pushable as={Segment}>
-                <Sidebar
-                    as={Menu}
-                    animation="slide along"
-                    inverted
-                    onHide={this.handleSidebarHide}
-                    vertical
-                    visible={sidebarOpened}
-                    width="thin"
-                >
-                    {/* <Logo /> */}
-                    <Menu.Item
-                        name="/"
-                        content="About me test"
-                        link
-                        active={this.props.location.pathname === 'aboutMe'}
-                        onClick={this.handleItemClick}
-                    ></Menu.Item>
-                    <Menu.Item
-                        name="/shop"
-                        content="Shop"
-                        link
-                        active={this.props.location.pathname === 'shop'}
-                        onClick={this.handleItemClick}
-                    ></Menu.Item>
-                    <Menu.Item
-                        name="/blog"
-                        content="Blog"
-                        link
-                        active={this.props.location.pathname === 'blog'}
-                        onClick={this.handleItemClick}
-                    ></Menu.Item>
-                </Sidebar>
+                {typeof window !== 'undefined' && (
+                    <Sidebar
+                        as={Menu}
+                        animation="slide along"
+                        inverted
+                        onHide={this.handleSidebarHide}
+                        vertical
+                        visible={sidebarOpened}
+                        width="thin"
+                    >
+                        {/* <Logo /> */}
+                        <Menu.Item
+                            name="/"
+                            content="About me test"
+                            link
+                            active={this.props.location.pathname === 'aboutMe'}
+                            onClick={this.handleItemClick}
+                        ></Menu.Item>
+                        <Menu.Item
+                            name="/shop"
+                            content="Shop"
+                            link
+                            active={this.props.location.pathname === 'shop'}
+                            onClick={this.handleItemClick}
+                        ></Menu.Item>
+                        <Menu.Item
+                            name="/blog"
+                            content="Blog"
+                            link
+                            active={this.props.location.pathname === 'blog'}
+                            onClick={this.handleItemClick}
+                        ></Menu.Item>
+                    </Sidebar>
+                )}
 
                 <Sidebar.Pusher dimmed={sidebarOpened}>
                     <Segment inverted textAlign="center" style={{ padding: '1em 0em' }} vertical>

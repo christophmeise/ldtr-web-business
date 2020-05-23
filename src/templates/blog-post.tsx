@@ -1,5 +1,6 @@
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import React from 'react';
+import BlogPostIntroduction from '../components/blog-post-introduction/blog-post-introduction';
 import HeaderOverlay from './../components/header-overlay/header-overlay';
 import Layout from './../components/layout';
 import SEO from './../components/seo';
@@ -18,11 +19,12 @@ export default function BlogPostTemplate({ data }) {
                 inverted={true}
                 content={<OverlayContent title={post.frontmatter.title} inverted={true} />}
             />
-            <div className="blog-post">
+            <BlogPostIntroduction content={post.frontmatter.blocks[0]}></BlogPostIntroduction>
+            {/*             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
                 <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
             </div>
-            <Link to="/">Back to the Future!</Link>
+            <Link to="/">Back to the Future!</Link> */}
         </Layout>
     );
 }
@@ -46,6 +48,18 @@ export const pageQuery = graphql`
                 path
                 title
                 tags
+                blocks {
+                    content
+                    template
+                    title
+                    images {
+                        childImageSharp {
+                            fluid(maxWidth: 800) {
+                                ...GatsbyImageSharpFluid
+                            }
+                        }
+                    }
+                }
                 featuredImage {
                     childImageSharp {
                         fluid(maxWidth: 800) {

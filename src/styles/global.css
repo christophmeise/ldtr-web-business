@@ -68,3 +68,21 @@ body > div {
         display: inherit;
     }
 }
+
+.rounded-corners-top img {
+    border-top-left-radius: 16px !important;
+    border-top-right-radius: 16px !important;
+}
+
+.rounded-corners img {
+    border-radius: 16px !important;
+}
+
+p {
+    color: rgb(15, 19, 26);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+}

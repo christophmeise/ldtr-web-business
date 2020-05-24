@@ -20,3 +20,5 @@ fields:
     schema:
       format: markdown
   label: Content
+pages:
+- src/posts/test.md

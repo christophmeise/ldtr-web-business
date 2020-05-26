@@ -1,8 +1,14 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import { Container, Menu, Segment } from 'semantic-ui-react';
+import LanguageSwitcher from './language-switcher/language-switcher';
 import Logo from './logo';
 
-export default function GlobalNavbar({ location, handleItemClick, inverted }) {
+const GlobalNavbar = ({ location, handleItemClick, inverted }) => {
+    const { t, i18n, ready } = useTranslation('common');
+
+    if (!ready) return;
+
     return (
         <Segment
             textAlign="center"
@@ -17,7 +23,7 @@ export default function GlobalNavbar({ location, handleItemClick, inverted }) {
                     </Menu.Item>
                     <Menu.Item
                         name="/"
-                        content="About"
+                        content={t('aboutme')}
                         link
                         active={location.pathname === '/'}
                         onClick={handleItemClick}
@@ -36,6 +42,7 @@ export default function GlobalNavbar({ location, handleItemClick, inverted }) {
                         active={location.pathname === '/blog'}
                         onClick={handleItemClick}
                     ></Menu.Item>
+                    <LanguageSwitcher></LanguageSwitcher>
                     {/*   <Menu.Item position="right">
                         <Button as="a" inverted={!fixed}>
                             Log in
@@ -48,4 +55,6 @@ export default function GlobalNavbar({ location, handleItemClick, inverted }) {
             </Menu>
         </Segment>
     );
-}
+};
+
+export default GlobalNavbar;

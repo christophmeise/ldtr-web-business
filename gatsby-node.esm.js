@@ -1,4 +1,5 @@
-import { resolve } from 'path';
+import path from 'path';
+const { resolve } = path;
 
 export async function createPages({ actions, graphql, reporter }) {
     const { createPage } = actions;

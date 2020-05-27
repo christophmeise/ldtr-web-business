@@ -3,7 +3,6 @@ import React from 'react';
 import { withTranslation } from 'react-i18next';
 import { Button } from 'semantic-ui-react';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
-import '../components/i18n/i18n';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 

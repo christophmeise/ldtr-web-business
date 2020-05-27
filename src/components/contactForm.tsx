@@ -65,12 +65,12 @@ class ContactForm extends React.Component<any, any> {
 
         return (
             <form
-                className="ui form"
+                name="form-contact"
                 method="POST"
-                netlify-honeypot="bot-field"
                 data-netlify="true"
-                name="contact-new"
-                action="/"
+                data-netlify-honeypot="bot-field"
+                action="/thanks"
+                onSubmit={this.handleSubmit}
             >
                 <input type="hidden" name="form-name" value="contact-new" />
                 <input type="hidden" name="bot-field" />

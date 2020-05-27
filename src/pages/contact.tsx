@@ -2,6 +2,8 @@ import { graphql } from 'gatsby';
 import React from 'react';
 import { withTranslation } from 'react-i18next';
 import { Container, Form } from 'semantic-ui-react';
+import Swal from 'sweetalert2';
+import withReactContent from 'sweetalert2-react-content';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import PlainHeader from './../components/plain-overlay/plain-header';
@@ -24,6 +26,30 @@ class Contact extends React.Component<Props, any> {
         this.state = {};
     }
 
+    failurePopup = () => {
+        const MySwal = withReactContent(Swal);
+
+        MySwal.fire({
+            onOpen: () => {
+                MySwal.clickConfirm();
+            },
+        }).then(() => {
+            return MySwal.fire('Sorry!', 'Something went wrong, please try again later!', 'error');
+        });
+    };
+
+    successPopup = () => {
+        const MySwal = withReactContent(Swal);
+
+        MySwal.fire({
+            onOpen: () => {
+                MySwal.clickConfirm();
+            },
+        }).then(() => {
+            return MySwal.fire('Good job!', 'Your message has arrived!', 'success');
+        });
+    };
+
     handleChange = (e) => {
         this.setState({ ...this.state, [e.target.name]: e.target.value });
     };
@@ -39,8 +65,8 @@ class Contact extends React.Component<Props, any> {
                 ...this.state,
             }),
         })
-            .then(() => alert('nice'))
-            .catch((error) => alert(error));
+            .then(() => this.successPopup())
+            .catch((error) => this.failurePopup());
     };
 
     render() {

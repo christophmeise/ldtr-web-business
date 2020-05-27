@@ -1,6 +1,7 @@
 import { navigate } from 'gatsby';
 import React from 'react';
 import { Container, Icon, Menu, Segment, Sidebar } from 'semantic-ui-react';
+import GlobalNavbar from './../global-navbar';
 
 interface HeaderState {
     sidebarOpened: boolean;
@@ -34,30 +35,14 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                         onHide={this.handleSidebarHide}
                         vertical
                         visible={sidebarOpened}
-                        width="thin"
+                        width="wide"
                     >
-                        {/* <Logo /> */}
-                        <Menu.Item
-                            name="/"
-                            content="About me"
-                            link
-                            active={this.props.location.pathname === 'aboutMe'}
-                            onClick={this.handleItemClick}
-                        ></Menu.Item>
-                        <Menu.Item
-                            name="/shop"
-                            content="Shop"
-                            link
-                            active={this.props.location.pathname === 'shop'}
-                            onClick={this.handleItemClick}
-                        ></Menu.Item>
-                        <Menu.Item
-                            name="/blog"
-                            content="Blog"
-                            link
-                            active={this.props.location.pathname === 'blog'}
-                            onClick={this.handleItemClick}
-                        ></Menu.Item>
+                        <GlobalNavbar
+                            location={this.props.location}
+                            handleItemClick={this.handleItemClick}
+                            inverted={true}
+                            mobile={true}
+                        />
                     </Sidebar>
 
                     <Sidebar.Pusher dimmed={sidebarOpened}>

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { withTranslation } from 'react-i18next';
-import { Dropdown, Menu } from 'semantic-ui-react';
+import { Dropdown, Flag, Menu } from 'semantic-ui-react';
+import './language-switcher.css';
 
 class LanguageSwitcher extends Component<any, any> {
     constructor(props) {
@@ -16,27 +17,54 @@ class LanguageSwitcher extends Component<any, any> {
     }
 
     render() {
+        const { i18n } = this.props;
         const { t } = this.props;
+        const { direction } = this.props;
         const languages = [
-            { code: 'en', key: 'English', text: 'English', value: 'en' },
-            { code: 'de', key: 'Deutsch', text: 'Deutsch', value: 'de' },
+            { flag: 'us', key: 'English', text: 'English', value: 'en' },
+            { flag: 'de', key: 'Deutsch', text: 'Deutsch', value: 'de' },
         ];
 
         return (
             <Menu.Item position="right">
                 <Dropdown
-                    button
-                    className="icon"
+                    className="icon dropdown-icon-left"
                     labeled
                     floating
-                    icon="world"
-                    options={languages}
-                    text={t('current_language')}
-                    onChange={this.handleChangeLanguage}
-                />
+                    direction={direction}
+                    icon={null}
+                    trigger={DropdownTrigger(i18n.language, t)}
+                >
+                    <Dropdown.Menu>
+                        <Dropdown.Header icon="world" content={t('select_language')} />
+                        {languages.map((language) => {
+                            return (
+                                <Dropdown.Item
+                                    flag={language.flag}
+                                    text={language.text}
+                                    active={i18n.language === language.value}
+                                    onClick={this.handleChangeLanguage}
+                                    value={language.value}
+                                />
+                            );
+                        })}
+                    </Dropdown.Menu>
+                </Dropdown>
             </Menu.Item>
         );
     }
 }
+
+const DropdownTrigger = (name, t) => {
+    if (name === 'en') {
+        name = 'us'; // Semantic UI uses non-standard language keys...
+    }
+    return (
+        <span>
+            <Flag name={name} />
+            {t('current_language')}
+        </span>
+    );
+};
 
 export default withTranslation('common')(LanguageSwitcher);

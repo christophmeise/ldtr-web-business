@@ -2,5 +2,6 @@
     "aboutme": "About me",
     "blog": "Blog",
     "shop": "Shop",
-    "current_language": "English"
+    "current_language": "English",
+    "select_language": "Select language"
 }

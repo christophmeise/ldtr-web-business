@@ -55,7 +55,14 @@ export default function ContactForm() {
     };
 
     return (
-        <>
+        <form method="post" action="#" data-netlify="true" name="contact">
+            <input type="hidden" name="form-name" value="contact" />
+            <input type="text" name="name" id="name" required />
+            <input type="text" name="email" id="email" required />
+            <textarea name="message" id="message" rows={4} required />
+            <input type="submit" value="Send Message" />
+        </form>
+        /*         <>
             <h1>Contact</h1>
             <form
                 name="contact"
@@ -65,7 +72,6 @@ export default function ContactForm() {
                 data-netlify-honeypot="bot-field"
                 onSubmit={handleSubmit}
             >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                     <label>
@@ -86,6 +92,6 @@ export default function ContactForm() {
                 </label>
                 <button type="submit">Send</button>
             </form>
-        </>
+        </> */
     );
 }

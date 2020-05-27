@@ -22,33 +22,14 @@ interface Props {
 class Contact extends React.Component<Props, any> {
     constructor(props) {
         super(props);
-        this.state = { first_name: '', last_name: '', email: '', message: '' };
     }
-
-    /*     handleChange = (e) => {
-        this.setState({ ...this.state, [e.target.name]: e.target.value });
-    };
-
-    handleSubmit = (e) => {
-        e.preventDefault();
-        fetch('/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            body: encode({
-                'form-name': 'contact',
-                ...this.state,
-            }),
-        })
-            .then(() => this.successPopup())
-            .catch((error) => this.failurePopup());
-    }; */
 
     render() {
         const { t } = this.props;
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-        const { first_name, last_name, email, message } = this.state;
+
         return (
             <Layout title={siteTitle}>
                 <SEO title="Index" />

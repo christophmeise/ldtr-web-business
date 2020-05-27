@@ -86,31 +86,32 @@ class Contact extends React.Component<Props, any> {
                             netlify-honeypot="bot-field"
                             data-netlify="true"
                             name="contact"
+                            action="/contact"
                             onSubmit={this.handleSubmit}
                         >
                             <input type="hidden" name="form-name" value="contact" />
-                            <input type="hidden" name="bot-field" onChange={this.handleChange} />
+                            <input type="hidden" name="bot-field" />
                             <Form.Group widths="equal">
                                 <div className="field">
-                                    <label>{t('first-name')}</label>
+                                    <label>{t('contact:first-name')}</label>
                                     <div className="ui fluid input">
                                         <input
                                             type="text"
                                             name="first_name"
                                             value={first_name}
-                                            placeholder="First name"
+                                            placeholder={t('contact:first-name')}
                                             onChange={this.handleChange}
                                         />
                                     </div>
                                 </div>
                                 <div className="field">
-                                    <label>Last name</label>
+                                    <label>{t('contact:last-name')}</label>
                                     <div className="ui fluid input">
                                         <input
                                             type="text"
                                             name="last_name"
                                             value={last_name}
-                                            placeholder="Last name"
+                                            placeholder={t('contact:last-name')}
                                             onChange={this.handleChange}
                                         />
                                     </div>
@@ -118,23 +119,23 @@ class Contact extends React.Component<Props, any> {
                             </Form.Group>
                             <Form.Group widths="equal">
                                 <div className="field">
-                                    <label>Last name</label>
+                                    <label>{t('contact:email')}</label>
                                     <div className="ui fluid input">
                                         <input
                                             type="email"
                                             name="email"
                                             value={email}
-                                            placeholder="E-Mail"
+                                            placeholder={t('contact:email')}
                                             onChange={this.handleChange}
                                         />
                                     </div>
                                 </div>
                             </Form.Group>
                             <div className="field">
-                                <label>About</label>
+                                <label>{t('contact:message')}</label>
                                 <textarea
                                     name="message"
-                                    placeholder="Tell us more about you..."
+                                    placeholder={t('contact:message-placeholder')}
                                     value={message}
                                     rows={3}
                                     onChange={this.handleChange}
@@ -142,7 +143,7 @@ class Contact extends React.Component<Props, any> {
                             </div>
                             <div className="field">
                                 <button className="ui button primary" type="submit">
-                                    Send
+                                    {t('contact:form-submit')}
                                 </button>
                             </div>
                         </form>

@@ -1,3 +1,8 @@
 {
-    "first-name": "Vorname"
+    "first-name": "Vorname",
+    "last-name": "Nachname",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "message-placeholder": "Teile uns deine Nachricht mit...",
+    "form-submit": "Abschicken"
 }

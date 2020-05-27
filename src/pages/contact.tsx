@@ -18,10 +18,30 @@ interface Props {
     };
 }
 
-class Contact extends React.Component<Props> {
+class Contact extends React.Component<Props, any> {
     constructor(props) {
         super(props);
+        this.state = {};
     }
+
+    handleChange = (e) => {
+        this.setState({ ...this.state, [e.target.name]: e.target.value });
+    };
+
+    handleSubmit = (e) => {
+        e.preventDefault();
+        const form = e.target;
+        fetch('/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: encode({
+                'form-name': form.getAttribute('name'),
+                ...this.state,
+            }),
+        })
+            .then(() => alert('nice'))
+            .catch((error) => alert(error));
+    };
 
     render() {
         const { t } = this.props;
@@ -42,19 +62,31 @@ class Contact extends React.Component<Props> {
                             data-netlify="true"
                             data-netlify-recaptcha="true"
                             name="contact-form"
+                            onSubmit={this.handleSubmit}
                         >
+                            <input type="hidden" name="form-name" value="contact-form" />
                             <input type="hidden" name="bot-field" />
                             <Form.Group widths="equal">
                                 <div className="field">
                                     <label>First name</label>
                                     <div className="ui fluid input">
-                                        <input type="text" name="first_name" placeholder="First name" />
+                                        <input
+                                            type="text"
+                                            name="first_name"
+                                            placeholder="First name"
+                                            onChange={this.handleChange}
+                                        />
                                     </div>
                                 </div>
                                 <div className="field">
                                     <label>Last name</label>
                                     <div className="ui fluid input">
-                                        <input type="text" name="last_name" placeholder="Last name" />
+                                        <input
+                                            type="text"
+                                            name="last_name"
+                                            placeholder="Last name"
+                                            onChange={this.handleChange}
+                                        />
                                     </div>
                                 </div>
                             </Form.Group>
@@ -62,13 +94,23 @@ class Contact extends React.Component<Props> {
                                 <div className="field">
                                     <label>Last name</label>
                                     <div className="ui fluid input">
-                                        <input type="text" name="email" placeholder="E-Mail" />
+                                        <input
+                                            type="text"
+                                            name="email"
+                                            placeholder="E-Mail"
+                                            onChange={this.handleChange}
+                                        />
                                     </div>
                                 </div>
                             </Form.Group>
                             <div className="field">
                                 <label>About</label>
-                                <textarea name="About" placeholder="Tell us more about you..." rows={3}></textarea>
+                                <textarea
+                                    name="About"
+                                    placeholder="Tell us more about you..."
+                                    rows={3}
+                                    onChange={this.handleChange}
+                                ></textarea>
                             </div>
                             <div data-netlify-recaptcha="true"></div>
                             <div className="field">
@@ -82,6 +124,12 @@ class Contact extends React.Component<Props> {
             </Layout>
         );
     }
+}
+
+function encode(data) {
+    return Object.keys(data)
+        .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+        .join('&');
 }
 
 const HeaderContent = (t) => {

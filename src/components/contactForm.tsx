@@ -28,7 +28,8 @@ class ContactForm extends React.Component<any, any> {
         });
     };
 
-    successPopup = () => {
+    successPopup = (form) => {
+        form.reset();
         const MySwal = withReactContent(Swal);
 
         MySwal.fire({
@@ -55,7 +56,7 @@ class ContactForm extends React.Component<any, any> {
                 ...this.state,
             }),
         })
-            .then(() => this.successPopup())
+            .then(() => this.successPopup(form))
             .catch((error) => this.errorPopup());
     };
 
@@ -70,7 +71,6 @@ class ContactForm extends React.Component<any, any> {
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 action="/thanks"
-                onSubmit={this.handleSubmit}
             >
                 <input type="hidden" name="form-name" value="form-contact" />
                 <input type="hidden" name="bot-field" />

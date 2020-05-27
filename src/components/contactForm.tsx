@@ -72,7 +72,7 @@ class ContactForm extends React.Component<any, any> {
                 action="/thanks"
                 onSubmit={this.handleSubmit}
             >
-                <input type="hidden" name="form-name" value="contact-new" />
+                <input type="hidden" name="form-name" value="form-contact" />
                 <input type="hidden" name="bot-field" />
                 <Form.Group widths="equal">
                     <div className="field">

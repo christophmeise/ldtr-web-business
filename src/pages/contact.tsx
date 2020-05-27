@@ -41,6 +41,7 @@ class Contact extends React.Component<Props> {
                             netlify-honeypot="bot-field"
                             data-netlify="true"
                             data-netlify-recaptcha="true"
+                            name="contact-form"
                         >
                             <input type="hidden" name="bot-field" />
                             <Form.Group widths="equal">
@@ -51,6 +52,7 @@ class Contact extends React.Component<Props> {
                                 <Form.Input fluid label="E-Mail" placeholder="E-Mail" />
                             </Form.Group>
                             <Form.TextArea label="About" placeholder="Tell us more about you..." />
+                            <div data-netlify-recaptcha="true"></div>
                             <Form.Button>Submit</Form.Button>
                         </form>
                     </Container>

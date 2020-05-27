@@ -7,7 +7,7 @@ import Logo from './logo';
 const GlobalNavbar = ({ location, handleItemClick, inverted, mobile }) => {
     const { t, i18n, ready } = useTranslation('common');
 
-    if (!ready) return;
+    if (!ready) return null;
 
     return (
         <React.Fragment>

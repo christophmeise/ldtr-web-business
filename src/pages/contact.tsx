@@ -45,17 +45,37 @@ class Contact extends React.Component<Props> {
                         >
                             <input type="hidden" name="bot-field" />
                             <Form.Group widths="equal">
-                                <Form.Input fluid label="First name" placeholder="First name" />
-                                <Form.Input fluid label="Last name" placeholder="Last name" />
+                                <div className="field">
+                                    <label>First name</label>
+                                    <div className="ui fluid input">
+                                        <input type="text" name="first_name" placeholder="First name" />
+                                    </div>
+                                </div>
+                                <div className="field">
+                                    <label>Last name</label>
+                                    <div className="ui fluid input">
+                                        <input type="text" name="last_name" placeholder="Last name" />
+                                    </div>
+                                </div>
                             </Form.Group>
                             <Form.Group widths="equal">
-                                <Form.Input fluid label="E-Mail" placeholder="E-Mail" />
+                                <div className="field">
+                                    <label>Last name</label>
+                                    <div className="ui fluid input">
+                                        <input type="text" name="email" placeholder="E-Mail" />
+                                    </div>
+                                </div>
                             </Form.Group>
-                            <Form.TextArea label="About" placeholder="Tell us more about you..." />
+                            <div className="field">
+                                <label>About</label>
+                                <textarea name="About" placeholder="Tell us more about you..." rows={3}></textarea>
+                            </div>
                             <div data-netlify-recaptcha="true"></div>
-                            <button className="ui button primary" type="submit">
-                                Send
-                            </button>
+                            <div className="field">
+                                <button className="ui button primary" type="submit">
+                                    Send
+                                </button>
+                            </div>
                         </form>
                     </Container>
                 </Container>

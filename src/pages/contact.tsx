@@ -1,9 +1,8 @@
 import { graphql } from 'gatsby';
 import React from 'react';
 import { withTranslation } from 'react-i18next';
-import { Container, Form } from 'semantic-ui-react';
-import Swal from 'sweetalert2';
-import withReactContent from 'sweetalert2-react-content';
+import { Container } from 'semantic-ui-react';
+import ContactForm from '../components/contactForm';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import PlainHeader from './../components/plain-overlay/plain-header';
@@ -26,31 +25,7 @@ class Contact extends React.Component<Props, any> {
         this.state = { first_name: '', last_name: '', email: '', message: '' };
     }
 
-    failurePopup = () => {
-        const MySwal = withReactContent(Swal);
-
-        MySwal.fire({
-            onOpen: () => {
-                MySwal.clickConfirm();
-            },
-        }).then(() => {
-            return MySwal.fire('Sorry!', 'Something went wrong, please try again later!', 'error');
-        });
-    };
-
-    successPopup = () => {
-        const MySwal = withReactContent(Swal);
-
-        MySwal.fire({
-            onOpen: () => {
-                MySwal.clickConfirm();
-            },
-        }).then(() => {
-            return MySwal.fire('Good job!', 'Your message has arrived!', 'success');
-        });
-    };
-
-    handleChange = (e) => {
+    /*     handleChange = (e) => {
         this.setState({ ...this.state, [e.target.name]: e.target.value });
     };
 
@@ -66,7 +41,7 @@ class Contact extends React.Component<Props, any> {
         })
             .then(() => this.successPopup())
             .catch((error) => this.failurePopup());
-    };
+    }; */
 
     render() {
         const { t } = this.props;
@@ -80,9 +55,10 @@ class Contact extends React.Component<Props, any> {
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>
-                        <form
+                        <ContactForm></ContactForm>
+                        {/* <form
                             className="ui form"
-                            method="post"
+                            method="POST"
                             netlify-honeypot="bot-field"
                             data-netlify="true"
                             name="contact"
@@ -146,7 +122,7 @@ class Contact extends React.Component<Props, any> {
                                     {t('contact:form-submit')}
                                 </button>
                             </div>
-                        </form>
+                        </form> */}
                     </Container>
                 </Container>
             </Layout>

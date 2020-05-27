@@ -23,7 +23,7 @@ interface Props {
 class Contact extends React.Component<Props, any> {
     constructor(props) {
         super(props);
-        this.state = {};
+        this.state = { first_name: '', last_name: '', email: '', message: '' };
     }
 
     failurePopup = () => {
@@ -56,12 +56,11 @@ class Contact extends React.Component<Props, any> {
 
     handleSubmit = (e) => {
         e.preventDefault();
-        const form = e.target;
         fetch('/', {
             method: 'POST',
             headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
             body: encode({
-                'form-name': form.getAttribute('name'),
+                'form-name': 'contact',
                 ...this.state,
             }),
         })
@@ -74,7 +73,7 @@ class Contact extends React.Component<Props, any> {
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-
+        const { first_name, last_name, email, message } = this.state;
         return (
             <Layout title={siteTitle}>
                 <SEO title="Index" />
@@ -86,19 +85,19 @@ class Contact extends React.Component<Props, any> {
                             method="post"
                             netlify-honeypot="bot-field"
                             data-netlify="true"
-                            data-netlify-recaptcha="true"
-                            name="contact-form"
+                            name="contact"
                             onSubmit={this.handleSubmit}
                         >
-                            <input type="hidden" name="form-name" value="contact-form" />
-                            <input type="hidden" name="bot-field" />
+                            <input type="hidden" name="form-name" value="contact" />
+                            <input type="hidden" name="bot-field" onChange={this.handleChange} />
                             <Form.Group widths="equal">
                                 <div className="field">
-                                    <label>First name</label>
+                                    <label>{t('first-name')}</label>
                                     <div className="ui fluid input">
                                         <input
                                             type="text"
                                             name="first_name"
+                                            value={first_name}
                                             placeholder="First name"
                                             onChange={this.handleChange}
                                         />
@@ -110,6 +109,7 @@ class Contact extends React.Component<Props, any> {
                                         <input
                                             type="text"
                                             name="last_name"
+                                            value={last_name}
                                             placeholder="Last name"
                                             onChange={this.handleChange}
                                         />
@@ -121,8 +121,9 @@ class Contact extends React.Component<Props, any> {
                                     <label>Last name</label>
                                     <div className="ui fluid input">
                                         <input
-                                            type="text"
+                                            type="email"
                                             name="email"
+                                            value={email}
                                             placeholder="E-Mail"
                                             onChange={this.handleChange}
                                         />
@@ -132,13 +133,13 @@ class Contact extends React.Component<Props, any> {
                             <div className="field">
                                 <label>About</label>
                                 <textarea
-                                    name="About"
+                                    name="message"
                                     placeholder="Tell us more about you..."
+                                    value={message}
                                     rows={3}
                                     onChange={this.handleChange}
                                 ></textarea>
                             </div>
-                            <div data-netlify-recaptcha="true"></div>
                             <div className="field">
                                 <button className="ui button primary" type="submit">
                                     Send
@@ -178,4 +179,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withTranslation('common')(Contact);
+export default withTranslation(['common', 'contact'])(Contact);

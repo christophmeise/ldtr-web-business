@@ -9,12 +9,14 @@ i18n.use(LanguageDetector)
         resources: {
             de: {
                 common: require('../../locales/de/common.json'),
+                contact: require('../../locales/de/contact.json'),
             },
             en: {
                 common: require('../../locales/en/common.json'),
+                contact: require('../../locales/en/contact.json'),
             },
         },
-        ns: ['common'],
+        ns: ['common', 'contact'],
         defaultNS: 'common',
         returnObjects: true,
         debug: process.env.NODE_ENV === 'development',

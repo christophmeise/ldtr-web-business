@@ -2,9 +2,12 @@
     "aboutme": "About me",
     "blog": "Blog",
     "shop": "Shop",
+    "contact": "Contact",
     "current_language": "English",
     "select_language": "Select language",
     "book-first-call": "Book your free call with me",
     "book-first-call-headline": "Book your free call with me",
-    "book-first-call-subheadline": "Please contact me to find out how RTT™ can change your life. Book your 15 min free phone consultation today."
+    "book-first-call-subheadline": "Please contact me to find out how RTT™ can change your life. Book your 15 min free phone consultation today.",
+    "contact-headline": "Contact Meisen-Business",
+    "contact-subheadline": "Leave a message, or book your first call now!"
 }

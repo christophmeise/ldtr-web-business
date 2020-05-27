@@ -7,6 +7,7 @@ export default class Calendly extends Component {
             height: '700px',
         } as React.CSSProperties,
     };
+
     render() {
         return <InlineWidget styles={this.styles.promAlert} url="https://calendly.com/christin-meise" />;
     }

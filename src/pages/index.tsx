@@ -57,9 +57,9 @@ const OverlayContent = (inverted, t) => {
                 Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
                 community of 12 million students from 80 countries.
             </h2>
-            <Button>
-                <Link to="/book-call">{t('book-first-call')}</Link>
-            </Button>
+            <Link to="/book-call">
+                <Button primary>{t('book-first-call')}</Button>
+            </Link>
         </div>
     );
 };

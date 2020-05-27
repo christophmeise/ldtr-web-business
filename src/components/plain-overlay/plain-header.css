@@ -12,6 +12,10 @@
     justify-content: center;
 }
 
+.plain-header-container > div {
+    width: 100%;
+}
+
 .plain-header-container-desktop {
     display: flex;
     align-self: center;
@@ -28,4 +32,5 @@
 
 .plain-header-grid {
     justify-content: center;
+    width: 100%;
 }

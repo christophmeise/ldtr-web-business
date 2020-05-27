@@ -23,14 +23,21 @@ const GlobalNavbar = ({ location, handleItemClick, inverted, mobile }) => {
             ></Menu.Item>
             <Menu.Item
                 name="/shop"
-                content="Shop"
+                content={t('shop')}
                 link
                 active={location.pathname === '/shop'}
                 onClick={handleItemClick}
             ></Menu.Item>
             <Menu.Item
                 name="/blog"
-                content="Blog"
+                content={t('blog')}
+                link
+                active={location.pathname === '/blog'}
+                onClick={handleItemClick}
+            ></Menu.Item>
+            <Menu.Item
+                name="/contact"
+                content={t('contact')}
                 link
                 active={location.pathname === '/blog'}
                 onClick={handleItemClick}

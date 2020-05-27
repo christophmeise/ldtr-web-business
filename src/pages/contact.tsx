@@ -53,7 +53,9 @@ class Contact extends React.Component<Props> {
                             </Form.Group>
                             <Form.TextArea label="About" placeholder="Tell us more about you..." />
                             <div data-netlify-recaptcha="true"></div>
-                            <Form.Button>Submit</Form.Button>
+                            <button className="ui button primary" type="submit">
+                                Send
+                            </button>
                         </form>
                     </Container>
                 </Container>

@@ -41,6 +41,7 @@ class LanguageSwitcher extends Component<any, any> {
                             return (
                                 <Dropdown.Item
                                     flag={language.flag}
+                                    key={language.key}
                                     text={language.text}
                                     active={i18n.language === language.value}
                                     onClick={this.handleChangeLanguage}

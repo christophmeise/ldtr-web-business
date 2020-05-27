@@ -18,12 +18,9 @@ class ResponsiveContainer extends React.Component<ResponsiveContainerProps, Resp
                 pathname: null,
             },
         };
-    }
-
-    componentWillMount() {
         const isSSR = typeof window === 'undefined';
         if (!isSSR) {
-            this.setState({ location: window.location });
+            this.state = { location: window.location };
         }
     }
 

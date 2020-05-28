@@ -42,7 +42,7 @@ class GlobalNavbar extends React.Component<any, any> {
                     name="/contact"
                     content={t('contact')}
                     link
-                    active={location.pathname === '/blog'}
+                    active={location.pathname === '/contact'}
                     onClick={handleItemClick}
                 ></Menu.Item>
                 <LanguageSwitcher direction={mobile ? 'right' : 'left'}></LanguageSwitcher>

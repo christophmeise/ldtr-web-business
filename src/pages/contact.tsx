@@ -36,7 +36,7 @@ class Contact extends React.Component<Props, any> {
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>
-                        <ContactForm></ContactForm>
+                        <ContactForm disabled={false}></ContactForm>
                     </Container>
                 </Container>
             </Layout>

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { withTranslation } from 'react-i18next';
-import { Dropdown, Flag, Menu } from 'semantic-ui-react';
+import { Dropdown, Flag, FlagNameValues, Menu } from 'semantic-ui-react';
 import './language-switcher.css';
 
 class LanguageSwitcher extends Component<any, any> {
@@ -12,7 +12,6 @@ class LanguageSwitcher extends Component<any, any> {
 
     handleChangeLanguage(e, data) {
         const { i18n } = this.props;
-        console.log(data);
         i18n.changeLanguage(data.value);
     }
 
@@ -57,12 +56,13 @@ class LanguageSwitcher extends Component<any, any> {
 }
 
 const DropdownTrigger = (name, t) => {
+    let flagCode: FlagNameValues = 'de';
     if (name === 'en') {
-        name = 'us'; // Semantic UI uses non-standard language keys...
+        flagCode = 'us'; // Semantic UI uses non-standard language keys...
     }
     return (
         <span>
-            <Flag name={name} />
+            <Flag name={flagCode} />
             {t('current_language')}
         </span>
     );

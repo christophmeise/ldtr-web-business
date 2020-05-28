@@ -52,7 +52,7 @@ class GlobalNavbar extends React.Component<Props, any> {
                     active={location.pathname === '/contact'}
                     onClick={handleItemClick}
                 ></Menu.Item>
-                <LanguageSwitcher t={t} direction={mobile ? 'right' : 'left'}></LanguageSwitcher>
+                <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
             </React.Fragment>
         );
     }

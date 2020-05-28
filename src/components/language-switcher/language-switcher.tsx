@@ -1,12 +1,12 @@
 import { navigate } from 'gatsby';
 import i18n from 'i18next';
 import React, { Component } from 'react';
-import { Dropdown, Flag, FlagNameValues, Menu } from 'semantic-ui-react';
+import { Flag, FlagNameValues, Menu } from 'semantic-ui-react';
 import './language-switcher.css';
 
 type LanguageSwitcherProps = {
     t: any;
-    direction: 'left' | 'right';
+    mobile: boolean;
 };
 
 class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
@@ -14,10 +14,25 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
         super(props);
 
         this.handleChangeLanguage = this.handleChangeLanguage.bind(this);
+        this.switchLanguage = this.switchLanguage.bind(this);
+        this.navigateToCurrentLocationWithLocal = this.navigateToCurrentLocationWithLocal.bind(this);
     }
 
     handleChangeLanguage(e, data) {
         i18n.changeLanguage(data.value);
+        this.navigateToCurrentLocationWithLocal();
+    }
+
+    switchLanguage() {
+        if (i18n.language === 'de') {
+            i18n.changeLanguage('en');
+        } else {
+            i18n.changeLanguage('de');
+        }
+        this.navigateToCurrentLocationWithLocal();
+    }
+
+    navigateToCurrentLocationWithLocal() {
         let pathSplit = location.pathname.split('/');
         pathSplit.splice(0, 1);
         let purePath;
@@ -41,19 +56,20 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
     render() {
         const { t } = this.props;
 
-        const { direction } = this.props;
+        const { mobile } = this.props;
         const languages = [
             { flag: 'us', key: 'English', text: 'English', value: 'en' },
             { flag: 'de', key: 'Deutsch', text: 'Deutsch', value: 'de' },
         ];
 
         return (
-            <Menu.Item position="right">
-                <Dropdown
+            <Menu.Item position="right" onClick={this.switchLanguage}>
+                {LanuageSwitcherMobile(i18n, t)}
+                {/*  <Dropdown
                     className="icon dropdown-icon-left"
                     labeled
                     floating
-                    direction={direction}
+                    direction="left"
                     icon={null}
                     trigger={DropdownTrigger(i18n, t)}
                 >
@@ -72,20 +88,34 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
                             );
                         })}
                     </Dropdown.Menu>
-                </Dropdown>
+                </Dropdown> */}
             </Menu.Item>
         );
     }
 }
 
-const DropdownTrigger = (i18n, t) => {
+/* const DropdownTrigger = (i18n, t) => {
     let language = i18n.language;
     let flagCode: FlagNameValues = 'de';
     if (language === 'en') {
         flagCode = 'us'; // Semantic UI uses non-standard language keys...
     }
     return (
-        <span>
+        <span className="language-switcher-desktop">
+            <Flag name={flagCode} />
+            {t('current_language')}
+        </span>
+    );
+}; */
+
+const LanuageSwitcherMobile = (i18n, t) => {
+    let language = i18n.language;
+    let flagCode: FlagNameValues = 'de';
+    if (language === 'en') {
+        flagCode = 'us'; // Semantic UI uses non-standard language keys...
+    }
+    return (
+        <span className="language-switcher-mobile">
             <Flag name={flagCode} />
             {t('current_language')}
         </span>

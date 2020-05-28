@@ -1,5 +1,36 @@
+import fs from 'fs';
 import path from 'path';
 const { resolve } = path;
+
+const localesNSContent = {
+    en: [
+        {
+            content: fs.readFileSync(`src/locales/en/common.json`, 'utf8'),
+            ns: 'common',
+        },
+        {
+            content: fs.readFileSync(`src/locales/en/contact.json`, 'utf8'),
+            ns: 'contact',
+        },
+    ],
+    de: [
+        {
+            content: fs.readFileSync(`src/locales/de/common.json`, 'utf8'),
+            ns: 'common',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/contact.json`, 'utf8'),
+            ns: 'contact',
+        },
+    ],
+};
+
+const availableLocales = [
+    { lang: 'de', text: 'Deutsch' },
+    { lang: 'en', text: 'English' },
+];
+
+const defaultLocales = { lang: 'de', text: 'Deutsch' };
 
 export async function createPages({ actions, graphql, reporter }) {
     const { createPage } = actions;
@@ -28,17 +59,63 @@ export async function createPages({ actions, graphql, reporter }) {
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
         if (node.frontmatter.title != null && node.frontmatter.title.length > 0) {
-            createPage({
-                path: node.frontmatter.path,
-                component: blogPostTemplate,
-                context: {}, // additional data can be passed via context
-            });
+            createPageForEachLanguage(createPage, blogPostTemplate, node.frontmatter.path);
         } else {
-            createPage({
-                path: node.frontmatter.path,
-                component: shopArticleTemplate,
-                context: {}, // additional data can be passed via context
-            });
+            createPageForEachLanguage(createPage, shopArticleTemplate, node.frontmatter.path);
         }
+    });
+}
+
+function createPageForEachLanguage(createPage, component, originalPath) {
+    availableLocales.map(({ lang }) => {
+        let localizedPath = `/${lang}${originalPath}`;
+        if (defaultLocales.lang === lang) {
+            localizedPath = originalPath;
+        }
+
+        const localePage = {
+            component: component,
+            originalPath: originalPath,
+            path: localizedPath,
+            context: {
+                availableLocales,
+                locale: lang,
+                routed: true,
+                data: localesNSContent[lang],
+                originalPath: originalPath,
+            },
+        };
+        createPage(localePage);
+    });
+}
+
+export async function onCreatePage({ page, actions: { createPage, deletePage } }) {
+    if (/^\/dev-404-page\/?$/.test(page.path)) {
+        return;
+    }
+
+    // Delete the original page (since we are gonna create localized versions of it)
+    deletePage(page);
+
+    // Create one page for each locale
+    availableLocales.map(({ lang }) => {
+        let localizedPath = `/${lang}${page.path}`;
+        if (defaultLocales.lang === lang) {
+            localizedPath = page.path;
+        }
+
+        const localePage = {
+            ...page,
+            originalPath: page.path,
+            path: localizedPath,
+            context: {
+                availableLocales,
+                locale: lang,
+                routed: true,
+                data: localesNSContent[lang],
+                originalPath: page.path,
+            },
+        };
+        createPage(localePage);
     });
 }

@@ -1,11 +1,18 @@
 import React from 'react';
-import { withTranslation } from 'react-i18next';
 import { Menu } from 'semantic-ui-react';
 import LanguageSwitcher from './language-switcher/language-switcher';
 import Logo from './logo';
 
-class GlobalNavbar extends React.Component<any, any> {
-    constructor(props) {
+interface Props {
+    t: any;
+    location: any;
+    handleItemClick: any;
+    inverted: boolean;
+    mobile: boolean;
+}
+
+class GlobalNavbar extends React.Component<Props, any> {
+    constructor(props: Props) {
         super(props);
     }
 
@@ -45,10 +52,10 @@ class GlobalNavbar extends React.Component<any, any> {
                     active={location.pathname === '/contact'}
                     onClick={handleItemClick}
                 ></Menu.Item>
-                <LanguageSwitcher direction={mobile ? 'right' : 'left'}></LanguageSwitcher>
+                <LanguageSwitcher t={t} direction={mobile ? 'right' : 'left'}></LanguageSwitcher>
             </React.Fragment>
         );
     }
 }
 
-export default withTranslation('common')(GlobalNavbar);
+export default GlobalNavbar;

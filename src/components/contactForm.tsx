@@ -1,5 +1,4 @@
 import React from 'react';
-import { withTranslation } from 'react-i18next';
 import { Form } from 'semantic-ui-react';
 
 class ContactForm extends React.Component<any, any> {
@@ -13,8 +12,7 @@ class ContactForm extends React.Component<any, any> {
     };
 
     render() {
-        const { t } = this.props;
-        const { disabled } = this.props;
+        const { disabled, t } = this.props;
         const { first_name, last_name, email, message } = this.state;
 
         return (
@@ -90,4 +88,4 @@ class ContactForm extends React.Component<any, any> {
     }
 }
 
-export default withTranslation('common')(ContactForm);
+export default ContactForm;

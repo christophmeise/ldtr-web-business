@@ -1,13 +1,14 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import { withTranslation } from 'react-i18next';
 import { Container } from 'semantic-ui-react';
 import ContactForm from '../components/contactForm';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import PlainHeader from './../components/plain-overlay/plain-header';
+import withI18next from './../components/withI18next/withI18next';
 
 interface Props {
+    pageContext: any;
     t: any;
     data: {
         site: {
@@ -25,18 +26,21 @@ class Contact extends React.Component<Props, any> {
     }
 
     render() {
-        const { t } = this.props;
+        const {
+            pageContext: { locale },
+            t,
+        } = this.props;
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
 
         return (
-            <Layout title={siteTitle}>
+            <Layout title={siteTitle} t={t}>
                 <SEO title="Index" />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>
-                        <ContactForm disabled={false}></ContactForm>
+                        <ContactForm disabled={false} t={t}></ContactForm>
                     </Container>
                 </Container>
             </Layout>
@@ -70,4 +74,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withTranslation(['common', 'contact'])(Contact);
+export default withI18next(['common', 'contact'])(Contact);

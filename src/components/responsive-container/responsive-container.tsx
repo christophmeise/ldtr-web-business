@@ -8,6 +8,7 @@ interface ResponsiveContainerState {
 
 interface ResponsiveContainerProps {
     invertedHeader: boolean;
+    t: any;
 }
 
 class ResponsiveContainer extends React.Component<ResponsiveContainerProps, ResponsiveContainerState> {
@@ -25,18 +26,20 @@ class ResponsiveContainer extends React.Component<ResponsiveContainerProps, Resp
     }
 
     render() {
-        const { children } = this.props;
+        const { children, t } = this.props;
         const invertedHeader = this.props.invertedHeader;
 
         return (
             <React.Fragment>
                 <div className="responsive-desktop-container">
-                    <DesktopContainer location={this.state.location} invertedHeader={invertedHeader}>
+                    <DesktopContainer location={this.state.location} invertedHeader={invertedHeader} t={t}>
                         {children}
                     </DesktopContainer>
                 </div>
                 <div className="responsive-mobile-container">
-                    <MobileContainer location={this.state.location}>{children}</MobileContainer>
+                    <MobileContainer location={this.state.location} t={t}>
+                        {children}
+                    </MobileContainer>
                 </div>
             </React.Fragment>
         );

@@ -1,7 +1,7 @@
-import { navigate } from 'gatsby';
 import React from 'react';
 import { Container, Icon, Menu, Segment, Sidebar } from 'semantic-ui-react';
 import GlobalNavbar from './../global-navbar';
+import navigateWithLocale from './../navigateWithLocale';
 
 interface HeaderState {
     sidebarOpened: boolean;
@@ -9,6 +9,7 @@ interface HeaderState {
 
 interface MobileContainerProps {
     location: any;
+    t: any;
 }
 
 export default class MobileContainer extends React.Component<MobileContainerProps, HeaderState> {
@@ -17,12 +18,12 @@ export default class MobileContainer extends React.Component<MobileContainerProp
         this.state = { sidebarOpened: false };
     }
 
-    handleItemClick = (e, { name }) => navigate(name);
+    handleItemClick = (e, { name }) => navigateWithLocale(name);
     handleSidebarHide = () => this.setState({ sidebarOpened: false });
     handleToggle = () => this.setState({ sidebarOpened: true });
 
     render() {
-        const { children } = this.props;
+        const { children, t } = this.props;
         const { sidebarOpened } = this.state;
 
         return (
@@ -42,6 +43,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                             handleItemClick={this.handleItemClick}
                             inverted={true}
                             mobile={true}
+                            t={t}
                         />
                     </Sidebar>
 

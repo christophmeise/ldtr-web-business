@@ -6,9 +6,11 @@ import BlogPostCard from '../components/blog-post-card/blog-post-card';
 import Layout from '../components/layout';
 import PlainHeader from '../components/plain-overlay/plain-header';
 import SEO from '../components/seo';
+import withI18next from './../components/withI18next/withI18next';
 import './blog.css';
 
 interface Props {
+    t: any;
     data: {
         allMarkdownRemark: any;
         site: {
@@ -24,7 +26,7 @@ interface BlogState {
     tagFilter: string;
 }
 
-export default class Blog extends React.Component<Props, BlogState> {
+class Blog extends React.Component<Props, BlogState> {
     constructor(props: Props) {
         super(props);
         this.state = {
@@ -53,6 +55,7 @@ export default class Blog extends React.Component<Props, BlogState> {
     }
 
     render() {
+        const { t } = this.props;
         const data = this.props.data;
         let posts = data.allMarkdownRemark.edges;
         const siteTitle = data.site.siteMetadata.title;
@@ -63,7 +66,7 @@ export default class Blog extends React.Component<Props, BlogState> {
         }
 
         return (
-            <Layout title={siteTitle}>
+            <Layout title={siteTitle} t={t}>
                 <SEO lang="en" description={description} title="All posts" />
                 <Container className="global-header-padding">
                     <PlainHeader content={<HeaderContent />} />
@@ -116,6 +119,8 @@ export default class Blog extends React.Component<Props, BlogState> {
         );
     }
 }
+
+export default withI18next('common')(Blog);
 
 const HeaderContent = () => {
     return (

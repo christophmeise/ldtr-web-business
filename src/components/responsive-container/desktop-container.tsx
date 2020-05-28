@@ -1,11 +1,12 @@
-import { navigate } from 'gatsby';
 import React from 'react';
 import { Container, Menu, Segment } from 'semantic-ui-react';
 import GlobalNavbar from './../global-navbar';
+import navigateWithLocale from './../navigateWithLocale';
 
 interface DesktopContainerProps {
     location: any;
     invertedHeader: boolean;
+    t: any;
 }
 
 export default class DesktopContainer extends React.Component<DesktopContainerProps, any> {
@@ -13,12 +14,12 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
         super(props);
     }
 
-    handleItemClick = (e, { name, content }) => navigate(name);
+    handleItemClick = (e, { name, content }) => navigateWithLocale(name);
     hideFixedMenu = () => this.setState({ fixed: false });
     showFixedMenu = () => this.setState({ fixed: true });
 
     render() {
-        const { children } = this.props;
+        const { children, t } = this.props;
         const inverted = this.props.invertedHeader;
 
         return (
@@ -36,6 +37,7 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
                                 handleItemClick={this.handleItemClick}
                                 inverted={inverted}
                                 mobile={false}
+                                t={t}
                             />
                         </Container>
                     </Menu>

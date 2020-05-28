@@ -5,8 +5,10 @@ import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import ShopArticleCard from './../components/shop-article-card/shop-article-card';
+import withI18next from './../components/withI18next/withI18next';
 
 interface Props {
+    t: any;
     data: {
         site: {
             siteMetadata: {
@@ -20,12 +22,13 @@ interface Props {
     };
 }
 
-export default class Shop extends React.Component<Props> {
+class Shop extends React.Component<Props> {
     constructor(props) {
         super(props);
     }
 
     render() {
+        const { t } = this.props;
         const data = this.props.data;
         const products = data.allMarkdownRemark.edges;
         const siteTitle = data.site.siteMetadata.title;
@@ -40,7 +43,7 @@ export default class Shop extends React.Component<Props> {
         ];
 
         return (
-            <Layout title={siteTitle} invertedHeader={true}>
+            <Layout title={siteTitle} invertedHeader={true} t={t}>
                 <SEO title="Shop" />
                 <HeaderOverlay
                     sources={sources}
@@ -65,6 +68,8 @@ export default class Shop extends React.Component<Props> {
         );
     }
 }
+
+export default withI18next('common')(Shop);
 
 const OverlayContent = ({ inverted }) => {
     return (

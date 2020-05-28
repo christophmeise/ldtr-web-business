@@ -1,11 +1,10 @@
-import { i18n } from 'i18next';
+import { navigate } from 'gatsby';
+import i18n from 'i18next';
 import React, { Component } from 'react';
-import { withTranslation } from 'react-i18next';
 import { Dropdown, Flag, FlagNameValues, Menu } from 'semantic-ui-react';
 import './language-switcher.css';
 
 type LanguageSwitcherProps = {
-    i18n: i18n;
     t: any;
     direction: 'left' | 'right';
 };
@@ -18,8 +17,21 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
     }
 
     handleChangeLanguage(e, data) {
-        const { i18n } = this.props;
         i18n.changeLanguage(data.value);
+        let pathSplit = location.pathname.split('/');
+        pathSplit.splice(0, 1);
+        let purePath;
+        if (pathSplit[0] === 'en') {
+            pathSplit.splice(0, 1);
+            purePath = '/' + pathSplit.join('/');
+        } else {
+            purePath = location.pathname;
+        }
+        if (i18n.language != 'de') {
+            navigate(i18n.language + purePath);
+        } else {
+            navigate(purePath);
+        }
     }
 
     componentDidMount() {
@@ -27,8 +39,8 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
     }
 
     render() {
-        const { i18n } = this.props;
         const { t } = this.props;
+
         const { direction } = this.props;
         const languages = [
             { flag: 'us', key: 'English', text: 'English', value: 'en' },
@@ -66,7 +78,7 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
     }
 }
 
-const DropdownTrigger = (i18n: i18n, t) => {
+const DropdownTrigger = (i18n, t) => {
     let language = i18n.language;
     let flagCode: FlagNameValues = 'de';
     if (language === 'en') {
@@ -80,4 +92,4 @@ const DropdownTrigger = (i18n: i18n, t) => {
     );
 };
 
-export default withTranslation('common')(LanguageSwitcher);
+export default LanguageSwitcher;

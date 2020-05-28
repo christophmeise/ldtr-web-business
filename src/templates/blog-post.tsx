@@ -4,14 +4,15 @@ import BlogPostIntroduction from '../components/blog-post-introduction/blog-post
 import HeaderOverlay from './../components/header-overlay/header-overlay';
 import Layout from './../components/layout';
 import SEO from './../components/seo';
+import withI18next from './../components/withI18next/withI18next';
 
-export default function BlogPostTemplate({ data }) {
+function BlogPostTemplate({ data, t }) {
     const { markdownRemark: post } = data;
 
     const sources = [post.frontmatter.featuredImage.childImageSharp.fluid];
 
     return (
-        <Layout title={post.frontmatter.title} invertedHeader={true}>
+        <Layout title={post.frontmatter.title} invertedHeader={true} t={t}>
             <SEO lang="en" description={post.frontmatter.title} title={post.frontmatter.title} />
             <HeaderOverlay
                 sources={sources}
@@ -20,14 +21,11 @@ export default function BlogPostTemplate({ data }) {
                 content={<OverlayContent title={post.frontmatter.title} inverted={true} />}
             />
             <BlogPostIntroduction content={post.frontmatter.blocks[0]}></BlogPostIntroduction>
-            {/*             <div className="blog-post">
-                <h1>{post.frontmatter.title}</h1>
-                <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
-            </div>
-            <Link to="/">Back to the Future!</Link> */}
         </Layout>
     );
 }
+
+export default withI18next('common')(BlogPostTemplate);
 
 const OverlayContent = ({ title, inverted }) => {
     return (
@@ -40,8 +38,8 @@ const OverlayContent = ({ title, inverted }) => {
 };
 
 export const pageQuery = graphql`
-    query BlogPostByPath($path: String!) {
-        markdownRemark(frontmatter: { path: { eq: $path } }) {
+    query BlogPostByPath($originalPath: String!) {
+        markdownRemark(frontmatter: { path: { eq: $originalPath } }) {
             html
             frontmatter {
                 date(formatString: "MMMM DD, YYYY")

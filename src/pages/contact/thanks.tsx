@@ -56,7 +56,7 @@ class Thanks extends React.Component<Props, any> {
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>
-                        <ContactForm disabled={true}></ContactForm>
+                        <ContactForm disabled={true} t={t}></ContactForm>
                     </Container>
                 </Container>
             </Layout>

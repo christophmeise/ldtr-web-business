@@ -1,6 +1,6 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import { Container } from 'semantic-ui-react';
+import { Button, Container, Grid } from 'semantic-ui-react';
 import ContactForm from '../components/contactForm';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -41,6 +41,18 @@ class Contact extends React.Component<Props, any> {
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>
                         <ContactForm disabled={false} t={t}></ContactForm>
+                        <Grid textAlign="center">
+                            <Grid.Row>
+                                <h3>Follow me on</h3>
+                            </Grid.Row>
+                            <Grid.Row>
+                                <Button color="facebook" icon="facebook" circular />
+                                <Button color="twitter" icon="twitter" circular />
+                                <Button color="linkedin" icon="linkedin" circular />
+                                <Button color="youtube" icon="youtube" circular />
+                                <Button color="instagram" icon="instagram" circular />
+                            </Grid.Row>
+                        </Grid>
                     </Container>
                 </Container>
             </Layout>

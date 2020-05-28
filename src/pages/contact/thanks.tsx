@@ -26,19 +26,7 @@ class Thanks extends React.Component<Props, any> {
         super(props);
     }
 
-    errorPopup = () => {
-        const MySwal = withReactContent(Swal);
-
-        MySwal.fire({
-            onOpen: () => {
-                MySwal.clickConfirm();
-            },
-        }).then(() => {
-            return MySwal.fire('Sorry!', 'Something went wrong, please try again later!', 'error');
-        });
-    };
-
-    successPopup = () => {
+    componentDidMount() {
         const MySwal = withReactContent(Swal);
 
         MySwal.fire({
@@ -50,14 +38,13 @@ class Thanks extends React.Component<Props, any> {
                 navigate('/');
             },
         });
-    };
+    }
 
     render() {
         const { t } = this.props;
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-        this.successPopup();
 
         return (
             <Layout title={siteTitle}>

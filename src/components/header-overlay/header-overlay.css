@@ -10,6 +10,8 @@
 .header-overlay-container {
     height: 100%;
     display: flex !important;
+    justify-content: center;
+    padding-bottom: 2rem;
 }
 
 .header-overlay-center-cropped {

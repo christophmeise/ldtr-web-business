@@ -36,9 +36,16 @@ body > div {
     width: 100%;
     z-index: 100;
 }
-@media only screen and (min-width: 768px) {
+
+@media only screen and (max-width: 767px) {
     .global-header-padding {
         padding-top: 60px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .global-header-padding {
+        padding-top: 90px;
     }
 }
 

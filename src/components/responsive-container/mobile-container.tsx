@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Icon, Menu, Segment, Sidebar } from 'semantic-ui-react';
 import GlobalNavbar from './../global-navbar';
+import Logo from './../logo';
 import navigateWithLocale from './../navigateWithLocale';
 
 interface HeaderState {
@@ -31,7 +32,8 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                 <Sidebar.Pushable as={Segment}>
                     <Sidebar
                         as={Menu}
-                        animation="slide along"
+                        animation="overlay"
+                        direction="top"
                         inverted
                         onHide={this.handleSidebarHide}
                         vertical
@@ -51,7 +53,15 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                         <Segment inverted textAlign="center" style={{ padding: '1em 0em' }} vertical>
                             <Container>
                                 <Menu inverted pointing secondary size="large">
-                                    <Menu.Item onClick={this.handleToggle}>
+                                    <Menu.Item
+                                        style={{ padding: '0', alignSelf: 'center' }}
+                                        name="/"
+                                        link
+                                        onClick={this.handleItemClick}
+                                    >
+                                        <Logo inverted={true} />
+                                    </Menu.Item>
+                                    <Menu.Item position="right" onClick={this.handleToggle}>
                                         <Icon name="sidebar" />
                                     </Menu.Item>
                                 </Menu>

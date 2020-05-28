@@ -1,0 +1,64 @@
+.aspect-ratio {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
+}
+
+/* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
+.aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+.rtt-call-to-action-image {
+    height: 450px;
+    background-position: top;
+}
+
+.call-to-action-text {
+    font-size: 4.5rem;
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+}
+.rtt-call-to-action-image-container {
+    display: flex !important;
+    height: 100%;
+}
+
+.swiper-container .swiper-wrapper {
+    padding-bottom: 3rem !important;
+    padding-top: 0.5rem !important;
+}
+
+.rtt-testimonials-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px;
+    border-radius: 0.4rem;
+    margin-left: 3rem;
+    padding: 4rem;
+    padding-left: 70px;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.15);
+    border-radius: 0.6rem;
+}
+.rtt-testimonials-card .rtt-testimonials-card-text {
+    position: block;
+}
+
+.rtt-testimonials-card-text-main {
+    color: #656565;
+    font-size: 0.9rem;
+    line-height: 1.8rem;
+    line-height: 1.7rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}

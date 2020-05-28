@@ -1,7 +1,9 @@
+import { Link } from 'gatsby';
 import React from 'react';
-import { Menu } from 'semantic-ui-react';
+import { Button, Menu } from 'semantic-ui-react';
 import LanguageSwitcher from './language-switcher/language-switcher';
 import Logo from './logo';
+import { getPathWithLocale } from './navigateWithLocale';
 
 interface Props {
     t: any;
@@ -52,7 +54,16 @@ class GlobalNavbar extends React.Component<Props, any> {
                     active={location.pathname === '/contact'}
                     onClick={handleItemClick}
                 ></Menu.Item>
-                <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
+                <Menu.Menu position="right">
+                    <Menu.Item>
+                        <Link to={getPathWithLocale('/book-call')}>
+                            <Button primary={!inverted} inverted={inverted} size="small">
+                                {t('book-first-call')}
+                            </Button>
+                        </Link>
+                    </Menu.Item>
+                    <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
+                </Menu.Menu>
             </React.Fragment>
         );
     }

@@ -5,7 +5,12 @@ import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import { getPathWithLocale } from '../components/navigateWithLocale';
 import SEO from '../components/seo';
+import SectionRTT from './../components/index/rtt';
+import SectionRTTAreas from './../components/index/rtt-areas';
+import SectionRTTCallToAction from './../components/index/rtt-call-to-action';
+import SectionRTTTestimonials from './../components/index/rtt-testimonials';
 import withI18next from './../components/withI18next/withI18next';
+import './index.css';
 
 interface Props {
     t: any;
@@ -46,6 +51,12 @@ class Index extends React.Component<Props> {
             <Layout title={siteTitle} t={t}>
                 <SEO title="Index" />
                 <HeaderOverlay sources={sources} color="#f5f4f0" inverted={false} content={OverlayContent(false, t)} />
+                <div className="main-content-sections">
+                    <SectionRTT t={t}></SectionRTT>
+                    <SectionRTTAreas t={t}></SectionRTTAreas>
+                    <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
+                    <SectionRTTTestimonials t={t}></SectionRTTTestimonials>
+                </div>
             </Layout>
         );
     }

@@ -63,7 +63,7 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
         ];
 
         return (
-            <Menu.Item position="right" onClick={this.switchLanguage}>
+            <Menu.Item onClick={this.switchLanguage}>
                 {LanuageSwitcherMobile(i18n, t)}
                 {/*  <Dropdown
                     className="icon dropdown-icon-left"

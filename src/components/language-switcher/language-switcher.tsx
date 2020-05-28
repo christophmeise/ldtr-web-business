@@ -1,9 +1,16 @@
+import { i18n } from 'i18next';
 import React, { Component } from 'react';
 import { withTranslation } from 'react-i18next';
 import { Dropdown, Flag, FlagNameValues, Menu } from 'semantic-ui-react';
 import './language-switcher.css';
 
-class LanguageSwitcher extends Component<any, any> {
+type LanguageSwitcherProps = {
+    i18n: i18n;
+    t: any;
+    direction: 'left' | 'right';
+};
+
+class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
     constructor(props) {
         super(props);
 
@@ -13,6 +20,10 @@ class LanguageSwitcher extends Component<any, any> {
     handleChangeLanguage(e, data) {
         const { i18n } = this.props;
         i18n.changeLanguage(data.value);
+    }
+
+    componentDidMount() {
+        this.forceUpdate();
     }
 
     render() {
@@ -32,7 +43,7 @@ class LanguageSwitcher extends Component<any, any> {
                     floating
                     direction={direction}
                     icon={null}
-                    trigger={DropdownTrigger(i18n.language, t)}
+                    trigger={DropdownTrigger(i18n, t)}
                 >
                     <Dropdown.Menu>
                         <Dropdown.Header icon="world" content={t('select_language')} />
@@ -55,9 +66,10 @@ class LanguageSwitcher extends Component<any, any> {
     }
 }
 
-const DropdownTrigger = (name, t) => {
+const DropdownTrigger = (i18n: i18n, t) => {
+    let language = i18n.language;
     let flagCode: FlagNameValues = 'de';
-    if (name === 'en') {
+    if (language === 'en') {
         flagCode = 'us'; // Semantic UI uses non-standard language keys...
     }
     return (

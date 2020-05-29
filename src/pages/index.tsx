@@ -5,6 +5,7 @@ import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import { getPathWithLocale } from '../components/navigateWithLocale';
 import SEO from '../components/seo';
+import FAQ from './../components/faq/faq';
 import SectionRTT from './../components/index/rtt';
 import SectionRTTAreas from './../components/index/rtt-areas';
 import SectionRTTCallToAction from './../components/index/rtt-call-to-action';
@@ -52,17 +53,16 @@ class Index extends React.Component<Props> {
                 <SEO title="Index" />
                 <HeaderOverlay sources={sources} color="#f5f4f0" inverted={false} content={OverlayContent(false, t)} />
                 <div className="main-content-sections">
-                    <div data-sal="slide-up" data-sal-delay="450" data-sal-duration="300" data-sal-easing="ease">
-                        <SectionRTT t={t}></SectionRTT>
-                    </div>
-                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="300" data-sal-easing="ease">
-                        <SectionRTTAreas t={t}></SectionRTTAreas>
-                    </div>
-                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="300" data-sal-easing="ease">
+                    <SectionRTT t={t}></SectionRTT>
+                    <SectionRTTAreas t={t}></SectionRTTAreas>
+                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
                         <SectionRTTTestimonials t={t}></SectionRTTTestimonials>
                     </div>
-                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="300" data-sal-easing="ease">
+                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
                         <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
+                    </div>
+                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
+                        <FAQ t={t}></FAQ>
                     </div>
                 </div>
             </Layout>
@@ -112,4 +112,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next('common')(Index);
+export default withI18next(['common', 'faq'])(Index);

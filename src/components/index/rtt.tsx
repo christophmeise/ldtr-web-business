@@ -17,9 +17,11 @@ const SectionRTT = ({ t }) => {
                     </div>
                 </GridColumn>
                 <GridColumn width="8">
-                    <h2>{t('index-what-is-rtt-headline')}</h2>
-                    <p style={{ textAlign: 'justify' }}>{t('index-what-is-rtt-text')}</p>
-                    <Button primary>{t('index-what-is-rtt-button')}</Button>
+                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
+                        <h2>{t('index-what-is-rtt-headline')}</h2>
+                        <p style={{ textAlign: 'justify' }}>{t('index-what-is-rtt-text')}</p>
+                        <Button primary>{t('index-what-is-rtt-button')}</Button>
+                    </div>
                 </GridColumn>
             </Grid>
         </Container>

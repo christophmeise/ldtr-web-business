@@ -7,6 +7,12 @@
     margin-bottom: 3rem;
 }
 
+@media only screen and (max-width: 767px) {
+    .header-overlay {
+        height: calc(100vh - 72px);
+    }
+}
+
 .header-overlay-container {
     height: 100%;
     display: flex !important;

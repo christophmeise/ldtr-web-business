@@ -5,8 +5,18 @@ import 'swiper/css/swiper.css';
 import './rtt.css';
 
 const SectionRTTTestimonials = ({ t }) => {
+    const isSSR = typeof window === 'undefined';
+    let slidesPerView = 2;
+    if (!isSSR) {
+        if (window.innerWidth < 768) {
+            slidesPerView = 1;
+        } else {
+            slidesPerView = 2;
+        }
+    }
+
     const params = {
-        slidesPerView: 2,
+        slidesPerView: slidesPerView,
         spaceBetween: 40,
         pagination: {
             el: '.swiper-pagination',

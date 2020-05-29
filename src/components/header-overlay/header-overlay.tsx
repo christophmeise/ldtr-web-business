@@ -31,7 +31,16 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
                             </GridColumn>
                         </Grid>
                         <Grid className="header-overlay-container-mobile responsive-mobile-container">
-                            <GridColumn>{content}</GridColumn>
+                            <GridColumn>
+                                <div
+                                    data-sal="slide-down"
+                                    data-sal-delay="300"
+                                    data-sal-duration="300"
+                                    data-sal-easing="ease"
+                                >
+                                    {content}
+                                </div>
+                            </GridColumn>
                         </Grid>
                     </Container>
                 </BackgroundImage>

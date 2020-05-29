@@ -34,9 +34,15 @@ const SectionRTTCallToAction = ({ t }) => {
                             </Button>
                         </GridColumn>
                     </Grid>
-                    <Grid className="header-overlay-container-mobile responsive-mobile-container">
-                        <GridColumn></GridColumn>
-                    </Grid>
+                    <Container
+                        className="header-overlay-container-mobile responsive-mobile-container"
+                        textAlign="center"
+                    >
+                        <h2 className="call-to-action-text">Are You Ready For Your Transformation?</h2>
+                        <Button primary size="large">
+                            Get Started
+                        </Button>
+                    </Container>
                 </Container>
             </BackgroundImage>
         </section>

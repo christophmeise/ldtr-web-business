@@ -14,7 +14,7 @@ export const options = {
             contact: require('../../locales/en/contact.json'),
         },
     }, */
-    ns: [defaultNamespace, 'contact'],
+    ns: [defaultNamespace, 'contact', 'faq'],
     defaultNS: defaultNamespace,
     returnObjects: true,
     debug: process.env.NODE_ENV === 'development',

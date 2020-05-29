@@ -7,7 +7,7 @@ const SectionRTTAreas = ({ t }) => {
         <section>
             <Segment inverted>
                 <Container as="section">
-                    <Grid width="16" columns="1">
+                    <Grid width="16" columns="1" stackable>
                         <GridRow textAlign="center" centered>
                             <h2>{t('index-rtt-areas-headline')}</h2>
                         </GridRow>
@@ -17,13 +17,19 @@ const SectionRTTAreas = ({ t }) => {
                     </Grid>
                     <Grid columns="3" width="16" stackable>
                         <GridColumn>
-                            <Image src="linisboetchen.jpg" rounded></Image>
+                            <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
+                                <Image src="linisboetchen.jpg" rounded></Image>
+                            </div>
                         </GridColumn>
                         <GridColumn>
-                            <Image src="linisboetchen.jpg" rounded></Image>
+                            <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
+                                <Image src="linisboetchen.jpg" rounded></Image>
+                            </div>
                         </GridColumn>
                         <GridColumn>
-                            <Image src="linisboetchen.jpg" rounded></Image>
+                            <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
+                                <Image src="linisboetchen.jpg" rounded></Image>
+                            </div>
                         </GridColumn>
                     </Grid>
                 </Container>

@@ -12,6 +12,10 @@ const localesNSContent = {
             content: fs.readFileSync(`src/locales/en/contact.json`, 'utf8'),
             ns: 'contact',
         },
+        {
+            content: fs.readFileSync(`src/locales/en/faq.json`, 'utf8'),
+            ns: 'faq',
+        },
     ],
     de: [
         {
@@ -21,6 +25,10 @@ const localesNSContent = {
         {
             content: fs.readFileSync(`src/locales/de/contact.json`, 'utf8'),
             ns: 'contact',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/faq.json`, 'utf8'),
+            ns: 'faq',
         },
     ],
 };

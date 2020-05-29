@@ -1,3 +1,6 @@
+html {
+    overflow: hidden;
+}
 html,
 body {
     margin: 0;
@@ -93,4 +96,15 @@ p {
     line-height: 24px;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizelegibility;
+}
+
+.global-subtitle {
+    margin-bottom: 0;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.text-primary {
+    color: #2185d0 !important;
 }

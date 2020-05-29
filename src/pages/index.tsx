@@ -52,10 +52,18 @@ class Index extends React.Component<Props> {
                 <SEO title="Index" />
                 <HeaderOverlay sources={sources} color="#f5f4f0" inverted={false} content={OverlayContent(false, t)} />
                 <div className="main-content-sections">
-                    <SectionRTT t={t}></SectionRTT>
-                    <SectionRTTAreas t={t}></SectionRTTAreas>
-                    <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
-                    <SectionRTTTestimonials t={t}></SectionRTTTestimonials>
+                    <div data-sal="slide-up" data-sal-delay="450" data-sal-duration="300" data-sal-easing="ease">
+                        <SectionRTT t={t}></SectionRTT>
+                    </div>
+                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="300" data-sal-easing="ease">
+                        <SectionRTTAreas t={t}></SectionRTTAreas>
+                    </div>
+                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="300" data-sal-easing="ease">
+                        <SectionRTTTestimonials t={t}></SectionRTTTestimonials>
+                    </div>
+                    <div data-sal="slide-up" data-sal-delay="150" data-sal-duration="300" data-sal-easing="ease">
+                        <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
+                    </div>
                 </div>
             </Layout>
         );

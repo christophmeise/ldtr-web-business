@@ -20,21 +20,26 @@ const SectionRTTCallToAction = ({ t }) => {
     );
 
     return (
-        <BackgroundImage Tag="section" className="rtt-call-to-action-image" fluid={data.image.childImageSharp.fluid}>
-            <Container className="rtt-call-to-action-image-container">
-                <Grid className="header-overlay-container-desktop responsive-desktop-container" verticalAlign="middle">
-                    <GridColumn width={16} verticalAlign="middle">
-                        <h2 className="call-to-action-text">Are You Ready For Your Transformation?</h2>
-                        <Button primary size="large">
-                            Get Started
-                        </Button>
-                    </GridColumn>
-                </Grid>
-                <Grid className="header-overlay-container-mobile responsive-mobile-container">
-                    <GridColumn></GridColumn>
-                </Grid>
-            </Container>
-        </BackgroundImage>
+        <section>
+            <BackgroundImage className="rtt-call-to-action-image" fluid={data.image.childImageSharp.fluid}>
+                <Container className="rtt-call-to-action-image-container">
+                    <Grid
+                        className="header-overlay-container-desktop responsive-desktop-container"
+                        verticalAlign="middle"
+                    >
+                        <GridColumn width={16} verticalAlign="middle">
+                            <h2 className="call-to-action-text">Are You Ready For Your Transformation?</h2>
+                            <Button primary size="large">
+                                Get Started
+                            </Button>
+                        </GridColumn>
+                    </Grid>
+                    <Grid className="header-overlay-container-mobile responsive-mobile-container">
+                        <GridColumn></GridColumn>
+                    </Grid>
+                </Container>
+            </BackgroundImage>
+        </section>
     );
 };
 

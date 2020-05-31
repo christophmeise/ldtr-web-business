@@ -7,7 +7,7 @@ const SectionRTT = ({ t }) => {
         <Container as="section">
             <Header textAlign="center">
                 <h3 className="global-subtitle text-primary">Rapid Transformational Therapy™</h3>
-                <h2 style={{ marginTop: '0.5rem' }}>
+                <h2 className="global-headline" style={{ marginTop: '0.5rem' }}>
                     A Novel Combination of Hypnotherapy, Psychotherapy and Cognitive Behavioural Therapy
                 </h2>
             </Header>

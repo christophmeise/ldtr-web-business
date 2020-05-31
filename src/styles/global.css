@@ -108,3 +108,20 @@ p {
 .text-primary {
     color: #2185d0 !important;
 }
+
+.text-secondary {
+    color: #e83e8c;
+}
+
+.text-primary-inverted {
+    color: #fff !important;
+}
+.shadow {
+    box-shadow: 0 5px 12px 0 rgba(33, 43, 54, 0.07), 0 10px 30px 0 rgba(33, 43, 54, 0.085);
+}
+.rounded {
+    border-radius: 0.5rem;
+}
+.bg-secondary {
+    background: #f8f9fa;
+}

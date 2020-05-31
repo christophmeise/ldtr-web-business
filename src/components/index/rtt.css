@@ -95,3 +95,23 @@
 .rtt-testimonials-card-inner-container {
     display: flex;
 }
+
+.rtt-icon-circle {
+    background-color: #eaedfe;
+    display: inline-block;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 4rem;
+    margin-bottom: 1rem !important;
+}
+
+.rtt-icon-circle > i {
+    margin: none !important;
+}
+
+.video-wrapper {
+    margin-top: 2.5rem;
+    overflow: hidden;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import Swiper from 'react-id-swiper';
-import { Container, Icon, Label } from 'semantic-ui-react';
+import { Container, Header, Icon, Label } from 'semantic-ui-react';
 import 'swiper/css/swiper.css';
 import './rtt.css';
 
@@ -24,11 +24,11 @@ const SectionRTTTestimonials = ({ t }) => {
         },
     };
     return (
-        <Container as="section" className="rtt-testimonials-container">
-            <Container text textAlign="center">
-                <p className="global-subtitle text-primary">Testimonials</p>
+        <Container as="section">
+            <Header textAlign="center">
+                <h3 className="global-subtitle text-primary">Testimonials</h3>
                 <h2 style={{ marginTop: '0.5rem' }}>{t('rtt-testimonials-headline')}</h2>
-            </Container>
+            </Header>
             <Swiper {...params}>
                 <div>
                     <div className="rtt-testimonials-card">

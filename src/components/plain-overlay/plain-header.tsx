@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Grid, GridColumn } from 'semantic-ui-react';
-import './plain-header.css';
+import './plain-header.less';
 
 const PlainHeader = ({ content }) => {
     return (

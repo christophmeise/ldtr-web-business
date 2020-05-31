@@ -2,7 +2,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
 import { Button, Container, Grid, GridColumn } from 'semantic-ui-react';
-import './rtt.css';
+import './rtt.less';
 
 const SectionRTTCallToAction = ({ t }) => {
     const data = useStaticQuery(

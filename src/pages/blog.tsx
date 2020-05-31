@@ -1,17 +1,17 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import 'semantic-ui-css/semantic.min.css';
 import { Container, Grid, Label } from 'semantic-ui-react';
 import BlogPostCard from '../components/blog-post-card/blog-post-card';
 import Layout from '../components/layout';
 import PlainHeader from '../components/plain-overlay/plain-header';
 import SEO from '../components/seo';
 import withI18next from './../components/withI18next/withI18next';
-import './blog.css';
+import './blog.less';
 
 interface Props {
     t: any;
     data: {
+        s;
         allMarkdownRemark: any;
         site: {
             siteMetadata: {

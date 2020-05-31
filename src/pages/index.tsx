@@ -11,7 +11,7 @@ import SectionRTTAreas from './../components/index/rtt-areas';
 import SectionRTTCallToAction from './../components/index/rtt-call-to-action';
 import SectionRTTTestimonials from './../components/index/rtt-testimonials';
 import withI18next from './../components/withI18next/withI18next';
-import './index.css';
+import './index.less';
 
 interface Props {
     t: any;

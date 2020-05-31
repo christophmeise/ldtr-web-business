@@ -3,7 +3,7 @@ import Img from 'gatsby-image';
 import React from 'react';
 import { Grid, Image, Item, Label } from 'semantic-ui-react';
 import { getPathWithLocale } from '../navigateWithLocale';
-import './shop-article-card.css';
+import './shop-article-card.less';
 
 interface Props {
     article: any;

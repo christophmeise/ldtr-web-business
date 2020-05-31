@@ -2,7 +2,7 @@ import React from 'react';
 import Swiper from 'react-id-swiper';
 import { Container, Header, Icon, Label } from 'semantic-ui-react';
 import 'swiper/css/swiper.css';
-import './rtt.css';
+import './rtt.less';
 
 const SectionRTTTestimonials = ({ t }) => {
     const isSSR = typeof window === 'undefined';

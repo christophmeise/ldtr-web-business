@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Grid, GridColumn, Header } from 'semantic-ui-react';
-import './rtt.css';
+import './rtt.less';
 
 const SectionRTT = ({ t }) => {
     return (

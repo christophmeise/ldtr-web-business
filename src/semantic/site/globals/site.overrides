@@ -1,0 +1,16 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+/*@font-face {
+    font-family: 'Poppins';
+    src: url('../../static/fonts/Poppins/Poppins-Regular.ttf') format('ttf');
+}*/
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins/Poppins-Regular.ttf') format('ttf');
+}
+
+html, body, h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,6 +1,8 @@
 import fs from 'fs';
-import path from 'path';
+import path, { dirname } from 'path';
+import { fileURLToPath } from 'url';
 const { resolve } = path;
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const localesNSContent = {
     en: [
@@ -39,6 +41,14 @@ const availableLocales = [
 ];
 
 const defaultLocales = { lang: 'de', text: 'Deutsch' };
+
+export function onCreateWebpackConfig({ actions }) {
+    actions.setWebpackConfig({
+        resolve: {
+            alias: { '../../theme.config$': path.join(__dirname, 'src/semantic/theme.config') },
+        },
+    });
+}
 
 export async function createPages({ actions, graphql, reporter }) {
     const { createPage } = actions;

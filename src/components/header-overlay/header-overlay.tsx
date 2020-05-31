@@ -1,7 +1,7 @@
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
 import { Container, Grid, GridColumn } from 'semantic-ui-react';
-import './header-overlay.css';
+import './header-overlay.less';
 
 const HeaderOverlay = ({ sources, color, inverted, content }) => {
     return (

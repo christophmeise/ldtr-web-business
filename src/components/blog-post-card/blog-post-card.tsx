@@ -3,7 +3,7 @@ import Img from 'gatsby-image';
 import React from 'react';
 import { Card, CardContent, CardHeader, CardMeta, Image } from 'semantic-ui-react';
 import { getPathWithLocale } from '../navigateWithLocale';
-import './blog-post-card.css';
+import './blog-post-card.less';
 
 interface Props {
     post: any;

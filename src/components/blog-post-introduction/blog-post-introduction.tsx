@@ -1,7 +1,7 @@
 import Img from 'gatsby-image';
 import React from 'react';
 import { Container, Grid, Image } from 'semantic-ui-react';
-import './blog-post-introduction.css';
+import './blog-post-introduction.less';
 
 interface Props {
     content: any;

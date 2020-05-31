@@ -2,7 +2,7 @@ import { navigate } from 'gatsby';
 import i18n from 'i18next';
 import React, { Component } from 'react';
 import { Flag, FlagNameValues, Menu } from 'semantic-ui-react';
-import './language-switcher.css';
+import './language-switcher.less';
 
 type LanguageSwitcherProps = {
     t: any;

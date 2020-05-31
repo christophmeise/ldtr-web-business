@@ -20,6 +20,7 @@ module.exports = {
         'gatsby-plugin-react-helmet',
         'gatsby-plugin-sharp',
         'gatsby-transformer-sharp',
+        'gatsby-plugin-less',
         {
             resolve: `gatsby-plugin-scroll-reveal`,
             options: {
@@ -82,12 +83,6 @@ module.exports = {
                         },
                     },
                 ],
-            },
-        },
-        {
-            resolve: `gatsby-plugin-typography`,
-            options: {
-                pathToConfigModule: `src/utils/typography`,
             },
         },
         {

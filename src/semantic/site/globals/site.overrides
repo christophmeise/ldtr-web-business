@@ -37,7 +37,16 @@
     src: url('/fonts/Poppins/Poppins-Black.ttf') format('ttf');
 }
 
+@font-face {
+    font-family: 'Playfair';
+    src: url('/fonts/Playfair/PlayfairDisplay-Bold.ttf') format('ttf');
+}
+
 html, body, h1, h2, h3, h4, h5, h6, p {
     font-family: 'Poppins', sans-serif;
+}
+
+.font-playfair {
+    font-family: 'Playfair';
 }
 

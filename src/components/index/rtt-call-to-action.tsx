@@ -10,7 +10,7 @@ const SectionRTTCallToAction = ({ t }) => {
             query {
                 image: file(relativePath: { eq: "call-to-action-todo.jpg" }) {
                     childImageSharp {
-                        fluid {
+                        fluid(quality: 100) {
                             ...GatsbyImageSharpFluid_noBase64
                         }
                     }
@@ -28,8 +28,8 @@ const SectionRTTCallToAction = ({ t }) => {
                         verticalAlign="middle"
                     >
                         <GridColumn width={16} verticalAlign="middle">
-                            <h2 className="call-to-action-text">Are You Ready For Your Transformation?</h2>
-                            <Button primary size="large">
+                            <h2 className="call-to-action-text font-playfair">Ready For Your Journey?</h2>
+                            <Button primary size="medium">
                                 Get Started
                             </Button>
                         </GridColumn>
@@ -38,8 +38,8 @@ const SectionRTTCallToAction = ({ t }) => {
                         className="header-overlay-container-mobile responsive-mobile-container"
                         textAlign="center"
                     >
-                        <h2 className="call-to-action-text">Are You Ready For Your Transformation?</h2>
-                        <Button primary size="large">
+                        <h2 className="call-to-action-text font-playfair">Ready For Your Journey?</h2>
+                        <Button primary size="medium">
                             Get Started
                         </Button>
                     </Container>

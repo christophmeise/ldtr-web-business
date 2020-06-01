@@ -4,16 +4,6 @@ export const defaultNamespace = 'common';
 
 export const options = {
     fallbackLng: defaultLocale,
-    /*   resources: {
-        de: {
-            common: require('../../locales/de/common.json'),
-            contact: require('../../locales/de/contact.json'),
-        },
-        en: {
-            common: require('../../locales/en/common.json'),
-            contact: require('../../locales/en/contact.json'),
-        },
-    }, */
     ns: [defaultNamespace, 'contact', 'faq'],
     defaultNS: defaultNamespace,
     returnObjects: true,

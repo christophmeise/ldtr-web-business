@@ -5,9 +5,30 @@
 @importGoogleFonts : false;
 
 
+
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('/fonts/Poppins/Poppins-Thin.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('/fonts/Poppins/Poppins-Light.ttf') format('ttf');
+}
+
 @font-face {
     font-family: 'Poppins';
     src: url('/fonts/Poppins/Poppins-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('/fonts/Poppins/Poppins-Medium.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url('/fonts/Poppins/Poppins-SemiBold.ttf') format('ttf');
 }
 
 @font-face {
@@ -16,6 +37,6 @@
 }
 
 @font-face {
-    font-family: 'Poppins-Light';
-    src: url('/fonts/Poppins/Poppins-Light.ttf') format('ttf');
+    font-family: 'Poppins-Black';
+    src: url('/fonts/Poppins/Poppins-Black.ttf') format('ttf');
 }

@@ -1,16 +1,16 @@
 import React from 'react';
-import { Container, Grid, GridColumn, Header } from 'semantic-ui-react';
+import { Container, Grid, GridColumn } from 'semantic-ui-react';
+import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
 const SectionRTT = ({ t }) => {
     return (
         <Container as="section">
-            <Header textAlign="center">
-                <h3 className="global-subtitle text-primary">Rapid Transformational Therapy™</h3>
-                <h2 className="global-headline" style={{ marginTop: '0.5rem' }}>
-                    A Novel Combination of Hypnotherapy, Psychotherapy and Cognitive Behavioural Therapy
-                </h2>
-            </Header>
+            <SectionHeader
+                headline="A Novel Combination of Hypnotherapy, Psychotherapy and Cognitive Behavioural Therapy"
+                subheadline="Rapid Transformational Therapy™"
+                primary={true}
+            ></SectionHeader>
             <article>
                 <Grid columns="1" centered stackable>
                     <GridColumn width="12" className="index-rtt-video-container">
@@ -25,13 +25,6 @@ const SectionRTT = ({ t }) => {
                     </GridColumn>
                 </Grid>
             </article>
-            {/*  <Segment raised={false} textAlign="center" style={{ marginBottom: '3rem' }}>
-                <p >Rapid Transformational Therapy™</p>
-                <h2 style={{ marginTop: '0.5rem' }}>
-                   
-                </h2>
-            </Segment>
- */}
             {/*  <Grid columns="1" centered stackable>
                 <GridColumn width="12" className="index-rtt-video-container">
                     <div className="aspect-ratio">

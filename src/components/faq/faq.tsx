@@ -1,5 +1,6 @@
 import React from 'react';
 import { Accordion, Container, Icon } from 'semantic-ui-react';
+import SectionHeader from './../sectionHeader';
 
 class FAQ extends React.Component<any, any> {
     constructor(props) {
@@ -49,11 +50,12 @@ class FAQ extends React.Component<any, any> {
 
         return (
             <Container as="section">
-                <Container text textAlign="center">
-                    <p className="global-subtitle text-primary">{t('faq-subheadline')}</p>
-                    <h2 style={{ marginTop: '0.5rem' }}>{t('faq-headline')}</h2>
-                </Container>
-                <Accordion style={{ marginTop: '3rem' }} fluid styled>
+                <SectionHeader
+                    headline={t('faq-headline')}
+                    subheadline={t('faq-subheadline')}
+                    primary={true}
+                ></SectionHeader>
+                <Accordion fluid styled>
                     {faqContent.map((faq) => {
                         return (
                             <AccordionItem

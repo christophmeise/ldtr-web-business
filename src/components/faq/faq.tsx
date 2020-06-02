@@ -1,5 +1,5 @@
 import React from 'react';
-import { Accordion, Container, Icon } from 'semantic-ui-react';
+import { Accordion, Container, Icon, Transition } from 'semantic-ui-react';
 import SectionHeader from './../sectionHeader';
 
 class FAQ extends React.Component<any, any> {
@@ -85,7 +85,9 @@ const AccordionItem = ({ t, activeIndex, index, handleClick, titleKey, contentKe
                 {t(titleKey)}
             </Accordion.Title>
             <Accordion.Content active={activeIndex === index}>
-                <p>{t(contentKey)}</p>
+                <Transition visible={activeIndex === index} animation="fade down" duration={300}>
+                    <p>{t(contentKey)}</p>
+                </Transition>
             </Accordion.Content>
         </React.Fragment>
     );

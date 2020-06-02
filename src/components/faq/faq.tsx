@@ -54,6 +54,7 @@ class FAQ extends React.Component<any, any> {
                     headline={t('faq-headline')}
                     subheadline={t('faq-subheadline')}
                     primary={true}
+                    textAlign="center"
                 ></SectionHeader>
                 <Accordion fluid styled>
                     {faqContent.map((faq) => {

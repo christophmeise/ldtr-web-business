@@ -70,7 +70,7 @@ class Blog extends React.Component<Props, BlogState> {
                 <SEO lang="en" description={description} title="All posts" />
                 <Container className="global-header-padding">
                     <PlainHeader content={<HeaderContent />} />
-                    <Label.Group className="blog-tag-label-group" color="blue">
+                    <Label.Group className="blog-tag-label-group">
                         {tags.map((tag) => {
                             return (
                                 <Label as="a" onClick={this.filterByLabel.bind(this)}>

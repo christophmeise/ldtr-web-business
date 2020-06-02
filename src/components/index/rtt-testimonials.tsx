@@ -30,97 +30,29 @@ const SectionRTTTestimonials = ({ t }) => {
                 headline={t('rtt-testimonials-headline')}
                 subheadline="Testimonials"
                 primary={true}
+                textAlign="center"
             ></SectionHeader>
             <Swiper {...params}>
                 <div>
-                    <div className="rtt-testimonials-card">
-                        <Label as="a" color="teal" ribbon="right">
-                            Hypnotherapy
-                        </Label>
-                        <div className="rtt-testimonials-card-text">
-                            <div className="rtt-testimonials-card-inner-container">
-                                <div className="rtt-testimonials-avatar">
-                                    <img
-                                        className="img-fluid"
-                                        src="https://d19m59y37dris4.cloudfront.net/directory/1-5/img/avatar/avatar-3.jpg"
-                                        alt="..."
-                                    />
-                                </div>
-                                <div>
-                                    <Icon
-                                        color="blue"
-                                        className="rtt-testimonials-card-text-quote"
-                                        name="quote right"
-                                    />
-                                    <p className="rtt-testimonials-card-text-main">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever
-                                    </p>
-                                    <strong className="rtt-testimonials-card-text-author">Jessica Watson</strong>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <RTTTestimonialCard
+                        label="Hypnotherapy"
+                        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+                        author="Jessica Watson"
+                    ></RTTTestimonialCard>
                 </div>
                 <div>
-                    <div className="rtt-testimonials-card">
-                        <Label as="a" color="teal" ribbon="right">
-                            Hypnotherapy
-                        </Label>
-                        <div className="rtt-testimonials-card-text">
-                            <div className="rtt-testimonials-card-inner-container">
-                                <div className="rtt-testimonials-avatar">
-                                    <img
-                                        className="img-fluid"
-                                        src="https://d19m59y37dris4.cloudfront.net/directory/1-5/img/avatar/avatar-3.jpg"
-                                        alt="..."
-                                    />
-                                </div>
-                                <div>
-                                    <Icon
-                                        color="blue"
-                                        className="rtt-testimonials-card-text-quote"
-                                        name="quote right"
-                                    />
-                                    <p className="rtt-testimonials-card-text-main">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever
-                                    </p>
-                                    <strong className="rtt-testimonials-card-text-author">Jessica Watson</strong>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <RTTTestimonialCard
+                        label="Hypnotherapy"
+                        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+                        author="Jessica Watson"
+                    ></RTTTestimonialCard>
                 </div>
                 <div>
-                    <div className="rtt-testimonials-card">
-                        <Label as="a" color="teal" ribbon="right">
-                            Hypnotherapy
-                        </Label>
-                        <div className="rtt-testimonials-card-text">
-                            <div className="rtt-testimonials-card-inner-container">
-                                <div className="rtt-testimonials-avatar">
-                                    <img
-                                        className="img-fluid"
-                                        src="https://d19m59y37dris4.cloudfront.net/directory/1-5/img/avatar/avatar-3.jpg"
-                                        alt="..."
-                                    />
-                                </div>
-                                <div>
-                                    <Icon
-                                        color="blue"
-                                        className="rtt-testimonials-card-text-quote"
-                                        name="quote right"
-                                    />
-                                    <p className="rtt-testimonials-card-text-main">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever
-                                    </p>
-                                    <strong className="rtt-testimonials-card-text-author">Jessica Watson</strong>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <RTTTestimonialCard
+                        label="Hypnotherapy"
+                        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+                        author="Jessica Watson"
+                    ></RTTTestimonialCard>
                 </div>
             </Swiper>
         </Container>
@@ -128,3 +60,29 @@ const SectionRTTTestimonials = ({ t }) => {
 };
 
 export default SectionRTTTestimonials;
+
+export function RTTTestimonialCard({ label, text, author }) {
+    return (
+        <div className="rtt-testimonials-card">
+            <Label as="a" ribbon="right">
+                {label}
+            </Label>
+            <div className="rtt-testimonials-card-text">
+                <div className="rtt-testimonials-card-inner-container">
+                    <div className="rtt-testimonials-avatar">
+                        <img
+                            className="img-fluid"
+                            src="https://d19m59y37dris4.cloudfront.net/directory/1-5/img/avatar/avatar-3.jpg"
+                            alt="..."
+                        />
+                    </div>
+                    <div>
+                        <Icon className="rtt-testimonials-card-text-quote text-secondary" name="quote right" />
+                        <p className="rtt-testimonials-card-text-main">{text}</p>
+                        <strong className="rtt-testimonials-card-text-author">{author}</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+}

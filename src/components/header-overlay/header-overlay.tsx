@@ -12,11 +12,7 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
             }}
         >
             <div className="header-overlay-image-wrapper">
-                <BackgroundImage
-                    Tag="section"
-                    className="header-overlay-image header-overlay-center-cropped"
-                    fluid={sources}
-                >
+                <BackgroundImage Tag="section" className="header-overlay-center-cropped" fluid={sources}>
                     <Container className="header-overlay-container">
                         <Grid className="header-overlay-container-desktop responsive-desktop-container">
                             <GridColumn width={8}>

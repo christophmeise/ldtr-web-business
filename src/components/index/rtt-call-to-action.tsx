@@ -28,7 +28,7 @@ const SectionRTTCallToAction = ({ t }) => {
                         verticalAlign="middle"
                     >
                         <GridColumn width={16} verticalAlign="middle">
-                            <h2 className="call-to-action-text font-playfair">Ready For Your Journey?</h2>
+                            <h2 className="call-to-action-text font-playfair">Ready for your journey?</h2>
                             <Button primary size="medium">
                                 Get Started
                             </Button>
@@ -38,7 +38,7 @@ const SectionRTTCallToAction = ({ t }) => {
                         className="header-overlay-container-mobile responsive-mobile-container"
                         textAlign="center"
                     >
-                        <h2 className="call-to-action-text font-playfair">Ready For Your Journey?</h2>
+                        <h2 className="call-to-action-text font-playfair">Ready for your journey?</h2>
                         <Button primary size="medium">
                             Get Started
                         </Button>

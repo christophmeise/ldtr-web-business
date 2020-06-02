@@ -4,39 +4,26 @@
 
 @importGoogleFonts : false;
 
+@primaryColor   : #35bdb2;
+@secondaryColor : #7F7EFF;
+@red            : #B03060;
+@orange         : #FE9A76;
+@yellow         : #FFD700;
+@olive          : #32CD32;
+@green          : #016936;
+@teal           : #008080;
+@blue           : #0E6EB8;
+@violet         : #EE82EE;
+@purple         : #B413EC;
+@pink           : #FF1493;
+@brown          : #A52A2A;
+@grey           : #A0A0A0;
+@black          : #000000;
 
-
-@font-face {
-    font-family: 'Poppins-Thin';
-    src: url('/fonts/Poppins/Poppins-Thin.ttf') format('ttf');
+.text-primary {
+    color: @primaryColor !important;
 }
 
-@font-face {
-    font-family: 'Poppins-Light';
-    src: url('/fonts/Poppins/Poppins-Light.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: 'Poppins';
-    src: url('/fonts/Poppins/Poppins-Regular.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: 'Poppins-Medium';
-    src: url('/fonts/Poppins/Poppins-Medium.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: 'Poppins-SemiBold';
-    src: url('/fonts/Poppins/Poppins-SemiBold.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: 'Poppins-Bold';
-    src: url('/fonts/Poppins/Poppins-Bold.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: 'Poppins-Black';
-    src: url('/fonts/Poppins/Poppins-Black.ttf') format('ttf');
+.text-secondary {
+    color: @secondaryColor;
 }

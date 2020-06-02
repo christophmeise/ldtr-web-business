@@ -10,6 +10,7 @@ const SectionRTT = ({ t }) => {
                 headline="A Novel Combination of Hypnotherapy, Psychotherapy and Cognitive Behavioural Therapy"
                 subheadline="Rapid Transformational Therapy™"
                 primary={true}
+                textAlign="center"
             ></SectionHeader>
             <article>
                 <Grid columns="1" centered stackable>

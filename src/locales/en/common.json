@@ -3,6 +3,8 @@
     "blog": "Blog",
     "shop": "Shop",
     "contact": "Contact",
+    "faq": "FAQ",
+    "book-call": "Book a Call",
     "current_language": "English",
     "select_language": "Select language",
     "book-first-call": "Book A Free Consultation",
@@ -23,5 +25,13 @@
     "rtt-area-3": "Addictions",
     "rtt-area-4": "Fears and Phobias",
     "rtt-area-5": "Weight Reduction",
-    "rtt-area-6": "Stress and Burnout"
+    "rtt-area-6": "Stress and Burnout",
+    "footer-directory": "Directory",
+    "footer-pages": "Pages",
+    "footer-services": "Services",
+    "footer-general": "General",
+    "dataprotection": "Data Protection",
+    "impressum": "Imprint",
+    "dataprotection-headline": "Data protection",
+    "dataprotection-subheadline": "If you have any questions, drop us a message!"
 }

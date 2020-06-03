@@ -18,7 +18,7 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
                             <GridColumn width={8}>
                                 <div
                                     data-sal="slide-down"
-                                    data-sal-delay="300"
+                                    data-sal-delay="0"
                                     data-sal-duration="300"
                                     data-sal-easing="ease"
                                 >
@@ -30,7 +30,7 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
                             <GridColumn>
                                 <div
                                     data-sal="slide-down"
-                                    data-sal-delay="300"
+                                    data-sal-delay="0"
                                     data-sal-duration="300"
                                     data-sal-easing="ease"
                                 >

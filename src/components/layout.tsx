@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { cssTransition, toast, ToastContainer } from 'react-toastify';
+import { cssTransition, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'semantic-ui-less/semantic.less';
 import '../components/i18n/i18n';
@@ -44,7 +44,7 @@ class Layout extends React.Component<Props> {
         return (
             <ResponsiveContainer invertedHeader={invertedHeader ? true : false} t={t}>
                 <div className="flex-container">
-                    <ToastContainer position="top-center" autoClose={false} closeOnClick transition={Zoom} />
+                    {/* <ToastContainer position="top-center" autoClose={false} closeOnClick transition={Zoom} /> */}
                     <main className="main-container">{children}</main>
                     <PageFooter t={t} />
                 </div>

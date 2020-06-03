@@ -59,14 +59,16 @@ class FAQ extends React.Component<any, any> {
                 <Accordion fluid styled>
                     {faqContent.map((faq) => {
                         return (
-                            <AccordionItem
-                                t={t}
-                                activeIndex={activeIndex}
-                                index={faq.index}
-                                handleClick={this.handleClick}
-                                titleKey={faq.titleKey}
-                                contentKey={faq.contentKey}
-                            ></AccordionItem>
+                            <div key={faq.index}>
+                                <AccordionItem
+                                    t={t}
+                                    activeIndex={activeIndex}
+                                    index={faq.index}
+                                    handleClick={this.handleClick}
+                                    titleKey={faq.titleKey}
+                                    contentKey={faq.contentKey}
+                                ></AccordionItem>
+                            </div>
                         );
                     })}
                 </Accordion>
@@ -80,11 +82,11 @@ export default FAQ;
 const AccordionItem = ({ t, activeIndex, index, handleClick, titleKey, contentKey }) => {
     return (
         <React.Fragment>
-            <Accordion.Title active={activeIndex === index} index={index} onClick={handleClick}>
+            <Accordion.Title key={'title' + index} active={activeIndex === index} index={index} onClick={handleClick}>
                 <Icon name="dropdown" />
                 {t(titleKey)}
             </Accordion.Title>
-            <Accordion.Content active={activeIndex === index}>
+            <Accordion.Content key={'content' + index} active={activeIndex === index}>
                 <Transition visible={activeIndex === index} animation="fade down" duration={300}>
                     <p>{t(contentKey)}</p>
                 </Transition>

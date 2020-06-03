@@ -50,9 +50,9 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                     </Sidebar>
 
                     <Sidebar.Pusher dimmed={sidebarOpened}>
-                        <Segment inverted textAlign="center" style={{ padding: '1em 0em' }} vertical>
+                        <Segment inverted textAlign="center" style={{ padding: '0.35em 0em' }} vertical>
                             <Container>
-                                <Menu inverted pointing secondary size="large">
+                                <Menu inverted secondary size="large">
                                     <Menu.Item
                                         style={{ padding: '0', alignSelf: 'center' }}
                                         name="/"
@@ -62,7 +62,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
                                         <Logo inverted={true} />
                                     </Menu.Item>
                                     <Menu.Item position="right" onClick={this.handleToggle}>
-                                        <Icon name="sidebar" />
+                                        <Icon style={{ margin: '0', color: 'white' }} name="sidebar" />
                                     </Menu.Item>
                                 </Menu>
                             </Container>

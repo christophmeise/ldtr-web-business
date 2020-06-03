@@ -54,16 +54,30 @@ class GlobalNavbar extends React.Component<Props, any> {
                     active={location.pathname === '/contact'}
                     onClick={handleItemClick}
                 ></Menu.Item>
-                <Menu.Menu position="right">
-                    <Menu.Item>
-                        <Link to={getPathWithLocale('/book-call')}>
-                            <Button primary={!inverted} inverted={inverted} size="small">
-                                {t('book-first-call')}
-                            </Button>
-                        </Link>
-                    </Menu.Item>
-                    <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
-                </Menu.Menu>
+                {!mobile && (
+                    <Menu.Menu position="right">
+                        <Menu.Item>
+                            <Link to={getPathWithLocale('/book-call')}>
+                                <Button primary={!inverted} inverted={inverted} size="small">
+                                    {t('book-first-call')}
+                                </Button>
+                            </Link>
+                        </Menu.Item>
+                        <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
+                    </Menu.Menu>
+                )}
+                {mobile && (
+                    <React.Fragment>
+                        <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
+                        <Menu.Item>
+                            <Link to={getPathWithLocale('/book-call')}>
+                                <Button primary={!inverted} inverted={inverted} size="small">
+                                    {t('book-first-call')}
+                                </Button>
+                            </Link>
+                        </Menu.Item>
+                    </React.Fragment>
+                )}
             </React.Fragment>
         );
     }

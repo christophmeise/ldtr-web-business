@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Container, Grid, Header, Icon, List, Segment } from 'semantic-ui-react';
+import { Button, Container, Grid, Header, Icon, List } from 'semantic-ui-react';
 import Logo from '../logo';
 import { getPathWithLocale } from '../navigateWithLocale';
 import './page-footer.less';
@@ -63,7 +63,7 @@ const PageFooter = ({ t }) => {
                     </Grid>
                 </Container>
             </div>
-            <Segment inverted className="footer-secondary">
+            <div className="footer-secondary">
                 <Container>
                     <Grid inverted stackable>
                         <Grid.Row
@@ -105,7 +105,7 @@ const PageFooter = ({ t }) => {
                         </Grid.Row>
                     </Grid>
                 </Container>
-            </Segment>
+            </div>
         </footer>
     );
 };

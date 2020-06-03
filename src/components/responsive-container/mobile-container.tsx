@@ -29,7 +29,7 @@ export default class MobileContainer extends React.Component<MobileContainerProp
 
         return (
             <Sidebar.Pushable>
-                <Sidebar.Pushable as={Segment}>
+                <Sidebar.Pushable>
                     <Sidebar
                         as={Menu}
                         animation="overlay"

@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import 'semantic-ui-less/semantic.less';
 import '../components/i18n/i18n';
 import { getPathWithLocale } from './navigateWithLocale';
-import PageFooter from './page-footer';
+import PageFooter from './page-footer/page-footer';
 import ResponsiveContainer from './responsive-container/responsive-container';
 
 interface Props {
@@ -24,8 +24,8 @@ class Layout extends React.Component<Props> {
     notify = () =>
         toast(
             <p>
-                To make this page work, we log user data. By using our services, you agree to our
-                <Link to={getPathWithLocale('/dataprotection')}> Privacy Policy</Link>, including our cookie policy.
+                By browsing this site, you agree to our
+                <Link to={getPathWithLocale('/dataprotection')}> Privacy Policy</Link>
             </p>,
         );
 
@@ -42,13 +42,15 @@ class Layout extends React.Component<Props> {
         });
 
         return (
-            <ResponsiveContainer invertedHeader={invertedHeader ? true : false} t={t}>
-                <div className="flex-container">
-                    <ToastContainer position="top-center" autoClose={false} closeOnClick transition={Zoom} />
-                    <main className="main-container">{children}</main>
-                    <PageFooter t={t} />
-                </div>
-            </ResponsiveContainer>
+            <React.Fragment>
+                <ToastContainer position="bottom-center" autoClose={false} closeOnClick transition={Zoom} />
+                <ResponsiveContainer invertedHeader={invertedHeader ? true : false} t={t}>
+                    <div className="flex-container">
+                        <main className="main-container">{children}</main>
+                        <PageFooter t={t} />
+                    </div>
+                </ResponsiveContainer>
+            </React.Fragment>
         );
     }
 }

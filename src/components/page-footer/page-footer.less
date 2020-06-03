@@ -1,0 +1,21 @@
+@mobile: ~'only screen and (max-width: 767px)';
+@desktop: ~'only screen and (min-width: 768px)';
+
+.footer-trademark-link {
+    color: white;
+    margin: 0;
+
+    @media @mobile {
+        display: none;
+    }
+}
+
+.footer-secondary {
+    margin-top: 0rem !important;
+    @media @mobile {
+        padding: 2rem 0rem !important;
+    }
+    @media @desktop {
+        height: 64px;
+    }
+}

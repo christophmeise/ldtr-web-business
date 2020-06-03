@@ -1,8 +1,9 @@
 import { Link } from 'gatsby';
 import React from 'react';
 import { Button, Container, Grid, Header, Icon, List, Segment } from 'semantic-ui-react';
-import Logo from './logo';
-import { getPathWithLocale } from './navigateWithLocale';
+import Logo from '../logo';
+import { getPathWithLocale } from '../navigateWithLocale';
+import './page-footer.less';
 
 const PageFooter = ({ t }) => {
     return (
@@ -62,9 +63,9 @@ const PageFooter = ({ t }) => {
                     </Grid>
                 </Container>
             </div>
-            <Segment inverted vertical>
+            <Segment inverted className="footer-secondary">
                 <Container>
-                    <Grid divided inverted stackable>
+                    <Grid inverted stackable>
                         <Grid.Row
                             style={{
                                 display: 'flex',
@@ -75,7 +76,7 @@ const PageFooter = ({ t }) => {
                         >
                             <Logo inverted={true} />
                             <a
-                                style={{ color: 'white', margin: '0' }}
+                                className="footer-trademark-link"
                                 href="https://explorechristoph.com"
                                 target="_blank"
                                 rel="noopener"

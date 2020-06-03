@@ -1,10 +1,8 @@
-import { Link } from 'gatsby';
 import React from 'react';
-import { cssTransition, toast } from 'react-toastify';
+import { cssTransition } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'semantic-ui-less/semantic.less';
 import '../components/i18n/i18n';
-import { getPathWithLocale } from './navigateWithLocale';
 import PageFooter from './page-footer';
 import ResponsiveContainer from './responsive-container/responsive-container';
 
@@ -21,16 +19,16 @@ class Layout extends React.Component<Props> {
         super(props);
     }
 
-    notify = () =>
+    /*   notify = () =>
         toast(
             <p>
                 To make this page work, we log user data. By using our services, you agree to our
                 <Link to={getPathWithLocale('/dataprotection')}> Privacy Policy</Link>, including our cookie policy.
             </p>,
-        );
+        ); */
 
     componentDidMount() {
-        this.notify();
+        // this.notify();
     }
 
     render() {

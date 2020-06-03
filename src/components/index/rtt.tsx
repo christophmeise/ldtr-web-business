@@ -20,6 +20,7 @@ const SectionRTT = ({ t }) => {
                             aspectRatio="16:9"
                             className="video-wrapper shadow rounded"
                             placeholder="/youtube-placeholder.jpg"
+                            alt="youtube-image-placeholder"
                             source="youtube"
                             autoplay
                         />

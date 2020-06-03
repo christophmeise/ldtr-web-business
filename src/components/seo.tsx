@@ -1,4 +1,5 @@
 import { graphql, useStaticQuery } from 'gatsby';
+import i18n from 'i18next';
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
@@ -9,7 +10,7 @@ interface Props {
     title: string;
 }
 
-const SEO = ({ description, lang, meta, title }: Props) => {
+const SEO = ({ description, meta, title }: Props) => {
     const { site } = useStaticQuery(
         graphql`
             query {
@@ -25,6 +26,7 @@ const SEO = ({ description, lang, meta, title }: Props) => {
     );
 
     const metaDescription = description || site.siteMetadata.description;
+    const lang = i18n.language;
 
     return (
         <Helmet

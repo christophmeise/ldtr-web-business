@@ -11,10 +11,6 @@ const SectionRTTAreas = ({ t }) => {
             <Link to="/">
                 <BackgroundImage
                     Tag="div"
-                    data-sal="slide-up"
-                    data-sal-delay="0"
-                    data-sal-duration="300"
-                    data-sal-easing="ease"
                     className="rounded hover-animate shadow-lg dark-overlay rtt-areas-card-background"
                     fluid={source}
                 >

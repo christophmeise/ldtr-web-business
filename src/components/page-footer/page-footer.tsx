@@ -65,43 +65,57 @@ const PageFooter = ({ t }) => {
             </div>
             <div className="footer-secondary">
                 <Container>
-                    <Grid inverted stackable>
-                        <Grid.Row
-                            style={{
-                                display: 'flex',
-                                flexDirection: 'row',
-                                justifyContent: 'space-between',
-                                alignItems: 'center',
-                            }}
-                        >
-                            <Logo inverted={true} />
-                            <a
-                                className="footer-trademark-link"
-                                href="https://explorechristoph.com"
-                                target="_blank"
-                                rel="noopener"
-                            >
-                                © 2020, ExploreChristoph. All rights reserved.
-                            </a>
-                            <div>
-                                <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Facebook">
-                                    <Icon className="hover-animate" size="large" name="facebook" inverted></Icon>
-                                </a>
-                                <a href="https://www.linkedin.com" target="_blank" rel="noopener" aria-label="Linkedin">
-                                    <Icon className="hover-animate" size="large" name="linkedin" inverted></Icon>
-                                </a>
+                    <Grid inverted>
+                        <Grid.Row centered columns="equal">
+                            <Grid.Column>
+                                <Logo inverted={true} />
+                            </Grid.Column>
+                            <Grid.Column only="tablet computer" textAlign="center" verticalAlign="middle">
                                 <a
-                                    href="https://www.instagram.com"
+                                    className="footer-trademark-link"
+                                    href="https://explorechristoph.com"
                                     target="_blank"
                                     rel="noopener"
-                                    aria-label="Instagram"
                                 >
-                                    <Icon className="hover-animate" size="large" name="instagram" inverted></Icon>
+                                    © 2020, ExploreChristoph. All rights reserved.
                                 </a>
-                                <a href="https://www.youtube.com" target="_blank" rel="noopener" aria-label="Youtube">
-                                    <Icon className="hover-animate" size="large" name="youtube" inverted></Icon>
-                                </a>
-                            </div>
+                            </Grid.Column>
+                            <Grid.Column textAlign="right" verticalAlign="middle">
+                                <div>
+                                    <a
+                                        href="https://www.facebook.com"
+                                        target="_blank"
+                                        rel="noopener"
+                                        aria-label="Facebook"
+                                    >
+                                        <Icon className="hover-animate" size="large" name="facebook" inverted></Icon>
+                                    </a>
+                                    <a
+                                        href="https://www.linkedin.com"
+                                        target="_blank"
+                                        rel="noopener"
+                                        aria-label="Linkedin"
+                                    >
+                                        <Icon className="hover-animate" size="large" name="linkedin" inverted></Icon>
+                                    </a>
+                                    <a
+                                        href="https://www.instagram.com"
+                                        target="_blank"
+                                        rel="noopener"
+                                        aria-label="Instagram"
+                                    >
+                                        <Icon className="hover-animate" size="large" name="instagram" inverted></Icon>
+                                    </a>
+                                    <a
+                                        href="https://www.youtube.com"
+                                        target="_blank"
+                                        rel="noopener"
+                                        aria-label="Youtube"
+                                    >
+                                        <Icon className="hover-animate" size="large" name="youtube" inverted></Icon>
+                                    </a>
+                                </div>
+                            </Grid.Column>
                         </Grid.Row>
                     </Grid>
                 </Container>

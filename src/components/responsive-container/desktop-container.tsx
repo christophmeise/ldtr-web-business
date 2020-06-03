@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Menu, Segment } from 'semantic-ui-react';
+import { Container, Menu } from 'semantic-ui-react';
 import GlobalNavbar from './../global-navbar';
 import navigateWithLocale from './../navigateWithLocale';
 
@@ -15,8 +15,6 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
     }
 
     handleItemClick = (e, { name, content }) => navigateWithLocale(name);
-    hideFixedMenu = () => this.setState({ fixed: false });
-    showFixedMenu = () => this.setState({ fixed: true });
 
     render() {
         const { children, t } = this.props;
@@ -24,13 +22,11 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
 
         return (
             <React.Fragment>
-                <Segment
-                    textAlign="center"
+                <section
                     className="global-navbar"
-                    style={{ padding: '0em 0em', marginBottom: '1em' }}
-                    vertical
+                    style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
                 >
-                    <Menu fixed={'top'} inverted={inverted} pointing={false} secondary={true} size="large" borderless>
+                    <Menu inverted={inverted} pointing={false} secondary={true} size="large" borderless>
                         <Container>
                             <GlobalNavbar
                                 location={this.props.location}
@@ -41,7 +37,7 @@ export default class DesktopContainer extends React.Component<DesktopContainerPr
                             />
                         </Container>
                     </Menu>
-                </Segment>
+                </section>
 
                 {children}
             </React.Fragment>

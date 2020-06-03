@@ -1,3 +1,5 @@
+@import 'lib.less';
+
 @font-face {
     font-family: 'Poppins';
     font-style: normal;
@@ -97,7 +99,6 @@ body > div {
 }
 
 .main-container {
-    padding-bottom: 2em;
     display: flex;
     flex: 1 1 auto;
     flex-direction: column;
@@ -109,15 +110,19 @@ body > div {
     top: 0;
     width: 100%;
     z-index: 100;
+    padding: 0em 0em;
+    margin-bottom: 1em;
+    border: none;
+    text-align: 'center';
 }
 
-@media only screen and (max-width: 767px) {
+@media @mobile {
     .global-header-padding {
         padding-top: 60px;
     }
 }
 
-@media only screen and (min-width: 768px) {
+@media @desktop {
     .global-header-padding {
         padding-top: 90px;
     }
@@ -131,9 +136,9 @@ body > div {
     }
 }
 
-@media only screen and (min-width: 768px) {
+@media @desktop {
     .responsive-desktop-container {
-        display: inherit;
+        display: block;
     }
 
     .responsive-mobile-container {
@@ -141,13 +146,13 @@ body > div {
     }
 }
 
-@media only screen and (max-width: 767px) {
+@media @mobile {
     .responsive-desktop-container {
         display: none !important;
     }
 
     .responsive-mobile-container {
-        display: inherit;
+        display: block;
     }
 }
 
@@ -238,13 +243,13 @@ h2&.global-headline {
     transform: translate3d(0, -2px, 5px);
 }
 
-@media only screen and (min-width: 768px) {
+@media @desktop {
     .Toastify__toast-container {
         width: 600px !important;
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media @mobile {
     .Toastify__toast-container {
         width: 94vw !important;
         margin-left: 3vw !important;
@@ -259,4 +264,12 @@ h2&.global-headline {
 
 .Toastify__toast-body {
     padding: 0.5rem 1rem;
+}
+
+.pushable,
+.pusher {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 100vh !important;
 }

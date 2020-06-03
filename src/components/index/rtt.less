@@ -1,3 +1,5 @@
+@import '../../styles/lib.less';
+
 .aspect-ratio {
     position: relative;
     width: 100%;
@@ -31,7 +33,7 @@
     color: rgba(255, 255, 255, 0.9);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
 }
-@media only screen and (max-width: 767px) {
+@media @mobile {
     .call-to-action-text {
         font-size: 3rem;
         color: rgba(255, 255, 255, 0.9);
@@ -72,17 +74,34 @@
     border: 0px;
     border-radius: 0.4rem;
     padding: 1rem;
-    padding-left: 70px;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.15);
     border-radius: 0.6rem;
-    margin-left: 4rem;
-    margin-right: 2rem;
+
+    @media @desktop {
+        padding-left: 70px;
+        margin-left: 4rem;
+        margin-right: 2rem;
+    }
+
+    @media @mobile {
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-top: 2.5rem;
+    }
+    .rtt-testimonials-card-text {
+        position: block;
+
+        @media @desktop {
+            padding: 4rem;
+            padding-left: 1rem;
+        }
+
+        @media @mobile {
+            padding: 2rem;
+        }
+    }
 }
-.rtt-testimonials-card .rtt-testimonials-card-text {
-    position: block;
-    padding: 4rem;
-    padding-left: 1rem;
-}
+
 .rtt-testimonials-card-text-quote {
     font-size: 2rem !important;
 }
@@ -105,8 +124,16 @@
     border-radius: 50%;
     box-shadow: -8px 4px 15px 0px rgba(0, 0, 0, 0.2);
     position: absolute;
-    top: 50%;
-    left: 0;
+
+    @media @desktop {
+        top: 50%;
+        left: 0;
+    }
+
+    @media @mobile {
+        top: 0;
+        left: 50%;
+    }
 
     & img {
         width: 80px;
@@ -158,5 +185,23 @@
         font-size: 1.75rem !important;
         color: white;
         font-weight: 700;
+    }
+}
+
+.rtt-call-container-desktop {
+    display: flex;
+    align-self: center;
+    text-align: left;
+    width: 100%;
+}
+
+.rtt-call-container-mobile {
+    display: flex;
+    align-self: center;
+    text-align: left;
+    width: 100%;
+
+    h2 {
+        margin-bottom: 3rem;
     }
 }

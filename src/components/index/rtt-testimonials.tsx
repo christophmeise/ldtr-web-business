@@ -35,6 +35,7 @@ const SectionRTTTestimonials = ({ t }) => {
             <Swiper {...params}>
                 <div>
                     <RTTTestimonialCard
+                        mobile={slidesPerView === 1}
                         label="Hypnotherapy"
                         text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
                         author="Jessica Watson"
@@ -42,6 +43,7 @@ const SectionRTTTestimonials = ({ t }) => {
                 </div>
                 <div>
                     <RTTTestimonialCard
+                        mobile={slidesPerView === 1}
                         label="Hypnotherapy"
                         text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
                         author="Jessica Watson"
@@ -49,6 +51,7 @@ const SectionRTTTestimonials = ({ t }) => {
                 </div>
                 <div>
                     <RTTTestimonialCard
+                        mobile={slidesPerView === 1}
                         label="Hypnotherapy"
                         text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
                         author="Jessica Watson"
@@ -61,12 +64,15 @@ const SectionRTTTestimonials = ({ t }) => {
 
 export default SectionRTTTestimonials;
 
-export function RTTTestimonialCard({ label, text, author }) {
+export function RTTTestimonialCard({ label, text, author, mobile }) {
     return (
         <div className="rtt-testimonials-card">
-            <Label as="a" ribbon="right">
-                {label}
-            </Label>
+            {!mobile && (
+                <Label as="a" ribbon="right">
+                    {label}
+                </Label>
+            )}
+
             <div className="rtt-testimonials-card-text">
                 <div className="rtt-testimonials-card-inner-container">
                     <div className="rtt-testimonials-avatar">
@@ -83,6 +89,13 @@ export function RTTTestimonialCard({ label, text, author }) {
                     </div>
                 </div>
             </div>
+            {mobile && (
+                <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
+                    <Label tag size="small">
+                        {label}
+                    </Label>
+                </div>
+            )}
         </div>
     );
 }

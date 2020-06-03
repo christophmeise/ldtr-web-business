@@ -1,7 +1,8 @@
-import { graphql, useStaticQuery } from 'gatsby';
+import { graphql, Link, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
 import { Button, Container, Grid, GridColumn } from 'semantic-ui-react';
+import { getPathWithLocale } from '../navigateWithLocale';
 import './rtt.less';
 
 const SectionRTTCallToAction = ({ t }) => {
@@ -23,10 +24,7 @@ const SectionRTTCallToAction = ({ t }) => {
         <section>
             <BackgroundImage className="rtt-call-to-action-image" fluid={data.image.childImageSharp.fluid}>
                 <Container className="rtt-call-to-action-image-container">
-                    <Grid
-                        className="header-overlay-container-desktop responsive-desktop-container"
-                        verticalAlign="middle"
-                    >
+                    <Grid className="rtt-call-container-desktop responsive-desktop-container" verticalAlign="middle">
                         <GridColumn width={16} verticalAlign="middle">
                             <h2 className="call-to-action-text font-playfair">Ready for your journey?</h2>
                             <Button primary size="medium">
@@ -34,14 +32,13 @@ const SectionRTTCallToAction = ({ t }) => {
                             </Button>
                         </GridColumn>
                     </Grid>
-                    <Container
-                        className="header-overlay-container-mobile responsive-mobile-container"
-                        textAlign="center"
-                    >
+                    <Container className="rtt-call-container-mobile responsive-mobile-container" textAlign="left">
                         <h2 className="call-to-action-text font-playfair">Ready for your journey?</h2>
-                        <Button primary size="medium">
-                            Get Started
-                        </Button>
+                        <Link to={getPathWithLocale('/book-call')}>
+                            <Button primary size="medium">
+                                Get Started
+                            </Button>
+                        </Link>
                     </Container>
                 </Container>
             </BackgroundImage>

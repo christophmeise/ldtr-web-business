@@ -29,48 +29,46 @@ export default class MobileContainer extends React.Component<MobileContainerProp
 
         return (
             <Sidebar.Pushable>
-                <Sidebar.Pushable>
-                    <Sidebar
-                        as={Menu}
-                        animation="overlay"
-                        direction="top"
-                        inverted
-                        onHide={this.handleSidebarHide}
-                        vertical
-                        visible={sidebarOpened}
-                        width="wide"
-                    >
-                        <GlobalNavbar
-                            location={this.props.location}
-                            handleItemClick={this.handleItemClick}
-                            inverted={true}
-                            mobile={true}
-                            t={t}
-                        />
-                    </Sidebar>
+                <Sidebar
+                    as={Menu}
+                    animation="overlay"
+                    direction="top"
+                    inverted
+                    onHide={this.handleSidebarHide}
+                    vertical
+                    visible={sidebarOpened}
+                    width="wide"
+                >
+                    <GlobalNavbar
+                        location={this.props.location}
+                        handleItemClick={this.handleItemClick}
+                        inverted={true}
+                        mobile={true}
+                        t={t}
+                    />
+                </Sidebar>
 
-                    <Sidebar.Pusher dimmed={sidebarOpened}>
-                        <Segment inverted textAlign="center" style={{ padding: '0.35em 0em' }} vertical>
-                            <Container>
-                                <Menu inverted secondary size="large">
-                                    <Menu.Item
-                                        style={{ padding: '0', alignSelf: 'center' }}
-                                        name="/"
-                                        link
-                                        onClick={this.handleItemClick}
-                                    >
-                                        <Logo inverted={true} />
-                                    </Menu.Item>
-                                    <Menu.Item position="right" onClick={this.handleToggle}>
-                                        <Icon style={{ margin: '0', color: 'white' }} name="sidebar" />
-                                    </Menu.Item>
-                                </Menu>
-                            </Container>
-                        </Segment>
+                <Sidebar.Pusher dimmed={sidebarOpened}>
+                    <Segment inverted textAlign="center" style={{ padding: '0.35em 0em' }} vertical>
+                        <Container>
+                            <Menu inverted secondary size="large">
+                                <Menu.Item
+                                    style={{ padding: '0', alignSelf: 'center' }}
+                                    name="/"
+                                    link
+                                    onClick={this.handleItemClick}
+                                >
+                                    <Logo inverted={true} />
+                                </Menu.Item>
+                                <Menu.Item position="right" onClick={this.handleToggle}>
+                                    <Icon style={{ margin: '0', color: 'white' }} name="sidebar" />
+                                </Menu.Item>
+                            </Menu>
+                        </Container>
+                    </Segment>
 
-                        {children}
-                    </Sidebar.Pusher>
-                </Sidebar.Pushable>
+                    {children}
+                </Sidebar.Pusher>
             </Sidebar.Pushable>
         );
     }

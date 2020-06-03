@@ -1,24 +1,28 @@
-import { graphql, Link, useStaticQuery } from 'gatsby';
+import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
 import { Container, Grid, GridColumn, GridRow } from 'semantic-ui-react';
+import navigateWithLocale from './../navigateWithLocale';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
 const SectionRTTAreas = ({ t }) => {
+    const handleOnRTTAreaCardClick = () => {
+        navigateWithLocale('/');
+    };
+
     const RTTAreaCard = ({ source, text }) => {
         return (
-            <Link to="/">
-                <BackgroundImage
-                    Tag="div"
-                    className="rounded hover-animate shadow-lg dark-overlay rtt-areas-card-background"
-                    fluid={source}
-                >
-                    <div className="rtt-areas-card-background-text-wrapper">
-                        <h3 className="rtt-areas-card-background-text">{text}</h3>
-                    </div>
-                </BackgroundImage>
-            </Link>
+            <BackgroundImage
+                Tag="div"
+                className="rounded hover-animate shadow-lg dark-overlay rtt-areas-card-background"
+                fluid={source}
+                onClick={handleOnRTTAreaCardClick}
+            >
+                <div className="rtt-areas-card-background-text-wrapper">
+                    <h3 className="rtt-areas-card-background-text">{text}</h3>
+                </div>
+            </BackgroundImage>
         );
     };
 

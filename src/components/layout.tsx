@@ -44,7 +44,7 @@ class Layout extends React.Component<Props> {
         return (
             <ResponsiveContainer invertedHeader={invertedHeader ? true : false} t={t}>
                 <div className="flex-container">
-                    <ToastContainer position="bottom-center" autoClose={false} closeOnClick transition={Zoom} />
+                    <ToastContainer position="top-center" autoClose={false} closeOnClick transition={Zoom} />
                     <main className="main-container">{children}</main>
                     <PageFooter t={t} />
                 </div>

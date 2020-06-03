@@ -21,7 +21,6 @@ export const options = {
     initImmediate: false, // Important for SSR to work
 };
 export default () => {
-    // .use(LanguageDetector).use(initReactI18next)
     i18n.init(options);
 
     return i18n;

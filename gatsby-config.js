@@ -21,7 +21,7 @@ module.exports = {
         'gatsby-plugin-sharp',
         'gatsby-transformer-sharp',
         'gatsby-plugin-less',
-        {
+        /*  {
             resolve: `gatsby-plugin-scroll-reveal`,
             options: {
                 threshold: 0.4, // Percentage of an element's area that needs to be visible to launch animation
@@ -36,7 +36,7 @@ module.exports = {
                 enterEventName: 'sal:in', // Enter event name
                 exitEventName: 'sal:out', // Exit event name
             },
-        },
+        }, */
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -99,6 +99,6 @@ module.exports = {
                 theme_color_in_head: false,
             },
         },
-        /*         'gatsby-plugin-offline', */
+        'gatsby-plugin-offline',
     ],
 };

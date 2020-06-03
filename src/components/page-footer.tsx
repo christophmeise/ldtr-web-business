@@ -78,20 +78,21 @@ const PageFooter = ({ t }) => {
                                 style={{ color: 'white', margin: '0' }}
                                 href="https://explorechristoph.com"
                                 target="_blank"
+                                rel="noopener"
                             >
                                 © 2020, ExploreChristoph. All rights reserved.
                             </a>
                             <div>
-                                <a href="https://www.facebook.com" target="_blank">
+                                <a href="https://www.facebook.com" target="_blank" rel="noopener">
                                     <Icon className="hover-animate" size="large" name="facebook" inverted></Icon>
                                 </a>
-                                <a href="https://www.linkedin.com" target="_blank">
+                                <a href="https://www.linkedin.com" target="_blank" rel="noopener">
                                     <Icon className="hover-animate" size="large" name="linkedin" inverted></Icon>
                                 </a>
-                                <a href="https://www.instagram.com" target="_blank">
+                                <a href="https://www.instagram.com" target="_blank" rel="noopener">
                                     <Icon className="hover-animate" size="large" name="instagram" inverted></Icon>
                                 </a>
-                                <a href="https://www.youtube.com" target="_blank">
+                                <a href="https://www.youtube.com" target="_blank" rel="noopener">
                                     <Icon className="hover-animate" size="large" name="youtube" inverted></Icon>
                                 </a>
                             </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Grid, GridColumn } from 'semantic-ui-react';
+import { Container, Embed, Grid, GridColumn } from 'semantic-ui-react';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
@@ -15,14 +15,14 @@ const SectionRTT = ({ t }) => {
             <article>
                 <Grid columns="1" centered stackable>
                     <GridColumn width="12" className="index-rtt-video-container">
-                        <div className="aspect-ratio video-wrapper shadow rounded">
-                            <iframe
-                                src="https://www.youtube.com/embed/HyjhRKM2VCA"
-                                frameBorder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                allowFullScreen
-                            ></iframe>
-                        </div>
+                        <Embed
+                            id="HyjhRKM2VCA"
+                            aspectRatio="16:9"
+                            className="video-wrapper shadow rounded"
+                            placeholder="/youtube-placeholder.jpg"
+                            source="youtube"
+                            autoplay
+                        />
                     </GridColumn>
                 </Grid>
             </article>

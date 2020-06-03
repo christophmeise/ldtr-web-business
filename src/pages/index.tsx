@@ -98,14 +98,14 @@ export const pageQuery = graphql`
         desktopImage: file(relativePath: { eq: "main-banner.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }
         mobileImage: file(relativePath: { eq: "main-banner-mobile.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_withWebp
                 }
             }
         }

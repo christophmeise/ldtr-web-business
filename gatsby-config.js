@@ -88,8 +88,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Love.Dream.Travel.Repeat`,
-                short_name: `LDTR`,
+                name: `Meisen Business`,
+                short_name: `Meisen Business`,
                 start_url: `/`,
                 background_color: `#f7f0eb`,
                 theme_color: `#a2466c`,
@@ -99,14 +99,6 @@ module.exports = {
                 theme_color_in_head: false,
             },
         },
-        {
-            resolve: 'gatsby-plugin-offline',
-            options: {
-                workboxConfig: {
-                    globPatterns: ['**/*'],
-                },
-                precachePages: [`/*`],
-            },
-        },
+        'gatsby-plugin-offline',
     ],
 };

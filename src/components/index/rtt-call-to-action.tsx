@@ -10,8 +10,8 @@ const SectionRTTCallToAction = ({ t }) => {
             query {
                 image: file(relativePath: { eq: "call-to-action-todo.jpg" }) {
                     childImageSharp {
-                        fluid(quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }

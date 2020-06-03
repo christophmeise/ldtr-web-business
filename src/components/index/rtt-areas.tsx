@@ -31,43 +31,43 @@ const SectionRTTAreas = ({ t }) => {
             query {
                 relationship: file(relativePath: { eq: "rtt-areas/relationship.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 600, quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(maxWidth: 380, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
                 confidence: file(relativePath: { eq: "rtt-areas/confidence.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 600, quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(maxWidth: 380, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
                 addiction: file(relativePath: { eq: "rtt-areas/addiction.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 600, quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(maxWidth: 380, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
                 fears: file(relativePath: { eq: "rtt-areas/fears.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 600, quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(maxWidth: 380, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
                 weight: file(relativePath: { eq: "rtt-areas/weight.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 600, quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(maxWidth: 380, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
                 stress: file(relativePath: { eq: "rtt-areas/stress.jpg" }) {
                     childImageSharp {
-                        fluid(maxWidth: 600, quality: 100) {
-                            ...GatsbyImageSharpFluid_noBase64
+                        fluid(maxWidth: 380, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }

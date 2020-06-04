@@ -115,6 +115,45 @@ body > div {
     border: none;
     text-align: 'center';
 }
+.global-navbar-dropdown {
+    padding: 20px 35px !important;
+    a .item {
+        padding: 9px 0 !important;
+        margin-left: 0rem !important;
+        margin-right: 0rem !important;
+
+        font-size: 1rem;
+        line-height: 22px !important;
+        text-transform: uppercase !important;
+        font-weight: 600 !important;
+        letter-spacing: 0.025em;
+        transition: color 0.1s;
+        color: rgba(0, 0, 0, 0.87) !important;
+    }
+
+    a .item:hover {
+        color: rgba(0, 0, 0, 0.6) !important;
+    }
+}
+
+.ui.simple.dropdown .menu {
+    height: auto !important;
+    opacity: 0 !important;
+    width: auto !important;
+    transition: all 0.25s ease !important;
+}
+
+.ui.simple.active.dropdown > .menu,
+.ui.simple.dropdown:hover > .menu {
+    opacity: 1 !important;
+    padding: 20px 35px !important;
+    height: auto !important;
+}
+
+.ui.secondary.menu .dropdown.item > .menu,
+.ui.text.menu .dropdown.item > .menu {
+    margin-top: 0 !important;
+}
 
 @media @mobile {
     .global-header-padding {
@@ -234,7 +273,7 @@ h2&.global-headline {
 }
 
 .hover-animate {
-    transition: all 0.2s ease-in-out;
+    transition: transform 0.2s ease-in-out !important;
 }
 
 .hover-animate:hover,
@@ -272,4 +311,12 @@ h2&.global-headline {
     flex-direction: column;
     height: 100%;
     min-height: 100vh !important;
+}
+
+.text-primary {
+    color: @primaryColor !important;
+}
+
+.text-secondary {
+    color: @secondaryColor;
 }

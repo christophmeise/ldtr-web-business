@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Menu } from 'semantic-ui-react';
+import { Button, Dropdown, Icon, Menu } from 'semantic-ui-react';
 import LanguageSwitcher from './language-switcher/language-switcher';
 import Logo from './logo';
 import { getPathWithLocale } from './navigateWithLocale';
@@ -26,13 +26,28 @@ class GlobalNavbar extends React.Component<Props, any> {
                 <Menu.Item name="/" link onClick={handleItemClick}>
                     <Logo inverted={inverted} />
                 </Menu.Item>
-                <Menu.Item
-                    name="/"
-                    content={t('aboutme')}
-                    link
-                    active={location.pathname === '/'}
-                    onClick={handleItemClick}
-                ></Menu.Item>
+                <Dropdown item text={t('navbar-therapy')} simple>
+                    <Dropdown.Menu className="global-navbar-dropdown">
+                        <Link to={getPathWithLocale('/rtt')}>
+                            <Dropdown.Item>
+                                <Icon name="heart outline" className="left"></Icon>
+                                {t('navbar-rtt')}
+                            </Dropdown.Item>
+                        </Link>
+                        <Link to={getPathWithLocale('/rtt-areas')}>
+                            <Dropdown.Item>
+                                <Icon name="compass outline" className="left"></Icon>
+                                {t('navbar-rtt-areas')}
+                            </Dropdown.Item>
+                        </Link>
+                        <Link to={getPathWithLocale('/faq')}>
+                            <Dropdown.Item>
+                                <Icon name="question circle outline" className="left"></Icon>
+                                {t('faq')}
+                            </Dropdown.Item>
+                        </Link>
+                    </Dropdown.Menu>
+                </Dropdown>
                 <Menu.Item
                     name="/shop"
                     content={t('shop')}

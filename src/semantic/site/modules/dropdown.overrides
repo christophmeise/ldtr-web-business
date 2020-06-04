@@ -1,3 +1,9 @@
 /*******************************
         User Overrides
 *******************************/
+
+.ui.simple.dropdown .menu {
+  top: 100% !important;
+  height: 0 !important;
+  padding: 0 !important;
+}

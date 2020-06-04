@@ -48,6 +48,7 @@ class Index extends React.Component<Props> {
                 media: `(min-width: 768px)`,
             },
         ];
+
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title="Index" />

@@ -1,8 +1,8 @@
-import { graphql, useStaticQuery } from 'gatsby';
+import { graphql, Link, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
-import { Container, Grid, GridColumn, GridRow } from 'semantic-ui-react';
-import navigateWithLocale from './../navigateWithLocale';
+import { Button, Container, Grid, GridColumn, GridRow, Icon } from 'semantic-ui-react';
+import navigateWithLocale, { getPathWithLocale } from './../navigateWithLocale';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
@@ -132,6 +132,14 @@ const SectionRTTAreas = ({ t }) => {
                         </GridColumn>
                     </GridRow>
                 </Grid>
+                <Container textAlign="center" className="rtt-main-button-container">
+                    <Link to={getPathWithLocale('/rtt-areas')}>
+                        <Button secondary={true} basic inverted={false} size="medium" className="shadow hover-animate">
+                            <Icon name="tasks" className="left" style={{ opacity: '1' }}></Icon>
+                            {t('rtt-areas-button')}
+                        </Button>
+                    </Link>
+                </Container>
             </Container>
         </section>
     );

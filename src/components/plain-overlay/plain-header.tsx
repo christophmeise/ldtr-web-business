@@ -8,12 +8,30 @@ const PlainHeader = ({ content }) => {
             <Container className="plain-header-container">
                 <div className="responsive-desktop-container plain-header-container-desktop">
                     <Grid className="plain-header-grid">
-                        <GridColumn width={12}>{content}</GridColumn>
+                        <GridColumn width={12}>
+                            <div
+                                data-sal="slide-down"
+                                data-sal-delay="0"
+                                data-sal-duration="300"
+                                data-sal-easing="ease"
+                            >
+                                {content}
+                            </div>
+                        </GridColumn>
                     </Grid>
                 </div>
                 <div className="responsive-mobile-container plain-header-container-mobile">
                     <Grid>
-                        <GridColumn>{content}</GridColumn>
+                        <GridColumn>
+                            <div
+                                data-sal="slide-down"
+                                data-sal-delay="0"
+                                data-sal-duration="300"
+                                data-sal-easing="ease"
+                            >
+                                {content}
+                            </div>
+                        </GridColumn>
                     </Grid>
                 </div>
             </Container>

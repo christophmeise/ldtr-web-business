@@ -1,5 +1,7 @@
+import { Link } from 'gatsby';
 import React from 'react';
-import { Container, Embed, Grid, GridColumn } from 'semantic-ui-react';
+import { Button, Container, Embed, Grid, GridColumn, Icon } from 'semantic-ui-react';
+import { getPathWithLocale } from '../navigateWithLocale';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
@@ -7,8 +9,8 @@ const SectionRTT = ({ t }) => {
     return (
         <Container as="section">
             <SectionHeader
-                headline="A Novel Combination of Hypnotherapy, Psychotherapy and Cognitive Behavioural Therapy"
-                subheadline="Rapid Transformational Therapy™"
+                headline={t('rtt-main-headline')}
+                subheadline={t('rtt-main-subheadline')}
                 primary={true}
                 textAlign="center"
             ></SectionHeader>
@@ -18,7 +20,7 @@ const SectionRTT = ({ t }) => {
                         <Embed
                             id="HyjhRKM2VCA"
                             aspectRatio="16:9"
-                            className="video-wrapper shadow rounded"
+                            className="video-wrapper shadow rounded hover-animate"
                             placeholder="/youtube-placeholder.jpg"
                             alt="youtube-image-placeholder"
                             source="youtube"
@@ -26,6 +28,13 @@ const SectionRTT = ({ t }) => {
                         />
                     </GridColumn>
                 </Grid>
+                <Container text textAlign="center" className="rtt-main-button-container">
+                    <Link to={getPathWithLocale('/rtt')}>
+                        <Button primary={true} inverted={false} size="medium" className="shadow hover-animate">
+                            {t('rtt-main-button')} <Icon name="arrow right" style={{ opacity: '1' }}></Icon>
+                        </Button>
+                    </Link>
+                </Container>
             </article>
             {/*  <Grid columns="1" centered stackable>
                 <GridColumn width="12" className="index-rtt-video-container">

@@ -1,25 +1,18 @@
+import { Link } from 'gatsby';
 import React from 'react';
-import { Accordion, Container, Icon, Transition } from 'semantic-ui-react';
+import { Button, Container, Icon } from 'semantic-ui-react';
+import { getPathWithLocale } from '../navigateWithLocale';
 import SectionHeader from './../sectionHeader';
+import FAQAccordion from './faq-accordion';
+import './faq.less';
 
 class FAQ extends React.Component<any, any> {
     constructor(props) {
         super(props);
-        this.state = { activeIndex: 0 };
     }
 
-    handleClick = (e, titleProps) => {
-        const { index } = titleProps;
-        const { activeIndex } = this.state;
-        const newIndex = activeIndex === index ? -1 : index;
-
-        this.setState({ activeIndex: newIndex });
-    };
-
     render() {
-        const { activeIndex } = this.state;
         const { t } = this.props;
-
         const faqContent = [
             {
                 index: 0,
@@ -49,48 +42,24 @@ class FAQ extends React.Component<any, any> {
         ];
 
         return (
-            <Container as="section">
+            <Container text as="section">
                 <SectionHeader
                     headline={t('faq-headline')}
                     subheadline={t('faq-subheadline')}
                     primary={true}
                     textAlign="center"
                 ></SectionHeader>
-                <Accordion fluid styled>
-                    {faqContent.map((faq) => {
-                        return (
-                            <div key={faq.index}>
-                                <AccordionItem
-                                    t={t}
-                                    activeIndex={activeIndex}
-                                    index={faq.index}
-                                    handleClick={this.handleClick}
-                                    titleKey={faq.titleKey}
-                                    contentKey={faq.contentKey}
-                                ></AccordionItem>
-                            </div>
-                        );
-                    })}
-                </Accordion>
+                <FAQAccordion t={t} faqContent={faqContent}></FAQAccordion>
+                <Container text textAlign="center">
+                    <Link to={getPathWithLocale('/faq')}>
+                        <Button primary={true} inverted={false} size="medium" className="shadow hover-animate">
+                            <Icon name="question circle" style={{ opacity: '1' }}></Icon> {t('faq:faq-learn-more')}
+                        </Button>
+                    </Link>
+                </Container>
             </Container>
         );
     }
 }
 
 export default FAQ;
-
-const AccordionItem = ({ t, activeIndex, index, handleClick, titleKey, contentKey }) => {
-    return (
-        <React.Fragment>
-            <Accordion.Title key={'title' + index} active={activeIndex === index} index={index} onClick={handleClick}>
-                <Icon name="dropdown" />
-                {t(titleKey)}
-            </Accordion.Title>
-            <Accordion.Content key={'content' + index} active={activeIndex === index}>
-                <Transition visible={activeIndex === index} animation="fade down" duration={300}>
-                    <p>{t(contentKey)}</p>
-                </Transition>
-            </Accordion.Content>
-        </React.Fragment>
-    );
-};

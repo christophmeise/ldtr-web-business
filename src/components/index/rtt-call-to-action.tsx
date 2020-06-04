@@ -26,17 +26,17 @@ const SectionRTTCallToAction = ({ t }) => {
                 <Container className="rtt-call-to-action-image-container">
                     <Grid className="rtt-call-container-desktop responsive-desktop-container" verticalAlign="middle">
                         <GridColumn width={16} verticalAlign="middle">
-                            <h2 className="call-to-action-text font-playfair">Ready for your journey?</h2>
+                            <h2 className="call-to-action-text font-playfair">{t('rtt-call-to-action-text')}</h2>
                             <Button primary size="medium">
-                                Get Started
+                                {t('rtt-call-to-action-button')}
                             </Button>
                         </GridColumn>
                     </Grid>
                     <Container className="rtt-call-container-mobile responsive-mobile-container" textAlign="left">
-                        <h2 className="call-to-action-text font-playfair">Ready for your journey?</h2>
+                        <h2 className="call-to-action-text font-playfair">{t('rtt-call-to-action-text')}</h2>
                         <Link to={getPathWithLocale('/book-call')}>
-                            <Button primary size="medium">
-                                Get Started
+                            <Button primary size="medium" className="shadow hover-animate">
+                                {t('rtt-call-to-action-button')}
                             </Button>
                         </Link>
                     </Container>

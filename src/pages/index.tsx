@@ -1,5 +1,7 @@
 import { graphql, Link } from 'gatsby';
+import i18n from 'i18next';
 import React from 'react';
+import Typed from 'react-typed';
 import { Button } from 'semantic-ui-react';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
@@ -52,7 +54,12 @@ class Index extends React.Component<Props> {
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title="Index" />
-                <HeaderOverlay sources={sources} color="#f5f4f0" inverted={false} content={OverlayContent(false, t)} />
+                <HeaderOverlay
+                    sources={sources}
+                    color="#f5f4f0"
+                    inverted={false}
+                    content={<OverlayContent inverted={false} t={t} />}
+                />
                 <div className="main-content-sections">
                     <SectionRTT t={t}></SectionRTT>
                     <SectionRTTAreas t={t}></SectionRTTAreas>
@@ -71,22 +78,36 @@ class Index extends React.Component<Props> {
     }
 }
 
-const OverlayContent = (inverted, t) => {
-    return (
-        <div>
-            <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
-                Transform Your Life
-            </h1>
-            <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
-                Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
-                community of 12 million students from 80 countries.
-            </h2>
-            <Link to={getPathWithLocale('/book-call')}>
-                <Button primary>{t('book-first-call')}</Button>
-            </Link>
-        </div>
-    );
-};
+class OverlayContent extends React.Component<any, any> {
+    constructor(props: Props) {
+        super(props);
+    }
+
+    render() {
+        const { inverted, t } = this.props;
+        let typedWords: string[];
+        if (i18n.language === 'de') {
+            typedWords = ['Stress?', 'Angst?', 'Sucht?'];
+        } else {
+            typedWords = ['Stress?', 'Anxiety?', 'Addiction?', 'Pain?'];
+        }
+        return (
+            <div>
+                <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
+                    {t('rtt-index-overlay-headline')}
+                    <Typed strings={typedWords} typeSpeed={70} backSpeed={60} loop></Typed>
+                </h1>
+                <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
+                    Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
+                    community of 12 million students from 80 countries.
+                </h2>
+                <Link to={getPathWithLocale('/book-call')}>
+                    <Button primary>{t('book-first-call')}</Button>
+                </Link>
+            </div>
+        );
+    }
+}
 
 export const pageQuery = graphql`
     query {

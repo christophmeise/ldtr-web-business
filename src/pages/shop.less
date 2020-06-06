@@ -1,0 +1,76 @@
+@import '../styles/lib.less';
+
+.rtt-shop-pricing-container {
+    transition: all 0.3s ease-in-out;
+    border-top: white 5px solid;
+    padding: 2.5rem 1.25rem;
+
+    .ui.grid {
+        align-items: center;
+    }
+
+    .rtt-shop-pricing-header {
+        text-align: center;
+
+        h3 {
+            color: @primaryColor;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            font-weight: bold;
+            margin: 0;
+            padding-bottom: 1rem;
+            font-size: 1rem;
+        }
+
+        p {
+            margin-bottom: 0.5rem;
+        }
+
+        .rtt-shop-pricing-price {
+            font-size: 2.5rem;
+            line-height: 1.3;
+            font-weight: 700;
+        }
+        .rtt-shop-pricing-duration {
+            margin-left: 0.5rem;
+            color: rgba(15, 19, 26, 0.5);
+            font-size: 1rem;
+        }
+        hr {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+            border: 0;
+            border-top: 1px solid rgba(0, 0, 0, 0.1);
+        }
+    }
+
+    .rtt-shop-pricing-body {
+        font-size: 1rem;
+        padding-top: 0.5rem;
+
+        i {
+            padding-left: 1rem !important;
+        }
+
+        .rtt-shop-pricing-list-item {
+            margin-bottom: 1rem;
+        }
+    }
+
+    .rtt-shop-pricing-button-wrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 3rem;
+    }
+}
+
+.rtt-shop-grid {
+    margin-top: 3rem !important;
+}
+
+.rtt-shop-pricing-container-selected {
+    border-top: @primaryColor 5px solid;
+    transform: scale(1.1) !important;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}

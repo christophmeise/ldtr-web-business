@@ -50,9 +50,9 @@ class FAQ extends React.Component<any, any> {
                     textAlign="center"
                 ></SectionHeader>
                 <FAQAccordion t={t} faqContent={faqContent}></FAQAccordion>
-                <Container text textAlign="center">
+                <Container text textAlign="center" className="rtt-main-button-container">
                     <Link to={getPathWithLocale('/faq')}>
-                        <Button primary={true} inverted={false} size="medium" className="shadow hover-animate">
+                        <Button primary={true} inverted={false} size="medium" className="rounded shadow hover-animate">
                             <Icon name="question circle" style={{ opacity: '1' }}></Icon> {t('faq:faq-learn-more')}
                         </Button>
                     </Link>

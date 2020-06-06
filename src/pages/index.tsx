@@ -10,7 +10,8 @@ import SEO from '../components/seo';
 import FAQ from './../components/faq/faq';
 import SectionRTT from './../components/index/rtt';
 import SectionRTTAreas from './../components/index/rtt-areas';
-import SectionRTTCallToAction from './../components/index/rtt-call-to-action';
+import SectionRTTBlog from './../components/index/rtt-blog';
+import SectionRTTSteps from './../components/index/rtt-steps';
 import SectionRTTTestimonials from './../components/index/rtt-testimonials';
 import withI18next from './../components/withI18next/withI18next';
 import './index.less';
@@ -62,16 +63,14 @@ class Index extends React.Component<Props> {
                 />
                 <div className="main-content-sections">
                     <SectionRTT t={t}></SectionRTT>
+                    <SectionRTTSteps t={t}></SectionRTTSteps>
                     <SectionRTTAreas t={t}></SectionRTTAreas>
-                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
-                        <SectionRTTTestimonials t={t}></SectionRTTTestimonials>
-                    </div>
-                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
+                    <SectionRTTTestimonials t={t}></SectionRTTTestimonials>
+                    {/*                     <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
                         <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
-                    </div>
-                    <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
-                        <FAQ t={t}></FAQ>
-                    </div>
+                    </div> */}
+                    <SectionRTTBlog t={t}></SectionRTTBlog>
+                    <FAQ t={t}></FAQ>
                 </div>
             </Layout>
         );
@@ -98,11 +97,12 @@ class OverlayContent extends React.Component<any, any> {
                     <Typed strings={typedWords} typeSpeed={70} backSpeed={60} loop></Typed>
                 </h1>
                 <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
-                    Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
-                    community of 12 million students from 80 countries.
+                    {t('rtt-index-overlay-subheadline')}
                 </h2>
                 <Link to={getPathWithLocale('/book-call')}>
-                    <Button primary>{t('book-first-call')}</Button>
+                    <Button className="shadow hover-animate rounded" primary>
+                        {t('book-first-call')}
+                    </Button>
                 </Link>
             </div>
         );

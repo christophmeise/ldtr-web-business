@@ -54,7 +54,12 @@ const PageFooter = ({ t }) => {
                             <Grid.Column width={5}>
                                 <Header className="footer-nav-header" as="h3" content={t('footer-services')} />
                                 <Link to={getPathWithLocale('/book-call')}>
-                                    <Button primary={true} inverted={false} size="small">
+                                    <Button
+                                        className="shadow hover-animate rounded"
+                                        primary={true}
+                                        inverted={false}
+                                        size="small"
+                                    >
                                         {t('book-first-call')}
                                     </Button>
                                 </Link>

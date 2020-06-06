@@ -73,7 +73,12 @@ class GlobalNavbar extends React.Component<Props, any> {
                     <Menu.Menu position="right">
                         <Menu.Item>
                             <Link to={getPathWithLocale('/book-call')}>
-                                <Button primary={!inverted} inverted={inverted} size="small">
+                                <Button
+                                    className="shadow hover-animate rounded"
+                                    primary={!inverted}
+                                    inverted={inverted}
+                                    size="small"
+                                >
                                     {t('book-first-call')}
                                 </Button>
                             </Link>

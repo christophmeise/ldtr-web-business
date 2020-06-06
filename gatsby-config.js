@@ -7,7 +7,7 @@
 
 module.exports = {
     siteMetadata: {
-        title: `Meisen Business`,
+        title: `Inner Light`,
         author: `Christoph Meise`,
         siteUrl: `https://loving-poincare-49748d.netlify.app/`,
         description: `Spread love, light & consciousness`,
@@ -88,8 +88,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Meisen Business`,
-                short_name: `Meisen Business`,
+                name: `Inner Light`,
+                short_name: `Inner Light`,
                 start_url: `/`,
                 background_color: `#f7f0eb`,
                 theme_color: `#a2466c`,

@@ -134,7 +134,13 @@ const SectionRTTAreas = ({ t }) => {
                 </Grid>
                 <Container textAlign="center" className="rtt-main-button-container">
                     <Link to={getPathWithLocale('/rtt-areas')}>
-                        <Button secondary={true} basic inverted={false} size="medium" className="shadow hover-animate">
+                        <Button
+                            secondary={true}
+                            basic
+                            inverted={false}
+                            size="medium"
+                            className="rounded shadow hover-animate"
+                        >
                             <Icon name="tasks" className="left" style={{ opacity: '1' }}></Icon>
                             {t('rtt-areas-button')}
                         </Button>

@@ -69,7 +69,7 @@ class Blog extends React.Component<Props, BlogState> {
             <Layout title={siteTitle} t={t}>
                 <SEO lang="en" description={description} title="All posts" />
                 <Container className="global-header-padding">
-                    <PlainHeader content={<HeaderContent />} />
+                    <PlainHeader content={<HeaderContent t={t} />} />
                     <Label.Group className="blog-tag-label-group">
                         {tags.map((tag) => {
                             return (
@@ -122,14 +122,11 @@ class Blog extends React.Component<Props, BlogState> {
 
 export default withI18next('common')(Blog);
 
-const HeaderContent = () => {
+const HeaderContent = ({ t }) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">Latest on the blog</h1>
-            <h2 className="header-overlay-subheadline">
-                Learn from the world’s best teachers, on the world’s leading personal growth platform. Join our
-                community of 12 million students from 80 countries.
-            </h2>
+            <h1 className="header-overlay-headline">{t('rtt-blog-overlay-headline')}</h1>
+            <h2 className="header-overlay-subheadline">{t('rtt-blog-overlay-subheadline')}</h2>
         </div>
     );
 };

@@ -20,5 +20,7 @@ blocks:
     How has Bali faired compared to the rest of the world? Has this peaceful island turned into chaos? We know that a lot of you had to cancel your travel plans to come here and are probably wondering when you might be able to return.
 
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
+- template: fulltext
+  content: sdasddasdsda
 
 ---

@@ -1,15 +1,15 @@
 import Img from 'gatsby-image';
 import React from 'react';
 import { Grid, Image } from 'semantic-ui-react';
-import './blog-post-introduction.less';
+import './blog-post-full-text.less';
 
 interface Props {
     content: any;
 }
 
-export default function BlogPostIntroduction({ content }: Props) {
+export default function BlogPostFullText({ content }: Props) {
     return (
-        <section className="blog-introduction">
+        <section className="blog-blog-full-text">
             <Grid stackable>
                 <Grid.Column width={8}>
                     <Image className="rounded" wrapped ui={false}>

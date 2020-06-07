@@ -8,7 +8,7 @@ const PlainHeader = ({ content }) => {
             <Container className="plain-header-container">
                 <div className="responsive-desktop-container plain-header-container-desktop">
                     <Grid className="plain-header-grid">
-                        <GridColumn width={12}>
+                        <GridColumn width={16}>
                             <div
                                 data-sal="slide-down"
                                 data-sal-delay="0"

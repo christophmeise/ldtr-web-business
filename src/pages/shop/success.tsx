@@ -1,11 +1,12 @@
 import { graphql } from 'gatsby';
 import React from 'react';
 import { Container } from 'semantic-ui-react';
-import SectionRTTSteps from '../components/index/rtt-steps';
-import Layout from '../components/layout';
-import PlainHeader from '../components/plain-overlay/plain-header';
-import SEO from '../components/seo';
-import withI18next from '../components/withI18next/withI18next';
+import Layout from '../../components/layout';
+import PlainHeader from '../../components/plain-overlay/plain-header';
+import SEO from '../../components/seo';
+import withI18next from '../../components/withI18next/withI18next';
+import './success.less';
+const Checkout = require('../../../static/checkout.inline.svg') as string;
 
 interface Props {
     pageContext: any;
@@ -20,7 +21,7 @@ interface Props {
     };
 }
 
-class RttPage extends React.Component<Props, any> {
+class Impressum extends React.Component<Props, any> {
     constructor(props) {
         super(props);
     }
@@ -39,10 +40,8 @@ class RttPage extends React.Component<Props, any> {
                 <SEO title="Index" />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
-                    <Container>
-                        <div className="main-content-sections">
-                            <SectionRTTSteps t={t}></SectionRTTSteps>
-                        </div>
+                    <Container text className="checkout-success-container">
+                        <Checkout></Checkout>
                     </Container>
                 </Container>
             </Layout>
@@ -53,8 +52,8 @@ class RttPage extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('rtt-page-headline')}</h1>
-            <h2 className="header-overlay-subheadline">{t('rtt-page-subheadline')}</h2>
+            <h1 className="header-overlay-headline">{t('checkout-success-headline')}</h1>
+            <h2 className="header-overlay-subheadline">{t('checkout-success-subheadline')}</h2>
         </div>
     );
 };
@@ -70,4 +69,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next(['common'])(RttPage);
+export default withI18next(['common'])(Impressum);

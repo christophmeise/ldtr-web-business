@@ -11,7 +11,7 @@ interface Props {
 
 export default function BlogPostCard({ post }: Props) {
     return (
-        <Card className="rounded-corners" fluid centered>
+        <Card className="rounded" fluid centered>
             <Link to={getPathWithLocale(post.frontmatter.path)}>
                 <Image className="rounded-corners-top" wrapped ui={false}>
                     {post.frontmatter.featuredImage != null && (
@@ -21,7 +21,9 @@ export default function BlogPostCard({ post }: Props) {
             </Link>
             <CardContent>
                 <CardHeader>
-                    <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                    <Link className="text-secondary" to={post.frontmatter.path}>
+                        {post.frontmatter.title}
+                    </Link>
                 </CardHeader>
                 <CardMeta>{post.frontmatter.date}</CardMeta>
                 <Card.Description>{post.excerpt}</Card.Description>

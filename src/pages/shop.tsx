@@ -5,6 +5,7 @@ import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
 import { getPathWithLocale } from '../components/navigateWithLocale';
 import SEO from '../components/seo';
+import navigateWithLocale from './../components/navigateWithLocale';
 import SectionHeader from './../components/sectionHeader';
 import withI18next from './../components/withI18next/withI18next';
 import './shop.less';
@@ -28,6 +29,8 @@ interface State {
     selectedPackageKey: number;
 }
 
+export type CheckoutOption = 'Basic' | 'Plus' | 'Exclusive';
+
 class Shop extends React.Component<Props, State> {
     constructor(props) {
         super(props);
@@ -38,7 +41,9 @@ class Shop extends React.Component<Props, State> {
         this.setState({ selectedPackageKey: key });
     };
 
-    handleOnCheckout() {}
+    handleOnCheckout = (option: CheckoutOption) => (e) => {
+        navigateWithLocale('/shop/checkout?option=' + option);
+    };
 
     render() {
         const { t } = this.props;
@@ -55,27 +60,6 @@ class Shop extends React.Component<Props, State> {
             },
         ];
 
-        const pricingData = {
-            1: {
-                title: 'Basic',
-                price: '299€',
-                duration: 'für 1 Monat',
-                content: [true, true, true, true, false, false, false, false],
-            },
-            2: {
-                title: 'Plus',
-                price: '499€',
-                duration: 'für 3 Monate',
-                content: [true, true, true, true, true, true, false, false],
-            },
-            3: {
-                title: 'Exclusive',
-                price: '599€',
-                duration: 'für 6 Monate',
-                content: [true, true, true, true, true, true, true, true],
-            },
-        };
-
         return (
             <Layout title={siteTitle} invertedHeader={true} t={t}>
                 <SEO title="Shop" />
@@ -89,8 +73,8 @@ class Shop extends React.Component<Props, State> {
                     <Container>
                         <section>
                             <SectionHeader
-                                headline={t('rtt-main-headline')}
-                                subheadline={t('rtt-main-subheadline')}
+                                headline={t('rtt-shop-main-headline')}
+                                subheadline={t('rtt-shop-main-subheadline')}
                                 primary={true}
                                 textAlign="left"
                             ></SectionHeader>
@@ -100,7 +84,7 @@ class Shop extends React.Component<Props, State> {
                                         t={t}
                                         pricingData={pricingData[1]}
                                         isSelected={this.state.selectedPackageKey === 1}
-                                        handleOnCheckout={this.handleOnCheckout}
+                                        handleOnCheckout={this.handleOnCheckout('Basic')}
                                         handleOnSelect={this.handleOnSelect(1)}
                                     ></PricingComponent>
                                 </Grid.Column>
@@ -109,7 +93,7 @@ class Shop extends React.Component<Props, State> {
                                         t={t}
                                         pricingData={pricingData[2]}
                                         isSelected={this.state.selectedPackageKey === 2}
-                                        handleOnCheckout={this.handleOnCheckout}
+                                        handleOnCheckout={this.handleOnCheckout('Plus')}
                                         handleOnSelect={this.handleOnSelect(2)}
                                     ></PricingComponent>
                                 </Grid.Column>
@@ -118,7 +102,7 @@ class Shop extends React.Component<Props, State> {
                                         t={t}
                                         pricingData={pricingData[3]}
                                         isSelected={this.state.selectedPackageKey === 3}
-                                        handleOnCheckout={this.handleOnCheckout}
+                                        handleOnCheckout={this.handleOnCheckout('Exclusive')}
                                         handleOnSelect={this.handleOnSelect(3)}
                                     ></PricingComponent>
                                 </Grid.Column>
@@ -126,7 +110,7 @@ class Shop extends React.Component<Props, State> {
                         </section>
                         <section>
                             <Container
-                                className="rtt-steps-call-to-action bg-secondary rounded shadow"
+                                className="rtt-shop-call-to-action bg-secondary rounded shadow"
                                 data-sal="slide-up"
                                 data-sal-delay="0"
                                 data-sal-duration="300"
@@ -184,7 +168,39 @@ const OverlayContent = ({ inverted, t }) => {
     );
 };
 
-const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, handleOnCheckout }) => {
+export type Product = {
+    priceId: string;
+    title: string;
+    price: string;
+    duration: string;
+    content: boolean[];
+};
+
+export const pricingData = {
+    1: {
+        priceId: 'price_1GrKUOCbDUY84ofe8W6LJHcA',
+        title: 'Basic',
+        price: '299€',
+        duration: 'für 1 Monat',
+        content: [true, true, true, true, false, false, false, false],
+    },
+    2: {
+        priceId: 'price_1GrNeNCbDUY84ofeeEVHaF9g',
+        title: 'Plus',
+        price: '499€',
+        duration: 'für 3 Monate',
+        content: [true, true, true, true, true, true, false, false],
+    },
+    3: {
+        priceId: 'price_1GrNfuCbDUY84ofe6aQWfr6b',
+        title: 'Exclusive',
+        price: '599€',
+        duration: 'für 6 Monate',
+        content: [true, true, true, true, true, true, true, true],
+    },
+};
+
+export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, handleOnCheckout }) => {
     return (
         <Container
             className={`rtt-shop-pricing-container rounded shadow ${
@@ -259,18 +275,20 @@ const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, handleOn
                     </List.Item>
                 </List>
             </div>
-            <div className="rtt-shop-pricing-button-wrapper">
-                {!isSelected ? (
-                    <Button primary basic className="rounded shadow hover-animate" onClick={handleOnSelect}>
-                        {t('rtt-shop-pricing-select')}
-                    </Button>
-                ) : (
-                    <Button primary className="rounded shadow hover-animate" onClick={handleOnCheckout}>
-                        <Icon name="lock" style={{ opacity: 1 }}></Icon>
-                        {t('rtt-shop-pricing-checkout')}
-                    </Button>
-                )}
-            </div>
+            {handleOnSelect != null && (
+                <div className="rtt-shop-pricing-button-wrapper">
+                    {!isSelected ? (
+                        <Button primary basic className="rounded shadow hover-animate" onClick={handleOnSelect}>
+                            {t('rtt-shop-pricing-select')}
+                        </Button>
+                    ) : (
+                        <Button primary className="rounded shadow hover-animate" onClick={handleOnCheckout}>
+                            <Icon name="lock" style={{ opacity: 1 }}></Icon>
+                            {t('rtt-shop-pricing-checkout')}
+                        </Button>
+                    )}
+                </div>
+            )}
         </Container>
     );
 };

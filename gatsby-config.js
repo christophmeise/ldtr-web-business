@@ -5,6 +5,10 @@
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
 
+require('dotenv').config({
+    path: `.env.${process.env.NODE_ENV}`,
+});
+
 module.exports = {
     siteMetadata: {
         title: `Inner Light`,
@@ -21,6 +25,22 @@ module.exports = {
         'gatsby-plugin-sharp',
         'gatsby-transformer-sharp',
         'gatsby-plugin-less',
+        /*         {
+            resolve: `gatsby-source-stripe`,
+            options: {
+                objects: ['Product', 'Sku'],
+                secretKey: process.env.STRIPE_SECRET_KEY,
+                downloadFiles: false,
+            },
+        }, */
+        {
+            resolve: 'gatsby-plugin-react-svg',
+            options: {
+                rule: {
+                    include: /\.inline\.svg$/,
+                },
+            },
+        },
         {
             resolve: `gatsby-plugin-scroll-reveal`,
             options: {

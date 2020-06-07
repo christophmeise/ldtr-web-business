@@ -36,6 +36,7 @@ fields:
   label: Blocks
   template_types:
   - introduction
+  - fulltext
   config:
     min: 
     max: 

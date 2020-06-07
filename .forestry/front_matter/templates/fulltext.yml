@@ -1,6 +1,6 @@
 ---
 label: Fulltext
-hide_body: true
+hide_body: false
 fields:
 - name: content
   type: textarea

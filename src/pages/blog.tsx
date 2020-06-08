@@ -1,6 +1,6 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import { Container, Grid, Label } from 'semantic-ui-react';
+import { Container, Grid, Header, Label } from 'semantic-ui-react';
 import BlogPostCard from '../components/blog-post-card/blog-post-card';
 import Layout from '../components/layout';
 import PlainHeader from '../components/plain-overlay/plain-header';
@@ -30,7 +30,7 @@ class Blog extends React.Component<Props, BlogState> {
     constructor(props: Props) {
         super(props);
         this.state = {
-            tagFilter: '',
+            tagFilter: 'All',
         };
     }
 
@@ -68,57 +68,81 @@ class Blog extends React.Component<Props, BlogState> {
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO lang="en" description={description} title="All posts" />
-                <Container className="global-header-padding">
+                <div className="global-header-padding">
                     <PlainHeader content={<HeaderContent t={t} />} />
-                    <div className="main-content-sections">
-                        <Label.Group className="blog-tag-label-group">
-                            {tags.map((tag) => {
-                                return (
-                                    <Label as="a" onClick={this.filterByLabel.bind(this)}>
-                                        {tag}
-                                    </Label>
-                                );
-                            })}
-                        </Label.Group>
-                        <section>
-                            <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
-                                <Grid.Column>
-                                    {posts
-                                        .filter((post) => post.node.frontmatter.title.length > 0)
-                                        .map(({ node: post }) => {
-                                            return (
-                                                posts.findIndex((entry) => entry.node.id === post.id) % 3 === 0 && (
-                                                    <BlogPostCard post={post}></BlogPostCard>
-                                                )
-                                            );
-                                        })}
-                                </Grid.Column>
-                                <Grid.Column>
-                                    {posts
-                                        .filter((post) => post.node.frontmatter.title.length > 0)
-                                        .map(({ node: post }) => {
-                                            return (
-                                                posts.findIndex((entry) => entry.node.id === post.id) % 3 === 1 && (
-                                                    <BlogPostCard post={post}></BlogPostCard>
-                                                )
-                                            );
-                                        })}
-                                </Grid.Column>
-                                <Grid.Column>
-                                    {posts
-                                        .filter((post) => post.node.frontmatter.title.length > 0)
-                                        .map(({ node: post }) => {
-                                            return (
-                                                posts.findIndex((entry) => entry.node.id === post.id) % 3 === 2 && (
-                                                    <BlogPostCard post={post}></BlogPostCard>
-                                                )
-                                            );
-                                        })}
-                                </Grid.Column>
-                            </Grid>
-                        </section>
+                    <div className="blog-content-sections bg-secondary">
+                        <Container>
+                            <Header
+                                data-sal="slide-up"
+                                data-sal-delay="0"
+                                data-sal-duration="300"
+                                data-sal-easing="ease"
+                                textAlign="center"
+                                className="global-flex-column global-no-margin"
+                            >
+                                <h3 className="blog-headline">Filter by Tag</h3>
+                            </Header>
+                            <Label.Group className="blog-tag-label-group">
+                                {tags.map((tag) => {
+                                    return (
+                                        <Label
+                                            as="a"
+                                            active={this.state.tagFilter === tag}
+                                            className="blog-post-tag-label"
+                                            circular
+                                            onClick={this.filterByLabel.bind(this)}
+                                        >
+                                            {tag}
+                                        </Label>
+                                    );
+                                })}
+                            </Label.Group>
+                            <section>
+                                <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
+                                    <Grid.Column>
+                                        {posts
+                                            .filter((post) => post.node.frontmatter.title.length > 0)
+                                            .map(({ node: post }) => {
+                                                return (
+                                                    posts.findIndex((entry) => entry.node.id === post.id) % 3 === 0 && (
+                                                        <div className="blog-post-card-wrapper">
+                                                            <BlogPostCard post={post}></BlogPostCard>
+                                                        </div>
+                                                    )
+                                                );
+                                            })}
+                                    </Grid.Column>
+                                    <Grid.Column>
+                                        {posts
+                                            .filter((post) => post.node.frontmatter.title.length > 0)
+                                            .map(({ node: post }) => {
+                                                return (
+                                                    posts.findIndex((entry) => entry.node.id === post.id) % 3 === 1 && (
+                                                        <div className="blog-post-card-wrapper">
+                                                            <BlogPostCard post={post}></BlogPostCard>
+                                                        </div>
+                                                    )
+                                                );
+                                            })}
+                                    </Grid.Column>
+                                    <Grid.Column>
+                                        {posts
+                                            .filter((post) => post.node.frontmatter.title.length > 0)
+                                            .map(({ node: post }) => {
+                                                return (
+                                                    posts.findIndex((entry) => entry.node.id === post.id) % 3 === 2 && (
+                                                        <div className="blog-post-card-wrapper">
+                                                            <BlogPostCard post={post}></BlogPostCard>
+                                                        </div>
+                                                    )
+                                                );
+                                            })}
+                                    </Grid.Column>
+                                </Grid>
+                            </section>
+                        </Container>
                     </div>
-                </Container>
+                </div>
             </Layout>
         );
     }

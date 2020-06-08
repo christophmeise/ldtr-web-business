@@ -94,7 +94,7 @@ class OverlayContent extends React.Component<any, any> {
             <div>
                 <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
                     {t('rtt-index-overlay-headline')}
-                    <Typed strings={typedWords} typeSpeed={70} backSpeed={60} loop></Typed>
+                    <Typed strings={typedWords} backDelay={2500} typeSpeed={110} backSpeed={100} loop></Typed>
                 </h1>
                 <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
                     {t('rtt-index-overlay-subheadline')}

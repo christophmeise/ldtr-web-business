@@ -5,6 +5,7 @@ import HeaderOverlayBlog from './../components/header-overlay/header-overlay-blo
 import Layout from './../components/layout';
 import SEO from './../components/seo';
 import withI18next from './../components/withI18next/withI18next';
+import './blog-post.less';
 
 function BlogPostTemplate({ data, t }) {
     const { markdownRemark: post } = data;
@@ -23,7 +24,7 @@ function BlogPostTemplate({ data, t }) {
             />
             <Container>
                 <div className="main-content-sections">
-                    <section>
+                    <section className="blog-post">
                         <article dangerouslySetInnerHTML={{ __html: post.html }}></article>
                     </section>
                 </div>

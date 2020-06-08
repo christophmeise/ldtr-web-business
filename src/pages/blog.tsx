@@ -70,50 +70,54 @@ class Blog extends React.Component<Props, BlogState> {
                 <SEO lang="en" description={description} title="All posts" />
                 <Container className="global-header-padding">
                     <PlainHeader content={<HeaderContent t={t} />} />
-                    <Label.Group className="blog-tag-label-group">
-                        {tags.map((tag) => {
-                            return (
-                                <Label as="a" onClick={this.filterByLabel.bind(this)}>
-                                    {tag}
-                                </Label>
-                            );
-                        })}
-                    </Label.Group>
-                    <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
-                        <Grid.Column>
-                            {posts
-                                .filter((post) => post.node.frontmatter.title.length > 0)
-                                .map(({ node: post }) => {
-                                    return (
-                                        posts.findIndex((entry) => entry.node.id === post.id) % 3 === 0 && (
-                                            <BlogPostCard post={post}></BlogPostCard>
-                                        )
-                                    );
-                                })}
-                        </Grid.Column>
-                        <Grid.Column>
-                            {posts
-                                .filter((post) => post.node.frontmatter.title.length > 0)
-                                .map(({ node: post }) => {
-                                    return (
-                                        posts.findIndex((entry) => entry.node.id === post.id) % 3 === 1 && (
-                                            <BlogPostCard post={post}></BlogPostCard>
-                                        )
-                                    );
-                                })}
-                        </Grid.Column>
-                        <Grid.Column>
-                            {posts
-                                .filter((post) => post.node.frontmatter.title.length > 0)
-                                .map(({ node: post }) => {
-                                    return (
-                                        posts.findIndex((entry) => entry.node.id === post.id) % 3 === 2 && (
-                                            <BlogPostCard post={post}></BlogPostCard>
-                                        )
-                                    );
-                                })}
-                        </Grid.Column>
-                    </Grid>
+                    <div className="main-content-sections">
+                        <Label.Group className="blog-tag-label-group">
+                            {tags.map((tag) => {
+                                return (
+                                    <Label as="a" onClick={this.filterByLabel.bind(this)}>
+                                        {tag}
+                                    </Label>
+                                );
+                            })}
+                        </Label.Group>
+                        <section>
+                            <Grid style={{ paddingTop: '2em' }} stackable centered columns={3}>
+                                <Grid.Column>
+                                    {posts
+                                        .filter((post) => post.node.frontmatter.title.length > 0)
+                                        .map(({ node: post }) => {
+                                            return (
+                                                posts.findIndex((entry) => entry.node.id === post.id) % 3 === 0 && (
+                                                    <BlogPostCard post={post}></BlogPostCard>
+                                                )
+                                            );
+                                        })}
+                                </Grid.Column>
+                                <Grid.Column>
+                                    {posts
+                                        .filter((post) => post.node.frontmatter.title.length > 0)
+                                        .map(({ node: post }) => {
+                                            return (
+                                                posts.findIndex((entry) => entry.node.id === post.id) % 3 === 1 && (
+                                                    <BlogPostCard post={post}></BlogPostCard>
+                                                )
+                                            );
+                                        })}
+                                </Grid.Column>
+                                <Grid.Column>
+                                    {posts
+                                        .filter((post) => post.node.frontmatter.title.length > 0)
+                                        .map(({ node: post }) => {
+                                            return (
+                                                posts.findIndex((entry) => entry.node.id === post.id) % 3 === 2 && (
+                                                    <BlogPostCard post={post}></BlogPostCard>
+                                                )
+                                            );
+                                        })}
+                                </Grid.Column>
+                            </Grid>
+                        </section>
+                    </div>
                 </Container>
             </Layout>
         );

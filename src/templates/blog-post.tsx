@@ -1,21 +1,10 @@
 import { graphql } from 'gatsby';
 import React from 'react';
 import { Container } from 'semantic-ui-react';
-import BlogPostIntroduction from '../components/blog-post-introduction/blog-post-introduction';
-import BlogPostFullText from './../components/blog-post-full-text/blog-post-full-text';
 import HeaderOverlayBlog from './../components/header-overlay/header-overlay-blog';
 import Layout from './../components/layout';
 import SEO from './../components/seo';
 import withI18next from './../components/withI18next/withI18next';
-
-function containsTemplate(blocks: any[], template) {
-    return blocks.map((block) => block.template).includes(template);
-}
-
-function getBlockContentForTemplate(blocks: any[], template) {
-    const blockIndex = blocks.map((block) => block.template).indexOf(template);
-    return blocks[blockIndex];
-}
 
 function BlogPostTemplate({ data, t }) {
     const { markdownRemark: post } = data;
@@ -34,14 +23,9 @@ function BlogPostTemplate({ data, t }) {
             />
             <Container>
                 <div className="main-content-sections">
-                    {containsTemplate(blocks, 'introduction') && (
-                        <BlogPostIntroduction
-                            content={getBlockContentForTemplate(blocks, 'introduction')}
-                        ></BlogPostIntroduction>
-                    )}
-                    {containsTemplate(blocks, 'fulltext') && (
-                        <BlogPostFullText content={getBlockContentForTemplate(blocks, 'fulltext')}></BlogPostFullText>
-                    )}
+                    <section>
+                        <article dangerouslySetInnerHTML={{ __html: post.html }}></article>
+                    </section>
                 </div>
             </Container>
         </Layout>

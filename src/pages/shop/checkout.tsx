@@ -33,7 +33,8 @@ class ShopCheckoutPage extends React.Component<Props, State> {
     }
 
     componentWillMount() {
-        if (window != undefined) {
+        const isSSR = typeof window === 'undefined';
+        if (!isSSR) {
             let params = queryString.parse(location.search);
             this.setState({ checkoutOption: params.option });
         }

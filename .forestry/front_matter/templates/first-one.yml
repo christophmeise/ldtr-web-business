@@ -1,6 +1,7 @@
 ---
 label: Blog Entries
 hide_body: false
+display_field: title
 fields:
 - name: title
   type: text
@@ -31,15 +32,6 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: blocks
-  type: blocks
-  label: Blocks
-  template_types:
-  - introduction
-  - fulltext
-  config:
-    min: 
-    max: 
 pages:
 - src/posts/cute-otter.md
 - src/posts/how-i-learnt-gatsby-in-one-day.md

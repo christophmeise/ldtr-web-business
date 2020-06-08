@@ -35,7 +35,12 @@ export default function BlogPostCard({ post }: Props) {
                     <Label.Group className="blog-post-tag-label-group">
                         {post.frontmatter.tags.map((tag) => {
                             return (
-                                <Label size="small" circular className="blog-post-tag-label">
+                                <Label
+                                    size="small"
+                                    circular
+                                    basic
+                                    className="blog-post-tag-label blog-post-tag-transparent"
+                                >
                                     {tag}
                                 </Label>
                             );

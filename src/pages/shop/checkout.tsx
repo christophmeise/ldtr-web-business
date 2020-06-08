@@ -30,6 +30,7 @@ interface State {
 class ShopCheckoutPage extends React.Component<Props, State> {
     constructor(props) {
         super(props);
+        this.state = { checkoutOption: 'Basic' };
     }
 
     componentWillMount() {
@@ -49,7 +50,7 @@ class ShopCheckoutPage extends React.Component<Props, State> {
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
         const checkoutOption = this.state.checkoutOption;
-        console.log(checkoutOption);
+
         let product: Product;
         if (checkoutOption === 'Basic') {
             product = pricingData[1];

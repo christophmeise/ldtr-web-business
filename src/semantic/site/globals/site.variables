@@ -4,8 +4,8 @@
 
 @importGoogleFonts : false;
 
-@primaryColor   : #35bdb2;
-@secondaryColor : #7F7EFF;
+@primaryColor   : #3cb3b9; /*#35bdb2;*/
+@secondaryColor : #b99450; /*#7F7EFF;*/
 @red            : #B03060;
 @orange         : #FE9A76;
 @yellow         : #FFD700;

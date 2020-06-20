@@ -1,7 +1,6 @@
 import { graphql, Link } from 'gatsby';
 import i18n from 'i18next';
 import React from 'react';
-import Typed from 'react-typed';
 import { Button } from 'semantic-ui-react';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
@@ -51,13 +50,14 @@ class Index extends React.Component<Props> {
                 media: `(min-width: 768px)`,
             },
         ];
+        const backgroundColor = '#e5e2d6';
 
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title="Index" />
                 <HeaderOverlay
                     sources={sources}
-                    color="#f5f4f0"
+                    color={backgroundColor}
                     inverted={false}
                     content={<OverlayContent inverted={false} t={t} />}
                 />
@@ -94,7 +94,7 @@ class OverlayContent extends React.Component<any, any> {
             <div>
                 <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
                     {t('rtt-index-overlay-headline')}
-                    <Typed strings={typedWords} backDelay={2500} typeSpeed={110} backSpeed={100} loop></Typed>
+                    {/*  <Typed strings={typedWords} backDelay={2500} typeSpeed={110} backSpeed={100} loop></Typed> */}
                 </h1>
                 <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
                     {t('rtt-index-overlay-subheadline')}

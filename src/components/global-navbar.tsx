@@ -28,6 +28,12 @@ class GlobalNavbar extends React.Component<Props, any> {
                 </Menu.Item>
                 <Dropdown item text={t('navbar-therapy')} simple>
                     <Dropdown.Menu className="global-navbar-dropdown">
+                        <Link to={getPathWithLocale('/innerlight-hypnotherapy')}>
+                            <Dropdown.Item>
+                                <Icon name="heart outline" className="left"></Icon>
+                                {t('navbar-innerlight-hypnotherapy')}
+                            </Dropdown.Item>
+                        </Link>
                         <Link to={getPathWithLocale('/rtt')}>
                             <Dropdown.Item>
                                 <Icon name="heart outline" className="left"></Icon>

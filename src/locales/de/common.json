@@ -1,6 +1,7 @@
 {
     "navbar-therapy": "Therapie",
     "navbar-rtt": "Über RTT™",
+    "navbar-innerlight-hypnotherapy": "Therapie",
     "navbar-rtt-areas": "Anwendungsbereiche",
     "aboutme": "Über mich",
     "blog": "Blog",
@@ -43,7 +44,7 @@
     "rtt-areas-headline": "Anwendungsbereiche von RTT™",
     "rtt-areas-subheadline": "Finde heraus, wie die RTT™ Methode dir helfen kann",
     "rtt-page-headline": "Rapid Transformational Therapy",
-    "rtt-page-subheadline": "Die RTT™ Methode, Marisa Peer und Christin Meise",
+    "rtt-page-subheadline": "Erfahre alles über die RTT Methode und der Begründerin Marisa Peer",
     "rtt-testimonials-headline": "Kundenbewertungen",
     "rtt-call-to-action-text": "Bereit für deine Reise?",
     "rtt-call-to-action-button": "Jetzt Termin vereinbaren",
@@ -76,5 +77,9 @@
     "dataprotection": "Datenschutzerklärung",
     "impressum": "Impressum",
     "dataprotection-headline": "Datenschutzerklärung",
-    "dataprotection-subheadline": "Bei Fragen senden Sie und gerne eine Nachricht!"
+    "dataprotection-subheadline": "Bei Fragen senden Sie und gerne eine Nachricht!",
+    "innerlight-hypnotherapy-headline": "Inner Light Hypnotherapie",
+    "innerlight-hypnotherapy-subheadline": "Entdecke Innerlight***",
+    "innerlight-hypnotherapy-article1-headline": "Was erwartet dich?***",
+    "innerlight-hypnotherapy-article1-subheadline": "Entecke, wie lorem ipsum loram***"
 }

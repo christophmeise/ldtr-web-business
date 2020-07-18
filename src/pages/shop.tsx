@@ -1,9 +1,9 @@
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import React from 'react';
 import { Button, Container, Grid, Icon, List } from 'semantic-ui-react';
+import CallToActionBanner from '../components/call-to-action-banner/call-to-action-banner';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
-import { getPathWithLocale } from '../components/navigateWithLocale';
 import SEO from '../components/seo';
 import navigateWithLocale from './../components/navigateWithLocale';
 import SectionHeader from './../components/sectionHeader';
@@ -109,31 +109,13 @@ class Shop extends React.Component<Props, State> {
                             </Grid>
                         </section>
                         <section>
-                            <Container
-                                className="rtt-shop-call-to-action bg-secondary rounded shadow"
-                                data-sal="slide-up"
-                                data-sal-delay="0"
-                                data-sal-duration="300"
-                                data-sal-easing="ease"
-                            >
-                                <Grid columns={2} stackable>
-                                    <Grid.Column>
-                                        <h3 className="global-subtitle text-primary">
-                                            {t('rtt-shop-call-to-action-headline')}
-                                        </h3>
-                                        <h4>{t('rtt-shop-call-to-action-subheadline')}</h4>
-                                        <p>{t('rtt-shop-call-to-action-description')}</p>
-                                    </Grid.Column>
-                                    <Grid.Column textAlign="center" verticalAlign="middle">
-                                        <Link to={getPathWithLocale('/book-call')}>
-                                            <Button primary size="large" className="rounded shadow hover-animate">
-                                                {t('rtt-call-to-action-button')}
-                                            </Button>
-                                        </Link>
-                                        <p style={{ marginTop: '0.5rem' }}>{t('rtt-shop-call-to-action-free')}</p>
-                                    </Grid.Column>
-                                </Grid>
-                            </Container>
+                            <CallToActionBanner
+                                headline={t('rtt-shop-call-to-action-headline')}
+                                subheadline={t('rtt-shop-call-to-action-subheadline')}
+                                text={t('rtt-shop-call-to-action-description')}
+                                buttonText={t('rtt-call-to-action-button')}
+                                buttonSubtext={t('rtt-shop-call-to-action-free')}
+                            ></CallToActionBanner>
                         </section>
                         {/*      <Grid style={{ paddingTop: '2em' }} centered columns={1}>
                         <Grid.Column width={10}>

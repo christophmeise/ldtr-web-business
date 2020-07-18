@@ -2,6 +2,7 @@
     "navbar-therapy": "Therapy",
     "navbar-rtt": "About RTT™",
     "navbar-rtt-areas": "Application areas",
+    "navbar-innerlight-hypnotherapy": "Therapy",
     "aboutme": "About me",
     "blog": "Blog",
     "shop": "Shop",
@@ -70,5 +71,9 @@
     "dataprotection": "Data Protection",
     "impressum": "Imprint",
     "dataprotection-headline": "Data protection",
-    "dataprotection-subheadline": "If you have any questions, drop us a message!"
+    "dataprotection-subheadline": "If you have any questions, drop us a message!",
+    "innerlight-hypnotherapy-headline": "Inner Light Hypnotherapie",
+    "innerlight-hypnotherapy-subheadline": "Entdecke Innerlight***",
+    "innerlight-hypnotherapy-article1-headline": "Was erwartet dich?***",
+    "innerlight-hypnotherapy-article1-subheadline": "Entecke, wie lorem ipsum loram***"
 }

@@ -113,14 +113,16 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
                                         </Grid>
                                     </article>
                                 </Container>
-                                <CallToActionBanner
-                                    headline="Buch deine Session heute"
-                                    subheadline="Der ersehnten Wandel in Ihrem Leben ist jetzt und dauerhaft für Sie erreichbar."
-                                    text="Buchen Sie hier direkt ihr individuelles Paket (Link Shop) oder lesen Sie
+                                <div style={{ marginTop: '4rem' }}>
+                                    <CallToActionBanner
+                                        headline="Buch deine Session heute"
+                                        subheadline="Der ersehnten Wandel in Ihrem Leben ist jetzt und dauerhaft für Sie erreichbar."
+                                        text="Buchen Sie hier direkt ihr individuelles Paket (Link Shop) oder lesen Sie
                             hier mehr zu der bahnbrechenden Methode RTT (Link RTT)."
-                                    buttonText="Individuelles Paket buchen"
-                                    buttonSubtext=""
-                                ></CallToActionBanner>
+                                        buttonText="Individuelles Paket buchen"
+                                        buttonSubtext=""
+                                    ></CallToActionBanner>
+                                </div>
                             </section>
                         </div>
                     </Container>

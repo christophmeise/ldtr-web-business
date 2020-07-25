@@ -14,9 +14,9 @@
     "rtt-index-overlay-headline": "Erwecke dein Inner Light",
     "rtt-index-overlay-subheadline": "Du bist der Schöpfer - schaffe das Leben, von dem du träumst",
     "rtt-shop-overlay-headline": "Buche deine Session",
-    "rtt-shop-overlay-subheadline": "Wähle aus großartigen Angeboten und wähle, was am besten zu dir passt",
-    "rtt-shop-main-subheadline": "Preise und Pakete",
-    "rtt-shop-main-headline": "Wähle dein Paket, zahle einfach und sicher und sichere dir jetzt exklusive Vorteile",
+    "rtt-shop-overlay-subheadline": "Denn du verdienst das Leben, von dem du träumst",
+    "rtt-shop-main-subheadline": "Transformationsprogramme zu deinem besten Selbst",
+    "rtt-shop-main-headline": "Wähle dein passendes Paket, zahle einfach und sicher und profitiere von deiner besten Investition - in dich und deine Freiheit",
     "rtt-shop-pricing-select": "Auswählen",
     "rtt-shop-pricing-checkout": "Weiter zum sicheren Checkout",
     "rtt-shop-call-to-action-headline": "Brauchst du Hilfe bei der Entscheidung?",
@@ -46,7 +46,7 @@
     "rtt-page-headline": "Rapid Transformational Therapy",
     "rtt-page-subheadline": "Erfahre alles über die RTT Methode und der Begründerin Marisa Peer",
     "rtt-testimonials-headline": "Kundenbewertungen",
-    "rtt-call-to-action-text": "Bereit für deine Reise?",
+    "rtt-call-to-action-text": "Mit RTT zu deinem besten Selbst",
     "rtt-call-to-action-button": "Jetzt Termin vereinbaren",
     "rtt-main-subheadline": "RAPID TRANSFORMATIONAL THERAPY™",
     "rtt-main-headline": "Eine neuartige Kombination von Hypnotherapie, Psychotherapie und kognitiver Verhaltenstherapie",
@@ -81,5 +81,7 @@
     "innerlight-hypnotherapy-headline": "Inner Light Hypnotherapie",
     "innerlight-hypnotherapy-subheadline": "Entdecke Innerlight***",
     "innerlight-hypnotherapy-article1-headline": "Was erwartet dich?***",
-    "innerlight-hypnotherapy-article1-subheadline": "Entecke, wie lorem ipsum loram***"
+    "innerlight-hypnotherapy-article1-subheadline": "Entecke, wie lorem ipsum loram***",
+    "cookie-notification-1": "Beim Verwenden dieser Seite bestätigst du dein Einverständnis zur",
+    "cookie-notification-2": "Datenschutzerklärung"
 }

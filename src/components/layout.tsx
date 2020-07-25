@@ -34,13 +34,15 @@ class Layout extends React.Component<Props, any> {
         }
     }
 
-    notify = () =>
+    notify = () => {
+        const { t } = this.props;
         toast(
             <p>
-                By browsing this site, you agree to our
-                <Link to={getPathWithLocale('/dataprotection')}> Privacy Policy</Link>
+                {t('cookie-notification-1')}
+                <Link to={getPathWithLocale('/dataprotection')}> {t('cookie-notification-2')}</Link>
             </p>,
         );
+    };
 
     componentDidMount() {
         this.notify();

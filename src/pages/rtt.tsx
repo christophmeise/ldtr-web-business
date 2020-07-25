@@ -1,7 +1,8 @@
 import { graphql, Link } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 import Img from 'gatsby-image';
 import React from 'react';
-import { Button, Container, Grid, GridColumn, Icon } from 'semantic-ui-react';
+import { Button, Container, Embed, Grid, GridColumn, GridRow, Icon } from 'semantic-ui-react';
 import SectionRTTSteps from '../components/index/rtt-steps';
 import Layout from '../components/layout';
 import { getPathWithLocale } from '../components/navigateWithLocale';
@@ -25,6 +26,8 @@ interface Props {
         rttImage: any;
         seasideImage: any;
         oceanwavesImage: any;
+        wunderkerzeImage: any;
+        approvedImage: any;
     };
 }
 
@@ -44,15 +47,17 @@ class RttPage extends React.Component<Props, any> {
         const rttImage = data.rttImage.childImageSharp.fluid;
         const seasideImage = data.seasideImage.childImageSharp.fluid;
         const oceanwavesImage = data.oceanwavesImage.childImageSharp.fluid;
+        const wunderkerzeImage = data.wunderkerzeImage.childImageSharp.fluid;
+        const approvedImage = data.approvedImage.childImageSharp.fluid;
 
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title="Index" />
-                <Container className="global-header-padding">
+                <div className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
-                    <Container>
-                        <div className="main-content-sections">
-                            <section>
+                    <div className="main-content-sections">
+                        <section>
+                            <Container>
                                 <article>
                                     <Grid style={{ paddingTop: '2em', marginBottom: '5em' }} columns="2" stackable>
                                         <GridColumn>
@@ -149,9 +154,47 @@ class RttPage extends React.Component<Props, any> {
                                         </GridColumn>
                                     </Grid>
                                 </article>
-                            </section>
+                            </Container>
+                        </section>
 
-                            <SectionRTTSteps t={t}></SectionRTTSteps>
+                        <section>
+                            <BackgroundImage
+                                className="rtt-call-to-action-image shadow"
+                                fluid={data.oceanwavesImage.childImageSharp.fluid}
+                            >
+                                <Container className="rtt-call-to-action-image-container">
+                                    <Grid
+                                        className="rtt-call-container-desktop responsive-desktop-container"
+                                        verticalAlign="middle"
+                                    >
+                                        <GridColumn width={16} verticalAlign="middle">
+                                            <h2 className="call-to-action-text font-playfair">
+                                                {t('rtt-call-to-action-text')}
+                                            </h2>
+                                            <Button primary size="medium">
+                                                {t('rtt-call-to-action-button')}
+                                            </Button>
+                                        </GridColumn>
+                                    </Grid>
+                                    <Container
+                                        className="rtt-call-container-mobile responsive-mobile-container"
+                                        textAlign="left"
+                                    >
+                                        <h2 className="call-to-action-text font-playfair">
+                                            {t('rtt-call-to-action-text')}
+                                        </h2>
+                                        <Link to={getPathWithLocale('/book-call')}>
+                                            <Button primary size="medium" className="shadow hover-animate">
+                                                {t('rtt-call-to-action-button')}
+                                            </Button>
+                                        </Link>
+                                    </Container>
+                                </Container>
+                            </BackgroundImage>
+                        </section>
+
+                        <SectionRTTSteps t={t}></SectionRTTSteps>
+                        <div style={{ marginBottom: '6rem' }}>
                             <CallToActionBanner
                                 headline={t('rtt-shop-call-to-action-headline')}
                                 subheadline={t('rtt-shop-call-to-action-subheadline')}
@@ -160,8 +203,107 @@ class RttPage extends React.Component<Props, any> {
                                 buttonSubtext={t('rtt-shop-call-to-action-free')}
                             ></CallToActionBanner>
                         </div>
-                    </Container>
-                </Container>
+                        <section>
+                            <Container>
+                                <SectionHeader
+                                    headline={t('Was unterscheidet RTT von herkömmlichen Therapien?')}
+                                    subheadline={t('Warum RTT die Therapie-Welt revolutioniert')}
+                                    primary={true}
+                                    textAlign="center"
+                                ></SectionHeader>
+                                <Grid columns="1" centered stackable>
+                                    <GridColumn width="12" className="index-rtt-video-container">
+                                        <Embed
+                                            id="nSdAb_O7McI"
+                                            aspectRatio="16:9"
+                                            className="video-wrapper shadow rounded hover-animate"
+                                            placeholder="/youtube-placeholder-2.jpg"
+                                            alt="youtube-image-placeholder"
+                                            source="youtube"
+                                            autoplay
+                                        />
+                                    </GridColumn>
+                                </Grid>
+                            </Container>
+                        </section>
+                        <section>
+                            <Container>
+                                <SectionHeader
+                                    headline={t('Marisa Peer, Erfinderin der Rapid Transformational Therapy')}
+                                    subheadline={t('Wer entwickelte RTT und warum?')}
+                                    primary={true}
+                                    textAlign="left"
+                                ></SectionHeader>
+                                <p>
+                                    Marisa Peer ist eine der weltweit angesehensten Therapeutinnen, Verhaltensexpertin,
+                                    Bestseller-Autorin und die Erfinderin der Rapid Transformational Therapy (RTT™). Sie
+                                    hinterfragte die immer noch verbreitete Überzeugung, dass etwas so Komplexes wie der
+                                    Geist sich einer simplen und raschen Transformation entziehe. Mit dem, was sie in
+                                    ihrer über 30-jährigen Karriere erreicht hat, bezeugt sie das Gegenteil: Klienten,
+                                    denen andere Therapeuten und Ärzte nicht helfen konnten, transformierte sie meist in
+                                    nur einer Sitzung durch die Anwendung ihrer eigens entwickelten Therapie-Methode.
+                                </p>
+                                <Grid style={{ paddingTop: '2em' }} columns="2" stackable>
+                                    <GridRow>
+                                        <GridColumn stretched>
+                                            <div className="rtt-image-wrapper">
+                                                <Img className="rtt-image rounded shadow" fluid={wunderkerzeImage} />
+                                            </div>
+                                        </GridColumn>
+                                        <GridColumn>
+                                            <Container textAlign="left">
+                                                <h4>Headline***</h4>
+                                                <p>
+                                                    Indem sie jene Elemente aus verschiedensten Therapie-Ansätzen
+                                                    vereinte, die bei ihren Klienten immer wieder schnellen und
+                                                    wirksamen Erfolg gezeigt haben, entwickelte sie einen umfassenden
+                                                    lösungsorientierten Ansatz der weit über die Resultate herkömmlicher
+                                                    Therapien hinaus geht. In ihrer Arbeit mit Sportweltmeistern, Stars,
+                                                    Olympia-Athleten, CEOs und politischen Führungskräften konnte sie
+                                                    mit RTT™ außergewöhnliche Ergebnisse erzielen und über dreißig Jahre
+                                                    Erfahrung in Psychotherapie, Hypnotherapie, kognitiver
+                                                    Verhaltenstherapie (CBT) und neurolinguistischer Programmierung
+                                                    (NLP) sammeln.
+                                                </p>
+                                            </Container>
+                                        </GridColumn>
+                                    </GridRow>
+                                    <GridRow>
+                                        <Container textAlign="left">
+                                            <p>
+                                                Vor einigen Jahren hat Marisa Peer begonnen, ihren innovativen
+                                                Therapieansatz als umfangreiche Ausbildung anzubieten aus dem tiefen
+                                                Wunsch heraus, mit RTT weltweit so viele Menschen wie nur möglich
+                                                schnelle und wirksame Heilung zu ermöglichen. Ihre revolutionäre
+                                                Therapie-Methode ist jetzt auch in Deutschland verfügbar. Entdecke hier
+                                                wie RTT auch dein Leben verändern kann! (link zu Anwendungsgebieten)
+                                            </p>
+                                        </Container>
+                                    </GridRow>
+                                    <GridRow>
+                                        <Container textAlign="left">
+                                            <p>
+                                                RTT® wird vom Allgemeinen Hypnotherapieregister, dem Rat für
+                                                Komplementär- und Naturheilkunde, dem Nationalen und Internationalen Rat
+                                                der Psychotherapeuten, dem American Board of Hypnotherapy, dem
+                                                Internationalen Verband der Komplementärtherapeuten sowie dem
+                                                Internationalen Institut für Komplementärtherapien befürwortet.
+                                            </p>
+                                        </Container>
+                                    </GridRow>
+                                    <GridRow>
+                                        <Container>
+                                            <BackgroundImage
+                                                className="rtt-logos-image shadow rounded"
+                                                fluid={data.approvedImage.childImageSharp.fluid}
+                                            ></BackgroundImage>
+                                        </Container>
+                                    </GridRow>
+                                </Grid>
+                            </Container>
+                        </section>
+                    </div>
+                </div>
             </Layout>
         );
     }
@@ -198,9 +340,23 @@ export const pageQuery = graphql`
                 }
             }
         }
-        oceanwavesImage: file(relativePath: { eq: "oceanwaves.jpg" }) {
+        wunderkerzeImage: file(relativePath: { eq: "wunderkerze.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 800, quality: 100) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
+            }
+        }
+        oceanwavesImage: file(relativePath: { eq: "oceanwaves.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
+            }
+        }
+        approvedImage: file(relativePath: { eq: "approved_logos.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1200, quality: 100) {
                     ...GatsbyImageSharpFluid_withWebp
                 }
             }

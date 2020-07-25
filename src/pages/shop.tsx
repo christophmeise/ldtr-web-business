@@ -68,6 +68,7 @@ class Shop extends React.Component<Props, State> {
                     color="#000000"
                     inverted={true}
                     content={<OverlayContent inverted={true} t={t} />}
+                    darken={true}
                 />
                 <div className="main-content-sections">
                     <Container>
@@ -107,16 +108,25 @@ class Shop extends React.Component<Props, State> {
                                     ></PricingComponent>
                                 </Grid.Column>
                             </Grid>
+                            <div style={{ marginTop: '6rem' }}>
+                                <CallToActionBanner
+                                    headline={t('rtt-shop-call-to-action-headline')}
+                                    subheadline={t('rtt-shop-call-to-action-subheadline')}
+                                    text={t('rtt-shop-call-to-action-description')}
+                                    buttonText={t('rtt-call-to-action-button')}
+                                    buttonSubtext={t('rtt-shop-call-to-action-free')}
+                                ></CallToActionBanner>
+                            </div>
+                            <Container textAlign="center" style={{ marginTop: '3rem' }}>
+                                <p>
+                                    Meine RTT™-Sitzungen können auf Englisch oder Deutsch durchgeführt werden. Damit Du
+                                    dich während deiner Session mit mir in deine vertraute Umgebung befindest, finden
+                                    die Therapie-Sitzungen über Skype oder Zoom statt. Im Raum Berlin besteht außerdem
+                                    die Möglichkeit, dass ich zu Dir komme.
+                                </p>
+                            </Container>
                         </section>
-                        <section>
-                            <CallToActionBanner
-                                headline={t('rtt-shop-call-to-action-headline')}
-                                subheadline={t('rtt-shop-call-to-action-subheadline')}
-                                text={t('rtt-shop-call-to-action-description')}
-                                buttonText={t('rtt-call-to-action-button')}
-                                buttonSubtext={t('rtt-shop-call-to-action-free')}
-                            ></CallToActionBanner>
-                        </section>
+
                         {/*      <Grid style={{ paddingTop: '2em' }} centered columns={1}>
                         <Grid.Column width={10}>
                             <Item.Group>
@@ -162,22 +172,22 @@ export const pricingData = {
     1: {
         priceId: 'price_1GrKUOCbDUY84ofe8W6LJHcA',
         title: 'Basic',
-        price: '299€',
+        price: '349€',
         duration: 'für 1 Monat',
         content: [true, true, true, true, false, false, false, false],
     },
     2: {
         priceId: 'price_1GrNeNCbDUY84ofeeEVHaF9g',
         title: 'Plus',
-        price: '499€',
-        duration: 'für 3 Monate',
-        content: [true, true, true, true, true, true, false, false],
+        price: '599€',
+        duration: 'für 2 Monate',
+        content: [true, true, true, true, true, true, true, false],
     },
     3: {
         priceId: 'price_1GrNfuCbDUY84ofe6aQWfr6b',
         title: 'Exclusive',
-        price: '599€',
-        duration: 'für 6 Monate',
+        price: '899€',
+        duration: 'für 3 Monate',
         content: [true, true, true, true, true, true, true, true],
     },
 };
@@ -211,49 +221,52 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                             name={pricingData.content[1] ? 'check' : 'cancel'}
                             className={pricingData.content[1] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>3-Stündige Live Session</List.Content>
+                        <List.Content>Rapid Transformational Therapy™ Sitzung 1.5-2h</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[2] ? 'check' : 'cancel'}
                             className={pricingData.content[2] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>21-tägige Manifestation durch Recordings</List.Content>
+                        <List.Content>21 tägige Manifestation durch dein individuelles Live-Recording</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[3] ? 'check' : 'cancel'}
                             className={pricingData.content[3] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Kostenloses Nachgepräch</List.Content>
+                        <List.Content>2x Erfolgscheck</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[4] ? 'check' : 'cancel'}
                             className={pricingData.content[4] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Langzeit Betreuung</List.Content>
+                        <List.Content>Kostenloses Nachgespräch</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[5] ? 'check' : 'cancel'}
                             className={pricingData.content[5] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Zugang zu 3 weiteren Live-Recordings</List.Content>
+                        <List.Content>Follow up Rapid Transformational Therapy™ Sitzung 1.5-2h</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[6] ? 'check' : 'cancel'}
                             className={pricingData.content[6] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Follow-up Live Session</List.Content>
+                        <List.Content>
+                            Zugang zu {pricingData.content[7] ? 'zwei' : 'einem'} weiteren individuellen
+                            Transformations-Recording
+                        </List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[7] ? 'check' : 'cancel'}
                             className={pricingData.content[7] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Zugang zu allen Live Events und Meetups</List.Content>
+                        <List.Content>Langzeit-Betreuung mit 1-zu-1 Coaching</List.Content>
                     </List.Item>
                 </List>
             </div>
@@ -307,14 +320,14 @@ export const pageQuery = graphql`
                 }
             }
         }
-        desktopImage: file(relativePath: { eq: "shop-banner.jpg" }) {
+        desktopImage: file(relativePath: { eq: "sunset_shop.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
-        mobileImage: file(relativePath: { eq: "shop-banner.jpg" }) {
+        mobileImage: file(relativePath: { eq: "sunset_shop.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
                     ...GatsbyImageSharpFluid

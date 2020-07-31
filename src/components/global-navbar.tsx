@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import React from 'react';
 import { Button, Dropdown, Icon, Menu } from 'semantic-ui-react';
 import LanguageSwitcher from './language-switcher/language-switcher';
-import Logo from './logo';
+import Logo from './logo//logo';
 import { getPathWithLocale } from './navigateWithLocale';
 
 interface Props {
@@ -23,7 +23,7 @@ class GlobalNavbar extends React.Component<Props, any> {
 
         return (
             <React.Fragment>
-                <Menu.Item name="/" link onClick={handleItemClick}>
+                <Menu.Item className="menu-item-logo" name="/" link onClick={handleItemClick}>
                     <Logo inverted={inverted} />
                 </Menu.Item>
                 <Dropdown item text={t('navbar-therapy')} simple>
@@ -36,13 +36,13 @@ class GlobalNavbar extends React.Component<Props, any> {
                         </Link>
                         <Link to={getPathWithLocale('/rtt')}>
                             <Dropdown.Item>
-                                <Icon name="heart outline" className="left"></Icon>
+                                <Icon name="compass outline" className="left"></Icon>
                                 {t('navbar-rtt')}
                             </Dropdown.Item>
                         </Link>
                         <Link to={getPathWithLocale('/rtt-areas')}>
                             <Dropdown.Item>
-                                <Icon name="compass outline" className="left"></Icon>
+                                <Icon name="th list" className="left"></Icon>
                                 {t('navbar-rtt-areas')}
                             </Dropdown.Item>
                         </Link>

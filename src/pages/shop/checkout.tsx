@@ -41,6 +41,12 @@ class ShopCheckoutPage extends React.Component<Props, State> {
         }
     }
 
+    getCheckoutBannerText() {
+        let bannerText: string = this.props.t('shop:checkout-banner-text');
+        bannerText = bannerText.replace('{0}', '43');
+        return bannerText;
+    }
+
     render() {
         const {
             pageContext: { locale },
@@ -62,44 +68,41 @@ class ShopCheckoutPage extends React.Component<Props, State> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('shop:title-checkout')} />
                 <Container className="checkout-header-padding">
                     <Grid columns="2" stackable className="checkout-grid">
                         <Grid.Column width="10">
                             <SectionHeader
-                                headline={t('shop-checkout-headline')}
-                                subheadline={t('shop-checkout-subheadline') + checkoutOption}
+                                headline={t('shop:checkout-headline')}
+                                subheadline={t('shop:checkout-subheadline') + checkoutOption}
                                 primary={true}
                                 textAlign="left"
                             ></SectionHeader>
                             <Message
                                 icon="heart outline"
-                                header="This package is on people's minds."
-                                content="It's been viewed 43 times past week."
+                                header={t('shop:checkout-banner-title')}
+                                content={this.getCheckoutBannerText.bind(this)}
                                 success
                             />
                             <hr />
-                            <h4>What you can expect</h4>
+                            <h4>{t('shop:checkout-features-headline')}</h4>
                             <div className="icon-circle-with-text">
                                 <div className="rtt-icon-circle rtt-icon-circle-secondary">
                                     <Icon className="text-secondary" name="envelope outline" size="big"></Icon>
                                 </div>
-                                <p>
-                                    You will receive an E-Mail with your access codes for our sessions and your
-                                    recordings
-                                </p>
+                                <p>{t('shop:checkout-features-1')}</p>
                             </div>
                             <div className="icon-circle-with-text">
                                 <div className="rtt-icon-circle rtt-icon-circle-secondary">
                                     <Icon className="text-secondary" name="history" size="big"></Icon>
                                 </div>
-                                <p>Inner Light offers a full refund if you are unhappy after our session!</p>
+                                <p>{t('shop:checkout-features-2')}</p>
                             </div>
                             <div className="icon-circle-with-text">
                                 <div className="rtt-icon-circle rtt-icon-circle-secondary">
                                     <Icon className="text-secondary" name="payment" size="big"></Icon>
                                 </div>
-                                <p>Checkout and pay with your favorite payment method!</p>
+                                <p>{t('shop:checkout-features-3')}</p>
                             </div>
                             <hr />
                         </Grid.Column>
@@ -116,9 +119,8 @@ class ShopCheckoutPage extends React.Component<Props, State> {
                     <Container textAlign="center">
                         <Button animated primary onClick={redirectToCheckout(product)}>
                             <Button.Content visible>
-                                {' '}
                                 <Icon name="lock"></Icon>
-                                Secure Checkout
+                                {t('shop:checkout-button')}
                             </Button.Content>
                             <Button.Content hidden>
                                 <Icon name="arrow right" />
@@ -159,4 +161,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next(['common'])(ShopCheckoutPage);
+export default withI18next(['common', 'shop'])(ShopCheckoutPage);

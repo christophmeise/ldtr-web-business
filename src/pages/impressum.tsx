@@ -35,10 +35,23 @@ class Impressum extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('imprint-headline')} />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
-                    <Container></Container>
+                    <Container text>
+                        <div className="main-content-sections">
+                            <section>
+                                <p>
+                                    <b>Inner Light Hypnotherapy</b>
+                                </p>
+                                <p>Christin Meise</p>
+                                <p>X Straße</p>
+                                <p>12XXX Berlin</p>
+                                <p>T: +49 12345</p>
+                                <p>E: info@innerlight-hypnotherapy.com</p>
+                            </section>
+                        </div>
+                    </Container>
                 </Container>
             </Layout>
         );
@@ -48,8 +61,8 @@ class Impressum extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('dataprotection-headline')}</h1>
-            <h2 className="header-overlay-subheadline">{t('dataprotection-subheadline')}</h2>
+            <h1 className="header-overlay-headline">{t('imprint-headline')}</h1>
+            <h2 className="header-overlay-subheadline">{t('imprint-subheadline')}</h2>
         </div>
     );
 };

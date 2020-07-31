@@ -74,8 +74,8 @@ class Shop extends React.Component<Props, State> {
                     <Container>
                         <section>
                             <SectionHeader
-                                headline={t('rtt-shop-main-headline')}
-                                subheadline={t('rtt-shop-main-subheadline')}
+                                headline={t('shop:main-headline')}
+                                subheadline={t('shop:main-subheadline')}
                                 primary={true}
                                 textAlign="left"
                             ></SectionHeader>
@@ -110,11 +110,11 @@ class Shop extends React.Component<Props, State> {
                             </Grid>
                             <div style={{ marginTop: '6rem' }}>
                                 <CallToActionBanner
-                                    headline={t('rtt-shop-call-to-action-headline')}
-                                    subheadline={t('rtt-shop-call-to-action-subheadline')}
-                                    text={t('rtt-shop-call-to-action-description')}
-                                    buttonText={t('rtt-call-to-action-button')}
-                                    buttonSubtext={t('rtt-shop-call-to-action-free')}
+                                    headline={t('shop:call-to-action-headline')}
+                                    subheadline={t('shop:call-to-action-subheadline')}
+                                    text={t('shop:call-to-action-description')}
+                                    buttonText={t('shop:call-to-action-button')}
+                                    buttonSubtext={t('shop:call-to-action-free')}
                                 ></CallToActionBanner>
                             </div>
                             <Container textAlign="center" style={{ marginTop: '3rem' }}>
@@ -145,16 +145,16 @@ class Shop extends React.Component<Props, State> {
     }
 }
 
-export default withI18next('common')(Shop);
+export default withI18next(['common', 'shop'])(Shop);
 
 const OverlayContent = ({ inverted, t }) => {
     return (
         <div>
             <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
-                {t('rtt-shop-overlay-headline')}
+                {t('shop:overlay-headline')}
             </h1>
             <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
-                {t('rtt-shop-overlay-subheadline')}
+                {t('shop:overlay-subheadline')}
             </h2>
         </div>
     );
@@ -214,42 +214,42 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                             name={pricingData.content[0] ? 'check' : 'cancel'}
                             className={pricingData.content[0] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Kostenloses Erstgespräch</List.Content>
+                        <List.Content>{t('shop:package-item-1')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[1] ? 'check' : 'cancel'}
                             className={pricingData.content[1] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Rapid Transformational Therapy™ Sitzung 1.5-2h</List.Content>
+                        <List.Content>{t('shop:package-item-2')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[2] ? 'check' : 'cancel'}
                             className={pricingData.content[2] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>21 tägige Manifestation durch dein individuelles Live-Recording</List.Content>
+                        <List.Content>{t('shop:package-item-3')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[3] ? 'check' : 'cancel'}
                             className={pricingData.content[3] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>2x Erfolgscheck</List.Content>
+                        <List.Content>{t('shop:package-item-4')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[4] ? 'check' : 'cancel'}
                             className={pricingData.content[4] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Kostenloses Nachgespräch</List.Content>
+                        <List.Content>{t('shop:package-item-5')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[5] ? 'check' : 'cancel'}
                             className={pricingData.content[5] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Follow up Rapid Transformational Therapy™ Sitzung 1.5-2h</List.Content>
+                        <List.Content>{t('shop:package-item-6')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
@@ -257,8 +257,9 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                             className={pricingData.content[6] ? 'text-primary' : 'text-muted'}
                         />
                         <List.Content>
-                            Zugang zu {pricingData.content[7] ? 'zwei' : 'einem'} weiteren individuellen
-                            Transformations-Recording
+                            {t('shop:package-item-7')
+                                .toString()
+                                .replace('{0}', pricingData.content[7] ? 'zwei' : 'einem')}
                         </List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
@@ -266,7 +267,7 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                             name={pricingData.content[7] ? 'check' : 'cancel'}
                             className={pricingData.content[7] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Langzeit-Betreuung mit 1-zu-1 Coaching</List.Content>
+                        <List.Content>{t('shop:package-item-8')}</List.Content>
                     </List.Item>
                 </List>
             </div>
@@ -274,12 +275,12 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                 <div className="rtt-shop-pricing-button-wrapper">
                     {!isSelected ? (
                         <Button primary basic className="rounded shadow hover-animate" onClick={handleOnSelect}>
-                            {t('rtt-shop-pricing-select')}
+                            {t('shop:pricing-select')}
                         </Button>
                     ) : (
                         <Button primary className="rounded shadow hover-animate" onClick={handleOnCheckout}>
                             <Icon name="lock" style={{ opacity: 1 }}></Icon>
-                            {t('rtt-shop-pricing-checkout')}
+                            {t('shop:pricing-checkout')}
                         </Button>
                     )}
                 </div>

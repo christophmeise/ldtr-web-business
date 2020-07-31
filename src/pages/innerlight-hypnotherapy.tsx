@@ -41,7 +41,7 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('hypnotherapy:Inner Light Hypnotherapie')} />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>
@@ -49,8 +49,8 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
                             <section>
                                 <Container>
                                     <SectionHeader
-                                        headline={t('innerlight-hypnotherapy-article1-headline')}
-                                        subheadline={t('innerlight-hypnotherapy-article1-subheadline')}
+                                        headline={t('hypnotherapy:innerlight-hypnotherapy-article1-headline')}
+                                        subheadline={t('hypnotherapy:innerlight-hypnotherapy-article1-subheadline')}
                                         primary={true}
                                         textAlign="left"
                                     ></SectionHeader>
@@ -115,7 +115,7 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
                                 </Container>
                                 <div style={{ marginTop: '4rem' }}>
                                     <CallToActionBanner
-                                        headline="Buch deine Session heute"
+                                        headline="Buche deine Session heute"
                                         subheadline="Der ersehnten Wandel in Ihrem Leben ist jetzt und dauerhaft für Sie erreichbar."
                                         text="Buchen Sie hier direkt ihr individuelles Paket (Link Shop) oder lesen Sie
                             hier mehr zu der bahnbrechenden Methode RTT (Link RTT)."
@@ -135,8 +135,8 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('innerlight-hypnotherapy-headline')}</h1>
-            <h2 className="header-overlay-subheadline">{t('innerlight-hypnotherapy-subheadline')}</h2>
+            <h1 className="header-overlay-headline">{t('hypnotherapy:Inner Light Hypnotherapie')}</h1>
+            <h2 className="header-overlay-subheadline">{t('hypnotherapy:innerlight-hypnotherapy-subheadline')}</h2>
         </div>
     );
 };
@@ -159,4 +159,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next(['common'])(InnerlightHypnotherapy);
+export default withI18next(['common', 'hypnotherapy'])(InnerlightHypnotherapy);

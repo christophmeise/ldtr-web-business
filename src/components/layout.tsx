@@ -6,7 +6,7 @@ import 'semantic-ui-less/semantic.less';
 import { Container, Icon, Menu, Segment, Sidebar } from 'semantic-ui-react';
 import '../components/i18n/i18n';
 import GlobalNavbar from './global-navbar';
-import Logo from './logo';
+import Logo from './logo/logo';
 import navigateWithLocale, { getPathWithLocale } from './navigateWithLocale';
 import PageFooter from './page-footer/page-footer';
 
@@ -36,13 +36,19 @@ class Layout extends React.Component<Props, any> {
 
     notify = () => {
         const { t } = this.props;
-        toast(
-            <p>
-                {t('cookie-notification-1')}
-                <Link to={getPathWithLocale('/dataprotection')}> {t('cookie-notification-2')}</Link>
-            </p>,
-        );
+        if (typeof window !== 'undefined' && localStorage.getItem('cookie-accept') !== 'true') {
+            toast(
+                <p onClick={this.onCookieClick}>
+                    {t('cookie-notification-1')}
+                    <Link to={getPathWithLocale('/dataprotection')}> {t('cookie-notification-2')}</Link>
+                </p>,
+            );
+        }
     };
+
+    onCookieClick() {
+        localStorage.setItem('cookie-accept', 'true');
+    }
 
     componentDidMount() {
         this.notify();

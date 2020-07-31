@@ -18,6 +18,26 @@ const localesNSContent = {
             content: fs.readFileSync(`src/locales/en/faq.json`, 'utf8'),
             ns: 'faq',
         },
+        {
+            content: fs.readFileSync(`src/locales/en/blog.json`, 'utf8'),
+            ns: 'blog',
+        },
+        {
+            content: fs.readFileSync(`src/locales/en/innerlight-hypnotherapy.json`, 'utf8'),
+            ns: 'hypnotherapy',
+        },
+        {
+            content: fs.readFileSync(`src/locales/en/rtt.json`, 'utf8'),
+            ns: 'rtt',
+        },
+        {
+            content: fs.readFileSync(`src/locales/en/rtt-areas.json`, 'utf8'),
+            ns: 'rtt-areas',
+        },
+        {
+            content: fs.readFileSync(`src/locales/en/shop.json`, 'utf8'),
+            ns: 'shop',
+        },
     ],
     de: [
         {
@@ -31,6 +51,26 @@ const localesNSContent = {
         {
             content: fs.readFileSync(`src/locales/de/faq.json`, 'utf8'),
             ns: 'faq',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/blog.json`, 'utf8'),
+            ns: 'blog',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/innerlight-hypnotherapy.json`, 'utf8'),
+            ns: 'hypnotherapy',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/rtt.json`, 'utf8'),
+            ns: 'rtt',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/rtt-areas.json`, 'utf8'),
+            ns: 'rtt-areas',
+        },
+        {
+            content: fs.readFileSync(`src/locales/de/shop.json`, 'utf8'),
+            ns: 'shop',
         },
     ],
 };

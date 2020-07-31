@@ -4,7 +4,7 @@ import { Form } from 'semantic-ui-react';
 class ContactForm extends React.Component<any, any> {
     constructor(props) {
         super(props);
-        this.state = { first_name: '', last_name: '', email: '', message: '' };
+        this.state = { first_name: '', last_name: '', email: '', phone: '', message: '' };
     }
 
     handleChange = (e) => {
@@ -13,7 +13,7 @@ class ContactForm extends React.Component<any, any> {
 
     render() {
         const { disabled, t } = this.props;
-        const { first_name, last_name, email, message } = this.state;
+        const { first_name, last_name, email, phone, message } = this.state;
 
         return (
             <form
@@ -32,6 +32,7 @@ class ContactForm extends React.Component<any, any> {
                             <label>{t('contact:first-name')}</label>
                             <div className="ui fluid input">
                                 <input
+                                    required
                                     type="text"
                                     name="first_name"
                                     value={first_name}
@@ -44,6 +45,7 @@ class ContactForm extends React.Component<any, any> {
                             <label>{t('contact:last-name')}</label>
                             <div className="ui fluid input">
                                 <input
+                                    required
                                     type="text"
                                     name="last_name"
                                     value={last_name}
@@ -58,10 +60,24 @@ class ContactForm extends React.Component<any, any> {
                             <label>{t('contact:email')}</label>
                             <div className="ui fluid input">
                                 <input
+                                    required
                                     type="email"
                                     name="email"
                                     value={email}
                                     placeholder={t('contact:email')}
+                                    onChange={this.handleChange}
+                                />
+                            </div>
+                        </div>
+                        <div className="field">
+                            <label>{t('contact:phone')}</label>
+                            <div className="ui fluid input">
+                                <input
+                                    required
+                                    type="tel"
+                                    name="phone"
+                                    value={phone}
+                                    placeholder={t('contact:phone')}
                                     onChange={this.handleChange}
                                 />
                             </div>

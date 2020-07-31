@@ -89,23 +89,12 @@ class FAQPage extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('faq:faq-page-headline')} />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <div className="main-content-sections">
                         <Container>
-                            <p>
-                                Bist du dir noch unsicher, ob eine RTT™ Therapie das Richtige für dich ist? Vielleicht
-                                hast du Angst, dass du während der Hypnose die Kontrolle verlierst, dass es womöglich
-                                gefährlich ist? Es gibt viele Missverständnisse in Bezug auf Hypnose, aber bitte sei
-                                versichert, dass eine Hypnotherapie nichts mit einer Showhypnose zu tun hat. Eine
-                                Hypnotherapie hat die Kraft, positive und dauerhafte Veränderungen in deinem Leben
-                                herbeizuführen. Sie kann die Überzeugungen und Verhaltensweisen hinter deinen Ängsten,
-                                Phobien und negativen Gewohnheiten aufdecken, indem du dich mit deinem Unterbewusstsein
-                                verbindest. Da noch immer zahlreiche Mythen und Fehlannahmen über Hypnose verbreitet
-                                sind, findest du nachfolgend häufig gestellte Fragen rund um RTT, Hypnosetherapien und
-                                deiner Session bei mir.
-                            </p>
+                            <p>{t('faq:Einleitung')}</p>
                         </Container>
                         <section>
                             <Container>
@@ -122,7 +111,7 @@ class FAQPage extends React.Component<Props, any> {
                                 <Segment placeholder compact={false} padded="very">
                                     <Header icon>
                                         <Icon name="paper plane outline" style={{ marginBottom: '1rem' }} />
-                                        Any questions that are still unanswered?
+                                        {t('faq:Banner-Text')}
                                     </Header>
                                     <Segment.Inline>
                                         <Link to={getPathWithLocale('/rtt')}>
@@ -132,7 +121,7 @@ class FAQPage extends React.Component<Props, any> {
                                                 size="medium"
                                                 className="shadow hover-animate"
                                             >
-                                                {t('contact-me-button')}{' '}
+                                                {t('contact-me-button')}
                                                 <Icon name="arrow right" style={{ opacity: '1' }}></Icon>
                                             </Button>
                                         </Link>

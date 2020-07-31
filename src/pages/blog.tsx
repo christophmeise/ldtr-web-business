@@ -1,7 +1,7 @@
 import { graphql } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
-import { Container, Grid, Header, Label } from 'semantic-ui-react';
-import BlogPostCard from '../components/blog-post-card/blog-post-card';
+import { Container, Grid, GridColumn } from 'semantic-ui-react';
 import Layout from '../components/layout';
 import PlainHeader from '../components/plain-overlay/plain-header';
 import SEO from '../components/seo';
@@ -19,6 +19,8 @@ interface Props {
                 description: string;
             };
         };
+        comingSoonImage: any;
+        comingSoonImageMobile: any;
     };
 }
 
@@ -30,7 +32,7 @@ class Blog extends React.Component<Props, BlogState> {
     constructor(props: Props) {
         super(props);
         this.state = {
-            tagFilter: 'All',
+            tagFilter: this.props.t('blog:Alle'),
         };
     }
 
@@ -50,18 +52,20 @@ class Blog extends React.Component<Props, BlogState> {
                 return post.frontmatter.tags;
             });
         const allTagsFlat = flatten(allTags);
-        const tags = ['All', ...new Set(allTagsFlat)];
+        const tags = [this.props.t('blog:Alle'), ...new Set(allTagsFlat)];
         return tags;
     }
 
     render() {
         const { t } = this.props;
         const data = this.props.data;
+        const comingSoonImage = data.comingSoonImage.childImageSharp.fluid;
+        const comingSoonImageMobile = data.comingSoonImageMobile.childImageSharp.fluid;
         let posts = data.allMarkdownRemark.edges;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
         const tags = this.getTags(posts);
-        if (this.state.tagFilter.length > 0 && this.state.tagFilter != 'All') {
+        if (this.state.tagFilter.length > 0 && this.state.tagFilter != this.props.t('blog:Alle')) {
             posts = posts.filter((post) => post.node.frontmatter.tags.includes(this.state.tagFilter));
         }
 
@@ -70,7 +74,31 @@ class Blog extends React.Component<Props, BlogState> {
                 <SEO lang="en" description={description} title="All posts" />
                 <div className="global-header-padding">
                     <PlainHeader content={<HeaderContent t={t} />} />
-                    <div className="blog-content-sections bg-secondary">
+                    <div className="blog-content-sections">
+                        <section>
+                            <BackgroundImage className="rtt-call-to-action-image shadow" fluid={comingSoonImage}>
+                                <Container className="rtt-call-to-action-image-container">
+                                    <Grid
+                                        className="rtt-call-container-desktop responsive-desktop-container"
+                                        verticalAlign="middle"
+                                    >
+                                        <GridColumn width={16} verticalAlign="middle">
+                                            <h2 className="call-to-action-text font-playfair">
+                                                {t('blog:Coming Soon')}
+                                            </h2>
+                                        </GridColumn>
+                                    </Grid>
+                                    <Container
+                                        className="rtt-call-container-mobile responsive-mobile-container"
+                                        textAlign="left"
+                                    >
+                                        <h2 className="call-to-action-text font-playfair">{t('blog:Coming Soon')}</h2>
+                                    </Container>
+                                </Container>
+                            </BackgroundImage>
+                        </section>
+                    </div>
+                    {/* <div className="blog-content-sections bg-secondary">
                         <Container>
                             <Header
                                 data-sal="slide-up"
@@ -80,7 +108,7 @@ class Blog extends React.Component<Props, BlogState> {
                                 textAlign="center"
                                 className="global-flex-column global-no-margin"
                             >
-                                <h3 className="blog-headline">Filter by Tag</h3>
+                                <h3 className="blog-headline">{t('blog:Nach Stichwort filtern')}</h3>
                             </Header>
                             <Label.Group className="blog-tag-label-group">
                                 {tags.map((tag) => {
@@ -141,20 +169,22 @@ class Blog extends React.Component<Props, BlogState> {
                                 </Grid>
                             </section>
                         </Container>
-                    </div>
+                    </div> */}
                 </div>
             </Layout>
         );
     }
 }
 
-export default withI18next('common')(Blog);
+export default withI18next(['common', 'blog'])(Blog);
 
 const HeaderContent = ({ t }) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('rtt-blog-overlay-headline')}</h1>
-            <h2 className="header-overlay-subheadline">{t('rtt-blog-overlay-subheadline')}</h2>
+            <h1 className="header-overlay-headline">{t('blog:Neuigkeiten von Inner Light')}</h1>
+            <h2 className="header-overlay-subheadline">
+                {t('blog:Blogeinträge rund um die Themen Hypnotherapie, RTT™ und innerer Transformation')}
+            </h2>
         </div>
     );
 };
@@ -164,6 +194,20 @@ export const pageQuery = graphql`
         site {
             siteMetadata {
                 title
+            }
+        }
+        comingSoonImage: file(relativePath: { eq: "tree_sunset.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1600, quality: 100) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
+            }
+        }
+        comingSoonImageMobile: file(relativePath: { eq: "tree_sunset.jpg" }) {
+            childImageSharp {
+                fluid(maxWidth: 1200, quality: 100) {
+                    ...GatsbyImageSharpFluid_withWebp
+                }
             }
         }
         allMarkdownRemark(

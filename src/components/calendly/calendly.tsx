@@ -9,6 +9,6 @@ export default class Calendly extends Component {
     };
 
     render() {
-        return <InlineWidget styles={this.styles.promAlert} url="https://calendly.com/christin-meise" />;
+        return <InlineWidget styles={this.styles.promAlert} url="https://calendly.com/innerlight-hypnotherapy" />;
     }
 }

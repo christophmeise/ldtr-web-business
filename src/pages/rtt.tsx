@@ -52,7 +52,7 @@ class RttPage extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('rtt:Rapid Transformational Therapy')} />
                 <div className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <div className="main-content-sections">
@@ -62,18 +62,38 @@ class RttPage extends React.Component<Props, any> {
                                     <Grid style={{ paddingTop: '2em', marginBottom: '5em' }} columns="2" stackable>
                                         <GridColumn>
                                             <Container textAlign="left">
-                                                <h4>Die RTT™ Methode</h4>
-                                                <p>
-                                                    Rapid Transformational Therapy™ (RTT™) (deutsch: Sofortige
-                                                    Transformierende Hypnotherapie) ist eine neuartige,
-                                                    neurowissenschaftlich basierte Therapieform, die durch die
-                                                    Kombination von Hypnotherapie, Psychotherapie, NLP und Kognitiver
-                                                    Verhaltenstherapie schnelle, außergewöhnliche und dauerhafte
-                                                    Ergebnisse erzielt. Diese preisgekrönte Technik wurde von der
-                                                    international renommierten Therapeutin Marisa Peer (Link zu Stelle
-                                                    auf Website) entwickelt und basiert auf über 30 Jahren intensiver
-                                                    Forschung.
-                                                </p>
+                                                <h4>{t('rtt:Die RTT™ Methode')}</h4>
+                                                <p>{t('rtt:Die RTT™ Methode - text')}</p>
+                                            </Container>
+                                            <Container
+                                                textAlign="left"
+                                                className="rtt-main-button-container"
+                                                data-sal="slide-up"
+                                                data-sal-delay="0"
+                                                data-sal-duration="300"
+                                                data-sal-easing="ease"
+                                            >
+                                                <a
+                                                    href="https://marisapeer.com/"
+                                                    target="_blank"
+                                                    rel="noopener"
+                                                    aria-label="Marisa Peer"
+                                                >
+                                                    <Button
+                                                        secondary={true}
+                                                        basic
+                                                        inverted={false}
+                                                        size="medium"
+                                                        className="rounded shadow hover-animate"
+                                                    >
+                                                        <Icon
+                                                            name="star"
+                                                            className="left"
+                                                            style={{ opacity: '1' }}
+                                                        ></Icon>
+                                                        {t('rtt:Mehr zu Marisa Peer')}
+                                                    </Button>
+                                                </a>
                                             </Container>
                                         </GridColumn>
                                         <GridColumn stretched>
@@ -84,21 +104,12 @@ class RttPage extends React.Component<Props, any> {
                                     </Grid>
                                 </article>
                                 <SectionHeader
-                                    headline={t('Bekomme Zugang zu deinem größten Potential')}
-                                    subheadline={t('Dein Unterbewusstsein')}
+                                    headline={t('rtt:Bekomme Zugang zu deinem größten Potential')}
+                                    subheadline={t('rtt:Dein Unterbewusstsein')}
                                     primary={true}
                                     textAlign="left"
                                 ></SectionHeader>
-                                <p>
-                                    RTT™ befreit von physischen, emotionalen und psychischen Blockaden, indem durch die
-                                    direkte Arbeit mit dem Unterbewusstsein überholte Glaubenssätze, Werte, Gewohnheiten
-                                    und tief verwurzelte Emotionen dauerhaft transformiert werden. Der Zustand der
-                                    Hypnose ermöglicht es nicht nur die Ursache von sämtlichen Problemen, Mustern oder
-                                    Verhaltensweisen aufzudecken. Durch die Hypnose können außerdem überholte,
-                                    schmerzhafte und krankmachende Gedankenschleifen durch neue lebensbejahende
-                                    Überzeugungen ersetzt werden, wodurch völlige Freiheit und tiefgehender Wandel jetzt
-                                    für dich erreichbar sind.
-                                </p>
+                                <p>{t('rtt:Bekomme Zugang zu deinem größten Potential - text')}</p>
                                 <article>
                                     <Grid style={{ paddingTop: '2em' }} columns="2" stackable>
                                         <GridColumn stretched>
@@ -108,26 +119,11 @@ class RttPage extends React.Component<Props, any> {
                                         </GridColumn>
                                         <GridColumn>
                                             <Container textAlign="left">
-                                                <h4>Das "Warum" hinter den Problemen ist das Tor zur Freiheit</h4>
-                                                <p>
-                                                    Unser Unterbewusstsein und die dort gespeicherten Glaubenssätze
-                                                    bestimmen jeden Moment unseres Lebens wie wir uns fühlen, wie wir
-                                                    auf die Ereignisse in der Außenwelt reagieren und was wir für uns
-                                                    selbst als erreichbar ansehen. Alles was wir erfahren und gelernt
-                                                    haben ist in unserem Unterbewusstsein gespeichert und hat
-                                                    Auswirkungen darauf, wie wir das Leben sehen und erfahren. Ja, ich
-                                                    will es. Ja, ich weiß es macht Sinn. Warum aber stehe ich immer
-                                                    wieder vor den gleichen Herausforderungen, warum erfahre ich immer
-                                                    wieder Leid, warum gelingt es mir einfach nicht diese alten,
-                                                    schmerzhaften Muster abzulegen? Der Grund dafür ist, dass
-                                                    Willenskraft und Logik allein nicht die tiefgehenden Wurzeln von
-                                                    schlechten Gewohnheiten oder Selbstzweifeln eliminieren können. Nur
-                                                    wenn die Ursache des Problems gelöst ist, fallen auch alle Schichten
-                                                    an der Oberfläche von dir ab.
-                                                </p>
+                                                <h4>{t('rtt:Das "Warum"')}</h4>
+                                                <p>{t('rtt:Das "Warum" - text')}</p>
                                             </Container>
                                             <Container
-                                                textAlign="center"
+                                                textAlign="left"
                                                 className="rtt-main-button-container"
                                                 data-sal="slide-up"
                                                 data-sal-delay="0"
@@ -169,10 +165,10 @@ class RttPage extends React.Component<Props, any> {
                                     >
                                         <GridColumn width={16} verticalAlign="middle">
                                             <h2 className="call-to-action-text font-playfair">
-                                                {t('rtt-call-to-action-text')}
+                                                {t('rtt:Mit RTT zu deinem besten Selbst')}
                                             </h2>
                                             <Button primary size="medium">
-                                                {t('rtt-call-to-action-button')}
+                                                {t('rtt:Jetzt Termin vereinbaren')}
                                             </Button>
                                         </GridColumn>
                                     </Grid>
@@ -181,11 +177,11 @@ class RttPage extends React.Component<Props, any> {
                                         textAlign="left"
                                     >
                                         <h2 className="call-to-action-text font-playfair">
-                                            {t('rtt-call-to-action-text')}
+                                            {t('rtt:Mit RTT zu deinem besten Selbst')}
                                         </h2>
                                         <Link to={getPathWithLocale('/book-call')}>
                                             <Button primary size="medium" className="shadow hover-animate">
-                                                {t('rtt-call-to-action-button')}
+                                                {t('rtt:Jetzt Termin vereinbaren')}
                                             </Button>
                                         </Link>
                                     </Container>
@@ -196,18 +192,18 @@ class RttPage extends React.Component<Props, any> {
                         <SectionRTTSteps t={t}></SectionRTTSteps>
                         <div style={{ marginBottom: '6rem' }}>
                             <CallToActionBanner
-                                headline={t('rtt-shop-call-to-action-headline')}
-                                subheadline={t('rtt-shop-call-to-action-subheadline')}
-                                text={t('rtt-shop-call-to-action-description')}
-                                buttonText={t('rtt-call-to-action-button')}
-                                buttonSubtext={t('rtt-shop-call-to-action-free')}
+                                headline={t('rtt:rtt-shop-call-to-action-headline')}
+                                subheadline={t('rtt:rtt-shop-call-to-action-subheadline')}
+                                text={t('rtt:rtt-shop-call-to-action-description')}
+                                buttonText={t('rtt:rtt-call-to-action-button')}
+                                buttonSubtext={t('rtt:rtt-shop-call-to-action-free')}
                             ></CallToActionBanner>
                         </div>
                         <section>
                             <Container>
                                 <SectionHeader
-                                    headline={t('Was unterscheidet RTT von herkömmlichen Therapien?')}
-                                    subheadline={t('Warum RTT die Therapie-Welt revolutioniert')}
+                                    headline={t('rtt:Was unterscheidet RTT von herkömmlichen Therapien?')}
+                                    subheadline={t('rtt:Warum RTT die Therapie-Welt revolutioniert')}
                                     primary={true}
                                     textAlign="center"
                                 ></SectionHeader>
@@ -229,20 +225,12 @@ class RttPage extends React.Component<Props, any> {
                         <section>
                             <Container>
                                 <SectionHeader
-                                    headline={t('Marisa Peer, Erfinderin der Rapid Transformational Therapy')}
-                                    subheadline={t('Wer entwickelte RTT und warum?')}
+                                    headline={t('rtt:Marisa Peer, Erfinderin der Rapid Transformational Therapy')}
+                                    subheadline={t('rtt:Wer entwickelte RTT und warum?')}
                                     primary={true}
                                     textAlign="left"
                                 ></SectionHeader>
-                                <p>
-                                    Marisa Peer ist eine der weltweit angesehensten Therapeutinnen, Verhaltensexpertin,
-                                    Bestseller-Autorin und die Erfinderin der Rapid Transformational Therapy (RTT™). Sie
-                                    hinterfragte die immer noch verbreitete Überzeugung, dass etwas so Komplexes wie der
-                                    Geist sich einer simplen und raschen Transformation entziehe. Mit dem, was sie in
-                                    ihrer über 30-jährigen Karriere erreicht hat, bezeugt sie das Gegenteil: Klienten,
-                                    denen andere Therapeuten und Ärzte nicht helfen konnten, transformierte sie meist in
-                                    nur einer Sitzung durch die Anwendung ihrer eigens entwickelten Therapie-Methode.
-                                </p>
+                                <p>{t('rtt:Marisa Peer - text')}</p>
                                 <Grid style={{ paddingTop: '2em' }} columns="2" stackable>
                                     <GridRow>
                                         <GridColumn stretched>
@@ -252,43 +240,19 @@ class RttPage extends React.Component<Props, any> {
                                         </GridColumn>
                                         <GridColumn>
                                             <Container textAlign="left">
-                                                <h4>Headline***</h4>
-                                                <p>
-                                                    Indem sie jene Elemente aus verschiedensten Therapie-Ansätzen
-                                                    vereinte, die bei ihren Klienten immer wieder schnellen und
-                                                    wirksamen Erfolg gezeigt haben, entwickelte sie einen umfassenden
-                                                    lösungsorientierten Ansatz der weit über die Resultate herkömmlicher
-                                                    Therapien hinaus geht. In ihrer Arbeit mit Sportweltmeistern, Stars,
-                                                    Olympia-Athleten, CEOs und politischen Führungskräften konnte sie
-                                                    mit RTT™ außergewöhnliche Ergebnisse erzielen und über dreißig Jahre
-                                                    Erfahrung in Psychotherapie, Hypnotherapie, kognitiver
-                                                    Verhaltenstherapie (CBT) und neurolinguistischer Programmierung
-                                                    (NLP) sammeln.
-                                                </p>
+                                                <h4>{t('rtt:Marisa Peer - subheadline')}</h4>
+                                                <p>{t('rtt:Marisa Peer - subtext1')}</p>
                                             </Container>
                                         </GridColumn>
                                     </GridRow>
                                     <GridRow>
                                         <Container textAlign="left">
-                                            <p>
-                                                Vor einigen Jahren hat Marisa Peer begonnen, ihren innovativen
-                                                Therapieansatz als umfangreiche Ausbildung anzubieten aus dem tiefen
-                                                Wunsch heraus, mit RTT weltweit so viele Menschen wie nur möglich
-                                                schnelle und wirksame Heilung zu ermöglichen. Ihre revolutionäre
-                                                Therapie-Methode ist jetzt auch in Deutschland verfügbar. Entdecke hier
-                                                wie RTT auch dein Leben verändern kann! (link zu Anwendungsgebieten)
-                                            </p>
+                                            <p>{t('rtt:Marisa Peer - subtext2')}</p>
                                         </Container>
                                     </GridRow>
                                     <GridRow>
                                         <Container textAlign="left">
-                                            <p>
-                                                RTT® wird vom Allgemeinen Hypnotherapieregister, dem Rat für
-                                                Komplementär- und Naturheilkunde, dem Nationalen und Internationalen Rat
-                                                der Psychotherapeuten, dem American Board of Hypnotherapy, dem
-                                                Internationalen Verband der Komplementärtherapeuten sowie dem
-                                                Internationalen Institut für Komplementärtherapien befürwortet.
-                                            </p>
+                                            <p>{t('rtt:Marisa Peer - subtext3')}</p>
                                         </Container>
                                     </GridRow>
                                     <GridRow>
@@ -312,8 +276,10 @@ class RttPage extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('rtt-page-headline')}</h1>
-            <h2 className="header-overlay-subheadline">{t('rtt-page-subheadline')}</h2>
+            <h1 className="header-overlay-headline">{t('rtt:Rapid Transformational Therapy')}</h1>
+            <h2 className="header-overlay-subheadline">
+                {t('rtt:Erfahre alles über die RTT Methode und der Begründerin Marisa Peer')}
+            </h2>
         </div>
     );
 };
@@ -364,4 +330,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next(['common', 'faq'])(RttPage);
+export default withI18next(['common', 'faq', 'rtt'])(RttPage);

@@ -89,36 +89,47 @@ class FAQPage extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('faq:faq-page-headline')} />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
-                    <Container>
-                        <FAQAccordion t={t} faqContent={faqContent}></FAQAccordion>
-                    </Container>
-                    <Container
-                        textAlign="center"
-                        style={{ marginTop: '3rem', marginBottom: '3rem', display: 'flex', justifyContent: 'center' }}
-                    >
-                        <Segment placeholder compact={false} padded="very">
-                            <Header icon>
-                                <Icon name="paper plane outline" style={{ marginBottom: '1rem' }} />
-                                Any questions that are still unanswered?
-                            </Header>
-                            <Segment.Inline>
-                                <Link to={getPathWithLocale('/rtt')}>
-                                    <Button
-                                        primary={true}
-                                        inverted={false}
-                                        size="medium"
-                                        className="shadow hover-animate"
-                                    >
-                                        {t('contact-me-button')}{' '}
-                                        <Icon name="arrow right" style={{ opacity: '1' }}></Icon>
-                                    </Button>
-                                </Link>
-                            </Segment.Inline>
-                        </Segment>
-                    </Container>
+                    <div className="main-content-sections">
+                        <Container>
+                            <p>{t('faq:Einleitung')}</p>
+                        </Container>
+                        <section>
+                            <Container>
+                                <FAQAccordion t={t} faqContent={faqContent}></FAQAccordion>
+                            </Container>
+                            <Container
+                                textAlign="center"
+                                style={{
+                                    marginTop: '3rem',
+                                    display: 'flex',
+                                    justifyContent: 'center',
+                                }}
+                            >
+                                <Segment placeholder compact={false} padded="very">
+                                    <Header icon>
+                                        <Icon name="paper plane outline" style={{ marginBottom: '1rem' }} />
+                                        {t('faq:Banner-Text')}
+                                    </Header>
+                                    <Segment.Inline>
+                                        <Link to={getPathWithLocale('/rtt')}>
+                                            <Button
+                                                primary={true}
+                                                inverted={false}
+                                                size="medium"
+                                                className="shadow hover-animate"
+                                            >
+                                                {t('contact-me-button')}
+                                                <Icon name="arrow right" style={{ opacity: '1' }}></Icon>
+                                            </Button>
+                                        </Link>
+                                    </Segment.Inline>
+                                </Segment>
+                            </Container>
+                        </section>
+                    </div>
                 </Container>
             </Layout>
         );

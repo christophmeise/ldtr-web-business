@@ -1,8 +1,15 @@
 {
+    "Kontaktiere Inner Light": "Contact Inner Light",
+    "Hinterlasse deine Nachricht, oder buch jetzt dein kostenloses Erstgespräch!": "Leave a message, or book your first call now!",
     "first-name": "First name",
     "last-name": "Last name",
     "email": "Email",
+    "phone": "Phone number",
     "message": "Message",
     "message-placeholder": "Send us your message...",
-    "form-submit": "Submit"
+    "form-submit": "Submit",
+    "Folge mir auf": "Follow me on",
+    "modal-title": "Good job!",
+    "modal-text": "Your message has arrived!",
+    "modal-button": "Confirm"
 }

@@ -1,9 +1,9 @@
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import React from 'react';
 import { Button, Container, Grid, Icon, List } from 'semantic-ui-react';
+import CallToActionBanner from '../components/call-to-action-banner/call-to-action-banner';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import Layout from '../components/layout';
-import { getPathWithLocale } from '../components/navigateWithLocale';
 import SEO from '../components/seo';
 import navigateWithLocale from './../components/navigateWithLocale';
 import SectionHeader from './../components/sectionHeader';
@@ -68,13 +68,14 @@ class Shop extends React.Component<Props, State> {
                     color="#000000"
                     inverted={true}
                     content={<OverlayContent inverted={true} t={t} />}
+                    darken={true}
                 />
                 <div className="main-content-sections">
                     <Container>
                         <section>
                             <SectionHeader
-                                headline={t('rtt-shop-main-headline')}
-                                subheadline={t('rtt-shop-main-subheadline')}
+                                headline={t('shop:main-headline')}
+                                subheadline={t('shop:main-subheadline')}
                                 primary={true}
                                 textAlign="left"
                             ></SectionHeader>
@@ -107,34 +108,25 @@ class Shop extends React.Component<Props, State> {
                                     ></PricingComponent>
                                 </Grid.Column>
                             </Grid>
-                        </section>
-                        <section>
-                            <Container
-                                className="rtt-shop-call-to-action bg-secondary rounded shadow"
-                                data-sal="slide-up"
-                                data-sal-delay="0"
-                                data-sal-duration="300"
-                                data-sal-easing="ease"
-                            >
-                                <Grid columns={2} stackable>
-                                    <Grid.Column>
-                                        <h3 className="global-subtitle text-primary">
-                                            {t('rtt-shop-call-to-action-headline')}
-                                        </h3>
-                                        <h4>{t('rtt-shop-call-to-action-subheadline')}</h4>
-                                        <p>{t('rtt-shop-call-to-action-description')}</p>
-                                    </Grid.Column>
-                                    <Grid.Column textAlign="center" verticalAlign="middle">
-                                        <Link to={getPathWithLocale('/book-call')}>
-                                            <Button primary size="large" className="rounded shadow hover-animate">
-                                                {t('rtt-call-to-action-button')}
-                                            </Button>
-                                        </Link>
-                                        <p style={{ marginTop: '0.5rem' }}>{t('rtt-shop-call-to-action-free')}</p>
-                                    </Grid.Column>
-                                </Grid>
+                            <div style={{ marginTop: '6rem' }}>
+                                <CallToActionBanner
+                                    headline={t('shop:call-to-action-headline')}
+                                    subheadline={t('shop:call-to-action-subheadline')}
+                                    text={t('shop:call-to-action-description')}
+                                    buttonText={t('shop:call-to-action-button')}
+                                    buttonSubtext={t('shop:call-to-action-free')}
+                                ></CallToActionBanner>
+                            </div>
+                            <Container textAlign="center" style={{ marginTop: '3rem' }}>
+                                <p>
+                                    Meine RTT™-Sitzungen können auf Englisch oder Deutsch durchgeführt werden. Damit Du
+                                    dich während deiner Session mit mir in deine vertraute Umgebung befindest, finden
+                                    die Therapie-Sitzungen über Skype oder Zoom statt. Im Raum Berlin besteht außerdem
+                                    die Möglichkeit, dass ich zu Dir komme.
+                                </p>
                             </Container>
                         </section>
+
                         {/*      <Grid style={{ paddingTop: '2em' }} centered columns={1}>
                         <Grid.Column width={10}>
                             <Item.Group>
@@ -153,16 +145,16 @@ class Shop extends React.Component<Props, State> {
     }
 }
 
-export default withI18next('common')(Shop);
+export default withI18next(['common', 'shop'])(Shop);
 
 const OverlayContent = ({ inverted, t }) => {
     return (
         <div>
             <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
-                {t('rtt-shop-overlay-headline')}
+                {t('shop:overlay-headline')}
             </h1>
             <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
-                {t('rtt-shop-overlay-subheadline')}
+                {t('shop:overlay-subheadline')}
             </h2>
         </div>
     );
@@ -180,22 +172,22 @@ export const pricingData = {
     1: {
         priceId: 'price_1GrKUOCbDUY84ofe8W6LJHcA',
         title: 'Basic',
-        price: '299€',
+        price: '349€',
         duration: 'für 1 Monat',
         content: [true, true, true, true, false, false, false, false],
     },
     2: {
         priceId: 'price_1GrNeNCbDUY84ofeeEVHaF9g',
         title: 'Plus',
-        price: '499€',
-        duration: 'für 3 Monate',
-        content: [true, true, true, true, true, true, false, false],
+        price: '599€',
+        duration: 'für 2 Monate',
+        content: [true, true, true, true, true, true, true, false],
     },
     3: {
         priceId: 'price_1GrNfuCbDUY84ofe6aQWfr6b',
         title: 'Exclusive',
-        price: '599€',
-        duration: 'für 6 Monate',
+        price: '899€',
+        duration: 'für 3 Monate',
         content: [true, true, true, true, true, true, true, true],
     },
 };
@@ -222,56 +214,60 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                             name={pricingData.content[0] ? 'check' : 'cancel'}
                             className={pricingData.content[0] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Kostenloses Erstgespräch</List.Content>
+                        <List.Content>{t('shop:package-item-1')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[1] ? 'check' : 'cancel'}
                             className={pricingData.content[1] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>3-Stündige Live Session</List.Content>
+                        <List.Content>{t('shop:package-item-2')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[2] ? 'check' : 'cancel'}
                             className={pricingData.content[2] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>21-tägige Manifestation durch Recordings</List.Content>
+                        <List.Content>{t('shop:package-item-3')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[3] ? 'check' : 'cancel'}
                             className={pricingData.content[3] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Kostenloses Nachgepräch</List.Content>
+                        <List.Content>{t('shop:package-item-4')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[4] ? 'check' : 'cancel'}
                             className={pricingData.content[4] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Langzeit Betreuung</List.Content>
+                        <List.Content>{t('shop:package-item-5')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[5] ? 'check' : 'cancel'}
                             className={pricingData.content[5] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Zugang zu 3 weiteren Live-Recordings</List.Content>
+                        <List.Content>{t('shop:package-item-6')}</List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[6] ? 'check' : 'cancel'}
                             className={pricingData.content[6] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Follow-up Live Session</List.Content>
+                        <List.Content>
+                            {t('shop:package-item-7')
+                                .toString()
+                                .replace('{0}', pricingData.content[7] ? 'zwei' : 'einem')}
+                        </List.Content>
                     </List.Item>
                     <List.Item className="rtt-shop-pricing-list-item">
                         <Icon
                             name={pricingData.content[7] ? 'check' : 'cancel'}
                             className={pricingData.content[7] ? 'text-primary' : 'text-muted'}
                         />
-                        <List.Content>Zugang zu allen Live Events und Meetups</List.Content>
+                        <List.Content>{t('shop:package-item-8')}</List.Content>
                     </List.Item>
                 </List>
             </div>
@@ -279,12 +275,12 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                 <div className="rtt-shop-pricing-button-wrapper">
                     {!isSelected ? (
                         <Button primary basic className="rounded shadow hover-animate" onClick={handleOnSelect}>
-                            {t('rtt-shop-pricing-select')}
+                            {t('shop:pricing-select')}
                         </Button>
                     ) : (
                         <Button primary className="rounded shadow hover-animate" onClick={handleOnCheckout}>
                             <Icon name="lock" style={{ opacity: 1 }}></Icon>
-                            {t('rtt-shop-pricing-checkout')}
+                            {t('shop:pricing-checkout')}
                         </Button>
                     )}
                 </div>
@@ -325,14 +321,14 @@ export const pageQuery = graphql`
                 }
             }
         }
-        desktopImage: file(relativePath: { eq: "shop-banner.jpg" }) {
+        desktopImage: file(relativePath: { eq: "sunset_shop.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
                     ...GatsbyImageSharpFluid
                 }
             }
         }
-        mobileImage: file(relativePath: { eq: "shop-banner.jpg" }) {
+        mobileImage: file(relativePath: { eq: "sunset_shop.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
                     ...GatsbyImageSharpFluid

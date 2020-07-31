@@ -3,7 +3,7 @@ import React from 'react';
 import { Container, Grid, GridColumn } from 'semantic-ui-react';
 import './header-overlay.less';
 
-const HeaderOverlay = ({ sources, color, inverted, content }) => {
+const HeaderOverlay = ({ sources, color, inverted, content, darken = false }) => {
     return (
         <div
             className="header-overlay"
@@ -12,7 +12,11 @@ const HeaderOverlay = ({ sources, color, inverted, content }) => {
             }}
         >
             <div className="header-overlay-image-wrapper">
-                <BackgroundImage Tag="section" className="header-overlay-center-cropped" fluid={sources}>
+                <BackgroundImage
+                    Tag="section"
+                    className={`header-overlay-center-cropped ${darken ? 'dark-overlay' : null}`}
+                    fluid={sources}
+                >
                     <Container className="header-overlay-container">
                         <Grid className="header-overlay-container-desktop responsive-desktop-container">
                             <GridColumn width={7}>

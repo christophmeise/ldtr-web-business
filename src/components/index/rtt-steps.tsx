@@ -1,8 +1,6 @@
-import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Container, Grid, GridColumn, Icon } from 'semantic-ui-react';
+import { Container, Grid, GridColumn, Icon } from 'semantic-ui-react';
 import { SemanticICONS } from 'semantic-ui-react/dist/commonjs/generic';
-import { getPathWithLocale } from '../navigateWithLocale';
 import SectionHeader from './../sectionHeader';
 
 const SectionRTTSteps = ({ t }) => {
@@ -40,32 +38,6 @@ const SectionRTTSteps = ({ t }) => {
                     ></IconCircleWithText>
                 </GridColumn>
             </Grid>
-            <Container
-                className="rtt-steps-call-to-action bg-secondary rounded shadow"
-                data-sal="slide-up"
-                data-sal-delay="0"
-                data-sal-duration="300"
-                data-sal-easing="ease"
-            >
-                <Grid columns={2} stackable>
-                    <Grid.Column>
-                        <h3 className="global-subtitle text-primary">Book your Session today</h3>
-                        <h4>Directory is the best way to find & discover great local businesses</h4>
-                        <p>
-                            One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in
-                            his bed in
-                        </p>
-                    </Grid.Column>
-                    <Grid.Column textAlign="center" verticalAlign="middle">
-                        <Link to={getPathWithLocale('/book-call')}>
-                            <Button primary size="large" className="rounded shadow hover-animate">
-                                {t('rtt-call-to-action-button')}
-                            </Button>
-                        </Link>
-                        <p style={{ marginTop: '0.5rem' }}>It's free!</p>
-                    </Grid.Column>
-                </Grid>
-            </Container>
         </Container>
     );
 };

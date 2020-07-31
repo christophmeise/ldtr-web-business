@@ -1,7 +1,7 @@
 import { Link } from 'gatsby';
 import React from 'react';
 import { Button, Container, Grid, Header, Icon, List } from 'semantic-ui-react';
-import Logo from '../logo';
+import Logo from '../logo/logo';
 import { getPathWithLocale } from '../navigateWithLocale';
 import './page-footer.less';
 
@@ -96,7 +96,7 @@ const PageFooter = ({ t }) => {
                                         <Icon className="hover-animate" size="large" name="facebook" inverted></Icon>
                                     </a>
                                     <a
-                                        href="https://www.linkedin.com"
+                                        href="https://www.linkedin.com/in/christinmeise/"
                                         target="_blank"
                                         rel="noopener"
                                         aria-label="Linkedin"
@@ -104,21 +104,21 @@ const PageFooter = ({ t }) => {
                                         <Icon className="hover-animate" size="large" name="linkedin" inverted></Icon>
                                     </a>
                                     <a
-                                        href="https://www.instagram.com"
+                                        href="http://instagram.com/love.dream.travel.repeat"
                                         target="_blank"
                                         rel="noopener"
                                         aria-label="Instagram"
                                     >
                                         <Icon className="hover-animate" size="large" name="instagram" inverted></Icon>
                                     </a>
-                                    <a
+                                    {/*    <a
                                         href="https://www.youtube.com"
                                         target="_blank"
                                         rel="noopener"
                                         aria-label="Youtube"
                                     >
                                         <Icon className="hover-animate" size="large" name="youtube" inverted></Icon>
-                                    </a>
+                                    </a> */}
                                 </div>
                             </Grid.Column>
                         </Grid.Row>

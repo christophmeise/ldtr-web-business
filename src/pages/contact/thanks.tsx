@@ -29,12 +29,13 @@ class Thanks extends React.Component<Props, any> {
 
     componentDidMount() {
         const MySwal = withReactContent(Swal);
+        const { t } = this.props;
 
         MySwal.fire({
-            title: 'Good job!',
-            text: 'Your message has arrived!',
+            title: t('contact:modal-title'),
+            text: t('contact:modal-text'),
             icon: 'success',
-            confirmButtonText: 'Confirm',
+            confirmButtonText: t('contact:modal-button'),
             onClose: () => {
                 navigate('/');
             },
@@ -67,8 +68,10 @@ class Thanks extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('contact-headline')}</h1>
-            <h2 className="header-overlay-subheadline">{t('contact-subheadline')}</h2>
+            <h1 className="header-overlay-headline">{t('contact:Kontaktiere Inner Light')}</h1>
+            <h2 className="header-overlay-subheadline">
+                {t('contact:Hinterlasse deine Nachricht, oder buch jetzt dein kostenloses Erstgespräch!')}
+            </h2>
         </div>
     );
 };

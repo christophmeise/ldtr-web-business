@@ -9,7 +9,6 @@ import SEO from '../components/seo';
 import FAQ from './../components/faq/faq';
 import SectionRTT from './../components/index/rtt';
 import SectionRTTAreas from './../components/index/rtt-areas';
-import SectionRTTBlog from './../components/index/rtt-blog';
 import SectionRTTSteps from './../components/index/rtt-steps';
 import SectionRTTTestimonials from './../components/index/rtt-testimonials';
 import withI18next from './../components/withI18next/withI18next';
@@ -53,8 +52,8 @@ class Index extends React.Component<Props> {
         const backgroundColor = '#e5e2d6';
 
         return (
-            <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+            <Layout title={siteTitle} t={t} invertedHeader={false}>
+                <SEO title={t('Start')} />
                 <HeaderOverlay
                     sources={sources}
                     color={backgroundColor}
@@ -69,7 +68,7 @@ class Index extends React.Component<Props> {
                     {/*                     <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
                         <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
                     </div> */}
-                    <SectionRTTBlog t={t}></SectionRTTBlog>
+                    {/* <SectionRTTBlog t={t}></SectionRTTBlog> */}
                     <FAQ t={t}></FAQ>
                 </div>
             </Layout>

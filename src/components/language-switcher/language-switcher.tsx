@@ -43,9 +43,9 @@ class LanguageSwitcher extends Component<LanguageSwitcherProps, any> {
             purePath = location.pathname;
         }
         if (i18n.language != 'de') {
-            navigate(i18n.language + purePath);
+            navigate(i18n.language + purePath + location.search);
         } else {
-            navigate(purePath);
+            navigate(purePath + location.search);
         }
     }
 

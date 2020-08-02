@@ -8,7 +8,7 @@ import './rtt.less';
 
 const SectionRTTAreas = ({ t }) => {
     const handleOnRTTAreaCardClick = () => {
-        navigateWithLocale('/');
+        navigateWithLocale('/rtt-areas');
     };
 
     const RTTAreaCard = ({ source, text }) => {

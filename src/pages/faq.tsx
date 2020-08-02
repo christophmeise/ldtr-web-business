@@ -93,7 +93,7 @@ class FAQPage extends React.Component<Props, any> {
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <div className="main-content-sections">
-                        <Container>
+                        <Container text textAlign="center">
                             <p>{t('faq:Einleitung')}</p>
                         </Container>
                         <section>

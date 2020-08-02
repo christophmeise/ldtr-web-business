@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Dropdown, Icon, Menu } from 'semantic-ui-react';
+import { Button, Dropdown, Header, Icon, Menu } from 'semantic-ui-react';
 import LanguageSwitcher from './language-switcher/language-switcher';
 import Logo from './logo//logo';
 import { getPathWithLocale } from './navigateWithLocale';
@@ -21,39 +21,102 @@ class GlobalNavbar extends React.Component<Props, any> {
     render() {
         const { location, handleItemClick, inverted, mobile, t } = this.props;
 
+        const options = [
+            {
+                key: 1,
+                text: 'Mobile',
+                value: 1,
+                content: <Header icon="mobile" content="Mobile" subheader="The smallest size" />,
+            },
+            {
+                key: 2,
+                text: 'Tablet',
+                value: 2,
+                content: <Header icon="tablet" content="Tablet" subheader="The size in the middle" />,
+            },
+            {
+                key: 3,
+                text: 'Desktop',
+                value: 3,
+                content: <Header icon="desktop" content="Desktop" subheader="The largest size" />,
+            },
+        ];
+
         return (
             <React.Fragment>
-                <Menu.Item className="menu-item-logo" name="/" link onClick={handleItemClick}>
-                    <Logo inverted={inverted} />
-                </Menu.Item>
-                <Dropdown item text={t('navbar-therapy')} simple>
-                    <Dropdown.Menu className="global-navbar-dropdown">
-                        <Link to={getPathWithLocale('/innerlight-hypnotherapy')}>
-                            <Dropdown.Item>
-                                <Icon name="heart outline" className="left"></Icon>
-                                {t('navbar-innerlight-hypnotherapy')}
-                            </Dropdown.Item>
-                        </Link>
-                        <Link to={getPathWithLocale('/rtt')}>
-                            <Dropdown.Item>
-                                <Icon name="compass outline" className="left"></Icon>
-                                {t('navbar-rtt')}
-                            </Dropdown.Item>
-                        </Link>
-                        <Link to={getPathWithLocale('/rtt-areas')}>
-                            <Dropdown.Item>
-                                <Icon name="th list" className="left"></Icon>
-                                {t('navbar-rtt-areas')}
-                            </Dropdown.Item>
-                        </Link>
-                        <Link to={getPathWithLocale('/faq')}>
-                            <Dropdown.Item>
-                                <Icon name="question circle outline" className="left"></Icon>
-                                {t('faq')}
-                            </Dropdown.Item>
-                        </Link>
-                    </Dropdown.Menu>
-                </Dropdown>
+                {!mobile && (
+                    <Menu.Item className="menu-item-logo" name="/" link onClick={handleItemClick}>
+                        <Logo inverted={inverted} />
+                    </Menu.Item>
+                )}
+                {mobile && (
+                    <Menu.Item name="/" link onClick={handleItemClick}>
+                        <Logo inverted={inverted} />
+                    </Menu.Item>
+                )}
+                {!mobile && (
+                    <Dropdown className="link item" text={t('navbar-therapy')} simple>
+                        <Dropdown.Menu className="global-navbar-dropdown">
+                            <Link to={getPathWithLocale('/innerlight-hypnotherapy')}>
+                                <Dropdown.Item>
+                                    <Icon name="heart outline" className="left"></Icon>
+                                    {t('navbar-innerlight-hypnotherapy')}
+                                </Dropdown.Item>
+                            </Link>
+                            <Link to={getPathWithLocale('/rtt')}>
+                                <Dropdown.Item>
+                                    <Icon name="compass outline" className="left"></Icon>
+                                    {t('navbar-rtt')}
+                                </Dropdown.Item>
+                            </Link>
+                            <Link to={getPathWithLocale('/rtt-areas')}>
+                                <Dropdown.Item>
+                                    <Icon name="th list" className="left"></Icon>
+                                    {t('navbar-rtt-areas')}
+                                </Dropdown.Item>
+                            </Link>
+                            <Link to={getPathWithLocale('/faq')}>
+                                <Dropdown.Item>
+                                    <Icon name="question circle outline" className="left"></Icon>
+                                    {t('faq')}
+                                </Dropdown.Item>
+                            </Link>
+                        </Dropdown.Menu>
+                    </Dropdown>
+                )}
+                {mobile && (
+                    <React.Fragment>
+                        <Menu.Item
+                            name="/innerlight-hypnotherapy"
+                            content={t('navbar-innerlight-hypnotherapy')}
+                            link
+                            active={location.pathname === '/innerlight-hypnotherapy'}
+                            onClick={handleItemClick}
+                        ></Menu.Item>
+                        <Menu.Item
+                            name="/rtt"
+                            content={t('navbar-rtt')}
+                            link
+                            active={location.pathname === '/rtt'}
+                            onClick={handleItemClick}
+                        ></Menu.Item>
+                        <Menu.Item
+                            name="/rtt-areas"
+                            content={t('navbar-rtt-areas')}
+                            link
+                            active={location.pathname === '/rtt-areas'}
+                            onClick={handleItemClick}
+                        ></Menu.Item>
+                        <Menu.Item
+                            name="/faq"
+                            content={t('faq')}
+                            link
+                            active={location.pathname === '/faq'}
+                            onClick={handleItemClick}
+                        ></Menu.Item>
+                    </React.Fragment>
+                )}
+
                 <Menu.Item
                     name="/shop"
                     content={t('shop')}

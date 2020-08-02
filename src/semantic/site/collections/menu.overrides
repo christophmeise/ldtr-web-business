@@ -1,3 +1,7 @@
 /*******************************
          Site Overrides
 *******************************/
+.ui.secondary.inverted.menu .link.item,
+.ui.secondary.inverted.menu a.item {
+  color: #ffffff !important;
+}

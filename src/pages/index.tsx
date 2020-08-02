@@ -52,13 +52,14 @@ class Index extends React.Component<Props> {
         const backgroundColor = '#e5e2d6';
 
         return (
-            <Layout title={siteTitle} t={t} invertedHeader={false}>
+            <Layout title={siteTitle} t={t} invertedHeader={true}>
                 <SEO title={t('Start')} />
                 <HeaderOverlay
                     sources={sources}
                     color={backgroundColor}
-                    inverted={false}
-                    content={<OverlayContent inverted={false} t={t} />}
+                    inverted={true}
+                    content={<OverlayContent inverted={true} t={t} />}
+                    darken={true}
                 />
                 <div className="main-content-sections">
                     <SectionRTT t={t}></SectionRTT>
@@ -91,14 +92,20 @@ class OverlayContent extends React.Component<any, any> {
         }
         return (
             <div>
-                <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
+                <h1
+                    className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}
+                    style={{ marginBottom: '0rem' }}
+                >
                     {t('rtt-index-overlay-headline')}
                     {/*  <Typed strings={typedWords} backDelay={2500} typeSpeed={110} backSpeed={100} loop></Typed> */}
+                </h1>
+                <h1 className="header-overlay-headline header-overlay-headline-inverted header-overlay-inner-light">
+                    Inner Light
                 </h1>
                 <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
                     {t('rtt-index-overlay-subheadline')}
                 </h2>
-                <Link to={getPathWithLocale('/book-call')}>
+                <Link to={getPathWithLocale('/book-call')} className="responsive-desktop-container">
                     <Button className="shadow hover-animate rounded" primary>
                         {t('book-first-call')}
                     </Button>

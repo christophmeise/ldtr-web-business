@@ -190,6 +190,13 @@ export const pricingData = {
         duration: 'für 3 Monate',
         content: [true, true, true, true, true, true, true, true],
     },
+    4: {
+        priceId: 'price_1HDVhTCbDUY84ofeOfYf3qkM',
+        title: 'Test',
+        price: '1€',
+        duration: 'für 3 Monate',
+        content: [true, true, true, true, true, true, true, true],
+    },
 };
 
 export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, handleOnCheckout }) => {

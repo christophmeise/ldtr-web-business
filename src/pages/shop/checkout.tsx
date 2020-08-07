@@ -64,6 +64,8 @@ class ShopCheckoutPage extends React.Component<Props, State> {
             product = pricingData[2];
         } else if (checkoutOption === 'Exclusive') {
             product = pricingData[3];
+        } else if (checkoutOption === 'Test') {
+            product = pricingData[4];
         }
 
         return (
@@ -133,7 +135,7 @@ class ShopCheckoutPage extends React.Component<Props, State> {
     }
 }
 
-const stripePromise = loadStripe(process.env.STRIPE_PUBLIC_KEY);
+const stripePromise = loadStripe(process.env.GATSBY_STRIPE_PUBLIC_KEY);
 
 const redirectToCheckout = (product: Product) => async (event) => {
     event.preventDefault();

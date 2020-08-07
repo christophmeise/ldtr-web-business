@@ -170,21 +170,21 @@ export type Product = {
 
 export const pricingData = {
     1: {
-        priceId: 'price_1GrKUOCbDUY84ofe8W6LJHcA',
+        priceId: 'price_1HDWfZCbDUY84ofe3pJUcXs4',
         title: 'Basic',
         price: '349€',
         duration: 'für 1 Monat',
         content: [true, true, true, true, false, false, false, false],
     },
     2: {
-        priceId: 'price_1GrNeNCbDUY84ofeeEVHaF9g',
+        priceId: 'price_1HDWfpCbDUY84ofeldhT5QyE',
         title: 'Plus',
         price: '599€',
         duration: 'für 2 Monate',
         content: [true, true, true, true, true, true, true, false],
     },
     3: {
-        priceId: 'price_1GrNfuCbDUY84ofe6aQWfr6b',
+        priceId: 'price_1HDWg9CbDUY84ofeqzHT0hC2',
         title: 'Exclusive',
         price: '899€',
         duration: 'für 3 Monate',

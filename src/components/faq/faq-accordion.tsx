@@ -41,12 +41,29 @@ export default class FAQAccordion extends React.Component<any, any> {
 }
 
 class AccordionItem extends React.Component<any, any> {
+    divElement: any;
+
     constructor(props) {
         super(props);
+
+        this.state = {
+            height: 0,
+        };
+    }
+
+    componentDidMount() {
+        const height = this.divElement.clientHeight;
+        this.setState({ height });
     }
 
     render() {
         const { t, activeIndex, index, handleClick, titleKey, contentKey } = this.props;
+
+        let height = 0;
+        if (activeIndex === index) {
+            height = this.state.height + 16;
+        }
+
         return (
             <div className="accordion-item">
                 <Accordion.Title
@@ -59,10 +76,16 @@ class AccordionItem extends React.Component<any, any> {
                     {t(titleKey)}
                     <Icon name="dropdown" />
                 </Accordion.Title>
-                <Accordion.Content key={'content' + index} active={activeIndex === index}>
-                    {/* <Transition visible={activeIndex === index} animation="fade down" duration={300}> */}
-                    <p>{t(contentKey)}</p>
-                    {/*  </Transition> */}
+                <Accordion.Content key={'content' + index} active={activeIndex === index} style={{ height: height }}>
+                    <p>
+                        <div
+                            ref={(divElement) => {
+                                this.divElement = divElement;
+                            }}
+                        >
+                            {t(contentKey)}
+                        </div>
+                    </p>
                 </Accordion.Content>
             </div>
         );

@@ -167,9 +167,11 @@ class RttPage extends React.Component<Props, any> {
                                             <h2 className="call-to-action-text font-playfair">
                                                 {t('rtt:Mit RTT zu deinem besten Selbst')}
                                             </h2>
-                                            <Button primary size="medium">
-                                                {t('rtt:Jetzt Termin vereinbaren')}
-                                            </Button>
+                                            <Link to={getPathWithLocale('/book-call')}>
+                                                <Button primary size="medium" className="rounded shadow hover-animate">
+                                                    {t('rtt:Jetzt Termin vereinbaren')}
+                                                </Button>
+                                            </Link>
                                         </GridColumn>
                                     </Grid>
                                     <Container
@@ -180,7 +182,7 @@ class RttPage extends React.Component<Props, any> {
                                             {t('rtt:Mit RTT zu deinem besten Selbst')}
                                         </h2>
                                         <Link to={getPathWithLocale('/book-call')}>
-                                            <Button primary size="medium" className="shadow hover-animate">
+                                            <Button primary size="medium" className="rounded shadow hover-animate">
                                                 {t('rtt:Jetzt Termin vereinbaren')}
                                             </Button>
                                         </Link>

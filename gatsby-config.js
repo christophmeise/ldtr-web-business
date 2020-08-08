@@ -11,9 +11,9 @@ require('dotenv').config({
 
 module.exports = {
     siteMetadata: {
-        title: `Inner Light`,
+        title: `Inner Light Hypnotherapy`,
         author: `Christoph Meise`,
-        siteUrl: `https://loving-poincare-49748d.netlify.app/`,
+        siteUrl: `https://innerlight-hypnotherapy.com/`,
         description: `Spread love, light & consciousness`,
         social: {
             instagram: `love.dream.travel.repeat`,

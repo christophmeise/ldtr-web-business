@@ -16,28 +16,28 @@ class FAQ extends React.Component<any, any> {
         const faqContent = [
             {
                 index: 0,
-                titleKey: 'faq:q-what-is-hypnose',
-                contentKey: 'faq:a-what-is-hypnose',
+                titleKey: 'faq:q-1',
+                contentKey: 'faq:a-1',
             },
             {
                 index: 1,
-                titleKey: 'faq:q-hypnose-real',
-                contentKey: 'faq:a-hypnose-real',
+                titleKey: 'faq:q-2',
+                contentKey: 'faq:a-2',
             },
             {
                 index: 2,
-                titleKey: 'faq:q-can-anybody-hypnose',
-                contentKey: 'faq:a-can-anybody-hypnose',
+                titleKey: 'faq:q-3',
+                contentKey: 'faq:a-3',
             },
             {
                 index: 3,
-                titleKey: 'faq:q-improve-hynose',
-                contentKey: 'faq:a-improve-hynose',
+                titleKey: 'faq:q-4',
+                contentKey: 'faq:a-4',
             },
             {
                 index: 4,
-                titleKey: 'faq:q-hypnose-like-sleep',
-                contentKey: 'faq:a-hypnose-like-sleep',
+                titleKey: 'faq:q-5',
+                contentKey: 'faq:a-5',
             },
         ];
 

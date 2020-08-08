@@ -37,53 +37,83 @@ class FAQPage extends React.Component<Props, any> {
         const faqContent = [
             {
                 index: 0,
-                titleKey: 'faq:q-what-is-hypnose',
-                contentKey: 'faq:a-what-is-hypnose',
+                titleKey: 'faq:q-1',
+                contentKey: 'faq:a-1',
             },
             {
                 index: 1,
-                titleKey: 'faq:q-hypnose-real',
-                contentKey: 'faq:a-hypnose-real',
+                titleKey: 'faq:q-2',
+                contentKey: 'faq:a-2',
             },
             {
                 index: 2,
-                titleKey: 'faq:q-can-anybody-hypnose',
-                contentKey: 'faq:a-can-anybody-hypnose',
+                titleKey: 'faq:q-3',
+                contentKey: 'faq:a-3',
             },
             {
                 index: 3,
-                titleKey: 'faq:q-improve-hynose',
-                contentKey: 'faq:a-improve-hynose',
+                titleKey: 'faq:q-4',
+                contentKey: 'faq:a-4',
             },
             {
                 index: 4,
-                titleKey: 'faq:q-hypnose-like-sleep',
-                contentKey: 'faq:a-hypnose-like-sleep',
+                titleKey: 'faq:q-5',
+                contentKey: 'faq:a-5',
             },
             {
                 index: 5,
-                titleKey: 'faq:q-what-is-hypnose',
-                contentKey: 'faq:a-what-is-hypnose',
+                titleKey: 'faq:q-6',
+                contentKey: 'faq:a-6',
             },
             {
                 index: 6,
-                titleKey: 'faq:q-hypnose-real',
-                contentKey: 'faq:a-hypnose-real',
+                titleKey: 'faq:q-7',
+                contentKey: 'faq:a-7',
             },
             {
                 index: 7,
-                titleKey: 'faq:q-can-anybody-hypnose',
-                contentKey: 'faq:a-can-anybody-hypnose',
+                titleKey: 'faq:q-8',
+                contentKey: 'faq:a-8',
             },
             {
                 index: 8,
-                titleKey: 'faq:q-improve-hynose',
-                contentKey: 'faq:a-improve-hynose',
+                titleKey: 'faq:q-9',
+                contentKey: 'faq:a-9',
             },
             {
                 index: 9,
-                titleKey: 'faq:q-hypnose-like-sleep',
-                contentKey: 'faq:a-hypnose-like-sleep',
+                titleKey: 'faq:q-10',
+                contentKey: 'faq:a-10',
+            },
+            {
+                index: 10,
+                titleKey: 'faq:q-11',
+                contentKey: 'faq:a-11',
+            },
+            {
+                index: 11,
+                titleKey: 'faq:q-12',
+                contentKey: 'faq:a-12',
+            },
+            {
+                index: 12,
+                titleKey: 'faq:q-13',
+                contentKey: 'faq:a-13',
+            },
+            {
+                index: 13,
+                titleKey: 'faq:q-14',
+                contentKey: 'faq:a-14',
+            },
+            {
+                index: 14,
+                titleKey: 'faq:q-15',
+                contentKey: 'faq:a-15',
+            },
+            {
+                index: 15,
+                titleKey: 'faq:q-16',
+                contentKey: 'faq:a-16',
             },
         ];
 

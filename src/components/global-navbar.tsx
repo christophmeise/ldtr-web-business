@@ -49,11 +49,6 @@ class GlobalNavbar extends React.Component<Props, any> {
                         <Logo inverted={inverted} />
                     </Menu.Item>
                 )}
-                {mobile && (
-                    <Menu.Item name="/" link onClick={handleItemClick}>
-                        <Logo inverted={inverted} />
-                    </Menu.Item>
-                )}
                 {!mobile && (
                     <Dropdown className="link item" text={t('navbar-therapy')} simple>
                         <Dropdown.Menu className="global-navbar-dropdown">

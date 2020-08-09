@@ -1,10 +1,9 @@
 import { graphql } from 'gatsby';
-import BackgroundImage from 'gatsby-background-image';
 import React from 'react';
-import { Container, Grid, GridColumn } from 'semantic-ui-react';
+import { Container } from 'semantic-ui-react';
 import Layout from '../components/layout';
-import PlainHeader from '../components/plain-overlay/plain-header';
 import SEO from '../components/seo';
+import HeaderOverlay from './../components/header-overlay/header-overlay';
 import withI18next from './../components/withI18next/withI18next';
 import './blog.less';
 
@@ -69,14 +68,32 @@ class Blog extends React.Component<Props, BlogState> {
             posts = posts.filter((post) => post.node.frontmatter.tags.includes(this.state.tagFilter));
         }
 
+        const sources = [
+            comingSoonImageMobile,
+            {
+                ...comingSoonImage,
+                media: `(min-width: 768px)`,
+            },
+        ];
+
         return (
-            <Layout title={siteTitle} t={t}>
+            <Layout title={siteTitle} t={t} invertedHeader={true}>
                 <SEO lang="en" description={description} title="All posts" />
+                <HeaderOverlay
+                    sources={sources}
+                    color="#000000"
+                    inverted={true}
+                    content={<OverlayContent inverted={true} t={t}></OverlayContent>}
+                    darken={true}
+                />
                 <div className="global-header-padding">
-                    <PlainHeader content={<HeaderContent t={t} />} />
+                    {/* <PlainHeader content={<HeaderContent t={t} />} /> */}
                     <div className="blog-content-sections">
                         <section>
-                            <BackgroundImage className="rtt-call-to-action-image shadow" fluid={comingSoonImage}>
+                            <Container text textAlign="center">
+                                <h2 className="blog-coming-soon font-playfair">{t('blog:Coming Soon')}</h2>
+                            </Container>
+                            {/*  <BackgroundImage className="rtt-call-to-action-image shadow" fluid={comingSoonImage}>
                                 <Container className="rtt-call-to-action-image-container">
                                     <Grid
                                         className="rtt-call-container-desktop responsive-desktop-container"
@@ -95,7 +112,7 @@ class Blog extends React.Component<Props, BlogState> {
                                         <h2 className="call-to-action-text font-playfair">{t('blog:Coming Soon')}</h2>
                                     </Container>
                                 </Container>
-                            </BackgroundImage>
+                            </BackgroundImage> */}
                         </section>
                     </div>
                     {/* <div className="blog-content-sections bg-secondary">
@@ -189,6 +206,29 @@ const HeaderContent = ({ t }) => {
     );
 };
 
+const OverlayContent = ({ inverted, t }) => {
+    return (
+        <div>
+            {/*             <h1 className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}>
+                {t('blog:Neuigkeiten von Inner Light')}
+            </h1> */}
+            <h1
+                className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}
+                style={{ marginBottom: '0rem' }}
+            >
+                {t('blog:Neuigkeiten von Inner Light')}
+                {/*  <Typed strings={typedWords} backDelay={2500} typeSpeed={110} backSpeed={100} loop></Typed> */}
+            </h1>
+            <h1 className="header-overlay-headline header-overlay-headline-inverted header-overlay-inner-light">
+                Inner Light
+            </h1>
+            <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
+                {t('blog:Blogeinträge rund um die Themen Hypnotherapie, RTT™ und innerer Transformation')}
+            </h2>
+        </div>
+    );
+};
+
 export const pageQuery = graphql`
     query BlogQuery {
         site {
@@ -203,7 +243,7 @@ export const pageQuery = graphql`
                 }
             }
         }
-        comingSoonImageMobile: file(relativePath: { eq: "tree_sunset.jpg" }) {
+        comingSoonImageMobile: file(relativePath: { eq: "tree_sunset_mobile.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
                     ...GatsbyImageSharpFluid_withWebp

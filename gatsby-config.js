@@ -49,6 +49,15 @@ module.exports = {
                 //cookieDomain: "example.com",
             },
         },
+        /*  {
+            resolve: `gatsby-source-google-analytics-reporting-api`,
+            options: {
+                email: process.env.GATSBY_CLIENT_EMAIL,
+                key: process.env.GATSBY_GOOGLE_API_CLIENT_KEY,
+                viewId: `226079807`,
+                startDate: `2020-08-08`,
+            },
+        }, */
         'gatsby-plugin-catch-links',
         'gatsby-plugin-react-helmet',
         'gatsby-plugin-sharp',

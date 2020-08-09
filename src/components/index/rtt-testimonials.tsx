@@ -1,3 +1,5 @@
+import { graphql, useStaticQuery } from 'gatsby';
+import Img from 'gatsby-image';
 import React from 'react';
 import Swiper from 'react-id-swiper';
 import { Container, Icon, Label } from 'semantic-ui-react';
@@ -24,6 +26,35 @@ const SectionRTTTestimonials = ({ t }) => {
             clickable: true,
         },
     };
+
+    const data = useStaticQuery(
+        graphql`
+            query {
+                customer1: file(relativePath: { eq: "lini.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 100, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
+                        }
+                    }
+                }
+                customer2: file(relativePath: { eq: "abc.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 100, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
+                        }
+                    }
+                }
+                customer3: file(relativePath: { eq: "abc.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 100, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
+                        }
+                    }
+                }
+            }
+        `,
+    );
+
     return (
         <Container as="section">
             <SectionHeader
@@ -38,7 +69,8 @@ const SectionRTTTestimonials = ({ t }) => {
                         mobile={slidesPerView === 1}
                         label="Hypnotherapy"
                         text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
-                        author="Jessica Watson"
+                        author="Celina Schneider"
+                        src={data.customer1.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
                 <div>
@@ -47,6 +79,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         label="Hypnotherapy"
                         text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
                         author="Jessica Watson"
+                        src={data.customer2.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
                 <div>
@@ -55,6 +88,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         label="Hypnotherapy"
                         text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
                         author="Jessica Watson"
+                        src={data.customer3.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
             </Swiper>
@@ -64,7 +98,7 @@ const SectionRTTTestimonials = ({ t }) => {
 
 export default SectionRTTTestimonials;
 
-export function RTTTestimonialCard({ label, text, author, mobile }) {
+export function RTTTestimonialCard({ label, text, author, mobile, src }) {
     return (
         <div className="rtt-testimonials-card">
             {!mobile && (
@@ -76,11 +110,7 @@ export function RTTTestimonialCard({ label, text, author, mobile }) {
             <div className="rtt-testimonials-card-text">
                 <div className="rtt-testimonials-card-inner-container">
                     <div className="rtt-testimonials-avatar">
-                        <img
-                            className="img-fluid"
-                            src="https://d19m59y37dris4.cloudfront.net/directory/1-5/img/avatar/avatar-3.jpg"
-                            alt="..."
-                        />
+                        <Img className="img-fluid" fluid={src} />
                     </div>
                     <div>
                         <Icon className="rtt-testimonials-card-text-quote text-secondary" name="quote right" />

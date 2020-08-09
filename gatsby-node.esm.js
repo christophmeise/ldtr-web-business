@@ -1,6 +1,13 @@
+import crypto from 'crypto';
 import fs from 'fs';
+import { google } from 'googleapis';
 import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
+
+require('dotenv').config({
+    path: `.env`,
+});
+
 const { resolve } = path;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -81,6 +88,76 @@ const availableLocales = [
 ];
 
 const defaultLocales = { lang: 'de', text: 'Deutsch' };
+
+export async function sourceNodes({ actions }) {
+    const { createNode } = actions;
+
+    // google auth logic
+    const scopes = 'https://www.googleapis.com/auth/analytics.readonly';
+    const jwt = new google.auth.JWT(
+        process.env.GATSBY_CLIENT_EMAIL,
+        null,
+        process.env.GATSBY_GOOGLE_API_CLIENT_KEY.replace(new RegExp('\\\\n', 'g'), '\n'),
+        scopes,
+    );
+    await jwt.authorize();
+
+    const analyticsReporting = google.analyticsreporting({
+        version: 'v4',
+        auth: jwt,
+    });
+
+    // Analytics Reporting v4 query
+    const result = await analyticsReporting.reports.batchGet({
+        requestBody: {
+            reportRequests: [
+                {
+                    viewId: '226079807',
+                    dateRanges: [
+                        {
+                            startDate: '30DaysAgo',
+                            endDate: 'today',
+                        },
+                    ],
+                    metrics: [
+                        {
+                            expression: 'ga:pageviews',
+                        },
+                    ],
+                    dimensions: [
+                        {
+                            name: 'ga:pagePath',
+                        },
+                    ],
+                    orderBys: [
+                        {
+                            sortOrder: 'DESCENDING',
+                            fieldName: 'ga:pageviews',
+                        },
+                    ],
+                },
+            ],
+        },
+    });
+
+    // Add analytics data to graphql
+    const { rows } = result.data.reports[0].data;
+    for (const { dimensions, metrics } of rows) {
+        const path = dimensions[0];
+        const totalCount = metrics[0].values[0];
+        createNode({
+            path,
+            totalCount: Number(totalCount),
+            id: path,
+            internal: {
+                type: `PageViews`,
+                contentDigest: crypto.createHash(`md5`).update(JSON.stringify({ path, totalCount })).digest(`hex`),
+                mediaType: `text/plain`,
+                description: `Page views per path`,
+            },
+        });
+    }
+}
 
 export function onCreateWebpackConfig({ actions }) {
     actions.setWebpackConfig({

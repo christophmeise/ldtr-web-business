@@ -61,7 +61,7 @@ class AccordionItem extends React.Component<any, any> {
 
         let height = 0;
         if (activeIndex === index) {
-            height = this.state.height + 16;
+            height = this.state.height;
         }
 
         return (
@@ -77,14 +77,12 @@ class AccordionItem extends React.Component<any, any> {
                     <Icon name="dropdown" />
                 </Accordion.Title>
                 <Accordion.Content key={'content' + index} active={activeIndex === index} style={{ height: height }}>
-                    <p>
-                        <div
-                            ref={(divElement) => {
-                                this.divElement = divElement;
-                            }}
-                        >
-                            {t(contentKey)}
-                        </div>
+                    <p
+                        ref={(divElement) => {
+                            this.divElement = divElement;
+                        }}
+                    >
+                        {t(contentKey)}
                     </p>
                 </Accordion.Content>
             </div>

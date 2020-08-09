@@ -20,6 +20,14 @@ interface Props {
                 description: string;
             };
         };
+        allPageViews: {
+            nodes: [
+                {
+                    id;
+                    totalCount;
+                },
+            ];
+        };
     };
 }
 
@@ -42,8 +50,24 @@ class ShopCheckoutPage extends React.Component<Props, State> {
     }
 
     getCheckoutBannerText() {
+        let extraViews = 0;
+        if (this.state.checkoutOption === 'Basic') {
+            extraViews = 176;
+        } else if (this.state.checkoutOption === 'Plus') {
+            extraViews = 197;
+        } else if (this.state.checkoutOption === 'Exclusive') {
+            extraViews = 232;
+        }
+        const currentPagePath = '/shop/checkout?option=' + this.state.checkoutOption;
+        const pageViewNode = this.props.data.allPageViews.nodes.filter((node) => node.id === currentPagePath)[0];
+        let pageViews = pageViewNode?.totalCount;
+        if (!pageViews) {
+            pageViews = extraViews;
+        } else {
+            pageViews += extraViews;
+        }
         let bannerText: string = this.props.t('shop:checkout-banner-text');
-        bannerText = bannerText.replace('{0}', '43');
+        bannerText = bannerText.replace('{0}', pageViews);
         return bannerText;
     }
 
@@ -71,64 +95,68 @@ class ShopCheckoutPage extends React.Component<Props, State> {
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title={t('shop:title-checkout')} />
-                <Container className="checkout-header-padding">
-                    <Grid columns="2" stackable className="checkout-grid">
-                        <Grid.Column width="10">
-                            <SectionHeader
-                                headline={t('shop:checkout-headline')}
-                                subheadline={t('shop:checkout-subheadline') + checkoutOption}
-                                primary={true}
-                                textAlign="left"
-                            ></SectionHeader>
-                            <Message
-                                icon="heart outline"
-                                header={t('shop:checkout-banner-title')}
-                                content={this.getCheckoutBannerText.bind(this)}
-                                success
-                            />
-                            <hr />
-                            <h4>{t('shop:checkout-features-headline')}</h4>
-                            <div className="icon-circle-with-text">
-                                <div className="rtt-icon-circle rtt-icon-circle-secondary">
-                                    <Icon className="text-secondary" name="envelope outline" size="big"></Icon>
-                                </div>
-                                <p>{t('shop:checkout-features-1')}</p>
-                            </div>
-                            <div className="icon-circle-with-text">
-                                <div className="rtt-icon-circle rtt-icon-circle-secondary">
-                                    <Icon className="text-secondary" name="history" size="big"></Icon>
-                                </div>
-                                <p>{t('shop:checkout-features-2')}</p>
-                            </div>
-                            <div className="icon-circle-with-text">
-                                <div className="rtt-icon-circle rtt-icon-circle-secondary">
-                                    <Icon className="text-secondary" name="payment" size="big"></Icon>
-                                </div>
-                                <p>{t('shop:checkout-features-3')}</p>
-                            </div>
-                            <hr />
-                        </Grid.Column>
-                        <Grid.Column width="6">
-                            <PricingComponent
-                                t={t}
-                                pricingData={product}
-                                handleOnCheckout={null}
-                                handleOnSelect={null}
-                                isSelected={false}
-                            ></PricingComponent>
-                        </Grid.Column>
-                    </Grid>
-                    <Container textAlign="center">
-                        <Button animated primary onClick={redirectToCheckout(product)}>
-                            <Button.Content visible>
-                                <Icon name="lock"></Icon>
-                                {t('shop:checkout-button')}
-                            </Button.Content>
-                            <Button.Content hidden>
-                                <Icon name="arrow right" />
-                            </Button.Content>
-                        </Button>
-                    </Container>
+                <Container>
+                    <div className="global-header-padding">
+                        <section>
+                            <Grid columns="2" stackable className="checkout-grid">
+                                <Grid.Column width="10">
+                                    <SectionHeader
+                                        headline={t('shop:checkout-headline')}
+                                        subheadline={t('shop:checkout-subheadline') + checkoutOption}
+                                        primary={true}
+                                        textAlign="left"
+                                    ></SectionHeader>
+                                    <Message
+                                        icon="heart outline"
+                                        header={t('shop:checkout-banner-title')}
+                                        content={this.getCheckoutBannerText.bind(this)}
+                                        success
+                                    />
+                                    <hr />
+                                    <h4>{t('shop:checkout-features-headline')}</h4>
+                                    <div className="icon-circle-with-text">
+                                        <div className="rtt-icon-circle rtt-icon-circle-secondary">
+                                            <Icon className="text-secondary" name="envelope outline" size="big"></Icon>
+                                        </div>
+                                        <p>{t('shop:checkout-features-1')}</p>
+                                    </div>
+                                    <div className="icon-circle-with-text">
+                                        <div className="rtt-icon-circle rtt-icon-circle-secondary">
+                                            <Icon className="text-secondary" name="history" size="big"></Icon>
+                                        </div>
+                                        <p>{t('shop:checkout-features-2')}</p>
+                                    </div>
+                                    <div className="icon-circle-with-text">
+                                        <div className="rtt-icon-circle rtt-icon-circle-secondary">
+                                            <Icon className="text-secondary" name="payment" size="big"></Icon>
+                                        </div>
+                                        <p>{t('shop:checkout-features-3')}</p>
+                                    </div>
+                                    <hr />
+                                </Grid.Column>
+                                <Grid.Column width="6">
+                                    <PricingComponent
+                                        t={t}
+                                        pricingData={product}
+                                        handleOnCheckout={null}
+                                        handleOnSelect={null}
+                                        isSelected={false}
+                                    ></PricingComponent>
+                                </Grid.Column>
+                            </Grid>
+                            <Container className="checkout-button-wrapper" textAlign="center">
+                                <Button animated primary onClick={redirectToCheckout(product)}>
+                                    <Button.Content visible>
+                                        <Icon name="lock"></Icon>
+                                        {t('shop:checkout-button')}
+                                    </Button.Content>
+                                    <Button.Content hidden>
+                                        <Icon name="arrow right" />
+                                    </Button.Content>
+                                </Button>
+                            </Container>
+                        </section>
+                    </div>
                 </Container>
             </Layout>
         );
@@ -158,6 +186,12 @@ export const pageQuery = graphql`
             siteMetadata {
                 title
                 description
+            }
+        }
+        allPageViews {
+            nodes {
+                id
+                totalCount
             }
         }
     }

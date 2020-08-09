@@ -101,6 +101,12 @@ body > div {
     height: 100%;
 }
 
+@media @mobile {
+    .flex-container {
+        margin-top: 64px;
+    }
+}
+
 .main-container {
     display: flex;
     flex: 1 1 auto;
@@ -372,6 +378,7 @@ hr {
 
     .rtt-icon-circle {
         display: inline-block;
+        min-width: 4rem;
         width: 4rem;
         height: 4rem;
         border-radius: 50%;
@@ -399,4 +406,8 @@ hr {
 .ui.secondary.inverted.menu .link.item,
 .ui.secondary.inverted.menu a.item {
     color: rgba(255, 255, 255, 1) !important;
+}
+
+.global-navbar-mobile {
+    height: 64px;
 }

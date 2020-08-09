@@ -1,9 +1,18 @@
 @import '../styles/lib.less';
 
+@media @mobile {
+    .rtt-shop-pricing-container {
+        padding: 1.5rem 1rem;
+    }
+}
+@media @desktop {
+    .rtt-shop-pricing-container {
+        padding: 2.5rem 1.25rem;
+    }
+}
 .rtt-shop-pricing-container {
     transition: all 0.3s ease-in-out;
     border-top: white 5px solid;
-    padding: 2.5rem 1.25rem;
 
     .ui.grid {
         align-items: center;
@@ -61,11 +70,22 @@
 
 .rtt-shop-grid {
     margin-top: 3rem !important;
+
+    @media @mobile {
+        .column {
+            padding-left: 0.5rem !important;
+            padding-right: 0.5rem !important;
+        }
+    }
 }
 
+@media @desktop {
+    .rtt-shop-pricing-container-selected {
+        transform: scale(1.1) !important;
+    }
+}
 .rtt-shop-pricing-container-selected {
     border-top: @primaryColor 5px solid;
-    transform: scale(1.1) !important;
     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
 }
 

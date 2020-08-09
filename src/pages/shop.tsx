@@ -71,63 +71,65 @@ class Shop extends React.Component<Props, State> {
                     darken={true}
                 />
                 <div className="main-content-sections">
-                    <Container>
-                        <section>
+                    <section>
+                        <Container>
                             <SectionHeader
                                 headline={t('shop:main-headline')}
                                 subheadline={t('shop:main-subheadline')}
                                 primary={true}
                                 textAlign="left"
                             ></SectionHeader>
-                            <Grid stackable columns="3" className="rtt-shop-grid">
-                                <Grid.Column>
-                                    <PricingComponent
-                                        t={t}
-                                        pricingData={pricingData[1]}
-                                        isSelected={this.state.selectedPackageKey === 1}
-                                        handleOnCheckout={this.handleOnCheckout('Basic')}
-                                        handleOnSelect={this.handleOnSelect(1)}
-                                    ></PricingComponent>
-                                </Grid.Column>
-                                <Grid.Column>
-                                    <PricingComponent
-                                        t={t}
-                                        pricingData={pricingData[2]}
-                                        isSelected={this.state.selectedPackageKey === 2}
-                                        handleOnCheckout={this.handleOnCheckout('Plus')}
-                                        handleOnSelect={this.handleOnSelect(2)}
-                                    ></PricingComponent>
-                                </Grid.Column>
-                                <Grid.Column>
-                                    <PricingComponent
-                                        t={t}
-                                        pricingData={pricingData[3]}
-                                        isSelected={this.state.selectedPackageKey === 3}
-                                        handleOnCheckout={this.handleOnCheckout('Exclusive')}
-                                        handleOnSelect={this.handleOnSelect(3)}
-                                    ></PricingComponent>
-                                </Grid.Column>
-                            </Grid>
-                            <div style={{ marginTop: '6rem' }}>
-                                <CallToActionBanner
-                                    headline={t('shop:call-to-action-headline')}
-                                    subheadline={t('shop:call-to-action-subheadline')}
-                                    text={t('shop:call-to-action-description')}
-                                    buttonText={t('shop:call-to-action-button')}
-                                    buttonSubtext={t('shop:call-to-action-free')}
-                                ></CallToActionBanner>
-                            </div>
-                            <Container textAlign="center" style={{ marginTop: '3rem' }}>
-                                <p>
-                                    Meine RTT™-Sitzungen können auf Englisch oder Deutsch durchgeführt werden. Damit Du
-                                    dich während deiner Session mit mir in deine vertraute Umgebung befindest, finden
-                                    die Therapie-Sitzungen über Skype oder Zoom statt. Im Raum Berlin besteht außerdem
-                                    die Möglichkeit, dass ich zu Dir komme.
-                                </p>
-                            </Container>
-                        </section>
+                        </Container>
 
-                        {/*      <Grid style={{ paddingTop: '2em' }} centered columns={1}>
+                        <Grid stackable columns="3" className="rtt-shop-grid">
+                            <Grid.Column>
+                                <PricingComponent
+                                    t={t}
+                                    pricingData={pricingData[1]}
+                                    isSelected={this.state.selectedPackageKey === 1}
+                                    handleOnCheckout={this.handleOnCheckout('Basic')}
+                                    handleOnSelect={this.handleOnSelect(1)}
+                                ></PricingComponent>
+                            </Grid.Column>
+                            <Grid.Column>
+                                <PricingComponent
+                                    t={t}
+                                    pricingData={pricingData[2]}
+                                    isSelected={this.state.selectedPackageKey === 2}
+                                    handleOnCheckout={this.handleOnCheckout('Plus')}
+                                    handleOnSelect={this.handleOnSelect(2)}
+                                ></PricingComponent>
+                            </Grid.Column>
+                            <Grid.Column>
+                                <PricingComponent
+                                    t={t}
+                                    pricingData={pricingData[3]}
+                                    isSelected={this.state.selectedPackageKey === 3}
+                                    handleOnCheckout={this.handleOnCheckout('Exclusive')}
+                                    handleOnSelect={this.handleOnSelect(3)}
+                                ></PricingComponent>
+                            </Grid.Column>
+                        </Grid>
+                        <div style={{ marginTop: '6rem' }}>
+                            <CallToActionBanner
+                                headline={t('shop:call-to-action-headline')}
+                                subheadline={t('shop:call-to-action-subheadline')}
+                                text={t('shop:call-to-action-description')}
+                                buttonText={t('shop:call-to-action-button')}
+                                buttonSubtext={t('shop:call-to-action-free')}
+                            ></CallToActionBanner>
+                        </div>
+                        <Container textAlign="center" style={{ marginTop: '3rem' }}>
+                            <p>
+                                Meine RTT™-Sitzungen können auf Englisch oder Deutsch durchgeführt werden. Damit Du dich
+                                während deiner Session mit mir in deine vertraute Umgebung befindest, finden die
+                                Therapie-Sitzungen über Skype oder Zoom statt. Im Raum Berlin besteht außerdem die
+                                Möglichkeit, dass ich zu Dir komme.
+                            </p>
+                        </Container>
+                    </section>
+
+                    {/*      <Grid style={{ paddingTop: '2em' }} centered columns={1}>
                         <Grid.Column width={10}>
                             <Item.Group>
                                 {products
@@ -138,7 +140,6 @@ class Shop extends React.Component<Props, State> {
                             </Item.Group>
                         </Grid.Column>
                     </Grid> */}
-                    </Container>
                 </div>
             </Layout>
         );
@@ -201,7 +202,7 @@ export const pricingData = {
 
 export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, handleOnCheckout }) => {
     return (
-        <Container
+        <div
             className={`rtt-shop-pricing-container rounded shadow ${
                 isSelected ? 'rtt-shop-pricing-container-selected' : null
             }`}
@@ -292,7 +293,7 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                     )}
                 </div>
             )}
-        </Container>
+        </div>
     );
 };
 
@@ -335,7 +336,7 @@ export const pageQuery = graphql`
                 }
             }
         }
-        mobileImage: file(relativePath: { eq: "sunset_shop.jpg" }) {
+        mobileImage: file(relativePath: { eq: "sunset_shop_mobile.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1200, quality: 100) {
                     ...GatsbyImageSharpFluid

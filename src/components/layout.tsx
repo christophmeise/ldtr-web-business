@@ -3,7 +3,7 @@ import React from 'react';
 import { cssTransition, toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'semantic-ui-less/semantic.less';
-import { Container, Icon, Menu, Segment, Sidebar } from 'semantic-ui-react';
+import { Container, Icon, Menu, Sidebar } from 'semantic-ui-react';
 import '../components/i18n/i18n';
 import GlobalNavbar from './global-navbar';
 import Logo from './logo/logo';
@@ -71,6 +71,26 @@ class Layout extends React.Component<Props, any> {
         return (
             <React.Fragment>
                 <ToastContainer position="bottom-center" autoClose={false} closeOnClick transition={Zoom} />
+                <Menu
+                    className="responsive-mobile-container global-navbar-mobile"
+                    fixed="top"
+                    inverted
+                    size="large"
+                    borderless
+                >
+                    <Menu.Item
+                        style={{ paddingBottom: '0', paddingTop: '0', alignSelf: 'center' }}
+                        name="/"
+                        link
+                        onClick={this.handleItemClick}
+                    >
+                        <Logo inverted={true} />
+                    </Menu.Item>
+                    <Menu.Item position="right" onClick={this.handleToggle}>
+                        <Icon style={{ margin: '0', color: 'white' }} name="sidebar" />
+                    </Menu.Item>
+                </Menu>
+
                 <div className="flex-container">
                     <Sidebar.Pushable>
                         <Sidebar
@@ -94,29 +114,6 @@ class Layout extends React.Component<Props, any> {
                         </Sidebar>
 
                         <Sidebar.Pusher dimmed={sidebarOpened}>
-                            <Segment
-                                inverted
-                                textAlign="center"
-                                className="responsive-mobile-container"
-                                style={{ padding: '0.35em 0em' }}
-                                vertical
-                            >
-                                <Container>
-                                    <Menu inverted secondary size="large">
-                                        <Menu.Item
-                                            style={{ padding: '0', alignSelf: 'center' }}
-                                            name="/"
-                                            link
-                                            onClick={this.handleItemClick}
-                                        >
-                                            <Logo inverted={true} />
-                                        </Menu.Item>
-                                        <Menu.Item position="right" onClick={this.handleToggle}>
-                                            <Icon style={{ margin: '0', color: 'white' }} name="sidebar" />
-                                        </Menu.Item>
-                                    </Menu>
-                                </Container>
-                            </Segment>
                             <section
                                 className="global-navbar responsive-desktop-container"
                                 style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
@@ -139,7 +136,6 @@ class Layout extends React.Component<Props, any> {
                                     </Container>
                                 </Menu>
                             </section>
-
                             <main role="main" className="main-container">
                                 {children}
                             </main>

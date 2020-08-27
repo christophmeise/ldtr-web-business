@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Container, Embed, Grid, GridColumn, Icon } from 'semantic-ui-react';
+import { Button, Container, Embed, Icon } from 'semantic-ui-react';
 import { getPathWithLocale } from '../navigateWithLocale';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
@@ -16,19 +16,17 @@ const SectionRTT = ({ t }) => {
                     textAlign="center"
                 ></SectionHeader>
                 <article>
-                    <Grid columns="1" centered stackable>
-                        <GridColumn width="12" className="index-rtt-video-container">
-                            <Embed
-                                id="HyjhRKM2VCA"
-                                aspectRatio="16:9"
-                                className="video-wrapper shadow rounded hover-animate"
-                                placeholder="/youtube-placeholder.jpg"
-                                alt="youtube-image-placeholder"
-                                source="youtube"
-                                autoplay
-                            />
-                        </GridColumn>
-                    </Grid>
+                    <div className="index-rtt-video-container">
+                        <Embed
+                            id="HyjhRKM2VCA"
+                            aspectRatio="16:9"
+                            className="video-wrapper shadow rounded hover-animate"
+                            placeholder="/youtube-placeholder.jpg"
+                            alt="youtube-image-placeholder"
+                            source="youtube"
+                            autoplay
+                        />
+                    </div>
                     <Container text textAlign="center" className="rtt-main-button-container">
                         <Link to={getPathWithLocale('/rtt')}>
                             <Button

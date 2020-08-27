@@ -17,7 +17,7 @@ const SectionRTTSteps = ({ t }) => {
                 primary={true}
                 textAlign="left"
             ></SectionHeader>
-            <Grid stackable columns="3" textAlign={textAlignment} style={{ marginTop: '2rem' }}>
+            <Grid stackable columns="3" textAlign={textAlignment}>
                 <GridColumn>
                     <IconCircleWithText
                         color="primary"

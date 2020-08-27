@@ -140,4 +140,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next(['common', 'faq'])(Index);
+export default withI18next(['common', 'faq', 'testimonials'])(Index);

@@ -37,14 +37,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         }
                     }
                 }
-                customer2: file(relativePath: { eq: "abc.jpg" }) {
-                    childImageSharp {
-                        fluid(maxWidth: 100, quality: 90) {
-                            ...GatsbyImageSharpFluid_withWebp
-                        }
-                    }
-                }
-                customer3: file(relativePath: { eq: "abc.jpg" }) {
+                customer2: file(relativePath: { eq: "Testimonial_Laetitia_Edited.jpg" }) {
                     childImageSharp {
                         fluid(maxWidth: 100, quality: 90) {
                             ...GatsbyImageSharpFluid_withWebp
@@ -67,8 +60,8 @@ const SectionRTTTestimonials = ({ t }) => {
                 <div>
                     <RTTTestimonialCard
                         mobile={slidesPerView === 1}
-                        label="Hypnotherapy"
-                        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+                        label={t('testimonials:customer1-label')}
+                        text={t('testimonials:customer1-text')}
                         author="Celina Schneider"
                         src={data.customer1.childImageSharp.fluid}
                     ></RTTTestimonialCard>
@@ -76,13 +69,13 @@ const SectionRTTTestimonials = ({ t }) => {
                 <div>
                     <RTTTestimonialCard
                         mobile={slidesPerView === 1}
-                        label="Hypnotherapy"
-                        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
-                        author="Jessica Watson"
+                        label={t('testimonials:customer2-label')}
+                        text={t('testimonials:customer2-text')}
+                        author="Laetitia Cazaux"
                         src={data.customer2.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
-                <div>
+                {/*                 <div>
                     <RTTTestimonialCard
                         mobile={slidesPerView === 1}
                         label="Hypnotherapy"
@@ -90,7 +83,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         author="Jessica Watson"
                         src={data.customer3.childImageSharp.fluid}
                     ></RTTTestimonialCard>
-                </div>
+                </div> */}
             </Swiper>
         </Container>
     );

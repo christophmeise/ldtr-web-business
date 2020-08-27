@@ -3,9 +3,10 @@ import React from 'react';
 import { cssTransition, toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'semantic-ui-less/semantic.less';
-import { Container, Menu } from 'semantic-ui-react';
+import { Container, Icon, Menu, Sidebar } from 'semantic-ui-react';
 import '../components/i18n/i18n';
 import GlobalNavbar from './global-navbar';
+import Logo from './logo/logo';
 import navigateWithLocale, { getPathWithLocale } from './navigateWithLocale';
 import PageFooter from './page-footer/page-footer';
 
@@ -70,7 +71,7 @@ class Layout extends React.Component<Props, any> {
         return (
             <React.Fragment>
                 <ToastContainer position="bottom-center" autoClose={false} closeOnClick transition={Zoom} />
-                {/* <Menu
+                <Menu
                     className="responsive-mobile-container global-navbar-mobile"
                     fixed="top"
                     inverted
@@ -114,31 +115,38 @@ class Layout extends React.Component<Props, any> {
                         )}
                     </Sidebar>
 
-                    <Sidebar.Pusher dimmed={sidebarOpened}> */}
-                {(typeof window === 'undefined' || (typeof window !== 'undefined' && window.innerWidth >= 768)) && (
-                    <section
-                        className="global-navbar responsive-desktop-container"
-                        style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
-                    >
-                        <Menu inverted={invertedHeader} pointing={false} secondary={true} size="large" borderless>
-                            <Container>
-                                <GlobalNavbar
-                                    location={location}
-                                    handleItemClick={this.handleItemClick}
+                    <Sidebar.Pusher dimmed={sidebarOpened}>
+                        {(typeof window === 'undefined' ||
+                            (typeof window !== 'undefined' && window.innerWidth >= 768)) && (
+                            <section
+                                className="global-navbar responsive-desktop-container"
+                                style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
+                            >
+                                <Menu
                                     inverted={invertedHeader}
-                                    mobile={false}
-                                    t={t}
-                                />
-                            </Container>
-                        </Menu>
-                    </section>
-                )}
-                <main role="main" className="main-container">
-                    {children}
-                    <PageFooter t={t} />
-                </main>
-                {/*                     </Sidebar.Pusher>
-                </Sidebar.Pushable> */}
+                                    pointing={false}
+                                    secondary={true}
+                                    size="large"
+                                    borderless
+                                >
+                                    <Container>
+                                        <GlobalNavbar
+                                            location={location}
+                                            handleItemClick={this.handleItemClick}
+                                            inverted={invertedHeader}
+                                            mobile={false}
+                                            t={t}
+                                        />
+                                    </Container>
+                                </Menu>
+                            </section>
+                        )}
+                        <main role="main" className="main-container">
+                            {children}
+                            <PageFooter t={t} />
+                        </main>
+                    </Sidebar.Pusher>
+                </Sidebar.Pushable>
             </React.Fragment>
         );
     }

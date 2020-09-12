@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Container, Grid, GridRow, Header, Icon, List } from 'semantic-ui-react';
+import { Button, Container, Grid, GridRow, Header, Icon, List, Responsive } from 'semantic-ui-react';
 import Logo from '../logo/logo';
 import { getPathWithLocale } from '../navigateWithLocale';
 import './page-footer.less';
@@ -59,14 +59,26 @@ const PageFooter = ({ t }) => {
                                 <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
                                     <Header className="footer-nav-header" as="h3" content={t('footer-services')} />
                                     <Link to={getPathWithLocale('/book-call')}>
-                                        <Button
-                                            className="shadow hover-animate rounded"
-                                            primary={true}
-                                            inverted={false}
-                                            size="small"
-                                        >
-                                            {t('book-first-call')}
-                                        </Button>
+                                        <Responsive minWidth={768}>
+                                            <Button
+                                                className="shadow hover-animate rounded"
+                                                primary={true}
+                                                inverted={false}
+                                                size="small"
+                                            >
+                                                {t('book-first-call')}
+                                            </Button>
+                                        </Responsive>
+                                        <Responsive maxWidth={767}>
+                                            <Button
+                                                className="shadow hover-animate rounded"
+                                                primary={true}
+                                                inverted={false}
+                                                size="mini"
+                                            >
+                                                {t('book-first-call')}
+                                            </Button>
+                                        </Responsive>
                                     </Link>
                                 </Grid.Column>
                             </GridRow>

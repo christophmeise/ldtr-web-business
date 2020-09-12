@@ -80,36 +80,37 @@ class Shop extends React.Component<Props, State> {
                                 textAlign="left"
                             ></SectionHeader>
                         </Container>
-
-                        <Grid stackable columns="3" className="rtt-shop-grid">
-                            <Grid.Column>
-                                <PricingComponent
-                                    t={t}
-                                    pricingData={pricingData[1]}
-                                    isSelected={this.state.selectedPackageKey === 1}
-                                    handleOnCheckout={this.handleOnCheckout('Basic')}
-                                    handleOnSelect={this.handleOnSelect(1)}
-                                ></PricingComponent>
-                            </Grid.Column>
-                            <Grid.Column>
-                                <PricingComponent
-                                    t={t}
-                                    pricingData={pricingData[2]}
-                                    isSelected={this.state.selectedPackageKey === 2}
-                                    handleOnCheckout={this.handleOnCheckout('Plus')}
-                                    handleOnSelect={this.handleOnSelect(2)}
-                                ></PricingComponent>
-                            </Grid.Column>
-                            <Grid.Column>
-                                <PricingComponent
-                                    t={t}
-                                    pricingData={pricingData[3]}
-                                    isSelected={this.state.selectedPackageKey === 3}
-                                    handleOnCheckout={this.handleOnCheckout('Exclusive')}
-                                    handleOnSelect={this.handleOnSelect(3)}
-                                ></PricingComponent>
-                            </Grid.Column>
-                        </Grid>
+                        <Container>
+                            <Grid stackable columns="3" className="rtt-shop-grid">
+                                <Grid.Column>
+                                    <PricingComponent
+                                        t={t}
+                                        pricingData={pricingData[1]}
+                                        isSelected={this.state.selectedPackageKey === 1}
+                                        handleOnCheckout={this.handleOnCheckout('Basic')}
+                                        handleOnSelect={this.handleOnSelect(1)}
+                                    ></PricingComponent>
+                                </Grid.Column>
+                                <Grid.Column>
+                                    <PricingComponent
+                                        t={t}
+                                        pricingData={pricingData[2]}
+                                        isSelected={this.state.selectedPackageKey === 2}
+                                        handleOnCheckout={this.handleOnCheckout('Plus')}
+                                        handleOnSelect={this.handleOnSelect(2)}
+                                    ></PricingComponent>
+                                </Grid.Column>
+                                <Grid.Column>
+                                    <PricingComponent
+                                        t={t}
+                                        pricingData={pricingData[3]}
+                                        isSelected={this.state.selectedPackageKey === 3}
+                                        handleOnCheckout={this.handleOnCheckout('Exclusive')}
+                                        handleOnSelect={this.handleOnSelect(3)}
+                                    ></PricingComponent>
+                                </Grid.Column>
+                            </Grid>
+                        </Container>
                         <div style={{ marginTop: '6rem' }}>
                             <CallToActionBanner
                                 headline={t('shop:call-to-action-headline')}

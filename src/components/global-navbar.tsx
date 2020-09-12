@@ -81,6 +81,7 @@ class GlobalNavbar extends React.Component<Props, any> {
                 )}
                 {mobile && (
                     <React.Fragment>
+                        <Menu.Item name="/" content="_" link></Menu.Item>
                         <Menu.Item
                             name="/innerlight-hypnotherapy"
                             content={t('navbar-innerlight-hypnotherapy')}
@@ -155,7 +156,7 @@ class GlobalNavbar extends React.Component<Props, any> {
                         <LanguageSwitcher t={t} mobile={mobile}></LanguageSwitcher>
                         <Menu.Item>
                             <Link to={getPathWithLocale('/book-call')}>
-                                <Button primary={!inverted} inverted={inverted} size="small">
+                                <Button primary={true} inverted={false} size="small">
                                     {t('book-first-call')}
                                 </Button>
                             </Link>

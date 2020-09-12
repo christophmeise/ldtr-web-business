@@ -71,23 +71,17 @@ class Layout extends React.Component<Props, any> {
         return (
             <React.Fragment>
                 <ToastContainer position="bottom-center" autoClose={false} closeOnClick transition={Zoom} />
-                <Menu
-                    className="responsive-mobile-container global-navbar-mobile"
-                    fixed="top"
-                    inverted
-                    size="large"
-                    borderless
-                >
+                <Menu className="responsive-mobile-container global-navbar-mobile" fixed="top" size="large" borderless>
                     <Menu.Item
                         style={{ paddingBottom: '0', paddingTop: '0', alignSelf: 'center' }}
                         name="/"
                         link
                         onClick={this.handleItemClick}
                     >
-                        <Logo inverted={true} />
+                        <Logo inverted={false} />
                     </Menu.Item>
                     <Menu.Item position="right" onClick={this.handleToggle}>
-                        <Icon style={{ margin: '0', color: 'white' }} name="sidebar" />
+                        <Icon style={{ margin: '0', color: '#b99450' }} name="sidebar" />
                     </Menu.Item>
                 </Menu>
 
@@ -97,7 +91,6 @@ class Layout extends React.Component<Props, any> {
                         animation="overlay"
                         direction="top"
                         className="responsive-mobile-container"
-                        inverted
                         onHide={this.handleSidebarHide}
                         vertical
                         visible={sidebarOpened}
@@ -141,7 +134,7 @@ class Layout extends React.Component<Props, any> {
                                 </Menu>
                             </section>
                         )}
-                        <main role="main" className="main-container">
+                        <main role="main">
                             {children}
                             <PageFooter t={t} />
                         </main>

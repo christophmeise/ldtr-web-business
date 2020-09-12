@@ -8,8 +8,8 @@ const HeaderOverlay = ({ sources, color, inverted, content, darken = false }) =>
     const isSSR = typeof window === 'undefined';
     if (!isSSR) {
         vh = window.innerHeight * 0.01;
+        document.documentElement.style.setProperty('--vh', `${vh}px`);
     }
-    document.documentElement.style.setProperty('--vh', `${vh}px`);
 
     return (
         <div

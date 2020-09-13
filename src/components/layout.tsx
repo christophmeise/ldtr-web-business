@@ -3,7 +3,7 @@ import React from 'react';
 import { cssTransition, toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'semantic-ui-less/semantic.less';
-import { Container, Icon, Menu, Sidebar } from 'semantic-ui-react';
+import { Container, Icon, Menu } from 'semantic-ui-react';
 import '../components/i18n/i18n';
 import GlobalNavbar from './global-navbar';
 import Logo from './logo/logo';
@@ -56,7 +56,7 @@ class Layout extends React.Component<Props, any> {
 
     handleItemClick = (e, { name }) => navigateWithLocale(name);
     handleSidebarHide = () => this.setState({ sidebarOpened: false });
-    handleToggle = () => this.setState({ sidebarOpened: true });
+    handleToggle = () => this.setState({ sidebarOpened: !this.state.sidebarOpened });
 
     render() {
         const { children, invertedHeader, t } = this.props;
@@ -85,15 +85,16 @@ class Layout extends React.Component<Props, any> {
                     </Menu.Item>
                 </Menu>
 
-                <Sidebar.Pushable className="flex-container">
-                    <Sidebar
-                        as={Menu}
-                        animation="overlay"
-                        direction="top"
-                        className="responsive-mobile-container"
-                        onHide={this.handleSidebarHide}
+                <div className="flex-container">
+                    <Menu
+                        className="mobile-menu responsive-mobile-container"
+                        style={{
+                            minHeight: sidebarOpened ? '100vh' : '0vh',
+                            background: sidebarOpened ? '#FFFFFF' : 'rgba(255, 255, 255, 0.5)',
+                        }}
+                        /*                         onHide={this.handleSidebarHide} */
                         vertical
-                        visible={sidebarOpened}
+                        visible="true"
                         width="wide"
                     >
                         {(typeof window === 'undefined' ||
@@ -106,9 +107,9 @@ class Layout extends React.Component<Props, any> {
                                 t={t}
                             />
                         )}
-                    </Sidebar>
+                    </Menu>
 
-                    <Sidebar.Pusher dimmed={sidebarOpened}>
+                    <div>
                         {(typeof window === 'undefined' ||
                             (typeof window !== 'undefined' && window.innerWidth >= 768)) && (
                             <section
@@ -138,8 +139,8 @@ class Layout extends React.Component<Props, any> {
                             {children}
                             <PageFooter t={t} />
                         </main>
-                    </Sidebar.Pusher>
-                </Sidebar.Pushable>
+                    </div>
+                </div>
             </React.Fragment>
         );
     }

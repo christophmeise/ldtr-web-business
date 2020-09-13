@@ -81,7 +81,6 @@ class GlobalNavbar extends React.Component<Props, any> {
                 )}
                 {mobile && (
                     <React.Fragment>
-                        <Menu.Item name="/" content="_" link></Menu.Item>
                         <Menu.Item
                             name="/innerlight-hypnotherapy"
                             content={t('navbar-innerlight-hypnotherapy')}

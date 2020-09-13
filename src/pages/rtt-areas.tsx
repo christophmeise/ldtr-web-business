@@ -40,7 +40,7 @@ class RttAreasPage extends React.Component<Props, any> {
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container text>
-                        <div className="main-content-sections">
+                        <div className="main-content-sections-bottom">
                             <section>
                                 <p>{t('rtt-areas:Einleitung')}</p>
                                 <ul>
@@ -82,7 +82,7 @@ class RttAreasPage extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline">{t('rtt-areas:Anwendungsbereiche von RTT™')}</h1>
+            <h1 className="header-overlay-headline hyphenate">{t('rtt-areas:Anwendungsbereiche von RTT™')}</h1>
             <h2 className="header-overlay-subheadline">
                 {t('rtt-areas:Finde heraus, wie die RTT™ Methode dir helfen kann')}
             </h2>

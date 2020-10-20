@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
 import React from 'react';
-import { Button, Container, Grid, GridRow, Header, Icon, List, Responsive } from 'semantic-ui-react';
+import { Container, Grid, GridRow, Header, Icon, List } from 'semantic-ui-react';
 import Logo from '../logo/logo';
 import { getPathWithLocale } from '../navigateWithLocale';
 import './page-footer.less';
@@ -14,28 +14,24 @@ const PageFooter = ({ t }) => {
                         <Grid.Column width={8}>
                             <GridRow columns="2">
                                 <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
-                                    <Header className="footer-nav-header" as="h3" content={t('footer-directory')} />
+                                  BILD
+                                </Grid.Column>
+                                <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
+                                <Header className="footer-nav-header" as="h3" content={t('footer-directory')} />
                                     <List link>
+                                    <List.Item>
+                                            <Link to={getPathWithLocale('/rtt')}>{t('navbar-rtt')}</Link>
+                                        </List.Item>
                                         <List.Item>
-                                            <Link to={getPathWithLocale('/')}>{t('aboutme')}</Link>
+                                            <Link to={getPathWithLocale('/rtt-areas')}>{t('navbar-rtt-areas')}</Link>
                                         </List.Item>
                                         <List.Item>
                                             <Link to={getPathWithLocale('/blog')}>{t('blog')}</Link>
                                         </List.Item>
-                                        <List.Item>
+                                      
+                                       {/*  <List.Item>
                                             <Link to={getPathWithLocale('/shop')}>{t('shop')}</Link>
-                                        </List.Item>
-                                        <List.Item>
-                                            <Link to={getPathWithLocale('/contact')}>{t('contact')}</Link>
-                                        </List.Item>
-                                    </List>
-                                </Grid.Column>
-                                <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
-                                    <Header className="footer-nav-header" as="h3" content={t('footer-pages')} />
-                                    <List link>
-                                        <List.Item>
-                                            <Link to={getPathWithLocale('/book-call')}>{t('book-call')}</Link>
-                                        </List.Item>
+                                        </List.Item> */}
                                         <List.Item>
                                             <Link to={getPathWithLocale('/faq')}>{t('faq')}</Link>
                                         </List.Item>
@@ -46,7 +42,21 @@ const PageFooter = ({ t }) => {
                         <Grid.Column width={8}>
                             <GridRow columns="2">
                                 <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
-                                    <Header className="footer-nav-header" as="h3" content={t('footer-general')} />
+                                <Header className="footer-nav-header" as="h3" content={t('footer-pages')} />
+                                    <List link>
+                                    <List.Item>
+                                            <Link to={getPathWithLocale('/innerlight-hypnotherapy')}>{t('aboutme')}</Link>
+                                        </List.Item>
+                                        <List.Item>
+                                            <Link to={getPathWithLocale('/contact')}>{t('contact')}</Link>
+                                        </List.Item>
+                                        <List.Item>
+                                            <Link to={getPathWithLocale('/book-call')}>{t('book-call')}</Link>
+                                        </List.Item>
+                                    </List>
+                                </Grid.Column>
+                                <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
+                                <Header className="footer-nav-header" as="h3" content={t('footer-general')} />
                                     <List link>
                                         <List.Item>
                                             <Link to={getPathWithLocale('/impressum')}>{t('impressum')}</Link>
@@ -55,9 +65,7 @@ const PageFooter = ({ t }) => {
                                             <Link to={getPathWithLocale('/dataprotection')}>{t('dataprotection')}</Link>
                                         </List.Item>
                                     </List>
-                                </Grid.Column>
-                                <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
-                                    <Header className="footer-nav-header" as="h3" content={t('footer-services')} />
+                                   {/*  <Header className="footer-nav-header" as="h3" content={t('footer-services')} />
                                     <Link to={getPathWithLocale('/book-call')}>
                                         <Responsive minWidth={768}>
                                             <Button
@@ -79,7 +87,7 @@ const PageFooter = ({ t }) => {
                                                 {t('book-first-call')}
                                             </Button>
                                         </Responsive>
-                                    </Link>
+                                    </Link> */}
                                 </Grid.Column>
                             </GridRow>
                         </Grid.Column>

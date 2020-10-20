@@ -252,6 +252,22 @@ class RttPage extends React.Component<Props, any> {
                                             <p>{t('rtt:Marisa Peer - subtext2')}</p>
                                         </Container>
                                     </GridRow>
+                                    <GridRow style={{ marginTop: '-3rem' }}>
+                                    <Container textAlign="center" className="rtt-main-button-container" style={{ marginTop: '0 !important' }}>
+                    <Link to={getPathWithLocale('/rtt-areas')}>
+                        <Button
+                            secondary={true}
+                            basic
+                            inverted={false}
+                            size="medium"
+                            className="rounded shadow hover-animate"
+                        >
+                            <Icon name="tasks" className="left" style={{ opacity: '1' }}></Icon>
+                            {t('rtt-areas-button')}
+                        </Button>
+                    </Link>
+                </Container>
+                                    </GridRow>
                                     <GridRow>
                                         <Container textAlign="left">
                                             <p>{t('rtt:Marisa Peer - subtext3')}</p>

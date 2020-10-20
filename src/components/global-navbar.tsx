@@ -70,12 +70,12 @@ class GlobalNavbar extends React.Component<Props, any> {
                                     {t('navbar-rtt-areas')}
                                 </Dropdown.Item>
                             </Link>
-                            <Link to={getPathWithLocale('/faq')}>
+                           {/*  <Link to={getPathWithLocale('/faq')}>
                                 <Dropdown.Item>
                                     <Icon name="question circle outline" className="left"></Icon>
                                     {t('faq')}
                                 </Dropdown.Item>
-                            </Link>
+                            </Link> */}
                         </Dropdown.Menu>
                     </Dropdown>
                 )}
@@ -112,13 +112,13 @@ class GlobalNavbar extends React.Component<Props, any> {
                     </React.Fragment>
                 )}
 
-                <Menu.Item
+               {/*  <Menu.Item
                     name="/shop"
                     content={t('shop')}
                     link
                     active={location.pathname === '/shop'}
                     onClick={handleItemClick}
-                ></Menu.Item>
+                ></Menu.Item> */}
                 <Menu.Item
                     name="/blog"
                     content={t('blog')}
@@ -131,6 +131,13 @@ class GlobalNavbar extends React.Component<Props, any> {
                     content={t('contact')}
                     link
                     active={location.pathname === '/contact'}
+                    onClick={handleItemClick}
+                ></Menu.Item>
+                <Menu.Item
+                    name="/faq"
+                    content={t('faq')}
+                    link
+                    active={location.pathname === '/faq'}
                     onClick={handleItemClick}
                 ></Menu.Item>
                 {!mobile && (

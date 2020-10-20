@@ -48,7 +48,7 @@ class Contact extends React.Component<Props, any> {
                                     abhalten das Leben zu führen, von dem du träumst - ich gratuliere dir! Unabhängig
                                     davon, ob Du bereits mit Hypnose vertraut bist oder nicht, hast du möglicherweise
                                     noch einige Fragen, Bedenken oder möchtest einfach nur ein Gefühl dafür bekommen,
-                                    wie RTT oder ich dir zu deinem ersehnten Durchbruch verhelfen können. Schreibe mir
+                                    wie RTT™ oder ich dir zu deinem ersehnten Durchbruch verhelfen können. Schreibe mir
                                     gern eine Nachricht oder{' '}
                                     <Link to={getPathWithLocale('/book-call')}>vereinbare hier</Link> direkt ein
                                     kostenloses, unverbindliches Beratungsgespräch!

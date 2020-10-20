@@ -36,7 +36,7 @@ class RttAreasPage extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title={t('rtt-areas:Anwendungsbereiche von RTT™')} />
+                <SEO title={t('rtt-areas:Anwendungsbereiche')} />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container text>
@@ -82,7 +82,7 @@ class RttAreasPage extends React.Component<Props, any> {
 const HeaderContent = (t) => {
     return (
         <div>
-            <h1 className="header-overlay-headline hyphenate">{t('rtt-areas:Anwendungsbereiche von RTT™')}</h1>
+            <h1 className="header-overlay-headline hyphenate">{t('rtt-areas:Anwendungsbereiche')}</h1>
             <h2 className="header-overlay-subheadline">
                 {t('rtt-areas:Finde heraus, wie die RTT™ Methode dir helfen kann')}
             </h2>

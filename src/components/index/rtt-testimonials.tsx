@@ -52,7 +52,7 @@ const SectionRTTTestimonials = ({ t }) => {
         <Container as="section">
             <SectionHeader
                 headline={t('rtt-testimonials-headline')}
-                subheadline="Testimonials"
+                subheadline={t('rtt-testimonials-subheadline')}
                 primary={true}
                 textAlign="center"
             ></SectionHeader>

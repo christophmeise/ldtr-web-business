@@ -115,6 +115,11 @@ class FAQPage extends React.Component<Props, any> {
                 titleKey: 'faq:q-16',
                 contentKey: 'faq:a-16',
             },
+            {
+                index: 16,
+                titleKey: 'faq:q-17',
+                contentKey: 'faq:a-17',
+            },
         ];
 
         return (
@@ -123,7 +128,7 @@ class FAQPage extends React.Component<Props, any> {
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <div className="main-content-sections">
-                        <Container text textAlign="center">
+                        <Container>
                             <p>{t('faq:Einleitung')}</p>
                         </Container>
                         <section>
@@ -144,7 +149,7 @@ class FAQPage extends React.Component<Props, any> {
                                         {t('faq:Banner-Text')}
                                     </Header>
                                     <Segment.Inline>
-                                        <Link to={getPathWithLocale('/rtt')}>
+                                        <Link to={getPathWithLocale('/contact')}>
                                             <Button
                                                 primary={true}
                                                 inverted={false}

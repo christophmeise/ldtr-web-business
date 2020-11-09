@@ -42,7 +42,7 @@ class Contact extends React.Component<Props, any> {
                     <PlainHeader content={HeaderContent(t)} />
                     <div className="main-content-sections">
                         <Container>
-                            <Container text textAlign="center">
+                            <Container textAlign="center">
                                 <p>
                                     Das ist dein Schritt in Richtung Freiheit von all den Themen, die dich davon
                                     abhalten das Leben zu führen, von dem du träumst - ich gratuliere dir! Unabhängig

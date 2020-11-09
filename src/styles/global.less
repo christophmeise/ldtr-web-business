@@ -219,6 +219,18 @@ body > div > div {
     }
 }
 
+@media @mobile {
+    .global-header-padding-small {
+        padding-top: 40px;
+    }
+}
+
+@media @desktop {
+    .global-header-padding-small {
+        padding-top: 3.5rem;
+    }
+}
+
 @media only screen and (min-width: 1200px) {
     .ui.container {
         width: 1200px !important;
@@ -451,4 +463,8 @@ hr {
 .ui.secondary.inverted.menu .link.item,
 .ui.secondary.inverted.menu a.item {
     color: rgba(255, 255, 255, 1) !important;
+}
+
+.medium-weight-font {
+    font-weight: 500;
 }

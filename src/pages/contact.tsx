@@ -63,7 +63,7 @@ class Contact extends React.Component<Props, any> {
                                     <Grid.Row>
                                         <div>
                                             <a
-                                                href="https://www.facebook.com"
+                                                href="https://www.facebook.com/innerlighthypnotherapy"
                                                 target="_blank"
                                                 rel="noopener"
                                                 aria-label="Facebook"
@@ -81,7 +81,7 @@ class Contact extends React.Component<Props, any> {
                                                 <Icon className="hover-animate" size="big" name="linkedin"></Icon>
                                             </a>
                                             <a
-                                                href="http://instagram.com/love.dream.travel.repeat"
+                                                href="https://instagram.com/iamenoughbymarisapeer?igshid=owrg3d6x2h7v"
                                                 target="_blank"
                                                 rel="noopener"
                                                 aria-label="Instagram"

@@ -26,12 +26,14 @@ class Layout extends React.Component<Props, any> {
             location: {
                 pathname: null,
             },
+            theposition: 0,
         };
 
         const isSSR = typeof window === 'undefined';
         if (!isSSR) {
             this.state = { location: window.location };
         }
+        this.listenToScroll = this.listenToScroll.bind(this);
     }
 
     notify = () => {
@@ -51,7 +53,23 @@ class Layout extends React.Component<Props, any> {
     }
 
     componentDidMount() {
+        console.log('test');
         this.notify();
+        if (typeof window !== 'undefined') {
+            document.body.addEventListener('scroll', this.listenToScroll);
+        }
+    }
+    componentWillUnmount() {
+        if (typeof window !== 'undefined') {
+            document.body.removeEventListener('scroll', this.listenToScroll);
+        }
+    }
+
+    listenToScroll(event) {
+        const scrolled = document.body.scrollTop != null ? document.body.scrollTop : 0;
+        this.setState({
+            theposition: scrolled,
+        });
     }
 
     handleItemClick = (e, { name }) => navigateWithLocale(name);
@@ -113,11 +131,14 @@ class Layout extends React.Component<Props, any> {
                         {(typeof window === 'undefined' ||
                             (typeof window !== 'undefined' && window.innerWidth >= 768)) && (
                             <section
-                                className="global-navbar responsive-desktop-container"
+                                className={
+                                    'responsive-desktop-container' +
+                                    (this.state.theposition > 700 ? ' global-navbar-scrolled' : ' global-navbar')
+                                }
                                 style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
                             >
                                 <Menu
-                                    inverted={invertedHeader}
+                                    inverted={!(this.state.theposition > 700) && invertedHeader}
                                     pointing={false}
                                     secondary={true}
                                     size="large"
@@ -127,7 +148,7 @@ class Layout extends React.Component<Props, any> {
                                         <GlobalNavbar
                                             location={location}
                                             handleItemClick={this.handleItemClick}
-                                            inverted={invertedHeader}
+                                            inverted={!(this.state.theposition > 700) && invertedHeader}
                                             mobile={false}
                                             t={t}
                                         />

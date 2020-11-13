@@ -1,3 +1,5 @@
+import { faHandHoldingHeart, faListUl } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'gatsby';
 import React from 'react';
 import { Button, Dropdown, Header, Icon, Menu } from 'semantic-ui-react';
@@ -20,7 +22,6 @@ class GlobalNavbar extends React.Component<Props, any> {
 
     render() {
         const { location, handleItemClick, inverted, mobile, t } = this.props;
-
         const options = [
             {
                 key: 1,
@@ -54,28 +55,22 @@ class GlobalNavbar extends React.Component<Props, any> {
                         <Dropdown.Menu className="global-navbar-dropdown">
                             <Link to={getPathWithLocale('/innerlight-hypnotherapy')}>
                                 <Dropdown.Item>
-                                    <Icon name="heart outline" className="left"></Icon>
+                                    <FontAwesomeIcon icon={faHandHoldingHeart} style={{ opacity: '1' }} />
                                     {t('navbar-innerlight-hypnotherapy')}
                                 </Dropdown.Item>
                             </Link>
                             <Link to={getPathWithLocale('/rtt')}>
                                 <Dropdown.Item>
-                                    <Icon name="compass outline" className="left"></Icon>
+                                    <Icon name="gem outline" className="left"></Icon>
                                     {t('navbar-rtt')}
                                 </Dropdown.Item>
                             </Link>
                             <Link to={getPathWithLocale('/rtt-areas')}>
                                 <Dropdown.Item>
-                                    <Icon name="th list" className="left"></Icon>
+                                    <FontAwesomeIcon icon={faListUl} style={{ opacity: '1' }} />
                                     {t('navbar-rtt-areas')}
                                 </Dropdown.Item>
                             </Link>
-                           {/*  <Link to={getPathWithLocale('/faq')}>
-                                <Dropdown.Item>
-                                    <Icon name="question circle outline" className="left"></Icon>
-                                    {t('faq')}
-                                </Dropdown.Item>
-                            </Link> */}
                         </Dropdown.Menu>
                     </Dropdown>
                 )}
@@ -112,7 +107,7 @@ class GlobalNavbar extends React.Component<Props, any> {
                     </React.Fragment>
                 )}
 
-               {/*  <Menu.Item
+                {/*  <Menu.Item
                     name="/shop"
                     content={t('shop')}
                     link

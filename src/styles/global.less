@@ -120,7 +120,7 @@ body > div > div {
 }
 
 .global-navbar {
-    background: transparent !important;
+    /*  background: transparent !important; */
     position: absolute !important;
     top: 0;
     width: 100%;
@@ -128,7 +128,22 @@ body > div > div {
     padding: 0em 0em;
     margin-bottom: 1em;
     border: none;
+    background: rgba(255, 255, 255, 0.72) !important;
     text-align: 'center';
+    box-shadow: 0px 3px 7px 2px rgba(0, 0, 0, 0.07);
+}
+.global-navbar-scrolled {
+    /*  background: transparent !important; */
+    position: absolute !important;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    padding: 0em 0em;
+    margin-bottom: 1em;
+    border: none;
+    background: rgba(255, 255, 255, 0.72) !important;
+    text-align: 'center';
+    box-shadow: 0px 3px 7px 2px rgba(0, 0, 0, 0.07);
 }
 
 .global-navbar-mobile {
@@ -156,6 +171,20 @@ body > div > div {
 
 @supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
     .global-navbar-mobile {
+        background-color: rgba(255, 255, 255, 0.72) !important;
+        -webkit-backdrop-filter: saturate(180%) blur(20px);
+        backdrop-filter: saturate(180%) blur(20px) !important;
+    }
+}
+@supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
+    .global-navbar {
+        background-color: rgba(255, 255, 255, 0.25) !important;
+        -webkit-backdrop-filter: saturate(180%) blur(20px);
+        backdrop-filter: saturate(180%) blur(20px) !important;
+    }
+}
+@supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
+    .global-navbar-scrolled {
         background-color: rgba(255, 255, 255, 0.72) !important;
         -webkit-backdrop-filter: saturate(180%) blur(20px);
         backdrop-filter: saturate(180%) blur(20px) !important;
@@ -467,4 +496,8 @@ hr {
 
 .medium-weight-font {
     font-weight: 500;
+}
+
+.svg-inline--fa {
+    margin: 0em 0.42857143em 0em 0em;
 }

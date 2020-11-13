@@ -52,12 +52,12 @@ class Index extends React.Component<Props> {
         const backgroundColor = '#e5e2d6';
 
         return (
-            <Layout title={siteTitle} t={t} invertedHeader={true}>
+            <Layout title={siteTitle} t={t} invertedHeader={false}>
                 <SEO title={t('Start')} />
                 <HeaderOverlay
                     sources={sources}
                     color={backgroundColor}
-                    inverted={true}
+                    inverted={false}
                     content={<OverlayContent inverted={true} t={t} />}
                     darken={true}
                 />

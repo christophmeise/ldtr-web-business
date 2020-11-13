@@ -63,6 +63,7 @@ module.exports = {
         'gatsby-plugin-sharp',
         'gatsby-transformer-sharp',
         'gatsby-plugin-less',
+        `gatsby-plugin-fontawesome-css`,
         /*         {
             resolve: `gatsby-source-stripe`,
             options: {

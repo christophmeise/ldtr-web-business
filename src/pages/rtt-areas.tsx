@@ -37,7 +37,7 @@ class RttAreasPage extends React.Component<Props, any> {
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-                const sources = [
+        const sources = [
             data.mobileImage.childImageSharp.fluid,
             {
                 ...data.desktopImage.childImageSharp.fluid,
@@ -46,11 +46,10 @@ class RttAreasPage extends React.Component<Props, any> {
         ];
         const backgroundColor = '#0a0807';
 
-
         return (
             <Layout title={siteTitle} t={t} invertedHeader={true}>
                 <SEO title={t('rtt-areas:Anwendungsbereiche')} />
-                   <HeaderOverlay
+                <HeaderOverlay
                     sources={sources}
                     color={backgroundColor}
                     inverted={true}
@@ -58,63 +57,66 @@ class RttAreasPage extends React.Component<Props, any> {
                     darken={true}
                 />
                 <Container className="global-header-padding-small">
-{/*                     <PlainHeader content={HeaderContent(t)} /> */}
-                                 
-                <div>
-                    <Container>
-                        <div>
-                            <section>
-                                <h3 className="medium-weight-font" style={{ marginBottom: '2.5rem' }}>{t('rtt-areas:Einleitung')}</h3>
-                                <Container text>
-                                <ul>
-                                    <li>{t('rtt-areas:Angstverhalten')}</li>
-                                    <li>{t('rtt-areas:Arbeit mit Kindern')}</li>
-                                    <li>{t('rtt-areas:Beziehungsprobleme')}</li>
-                                    <li>{t('rtt-areas:Entspannungsschwierigkeiten')}</li>
-                                    <li>{t('rtt-areas:Erreichung des Idealgewichts')}</li>
-                                    <li>{t('rtt-areas:Karriereprobleme')}</li>
-                                    <li>{t('rtt-areas:Motivationsprobleme')}</li>
-                                    <li>{t('rtt-areas:Selbstvertrauen')}</li>
-                                    <li>{t('rtt-areas:Prüfungsangst')}</li>
-                                    <li>{t('rtt-areas:Rauch- und Alkoholentwöhnung')}</li>
-                                    <li>{t('rtt-areas:Schlafschwierigkeiten')}</li>
-                                    <li>{t('rtt-areas:Schwangerschafts- und Fruchtbarkeitsproblemen')}</li>
-                                    <li>{t('rtt-areas:Schuldgefühle')}</li>
-                                    <li>{t('rtt-areas:Sexuelle Probleme')}</li>
-                                    <li>{t('rtt-areas:Stress')}</li>
-                                    <li>{t('rtt-areas:Sportliche Leistungsschwierigkeiten')}</li>
-                                    <li>{t('rtt-areas:Vorträge')}</li>
-                                </ul>
-                                </Container>
+                    {/*                     <PlainHeader content={HeaderContent(t)} /> */}
 
-                                <Container style={{ paddingTop: '3rem', paddingBottom: '3rem' }}>
-                                     <p style={{ fontSize: '1.14285714rem'}}>{t('rtt-areas:Haupttext')}</p>                                </Container>
-                                <Container textAlign="center" style={{ paddingBottom: '3rem' }}>
-                                    <Link to={getPathWithLocale('/rtt')}>
-                                        <Button
-                                            secondary={true}
-                                            basic
-                                            inverted={false}
-                                            size="medium"
-                                            className="rounded shadow hover-animate"
-                                        >
-                                            <Icon name="tasks" className="left" style={{ opacity: '1' }}></Icon>
-                                            {t('rtt-button')}
-                                        </Button>
-                                    </Link>
-                                </Container>
-                                                                <Container style={{ paddingBottom: '3rem' }}>
-                                     <CallToActionBanner
-                                headline={t('rtt-areas:call-to-action-title')}
-                                subheadline={t('rtt-areas:call-to-action-subtitle')}
-                                text={t('rtt-areas:call-to-action-text')}
-                                buttonText={t('rtt-areas:call-to-action-button')}
-                                buttonSubtext={''}
-                            ></CallToActionBanner>
-                                </Container>
-                            </section>
-                        </div>
-                    </Container>
+                    <div>
+                        <Container>
+                            <div>
+                                <section>
+                                    <h3 className="medium-weight-font" style={{ marginBottom: '2.5rem' }}>
+                                        {t('rtt-areas:Einleitung')}
+                                    </h3>
+                                    <Container text>
+                                        <ul>
+                                            <li>{t('rtt-areas:Angstverhalten')}</li>
+                                            <li>{t('rtt-areas:Arbeit mit Kindern')}</li>
+                                            <li>{t('rtt-areas:Beziehungsprobleme')}</li>
+                                            <li>{t('rtt-areas:Entspannungsschwierigkeiten')}</li>
+                                            <li>{t('rtt-areas:Erreichung des Idealgewichts')}</li>
+                                            <li>{t('rtt-areas:Karriereprobleme')}</li>
+                                            <li>{t('rtt-areas:Motivationsprobleme')}</li>
+                                            <li>{t('rtt-areas:Selbstvertrauen')}</li>
+                                            <li>{t('rtt-areas:Prüfungsangst')}</li>
+                                            <li>{t('rtt-areas:Rauch- und Alkoholentwöhnung')}</li>
+                                            <li>{t('rtt-areas:Schlafschwierigkeiten')}</li>
+                                            <li>{t('rtt-areas:Schwangerschafts- und Fruchtbarkeitsproblemen')}</li>
+                                            <li>{t('rtt-areas:Schuldgefühle')}</li>
+                                            <li>{t('rtt-areas:Sexuelle Probleme')}</li>
+                                            <li>{t('rtt-areas:Stress')}</li>
+                                            <li>{t('rtt-areas:Sportliche Leistungsschwierigkeiten')}</li>
+                                            <li>{t('rtt-areas:Vorträge')}</li>
+                                        </ul>
+                                    </Container>
+
+                                    <Container style={{ paddingTop: '3rem', paddingBottom: '3rem' }}>
+                                        <p style={{ fontSize: '1.14285714rem' }}>{t('rtt-areas:Haupttext')}</p>{' '}
+                                    </Container>
+                                    <Container textAlign="center" style={{ paddingBottom: '3rem' }}>
+                                        <Link to={getPathWithLocale('/rtt')}>
+                                            <Button
+                                                secondary={true}
+                                                basic
+                                                inverted={false}
+                                                size="medium"
+                                                className="rounded shadow hover-animate"
+                                            >
+                                                <Icon name="gem" className="left" style={{ opacity: '1' }}></Icon>
+                                                {t('rtt-button')}
+                                            </Button>
+                                        </Link>
+                                    </Container>
+                                    <Container style={{ paddingBottom: '3rem' }}>
+                                        <CallToActionBanner
+                                            headline={t('rtt-areas:call-to-action-title')}
+                                            subheadline={t('rtt-areas:call-to-action-subtitle')}
+                                            text={t('rtt-areas:call-to-action-text')}
+                                            buttonText={t('rtt-areas:call-to-action-button')}
+                                            buttonSubtext={''}
+                                        ></CallToActionBanner>
+                                    </Container>
+                                </section>
+                            </div>
+                        </Container>
                     </div>
                 </Container>
             </Layout>
@@ -161,7 +163,6 @@ const HeaderContent = (t) => {
         </div>
     );
 };
-
 
 export const pageQuery = graphql`
     query {

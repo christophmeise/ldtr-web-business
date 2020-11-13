@@ -1,3 +1,5 @@
+import { faDove, faListUl } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { graphql, Link } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import Img from 'gatsby-image';
@@ -86,11 +88,7 @@ class RttPage extends React.Component<Props, any> {
                                                         size="medium"
                                                         className="rounded shadow hover-animate"
                                                     >
-                                                        <Icon
-                                                            name="star"
-                                                            className="left"
-                                                            style={{ opacity: '1' }}
-                                                        ></Icon>
+                                                        <FontAwesomeIcon icon={faDove} style={{ opacity: '1' }} />
                                                         {t('rtt:Mehr zu Marisa Peer')}
                                                     </Button>
                                                 </a>
@@ -138,12 +136,8 @@ class RttPage extends React.Component<Props, any> {
                                                         size="medium"
                                                         className="rounded shadow hover-animate"
                                                     >
-                                                        <Icon
-                                                            name="question circle"
-                                                            className="left"
-                                                            style={{ opacity: '1' }}
-                                                        ></Icon>
                                                         {t('faq:faq-learn-more')}
+                                                        <Icon name="arrow right" style={{ opacity: '1' }}></Icon>
                                                     </Button>
                                                 </Link>
                                             </Container>
@@ -253,20 +247,24 @@ class RttPage extends React.Component<Props, any> {
                                         </Container>
                                     </GridRow>
                                     <GridRow style={{ marginTop: '-3rem' }}>
-                                    <Container textAlign="center" className="rtt-main-button-container" style={{ marginTop: '0 !important' }}>
-                    <Link to={getPathWithLocale('/rtt-areas')}>
-                        <Button
-                            secondary={true}
-                            basic
-                            inverted={false}
-                            size="medium"
-                            className="rounded shadow hover-animate"
-                        >
-                            <Icon name="tasks" className="left" style={{ opacity: '1' }}></Icon>
-                            {t('rtt-areas-button')}
-                        </Button>
-                    </Link>
-                </Container>
+                                        <Container
+                                            textAlign="center"
+                                            className="rtt-main-button-container"
+                                            style={{ marginTop: '0 !important' }}
+                                        >
+                                            <Link to={getPathWithLocale('/rtt-areas')}>
+                                                <Button
+                                                    secondary={true}
+                                                    basic
+                                                    inverted={false}
+                                                    size="medium"
+                                                    className="rounded shadow hover-animate"
+                                                >
+                                                    <FontAwesomeIcon icon={faListUl} style={{ opacity: '1' }} />
+                                                    {t('rtt-areas-button')}
+                                                </Button>
+                                            </Link>
+                                        </Container>
                                     </GridRow>
                                     <GridRow>
                                         <Container textAlign="left">

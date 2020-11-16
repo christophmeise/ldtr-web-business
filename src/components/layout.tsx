@@ -132,8 +132,10 @@ class Layout extends React.Component<Props, any> {
                             (typeof window !== 'undefined' && window.innerWidth >= 768)) && (
                             <section
                                 className={
-                                    'responsive-desktop-container' +
-                                    (this.state.theposition > 700 ? ' global-navbar-scrolled' : ' global-navbar')
+                                    'responsive-desktop-container  global-navbar' +
+                                    (!(this.state.theposition > 700) && invertedHeader
+                                        ? ' global-navbar-transparent'
+                                        : ' global-navbar-scrolled')
                                 }
                                 style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
                             >

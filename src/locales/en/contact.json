@@ -1,6 +1,6 @@
 {
     "Kontaktiere Inner Light": "Contact Inner Light",
-    "Hinterlasse deine Nachricht, oder buch jetzt dein kostenloses Erstgespräch!": "Hinterlasse jetzt deine Nachricht, ich freue mich von Dir zu hören!",
+    "Hinterlasse deine Nachricht, oder buch jetzt dein kostenloses Erstgespräch!": "Leave your message now, I am happy to hear from you!",
     "first-name": "First name",
     "last-name": "Last name",
     "email": "Email",
@@ -11,5 +11,8 @@
     "Folge mir auf": "Follow me on",
     "modal-title": "Good job!",
     "modal-text": "Your message has arrived!",
-    "modal-button": "Confirm"
+    "modal-button": "Confirm",
+    "introduction-1": "Das ist dein Schritt in Richtung Freiheit von all den Themen, die dich davon abhalten das Leben zu führen, von dem du träumst - ich gratuliere dir! Unabhängig davon, ob Du bereits mit Hypnose vertraut bist oder nicht, hast du möglicherweise noch einige Fragen, Bedenken oder möchtest einfach nur ein Gefühl dafür bekommen, wie RTT™ oder ich dir zu deinem ersehnten Durchbruch verhelfen können. Schreibe mir gern eine Nachricht oder ",
+    "introduction-button": "vereinbare hier",
+    "introduction-2": " direkt ein kostenloses, unverbindliches Beratungsgespräch!"
 }

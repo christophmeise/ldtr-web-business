@@ -1,6 +1,9 @@
 import { graphql, Link } from 'gatsby';
-import i18n from 'i18next';
+import de from 'hyphenated-de';
+import en from 'hyphenated-en-us';
+import { default as i18n, default as i18next } from 'i18next';
 import React from 'react';
+import Hyphenated from 'react-hyphen';
 import { Button, Container, Icon } from 'semantic-ui-react';
 import CallToActionBanner from '../components/call-to-action-banner/call-to-action-banner';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
@@ -143,7 +146,9 @@ class OverlayContent extends React.Component<any, any> {
                     className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}
                     style={{ marginBottom: '0rem' }}
                 >
-                    {t('rtt-areas:Anwendungsbereiche')}
+                    <Hyphenated language={i18next.language === 'de' ? de : en}>
+                        {t('rtt-areas:Anwendungsbereiche')}
+                    </Hyphenated>
                 </h1>
                 <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
                     {t('rtt-areas:Finde heraus, wie die RTT™ Methode dir helfen kann')}

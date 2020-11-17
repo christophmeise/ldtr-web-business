@@ -46,6 +46,7 @@ const PageFooter = ({ t }) => {
                                         style={{
                                             height: '100%',
                                             width: '48%',
+                                            minWidth: '140px',
                                         }}
                                         fluid={data.certificate.childImageSharp.fluid}
                                     ></BackgroundImage>

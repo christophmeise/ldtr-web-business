@@ -45,9 +45,9 @@ class Impressum extends React.Component<Props, any> {
                                     <b>Inner Light Hypnotherapy</b>
                                 </p>
                                 <p>Christin Meise</p>
-                                <p>X Straße</p>
-                                <p>12XXX Berlin</p>
-                                <p>T: +49 12345</p>
+                                <p>Kiefholzstraße 14</p>
+                                <p>12435 Berlin</p>
+                                <p>T: 01523 8971546</p>
                                 <p>E: info@innerlight-hypnotherapy.com</p>
                             </section>
                         </div>

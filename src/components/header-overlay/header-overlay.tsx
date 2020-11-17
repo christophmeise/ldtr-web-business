@@ -26,7 +26,7 @@ const HeaderOverlay = ({ sources, color, inverted, content, darken = false }) =>
                 >
                     <Container className="header-overlay-container">
                         <Grid className="header-overlay-container-desktop responsive-desktop-container">
-                            <GridColumn width={7}>
+                            <GridColumn width={8}>
                                 <div
                                     data-sal="slide-down"
                                     data-sal-delay="0"

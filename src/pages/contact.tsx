@@ -34,7 +34,6 @@ class Contact extends React.Component<Props, any> {
         const data = this.props.data;
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
-
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title={t('contact')} />
@@ -44,14 +43,9 @@ class Contact extends React.Component<Props, any> {
                         <Container>
                             <Container textAlign="center">
                                 <p>
-                                    Das ist dein Schritt in Richtung Freiheit von all den Themen, die dich davon
-                                    abhalten das Leben zu führen, von dem du träumst - ich gratuliere dir! Unabhängig
-                                    davon, ob Du bereits mit Hypnose vertraut bist oder nicht, hast du möglicherweise
-                                    noch einige Fragen, Bedenken oder möchtest einfach nur ein Gefühl dafür bekommen,
-                                    wie RTT™ oder ich dir zu deinem ersehnten Durchbruch verhelfen können. Schreibe mir
-                                    gern eine Nachricht oder{' '}
-                                    <Link to={getPathWithLocale('/book-call')}>vereinbare hier</Link> direkt ein
-                                    kostenloses, unverbindliches Beratungsgespräch!
+                                    {t('contact:introduction-1')}
+                                    <Link to={getPathWithLocale('/book-call')}>{t('contact:introduction-button')}</Link>
+                                    {t('contact:introduction-2')}
                                 </p>
                             </Container>
                             <section>

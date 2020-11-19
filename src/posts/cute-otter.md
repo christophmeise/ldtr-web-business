@@ -9,6 +9,7 @@ tags:
 - Personal Development
 - Corona
 - Selbsthilfe
+- Selbstliebe Tipps
 blocks:
 - template: introduction
   images:

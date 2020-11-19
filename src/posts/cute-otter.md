@@ -29,7 +29,7 @@ blocks:
   title: test
 
 ---
-### Social Distancing statt romantische Liebesgeschichten
+### Social Distancing statt romantische Liebesgeschichten[Download File]( "Download File")
 
 Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
 
@@ -45,11 +45,11 @@ Kannst du von dir selbst sagen, dass du dich ohne Bedingungen liebst? Also genau
 
 ### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
 
-Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst. 
+Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst.
 
 **Weil genau dafür ist Selbstliebe deine Grundlage** - deinem Herzen zu folgen, an dich und deine Wünsche zu glauben und der Welt die Erlaubnis zu geben, dich in deinem strahlensten Licht zu sehen. Dann wirst du Liebe und Erfolg nicht mehr hinterherlaufen und immer die Angst haben alles verlieren zu können - du wirst tief in deinem Herzen wissen, dass du all das verdienst, was du dir wünschst. Dass du es wert bist.
 
-Dieser Artikel ist für dich. Um dich dabei zu unterstützen, die Beziehung zu dir selbst zu stärken, damit Du mehr Liebe, Freude und Frieden in deinem Leben erfahren kannst. Ich hoffe aus tiefsten Herzen, dass dich die folgenden Worte bestärken deinen Selbstwert zu erkennen, Liebe zu dir selbst aufbauen und du es dir erlaubst deinem Herzen zu folgen. **Alles beginnt mit Dir**. Du bist genug und du bist würdig um all das Glück zu haben, von dem Du träumst und das dich ab jetzt erwartet. 
+Dieser Artikel ist für dich. Um dich dabei zu unterstützen, die Beziehung zu dir selbst zu stärken, damit Du mehr Liebe, Freude und Frieden in deinem Leben erfahren kannst. Ich hoffe aus tiefsten Herzen, dass dich die folgenden Worte bestärken deinen Selbstwert zu erkennen, Liebe zu dir selbst aufbauen und du es dir erlaubst deinem Herzen zu folgen. **Alles beginnt mit Dir**. Du bist genug und du bist würdig um all das Glück zu haben, von dem Du träumst und das dich ab jetzt erwartet.
 
 ### 1 Entdecke dein wahres Selbst
 
@@ -71,7 +71,7 @@ Nimm dir einen Zettel, dein Tagebuch oder ein Notizbuch und notiere deine Antwor
 
 Viel zu oft erlauben wir es unserem Inneren Kritiker uns für jede Kleinigkeit, die nicht so läuft wie geplant, schlecht zu machen. Eigentlich können wir es ihm gar nicht recht machen, oder? Jetzt überleg mal wie du mit deiner besten Freundin bzw. besten Freund umgehst - gerade dann, wenn sie nicht perfekt sind. Wir bringen Liebe und Verständnis auf, und genau so solltest du ab sofort auch mit dir umgehen! **Die wichtigsten Worte, die du jemals hören wirst, sind die Worte, die du zu dir selbst sagst.** Also sprich ab sofort mit Dir als wärst du dein größter Fan! Wenn du ein Kompliment von jemanden bekommst, kann dein Verstand sich immer noch dazwischen schalten: ‘Ja, das ist ja ganz nett, aber das Kompliment kommt ja eh nur, weil sie gern in deinem Freundeskreis sein will. Oder weil sie das gleiche von mir hören möchte.’ Wenn du dir aber selbst ein Kompliment machst, hat dein Verstand keine andere Wahl als dir zu glauben. **Überschütte dich also mit Komplimenten!** Stell dich vor den Spiegel, schau dir in die Augen und sag dir all die wundervollen Worte, die du dir von deinem Partner, von deinen Eltern oder von deiner Freundin wünschst. Je verrückter du dich dabei fühlst, desto effektiver ist es und verändert auf Dauer deine komplette Beziehung zu dir selbst.
 
-Wenn es deinem inneren Cheerleader am Anfang schwer fällt liebevolle, aufmunternde und positive Worte zu finden, sind Affirmationen eine großartige Unterstützung. Hier findest du ein paar wundervolle Selbstliebe-Affirmationen und erfährst, was die Magie hinter Affirmationen ist!
+Wenn es deinem inneren Cheerleader am Anfang schwer fällt liebevolle, aufmunternde und positive Worte zu finden, sind Affirmationen eine großartige Unterstützung. Nächste Woche veröffentliche ich einen **neuen Blog-Artikel** in dem du wundervolle Selbstliebe-Affirmationen von mir bekommst und erfährst, was die Magie hinter Affirmationen ist!
 
 ***
 
@@ -89,6 +89,8 @@ Die fünfte Sprache der Liebe ist _Zärtlichkeit_ - und ist ein wundervoller Aus
 
 Du kennst deine Sprache der Liebe nicht? [Hier](https://www.5lovelanguages.com/quizzes/ "5 Sprachen der Liebe Test") kannst du den Test machen!
 
+![](../../uploads/annie-spratt-wqc8hvau2sy-unsplash.jpg)
+
 ### 4 Vergib dir selbst
 
 > ###### _"Loslassen ist der Schlüssel zum Glück." - Buddha_
@@ -102,8 +104,8 @@ Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet di
 * **_Schritt 1: Akzeptiere was ist_**  
   ... denn das einzig Wahre ist dein Hier und Jetzt. Dieser Moment, in dem du diese Worte ließt. Alles andere passiert nur in deinem Kopf. Annahme und Hingabe an das, was ist, geben dir nicht nur deinen inneren Frieden zurück, sondern erlauben es dir auch endlich deinen Widerstand aufzugeben - gegen das was war, gegen das was ist, gegen dich selbst und die Welt.
 * **_Schritt 2: Verändere deine Schlussfolgerungen_**  
-  Du kannst die Vergangenheit nicht ändern. Das fühlt sich erstmal sehr endgültig an. Aber ich habe eine Überraschung für dich - das brauchst du auch nicht um frei davon zu sein! Oft denken wir, dass etwas nun mal so passiert ist und wir uns deswegen gar nicht anders fühlen können. Tatsächlich ist aber das Einzige was zählt, welche Schlussfolgerungen du auf Grund deiner Erfahrung über dich und die Welt getroffen hast. Verändere also deine Perspektive auf die Situation und dich, damit du neue Schlussfolgerungen treffen kannst! Dazu kannst du dir folgende Fragen stellen: 
-  * _Welche drei Dinge sind als positives Resultat aus dieser vergangenen Situation entstanden?_ 
+  Du kannst die Vergangenheit nicht ändern. Das fühlt sich erstmal sehr endgültig an. Aber ich habe eine Überraschung für dich - das brauchst du auch nicht um frei davon zu sein! Oft denken wir, dass etwas nun mal so passiert ist und wir uns deswegen gar nicht anders fühlen können. Tatsächlich ist aber das Einzige was zählt, welche Schlussfolgerungen du auf Grund deiner Erfahrung über dich und die Welt getroffen hast. Verändere also deine Perspektive auf die Situation und dich, damit du neue Schlussfolgerungen treffen kannst! Dazu kannst du dir folgende Fragen stellen:
+  * _Welche drei Dinge sind als positives Resultat aus dieser vergangenen Situation entstanden?_
   * _Was habe ich aus der Situation oder dank dieser Schwäche von mir für mein Leben gelernt?_
   * _Wovor hat mich die Situation oder diese Schwäche von mir beschützt?_
 
@@ -111,21 +113,21 @@ Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet di
 
 * **_Schritt 3: Lasse Hilfe zu_**
 
-  Selbstcoaching ist eine großartige Sache. Es gibt unzählige Tools, Bücher und Möglichkeiten, mit denen wir uns selbst helfen, Probleme lösen und immer weiter entwickeln können. Es gibt aber auch einfach Situationen, in denen du dich fragst, wie viele Ratgeber und Tipps du noch lesen sollst damit sich doch wieder Nichts in deinem Leben ändert. Wenn du vielleicht denkst „Die Tipps klingen zum Teil ja ganz toll... Aber ich kann das nicht. Für mich funktioniert das alles nicht.“ Oder du beim Lesen gemerkt hast, dass du dich eigentlich andauernd kritisierst. Dass du dich nur selten unbeschwert fühlst und du dein Leben eher als Belastung empfindest, dann ist **jetzt** der Moment, um die Unterstützung zu bekommen, die du verdienst! 
+  Selbstcoaching ist eine großartige Sache. Es gibt unzählige Tools, Bücher und Möglichkeiten, mit denen wir uns selbst helfen, Probleme lösen und immer weiter entwickeln können. Es gibt aber auch einfach Situationen, in denen du dich fragst, wie viele Ratgeber und Tipps du noch lesen sollst damit sich doch wieder Nichts in deinem Leben ändert. Wenn du vielleicht denkst „Die Tipps klingen zum Teil ja ganz toll... Aber ich kann das nicht. Für mich funktioniert das alles nicht.“ Oder du beim Lesen gemerkt hast, dass du dich eigentlich andauernd kritisierst. Dass du dich nur selten unbeschwert fühlst und du dein Leben eher als Belastung empfindest, dann ist **jetzt** der Moment, um die Unterstützung zu bekommen, die du verdienst!
 
-  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein kostenloses Beratungsgespräch mit mir [hier](https://innerlight-hypnotherapy.com/book-call "Hypnosetherapie Gratis Beratung") und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst. 
+  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein kostenloses Beratungsgespräch mit mir [hier](https://innerlight-hypnotherapy.com/book-call "Hypnosetherapie Gratis Beratung") und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
 
   Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre [hier](https://innerlight-hypnotherapy.com/innerlight-hypnotherapy "About Me: RTT Therapeutin & Hypnose-Coach Christin Meise") mehr zu mir und wie ich dich unterstützen kann!
 
 ### 5 Nimm einen neuen Job an - starte deine innere Arbeit!
 
-Wie viel Zeit verbringst du jeden Tag damit für eine Firma zu arbeiten oder etwas für jemand anderen zu tun? Und wie viel Zeit verbringst du damit etwas für _dein_ inneres Glück, für _deine_ innere Leichtigkeit, _deinen_ inneren Frieden zu tun? Wenn du beides gegenüberstellst und merkst, dass das Mehrgewicht nicht auf deiner Selbstliebe-Seite liegt, dann ist es jetzt Zeit das zu ändern. **Du und dein Glück ist dein Nummer 1 Job** - denn niemand anderes kann diese Aufgabe für dich übernehmen. Es geht um deine Bereitschaft deine innere Arbeit zu tun. 
+Wie viel Zeit verbringst du jeden Tag damit für eine Firma zu arbeiten oder etwas für jemand anderen zu tun? Und wie viel Zeit verbringst du damit etwas für _dein_ inneres Glück, für _deine_ innere Leichtigkeit, _deinen_ inneren Frieden zu tun? Wenn du beides gegenüberstellst und merkst, dass das Mehrgewicht nicht auf deiner Selbstliebe-Seite liegt, dann ist es jetzt Zeit das zu ändern. **Du und dein Glück ist dein Nummer 1 Job** - denn niemand anderes kann diese Aufgabe für dich übernehmen. Es geht um deine Bereitschaft deine innere Arbeit zu tun.
 
-Es ist _deine_ Entscheidung DICH von jetzt an zu deiner obersten Priorität zu machen und Selbstliebe in dein Leben zu bringen. Denn wenn du dich selbst beginnst zu lieben, wirst du merken **wie sich plötzlich dein ganzes Leben verändert**. Plötzlich kümmerst du dich mehr und mehr um dich selbst, du beginnst deine  Grenzen wahrzunehmen und zu kommunizieren. Du respektierst deine Bedürfnisse und hörst plötzlich immer mehr auf dein Herz und deine innere Stimme. 
+Es ist _deine_ Entscheidung DICH von jetzt an zu deiner obersten Priorität zu machen und Selbstliebe in dein Leben zu bringen. Denn wenn du dich selbst beginnst zu lieben, wirst du merken **wie sich plötzlich dein ganzes Leben verändert**. Plötzlich kümmerst du dich mehr und mehr um dich selbst, du beginnst deine  Grenzen wahrzunehmen und zu kommunizieren. Du respektierst deine Bedürfnisse und hörst plötzlich immer mehr auf dein Herz und deine innere Stimme.
 
 > **Wenn du dich selbst liebst, sind für dich dein Glück, deine Gesundheit und deine Erfüllung von höchster Bedeutung - und du erkennst, dass du ohne Selbstliebe nie in der Lage sein wirst, andere wirklich zu lieben.**
 
-### Ändere deine Glaubenssätze und du veränderst dein Leben
+### ![](../../uploads/jackson-david-wuydtfap3t4-unsplash.jpg)Ändere deine Glaubenssätze und du veränderst dein Leben
 
 Wenn wir wirklich etwas ändern wollen, ist es notwendig zu verändern was wir täglich tun. Dabei geht es darum dein _GEWOHNTES ICH_ aufzugeben, damit dein _WAHRES ICH_ zum erstrahlen kommen kann. Doch wie kommst du weg von deinem gewohnten und hin zu deinem wahren Ich?
 
@@ -138,15 +140,11 @@ Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkrei
 Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen in deinen Selbstliebe Rucksack:
 
 * **Schritt 1:** Lade dir dein Visualisierungs-Poster hier herunter und drucke es aus. Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
-
-
 * **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir etwas Gutes zu tun.
-
-
 * **Schritt 3:** Häng deinen Selbstliebe Rucksack irgendwo auf, wo du ihn immer siehst oder falte ihn zusammen und steck ihn in die Rückseite der Handyhülle. So oder so: **Erinnere dich so oft es geht an deine guten Eigenschaften und wie du dir im Alltag Selbstliebe geben kannst!**
 
-#### Bist du dafür bereit? 
+#### Bist du dafür bereit?
 
-Bist du bereit die Verantwortung zu übernehmen, dir selbst die Liebe und Aufmerksamkeit zu schenken, die du verdienst? Es nicht mehr anderen zu überlassen deinen Liebestank zu füllen? Deine Macht über dein Glück zurückzuerlangen und es nicht mehr von äußeren Umständen und den Reaktionen anderer abhängig zu machen? 
+Bist du bereit die Verantwortung zu übernehmen, dir selbst die Liebe und Aufmerksamkeit zu schenken, die du verdienst? Es nicht mehr anderen zu überlassen deinen Liebestank zu füllen? Deine Macht über dein Glück zurückzuerlangen und es nicht mehr von äußeren Umständen und den Reaktionen anderer abhängig zu machen?
 
 Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich. _Namasté_

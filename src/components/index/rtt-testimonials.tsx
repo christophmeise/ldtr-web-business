@@ -44,6 +44,13 @@ const SectionRTTTestimonials = ({ t }) => {
                         }
                     }
                 }
+                customer3: file(relativePath: { eq: "antje.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 100, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
+                        }
+                    }
+                }
             }
         `,
     );
@@ -75,15 +82,15 @@ const SectionRTTTestimonials = ({ t }) => {
                         src={data.customer2.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
-                {/*                 <div>
+                <div>
                     <RTTTestimonialCard
                         mobile={slidesPerView === 1}
-                        label="Hypnotherapy"
-                        text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
-                        author="Jessica Watson"
+                        label={t('testimonials:customer3-label')}
+                        text={t('testimonials:customer3-text')}
+                        author="Antje Meise"
                         src={data.customer3.childImageSharp.fluid}
                     ></RTTTestimonialCard>
-                </div> */}
+                </div>
             </Swiper>
         </Container>
     );

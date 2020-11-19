@@ -70,7 +70,9 @@ class Index extends React.Component<Props> {
                         <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
                     </div> */}
                     {/* <SectionRTTBlog t={t}></SectionRTTBlog> */}
-                    <FAQ t={t}></FAQ>
+                    <div className="bg-secondary">
+                        <FAQ t={t}></FAQ>
+                    </div>
                 </div>
             </Layout>
         );

@@ -29,7 +29,7 @@ blocks:
   title: test
 
 ---
-### Social Distancing statt romantische Liebesgeschichten[Download File]( "Download File")
+### Social Distancing statt romantische Liebesgeschichten[goldene-selbstliebe_poster.pdf](../../uploads/goldene-selbstliebe_poster.pdf "goldene-selbstliebe_poster.pdf")
 
 Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
 
@@ -137,11 +137,12 @@ Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkrei
 
 ### Mache Selbst-Liebe zu deiner täglichen Routine
 
-Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen in deinen Selbstliebe Rucksack:
+Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
 
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster hier herunter und drucke es aus. Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
-* **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir etwas Gutes zu tun.
-* **Schritt 3:** Häng deinen Selbstliebe Rucksack irgendwo auf, wo du ihn immer siehst oder falte ihn zusammen und steck ihn in die Rückseite der Handyhülle. So oder so: **Erinnere dich so oft es geht an deine guten Eigenschaften und wie du dir im Alltag Selbstliebe geben kannst!**
+* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: [goldene-selbstliebe_poster.pdf](../../uploads/goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")   
+  Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
+* **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir selbst etwas Gutes zu tun.
+* **Schritt 3:** Hänge deine goldene Selbstliebe-Routine irgendwo auf, wo du sie immer siehst oder falte sie zusammen und steck sie in die Rückseite deiner Handyhülle. So oder so: **Erinnere dich so oft es geht daran, dass du es verdienst dich selbst zu lieben, dass du es Wert bist und wie du dir im Alltag diese Selbstliebe geben kannst!**
 
 #### Bist du dafür bereit?
 

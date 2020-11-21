@@ -1,7 +1,7 @@
 ---
 title: "(Selbst-)Liebe in Zeiten von Corona: 5 praktische Tipps wie du jetzt deine
   perfekte Liebesgeschichte erlebst"
-path: "/wahre-selbstliebe-erfahren"
+path: "/wahreselbstliebeerfahren"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2020-05-18T22:00:00.000+00:00
 tags:

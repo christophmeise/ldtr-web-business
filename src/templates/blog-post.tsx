@@ -11,7 +11,7 @@ function BlogPostTemplate({ data, t }) {
     const { markdownRemark: post } = data;
 
     const sources = [post.frontmatter.featuredImage.childImageSharp.fluid];
-    const blocks = post.frontmatter.blocks;
+    /*     const blocks = post.frontmatter.blocks; */
 
     return (
         <Layout title={post.frontmatter.title} invertedHeader={true} t={t}>
@@ -58,18 +58,6 @@ export const pageQuery = graphql`
                 path
                 title
                 tags
-                blocks {
-                    content
-                    template
-                    title
-                    images {
-                        childImageSharp {
-                            fluid(maxWidth: 800) {
-                                ...GatsbyImageSharpFluid
-                            }
-                        }
-                    }
-                }
                 featuredImage {
                     childImageSharp {
                         fluid(maxWidth: 800) {

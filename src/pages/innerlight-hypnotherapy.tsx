@@ -50,7 +50,7 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
 
         return (
             <Layout title={siteTitle} t={t} invertedHeader={false}>
-                <SEO title={t('hypnotherapy:Inner Light Hypnotherapie')} />
+                <SEO title={t('hypnotherapy:innerlight-hypnotherapie-headline')} />
                 <HeaderOverlay
                     sources={sources}
                     color={backgroundColor}
@@ -133,7 +133,7 @@ class OverlayContent extends React.Component<any, any> {
                     className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}
                     style={{ marginBottom: '0rem', marginTop: '0rem' }}
                 >
-                    {t('hypnotherapy:Inner Light Hypnotherapie')}
+                    {t('hypnotherapy:innerlight-hypnotherapie-headline')}
                 </h1>
                 <h2 className={`header-overlay-subheadline ${inverted ? 'header-overlay-subheadline-inverted' : null}`}>
                     {t('hypnotherapy:innerlight-hypnotherapy-subheadline')}

@@ -39,7 +39,7 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
         const christinImg = data.christinImg.childImageSharp.fluid;
-        const backgroundColor = '#2b1919';
+        const backgroundColor = '#bdaf9d';
         const sources = [
             data.waveImg.childImageSharp.fluid,
             {
@@ -49,7 +49,7 @@ class InnerlightHypnotherapy extends React.Component<Props, any> {
         ];
 
         return (
-            <Layout title={siteTitle} t={t}>
+            <Layout title={siteTitle} t={t} invertedHeader={false}>
                 <SEO title={t('hypnotherapy:Inner Light Hypnotherapie')} />
                 <HeaderOverlay
                     sources={sources}
@@ -124,8 +124,14 @@ class OverlayContent extends React.Component<any, any> {
         return (
             <div>
                 <h1
+                    className="header-overlay-headline header-overlay-headline-inverted header-overlay-inner-light"
+                    style={{ marginBottom: '0rem', marginTop: '0rem' }}
+                >
+                    Inner Light
+                </h1>
+                <h1
                     className={`header-overlay-headline ${inverted ? 'header-overlay-headline-inverted' : null}`}
-                    style={{ marginBottom: '0rem' }}
+                    style={{ marginBottom: '0rem', marginTop: '0rem' }}
                 >
                     {t('hypnotherapy:Inner Light Hypnotherapie')}
                 </h1>
@@ -145,7 +151,7 @@ export const pageQuery = graphql`
                 description
             }
         }
-        waveImg: file(relativePath: { eq: "waves_wide.jpg" }) {
+        waveImg: file(relativePath: { eq: "test.jpg" }) {
             childImageSharp {
                 fluid(maxWidth: 1600, quality: 100) {
                     ...GatsbyImageSharpFluid_withWebp

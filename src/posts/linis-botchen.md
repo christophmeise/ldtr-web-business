@@ -3,7 +3,7 @@ tags:
 - Lini
 - Cute
 - Bötchen
-title: Test Linis Böt
+title: Hallo
 path: "/lini"
 featuredImage: "../../uploads/linisboetchen.jpg"
 date: 2020-05-23T00:00:00.000+02:00

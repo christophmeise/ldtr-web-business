@@ -29,7 +29,7 @@ blocks:
   title: test
 
 ---
-### Social Distancing statt romantische Liebesgeschichten[goldene-selbstliebe_poster.pdf](../../uploads/goldene-selbstliebe_poster.pdf "goldene-selbstliebe_poster.pdf")
+### Social Distancing statt romantische Liebesgeschichten
 
 Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
 
@@ -119,6 +119,8 @@ Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet di
 
   Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre [hier](https://innerlight-hypnotherapy.com/innerlight-hypnotherapy "About Me: RTT Therapeutin & Hypnose-Coach Christin Meise") mehr zu mir und wie ich dich unterstützen kann!
 
+  ***
+
 ### 5 Nimm einen neuen Job an - starte deine innere Arbeit!
 
 Wie viel Zeit verbringst du jeden Tag damit für eine Firma zu arbeiten oder etwas für jemand anderen zu tun? Und wie viel Zeit verbringst du damit etwas für _dein_ inneres Glück, für _deine_ innere Leichtigkeit, _deinen_ inneren Frieden zu tun? Wenn du beides gegenüberstellst und merkst, dass das Mehrgewicht nicht auf deiner Selbstliebe-Seite liegt, dann ist es jetzt Zeit das zu ändern. **Du und dein Glück ist dein Nummer 1 Job** - denn niemand anderes kann diese Aufgabe für dich übernehmen. Es geht um deine Bereitschaft deine innere Arbeit zu tun.
@@ -139,7 +141,7 @@ Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkrei
 
 Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
 
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: [goldene-selbstliebe_poster.pdf](../../uploads/goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")   
+* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: [goldene-selbstliebe_poster.pdf](../../uploads/goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
   Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
 * **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir selbst etwas Gutes zu tun.
 * **Schritt 3:** Hänge deine goldene Selbstliebe-Routine irgendwo auf, wo du sie immer siehst oder falte sie zusammen und steck sie in die Rückseite deiner Handyhülle. So oder so: **Erinnere dich so oft es geht daran, dass du es verdienst dich selbst zu lieben, dass du es Wert bist und wie du dir im Alltag diese Selbstliebe geben kannst!**

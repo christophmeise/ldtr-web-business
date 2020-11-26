@@ -34,7 +34,4 @@ fields:
   label: Tags
 pages:
 - src/posts/cute-otter.md
-- src/posts/happy.md
-- src/posts/how-i-learnt-gatsby-in-one-day.md
 - src/posts/linis-botchen.md
-- src/posts/tscheppard.md

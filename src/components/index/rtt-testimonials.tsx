@@ -69,7 +69,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         mobile={slidesPerView === 1}
                         label={t('testimonials:customer1-label')}
                         text={t('testimonials:customer1-text')}
-                        author="Celina Schneider"
+                        author="Celina, Berlin"
                         src={data.customer1.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
@@ -78,7 +78,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         mobile={slidesPerView === 1}
                         label={t('testimonials:customer2-label')}
                         text={t('testimonials:customer2-text')}
-                        author="Laetitia Cazaux"
+                        author="Laetitia, Paris"
                         src={data.customer2.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
@@ -87,7 +87,7 @@ const SectionRTTTestimonials = ({ t }) => {
                         mobile={slidesPerView === 1}
                         label={t('testimonials:customer3-label')}
                         text={t('testimonials:customer3-text')}
-                        author="Antje Meise"
+                        author="Antje, Leipzig"
                         src={data.customer3.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>

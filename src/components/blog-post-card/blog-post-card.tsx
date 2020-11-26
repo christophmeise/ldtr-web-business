@@ -29,16 +29,17 @@ export default function BlogPostCard({ post }: Props) {
                 <div></div>
                 <BackgroundImage
                     Tag="div"
-                    className="rounded-corners-top dark-overlay rtt-areas-card-background"
+                    className="rounded-corners-top dark-overlay-blog rtt-areas-card-background"
                     fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
                 >
                     <Label.Group className="blog-post-tag-label-group">
-                        {post.frontmatter.tags.map((tag) => {
+                        {post.frontmatter.tags.slice(0,3).map((tag, index) => {
                             return (
                                 <Label
                                     size="small"
                                     circular
                                     basic
+                                    key={"tag-" + index + post.frontmatter.path}
                                     className="blog-post-tag-label blog-post-tag-transparent"
                                 >
                                     {tag}

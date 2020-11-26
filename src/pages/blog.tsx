@@ -1,8 +1,9 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-import { Container } from 'semantic-ui-react';
+import { Container, Grid, Header, Label } from 'semantic-ui-react';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import BlogPostCard from './../components/blog-post-card/blog-post-card';
 import HeaderOverlay from './../components/header-overlay/header-overlay';
 import withI18next from './../components/withI18next/withI18next';
 import './blog.less';
@@ -86,36 +87,8 @@ class Blog extends React.Component<Props, BlogState> {
                     content={<OverlayContent inverted={true} t={t}></OverlayContent>}
                     darken={true}
                 />
-                <div className="global-header-padding">
-                    {/* <PlainHeader content={<HeaderContent t={t} />} /> */}
-                    <div className="blog-content-sections">
-                        <section>
-                            <Container text textAlign="center">
-                                <h2 className="blog-coming-soon font-playfair">{t('blog:Coming Soon')}</h2>
-                            </Container>
-                            {/*  <BackgroundImage className="rtt-call-to-action-image shadow" fluid={comingSoonImage}>
-                                <Container className="rtt-call-to-action-image-container">
-                                    <Grid
-                                        className="rtt-call-container-desktop responsive-desktop-container"
-                                        verticalAlign="middle"
-                                    >
-                                        <GridColumn width={16} verticalAlign="middle">
-                                            <h2 className="call-to-action-text font-playfair">
-                                                {t('blog:Coming Soon')}
-                                            </h2>
-                                        </GridColumn>
-                                    </Grid>
-                                    <Container
-                                        className="rtt-call-container-mobile responsive-mobile-container"
-                                        textAlign="left"
-                                    >
-                                        <h2 className="call-to-action-text font-playfair">{t('blog:Coming Soon')}</h2>
-                                    </Container>
-                                </Container>
-                            </BackgroundImage> */}
-                        </section>
-                    </div>
-                    {/* <div className="blog-content-sections bg-secondary">
+                <div>
+                   <div className="blog-content-sections bg-secondary">
                         <Container>
                             <Header
                                 data-sal="slide-up"
@@ -128,9 +101,10 @@ class Blog extends React.Component<Props, BlogState> {
                                 <h3 className="blog-headline">{t('blog:Nach Stichwort filtern')}</h3>
                             </Header>
                             <Label.Group className="blog-tag-label-group">
-                                {tags.map((tag) => {
+                                {tags.map((tag, index) => {
                                     return (
                                         <Label
+                                            key={"tag-" + index}
                                             as="a"
                                             active={this.state.tagFilter === tag}
                                             className="blog-post-tag-label"
@@ -186,7 +160,7 @@ class Blog extends React.Component<Props, BlogState> {
                                 </Grid>
                             </section>
                         </Container>
-                    </div> */}
+                    </div>
                 </div>
             </Layout>
         );

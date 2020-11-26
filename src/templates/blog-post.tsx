@@ -23,7 +23,7 @@ function BlogPostTemplate({ data, t }) {
                 content={<OverlayContent title={post.frontmatter.title} inverted={true} />}
             />
             <Container>
-                <div className="main-content-sections">
+                <div className="blog-content-sections">
                     <section className="blog-post">
                         <article dangerouslySetInnerHTML={{ __html: post.html }}></article>
                     </section>

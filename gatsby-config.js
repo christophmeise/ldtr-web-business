@@ -14,9 +14,9 @@ module.exports = {
         title: `Inner Light Hypnotherapy`,
         author: `Christoph Meise`,
         siteUrl: `https://innerlight-hypnotherapy.com/`,
-        description: `Spread love, light & consciousness`,
+        description: `Erwecke dein INNER LIGHT Erschaffe das Leben, von dem du träumst mit der Rapid Transformational Therapy™`,
         social: {
-            instagram: `love.dream.travel.repeat`,
+            instagram: `iamenoughbymarisapeer`,
         },
     },
     plugins: [

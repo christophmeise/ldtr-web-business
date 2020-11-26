@@ -117,8 +117,8 @@ class RttPage extends React.Component<Props, any> {
                                         </GridColumn>
                                         <GridColumn>
                                             <Container textAlign="left">
-                                                <h4>{t('rtt:Das "Warum"')}</h4>
-                                                <p>{t('rtt:Das "Warum" - text')}</p>
+                                                <h4>{t('rtt:das-warum')}</h4>
+                                                <p>{t('rtt:das-warum-text')}</p>
                                             </Container>
                                             <Container
                                                 textAlign="left"
@@ -246,7 +246,7 @@ class RttPage extends React.Component<Props, any> {
                                             <p>{t('rtt:Marisa Peer - subtext2')}</p>
                                         </Container>
                                     </GridRow>
-                                    <GridRow style={{ marginTop: '-3rem' }}>
+                                    <GridRow className="rtt-hacky-button" style={{ marginTop: '-3rem' }}>
                                         <Container
                                             textAlign="center"
                                             className="rtt-main-button-container"
@@ -271,13 +271,17 @@ class RttPage extends React.Component<Props, any> {
                                             <p>{t('rtt:Marisa Peer - subtext3')}</p>
                                         </Container>
                                     </GridRow>
-                                    <GridRow>
-                                        <Container>
-                                            <BackgroundImage
+                                    <GridRow columns="1">
+                                        <GridColumn stretched>
+                                            <div className="rtt-logos-image">
+                                                <Img className="rtt-image rounded shadow" fluid={data.approvedImage.childImageSharp.fluid} />
+                                            </div>
+                                        </GridColumn>
+
+                                        {/*                                             <BackgroundImage
                                                 className="rtt-logos-image shadow rounded"
                                                 fluid={data.approvedImage.childImageSharp.fluid}
-                                            ></BackgroundImage>
-                                        </Container>
+                                            ></BackgroundImage> */}
                                     </GridRow>
                                 </Grid>
                             </Container>

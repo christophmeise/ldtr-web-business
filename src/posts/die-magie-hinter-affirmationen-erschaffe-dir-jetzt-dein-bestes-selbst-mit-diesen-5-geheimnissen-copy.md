@@ -2,7 +2,7 @@
 title: Vergebung - In 5 Schritten zu deiner Freiheit und inneren Frieden
 path: "/vergebung-als-weg-zu-deiner-freiheit"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2020-05-18T22:00:00.000+00:00
+date: 2020-12-31T00:00:00+01:00
 tags:
 - Selflove
 - Personal Development

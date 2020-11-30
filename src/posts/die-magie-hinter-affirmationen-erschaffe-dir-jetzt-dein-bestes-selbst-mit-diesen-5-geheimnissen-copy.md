@@ -1,7 +1,6 @@
 ---
-title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst mit
-  diesen 5 Geheimnissen-(copy)
-path: "/die-magie-von-affirmationen"
+title: Vergebung - In 5 Schritten zu deiner Freiheit und inneren Frieden
+path: "/vergebung-als-weg-zu-deiner-freiheit"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2020-05-18T22:00:00.000+00:00
 tags:
@@ -29,9 +28,11 @@ blocks:
   title: test
 
 ---
-### Ist Hypnose gefährlich?
+### Vergebung
 
-Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
+I am always willing to forgive.
+
+I am in complete surrender and I trust that the universe responds to my willingness to forgive and help me find a way.
 
 #### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
 

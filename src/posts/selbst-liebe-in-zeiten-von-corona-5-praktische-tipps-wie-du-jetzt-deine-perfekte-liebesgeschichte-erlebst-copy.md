@@ -1,7 +1,7 @@
 ---
-title: "(Selbst-)Liebe in Zeiten von Corona: 5 praktische Tipps wie du jetzt deine
-  perfekte Liebesgeschichte erlebst-(copy)"
-path: "/wahre-selbstliebe-erfahren"
+title: Die Wahrheit über die Macht der Hypnose und warum du dein bester Therapeut
+  bist
+path: "/wahrheit-ueber-hypnose"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2020-05-18T22:00:00.000+00:00
 tags:
@@ -29,7 +29,7 @@ blocks:
   title: test
 
 ---
-### Social Distancing statt romantische Liebesgeschichten
+### Ist Hypnose gefährlich?
 
 Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
 

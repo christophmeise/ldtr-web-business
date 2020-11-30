@@ -1,7 +1,7 @@
 ---
-title: Die Wahrheit über die Macht der Hypnose und warum du dein bester Therapeut
-  bist-(copy)
-path: "/wahrheit-ueber-hypnose"
+title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst mit
+  diesen 5 Geheimnissen
+path: "/die-magie-von-affirmationen"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2020-05-18T22:00:00.000+00:00
 tags:

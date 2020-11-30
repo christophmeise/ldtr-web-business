@@ -65,8 +65,11 @@ class Blog extends React.Component<Props, BlogState> {
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
         const tags = this.getTags(posts);
+        posts = posts
+            .filter((post) => new Date(post.node.frontmatter.date) <= new Date())
         if (this.state.tagFilter.length > 0 && this.state.tagFilter != this.props.t('blog:Alle')) {
-            posts = posts.filter((post) => post.node.frontmatter.tags.includes(this.state.tagFilter));
+            posts = posts
+                .filter((post) => post.node.frontmatter.tags.includes(this.state.tagFilter));
         }
 
         const sources = [
@@ -88,7 +91,7 @@ class Blog extends React.Component<Props, BlogState> {
                     darken={true}
                 />
                 <div>
-                   <div className="blog-content-sections bg-secondary">
+                    <div className="blog-content-sections bg-secondary">
                         <Container>
                             <Header
                                 data-sal="slide-up"

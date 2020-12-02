@@ -17,19 +17,3 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: field_group_list
-  name: blocks
-  label: blocks
-  fields:
-  - type: text
-    name: template
-    label: template
-  - type: image_gallery
-    name: images
-    label: images
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: content
-    label: content

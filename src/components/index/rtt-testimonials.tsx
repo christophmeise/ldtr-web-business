@@ -51,6 +51,13 @@ const SectionRTTTestimonials = ({ t }) => {
                         }
                     }
                 }
+                customer4: file(relativePath: { eq: "theresa.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 100, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
+                        }
+                    }
+                }
             }
         `,
     );
@@ -89,6 +96,15 @@ const SectionRTTTestimonials = ({ t }) => {
                         text={t('testimonials:customer3-text')}
                         author="Antje, Leipzig"
                         src={data.customer3.childImageSharp.fluid}
+                    ></RTTTestimonialCard>
+                </div>
+                <div>
+                    <RTTTestimonialCard
+                        mobile={slidesPerView === 1}
+                        label={t('testimonials:customer4-label')}
+                        text={t('testimonials:customer4-text')}
+                        author="Theresa, Berlin"
+                        src={data.customer4.childImageSharp.fluid}
                     ></RTTTestimonialCard>
                 </div>
             </Swiper>

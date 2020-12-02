@@ -33,6 +33,7 @@ fields:
   default: []
   label: Tags
 pages:
+- src/posts-en/test.md
 - src/posts/cute-otter.md
 - src/posts/die-magie-hinter-affirmationen-erschaffe-dir-jetzt-dein-bestes-selbst-mit-diesen-5-geheimnissen-copy.md
 - src/posts/die-wahrheit-uber-die-macht-der-hypnose-und-warum-du-dein-bester-therapeut-bist-copy.md

@@ -1,0 +1,35 @@
+---
+label: English Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: path
+  label: path
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: image_gallery
+    name: images
+    label: images
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content

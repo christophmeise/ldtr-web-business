@@ -8,10 +8,16 @@ sections:
   label: Content
 - type: directory
   path: src/posts
-  label: Posts
+  label: German Posts
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: directory
+  path: src/posts-en
+  label: English posts
+  create: all
+  match: "**/*"
+  exclude: md
 - type: directory
   path: src/articles
   label: Shop articles

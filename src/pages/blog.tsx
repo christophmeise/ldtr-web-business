@@ -1,4 +1,5 @@
 import { graphql } from 'gatsby';
+import i18n from 'i18next';
 import React from 'react';
 import { Container, Grid, Header, Label } from 'semantic-ui-react';
 import Layout from '../components/layout';
@@ -12,7 +13,8 @@ interface Props {
     t: any;
     data: {
         s;
-        allMarkdownRemark: any;
+        german: any;
+        english: any;
         site: {
             siteMetadata: {
                 title: string;
@@ -61,7 +63,12 @@ class Blog extends React.Component<Props, BlogState> {
         const data = this.props.data;
         const comingSoonImage = data.comingSoonImage.childImageSharp.fluid;
         const comingSoonImageMobile = data.comingSoonImageMobile.childImageSharp.fluid;
-        let posts = data.allMarkdownRemark.edges;
+        let posts;
+        if (i18n.language === 'de') {
+            posts = data.german.edges;
+        } else {
+            posts = data.english.edges;
+        }
         const siteTitle = data.site.siteMetadata.title;
         const description = data.site.siteMetadata.description;
         const tags = this.getTags(posts);
@@ -227,8 +234,32 @@ export const pageQuery = graphql`
                 }
             }
         }
-        allMarkdownRemark(
+        german: allMarkdownRemark(
             filter: { fileAbsolutePath: { regex: "/(posts)/" } }
+            sort: { fields: [frontmatter___date], order: DESC }
+        ) {
+            edges {
+                node {
+                    id
+                    excerpt(pruneLength: 250)
+                    frontmatter {
+                        title
+                        date(formatString: "MMMM DD, YYYY")
+                        path
+                        tags
+                        featuredImage {
+                            childImageSharp {
+                                fluid(maxWidth: 800) {
+                                    ...GatsbyImageSharpFluid
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        english: allMarkdownRemark(
+            filter: { fileAbsolutePath: { regex: "/(posts-en)/" } }
             sort: { fields: [frontmatter___date], order: DESC }
         ) {
             edges {

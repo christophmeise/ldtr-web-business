@@ -13,7 +13,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: src/posts-en
+  path: src/postsenglish
   label: English posts
   create: all
   match: "**/*"

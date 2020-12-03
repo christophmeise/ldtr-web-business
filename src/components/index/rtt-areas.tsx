@@ -7,17 +7,17 @@ import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
 const SectionRTTAreas = ({ t }) => {
-    const handleOnRTTAreaCardClick = () => {
-        navigateWithLocale('/rtt-areas');
+    const handleOnRTTAreaCardClick = (href, that) => {
+        navigateWithLocale(href);
     };
 
-    const RTTAreaCard = ({ source, text }) => {
+    const RTTAreaCard = ({ source, text, href = '/rtt-areas' }) => {
         return (
             <BackgroundImage
                 Tag="div"
                 className="rounded hover-animate shadow-lg dark-overlay rtt-areas-card-background"
                 fluid={source}
-                onClick={handleOnRTTAreaCardClick}
+                onClick={handleOnRTTAreaCardClick.bind(this, href)}
             >
                 <div className="rtt-areas-card-background-text-wrapper">
                     <h3 className="rtt-areas-card-background-text">{text}</h3>
@@ -90,7 +90,7 @@ const SectionRTTAreas = ({ t }) => {
                             <RTTAreaCard source={data.relationship.childImageSharp.fluid} text={t('rtt-area-1')} />
                         </GridColumn>
                         <GridColumn>
-                            <RTTAreaCard source={data.confidence.childImageSharp.fluid} text={t('rtt-area-2')} />
+                            <RTTAreaCard source={data.confidence.childImageSharp.fluid} text={t('rtt-area-2')} href="/wahre-selbstliebe-erfahren" />
                         </GridColumn>
                         <GridColumn>
                             <RTTAreaCard source={data.addiction.childImageSharp.fluid} text={t('rtt-area-3')} />

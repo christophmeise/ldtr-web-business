@@ -1,11 +1,18 @@
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 import React from 'react';
-import Swiper from 'react-id-swiper';
+import Swiper, { ReactIdSwiperChildren } from 'react-id-swiper';
 import { Container, Icon, Label } from 'semantic-ui-react';
 import 'swiper/css/swiper.css';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
+
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
 
 const SectionRTTTestimonials = ({ t }) => {
     const isSSR = typeof window === 'undefined';
@@ -21,6 +28,7 @@ const SectionRTTTestimonials = ({ t }) => {
     const params = {
         slidesPerView: slidesPerView,
         spaceBetween: 40,
+        loop: true,
         pagination: {
             el: '.swiper-pagination',
             clickable: true,
@@ -62,6 +70,46 @@ const SectionRTTTestimonials = ({ t }) => {
         `,
     );
 
+    const card1 = (<div>
+        <RTTTestimonialCard
+            mobile={slidesPerView === 1}
+            label={t('testimonials:customer1-label')}
+            text={t('testimonials:customer1-text')}
+            author="Celina, Berlin"
+            src={data.customer1.childImageSharp.fluid}
+        ></RTTTestimonialCard>
+    </div>);
+    const card2 = (<div>
+        <RTTTestimonialCard
+            mobile={slidesPerView === 1}
+            label={t('testimonials:customer2-label')}
+            text={t('testimonials:customer2-text')}
+            author="Laetitia, Paris"
+            src={data.customer2.childImageSharp.fluid}
+        ></RTTTestimonialCard>
+    </div>);
+    const card3 = (<div>
+        <RTTTestimonialCard
+            mobile={slidesPerView === 1}
+            label={t('testimonials:customer3-label')}
+            text={t('testimonials:customer3-text')}
+            author="Antje, Leipzig"
+            src={data.customer3.childImageSharp.fluid}
+        ></RTTTestimonialCard>
+    </div>);
+    const card4 = (<div>
+        <RTTTestimonialCard
+            mobile={slidesPerView === 1}
+            label={t('testimonials:customer4-label')}
+            text={t('testimonials:customer4-text')}
+            author="Theresa, Berlin"
+            src={data.customer4.childImageSharp.fluid}
+        ></RTTTestimonialCard>
+    </div>);
+
+    const cards: ReactIdSwiperChildren = [card1, card2, card3, card4];
+    shuffleArray(cards);
+
     return (
         <Container as="section">
             <SectionHeader
@@ -71,42 +119,15 @@ const SectionRTTTestimonials = ({ t }) => {
                 textAlign="center"
             ></SectionHeader>
             <Swiper {...params}>
-                <div>
-                    <RTTTestimonialCard
-                        mobile={slidesPerView === 1}
-                        label={t('testimonials:customer1-label')}
-                        text={t('testimonials:customer1-text')}
-                        author="Celina, Berlin"
-                        src={data.customer1.childImageSharp.fluid}
-                    ></RTTTestimonialCard>
-                </div>
-                <div>
-                    <RTTTestimonialCard
-                        mobile={slidesPerView === 1}
-                        label={t('testimonials:customer2-label')}
-                        text={t('testimonials:customer2-text')}
-                        author="Laetitia, Paris"
-                        src={data.customer2.childImageSharp.fluid}
-                    ></RTTTestimonialCard>
-                </div>
-                <div>
-                    <RTTTestimonialCard
-                        mobile={slidesPerView === 1}
-                        label={t('testimonials:customer3-label')}
-                        text={t('testimonials:customer3-text')}
-                        author="Antje, Leipzig"
-                        src={data.customer3.childImageSharp.fluid}
-                    ></RTTTestimonialCard>
-                </div>
-                <div>
-                    <RTTTestimonialCard
-                        mobile={slidesPerView === 1}
-                        label={t('testimonials:customer4-label')}
-                        text={t('testimonials:customer4-text')}
-                        author="Theresa, Berlin"
-                        src={data.customer4.childImageSharp.fluid}
-                    ></RTTTestimonialCard>
-                </div>
+
+                {cards.map((card) => {
+                    return (
+                        <div>
+                            {card}
+                        </div>
+                    );
+                })}
+
             </Swiper>
         </Container>
     );

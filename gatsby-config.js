@@ -106,6 +106,13 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
+                path: `${__dirname}/src/postsenglish`,
+                name: 'postsenglish',
+            },
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
                 path: `${__dirname}/src/articles`,
                 name: 'articles',
             },

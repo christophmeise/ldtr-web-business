@@ -235,7 +235,7 @@ export const pageQuery = graphql`
             }
         }
         german: allMarkdownRemark(
-            filter: { fileAbsolutePath: { regex: "/(posts)/" } }
+            filter: { fileAbsolutePath: { regex: "/(posts\\W)/" } }
             sort: { fields: [frontmatter___date], order: DESC }
         ) {
             edges {
@@ -259,7 +259,7 @@ export const pageQuery = graphql`
             }
         }
         english: allMarkdownRemark(
-            filter: { fileAbsolutePath: { regex: "/(posts-en)/" } }
+            filter: { fileAbsolutePath: { regex: "/(postsenglish)/" } }
             sort: { fields: [frontmatter___date], order: DESC }
         ) {
             edges {

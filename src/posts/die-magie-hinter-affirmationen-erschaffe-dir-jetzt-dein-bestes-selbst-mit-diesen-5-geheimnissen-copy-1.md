@@ -1,8 +1,7 @@
 ---
-title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst mit
-  diesen 5 Geheimnissen-(copy)
-path: "/die-magie-von-affirmationen"
-featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
+title: Die 10 besten Geschenkideen für spirituelle Menschen
+path: "/geschenke-fuer-spirituelle-Menschen"
+featuredImage: ''
 date: 2020-12-31T00:00:00.000+01:00
 tags:
 - Selflove
@@ -29,21 +28,19 @@ blocks:
   title: test
 
 ---
-### Ist Hypnose gefährlich?
+### Geschenke vom Herzen für die Seele
 
-Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
+Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste an Weihnachten ist für mich daher nicht nur Zeit mit meinen Liebsten zu verbringen, sondern ihnen _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. Willst auch Du dieses Jahr tiefsinnige, bedeutsame Geschenke machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben ist? Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine Top 10 Geschenkideen für Weihnachten und jeden anderen besonderen Anlass zusammengestellt.
 
-#### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
+#### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Wenn es dir wie mir vor einigen Jahren geht, dann kommen bei dir jedes mal wenn du solche Selbstliebe-Sprüche hörst, folgende "Aber´s" in deinen Kopf: Ja, okay, dann liebe ich mich. Aber... bedingungslos? Also liebenswert sein ohne dafür etwas zu tun? Genug sein ohne das perfekte Körpergewicht? Stolz auf mich sein, auch wenn ich die nächste Karrierestufe noch nicht erreicht habe? In einer Gesellschaft, die besessen ist von Perfektion, sind solche Aussagen für uns schwer annehmbar. Kein Wunder, denn wir leben in einer Leistungsgesellschaft, in der es in allen Lebensbereichen nur um schneller, höher und grundsätzlich immer um “mehr” zu gehen scheint. **Und doch spüren wir, dass uns dieses Denken unglücklich macht.** Dass wir der Anerkennung und der Liebe irgendwie immer hinterher zu laufen scheinen, anstatt uns jetzt in diesem Moment selbst zu 100 % so anzunehmen, so zu lieben, wie wir sind. Mit allen Ecken und Kanten.
+Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine Top 10 Geschenke Tipps zusammengestellt, die sowohl spirituelle Sucher, nachhaltig orientierte Menschen als auch Wohlfühl-Liebhaber erstrahlen lassen werden. Los geht´s!
 
-### Deine perfekte Liebesgeschichte beginnt jetzt
+### Die 10 besten spirituellen Geschenke Tipps
 
-Kannst du von dir selbst sagen, dass du dich ohne Bedingungen liebst? Also genau so wie du jetzt in diesem Moment bist? Corona und Quarantäne bringen uns gezwungenermaßen dazu zu erfahren, ob wir mit uns selbst glücklich sind. Ob wir die Zeit mit uns selbst genießen. Wenn du dir nicht sicher bist, dann mache den **Selbstliebe-Test**: _Stell dich ein paar Minuten vor den Spiegel, schau dir tief in die Augen und sage dir dann laut "Ich liebe dich, \[dein Name\]"._ Wie fühlst du dich dabei? Wenn du dabei Widerstand in dir spürst, es schwierig war deinem Selbst ein Liebesgeständnis zu machen oder du den Satz gar nicht erst über die Lippen bekommen hast - fühl dich bitte auf keinen Fall schlecht! Nimm es als wundervolle Chance, jetzt zu entscheiden, dass du es **verdienst** dich selbst zu lieben. Genau für dich habe ich diesen Artikel geschrieben, um dir 5 Selbstliebe-Tipps mit in deinen Alltag zu geben, die deine schönste Liebesgeschichte jetzt beginnen lassen.
+Spirituelle, nachhaltige Geschenke müssen nicht teuer sein. 
 
-![](../../uploads/photo-1518199266791-5375a83190b7.jpg)
-
-### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
+#### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
 
 Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst.
 

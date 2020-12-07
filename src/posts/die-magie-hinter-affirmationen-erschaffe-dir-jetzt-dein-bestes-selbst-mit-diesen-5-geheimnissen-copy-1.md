@@ -1,7 +1,7 @@
 ---
 title: Die 10 besten Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
-featuredImage: ''
+featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg"
 date: 2020-12-06T00:00:00+01:00
 tags:
 - Selflove

@@ -2,7 +2,7 @@
 title: Die 10 besten Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: ''
-date: 2020-12-31T00:00:00.000+01:00
+date: 2020-12-06T00:00:00+01:00
 tags:
 - Selflove
 - Personal Development

@@ -38,15 +38,27 @@ Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehunge
 
 ### Die 10 besten spirituellen Geschenke Tipps
 
-Spirituelle, nachhaltige Geschenke müssen nicht teuer sein. 
+Spirituelle, nachhaltige Geschenke müssen nicht teuer sein.
 
-#### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
+#### Tipp 1: Räucherwerk
 
-Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst.
+Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher 
 
-**Weil genau dafür ist Selbstliebe deine Grundlage** - deinem Herzen zu folgen, an dich und deine Wünsche zu glauben und der Welt die Erlaubnis zu geben, dich in deinem strahlensten Licht zu sehen. Dann wirst du Liebe und Erfolg nicht mehr hinterherlaufen und immer die Angst haben alles verlieren zu können - du wirst tief in deinem Herzen wissen, dass du all das verdienst, was du dir wünschst. Dass du es wert bist.
+#### Tipp 2: Wohnen & Leben
 
-Dieser Artikel ist für dich. Um dich dabei zu unterstützen, die Beziehung zu dir selbst zu stärken, damit Du mehr Liebe, Freude und Frieden in deinem Leben erfahren kannst. Ich hoffe aus tiefsten Herzen, dass dich die folgenden Worte bestärken deinen Selbstwert zu erkennen, Liebe zu dir selbst aufbauen und du es dir erlaubst deinem Herzen zu folgen. **Alles beginnt mit Dir**. Du bist genug und du bist würdig um all das Glück zu haben, von dem Du träumst und das dich ab jetzt erwartet.
+#### Tipp 3: Körper & Seele
+
+#### Tipp 1: Musik & DVD
+
+#### Tipp 5: Schmuck & Edelsteine
+
+#### Tipp 1: Meditation & Yoga
+
+#### Tipp 1: Deko & Licht
+
+[https://amzn.to/3lNXGtL](https://amzn.to/3lNXGtL "https://amzn.to/3lNXGtL")
+
+<a href="[https://www.amazon.de/Natures-Design-Golden-Alladin-Liter-Karaffe/dp/B002EIWP04/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YETP9XZEDK7D&dchild=1&keywords=karaffe+energie&qid=1607355341&sprefix=karaffe+ener,aps,229&sr=8-2&linkCode=li2&tag=innerlight06-21&linkId=0db7dedb76be76af52799085d9137ec8&language=de_DE](https://www.amazon.de/Natures-Design-Golden-Alladin-Liter-Karaffe/dp/B002EIWP04/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YETP9XZEDK7D&dchild=1&keywords=karaffe+energie&qid=1607355341&sprefix=karaffe+ener,aps,229&sr=8-2&linkCode=li2&tag=innerlight06-21&linkId=0db7dedb76be76af52799085d9137ec8&language=de_DE "https://www.amazon.de/Natures-Design-Golden-Alladin-Liter-Karaffe/dp/B002EIWP04/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YETP9XZEDK7D&dchild=1&keywords=karaffe+energie&qid=1607355341&sprefix=karaffe+ener,aps,229&sr=8-2&linkCode=li2&tag=innerlight06-21&linkId=0db7dedb76be76af52799085d9137ec8&language=de_DE")" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002EIWP04&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="[https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B002EIWP04](https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B002EIWP04 "https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B002EIWP04")" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### 1 Entdecke dein wahres Selbst
 

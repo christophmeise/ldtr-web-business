@@ -35,31 +35,101 @@ Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehunge
 
 ### Die 10 besten spirituellen Geschenke Tipps
 
-Spirituelle, nachhaltige Geschenke müssen nicht teuer sein.
+Spirituelle, nachhaltige Geschenke müssen nicht teuer sein. Geschenke für ein bewussteres, schöneres und erfülltes Leben - nicht nur Geschenke für Frauen, sondern für wirklich jeden. Zwischen 10 Euro und 50 Euro
 
 #### Tipp 1: Räucherwerk
 
-Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher 
+* Räucherstäbchen Set
+
+Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Spiritual Masala Räucherstäbchen_ zeichnen sich durch sehr hohe Qualität, langer Brenndauer und besonders intensiven und lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
+
+* Räucherstäbchen Halterung
+
+Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, 10 extra Räucherkegel werden mitgeliefert
+
+* Räucherbündel zur Energetischen Reinigung
+
+Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause. 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes Set zur energetischen Reinigung
+
+* Handbuch über Räucher-Anwendung, Wirkung & Rituale
+
+Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
 
 #### Tipp 2: Wohnen & Leben
 
-#### Tipp 3: Körper & Seele
+* Blume des Lebens Mobile
 
-#### Tipp 1: Musik & DVD
+Blume des Lebens Mobile aus Edelstahl Dieses uralte kosmische Symbol erzeugt ein absolut harmonisches Schwingungsfeld. Faszinierendes Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschaffen. Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
+
+* Vital-Karaffe für energetisiertes Wasser 
+
+Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach dem Naturgesetz des Goldenen Schnitts ist nicht nur ein wahrer Hingucker und ein wunderschönes Geschenk für jeden Tag. Das darin befindliche Wasser (auch geeignet für Säfte und Rotwein) wird in seiner Lebenskraft gestärkt und im Geschmack blumiger. Am Boden der Karaffe ist das Symbol der BLUME DES LEBENS in das Glas eingebrannt, welches für erleuchtete Seele steht und Schöpferkraft.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch 
+
+* Edelsteinwasser-Set für energetisiertes Wasser
+
+Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Edelstein-Set aus Amethyst, Rosenquarz und Bergkristall. Die Steine entfalten im Wasser ihre heilsamen Eigenschaften, wodurch eine energetisch lebendige Signatur entsteht, ähnlich wie bei frischem Bergquellwasser. Auch in den Sets "Kraft & Mut" und "Vital & Fit" mit anderen hochwertigen Heilsteinen zur Wasseraufbereitung verfügbar - da ist definitiv für jeden das richtige Geschenk dabei :)
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wiederverwendbar, kein Eigengeschmack, hochwertige Verpackung mit Holzschatulle und Jutesäckchen macht es zum perfekten Geschenk!
+
+#### Tipp 3: Geschenke für Körper, Geist & Seele
+
+#### Tipp 1: Klang
+
+* Tibetische Lingam-Klangschale
+
+Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepalesischen Kunsthandwerkern in Handarbeit hergestellt und ich ein Must-Have für jedes spirituelle Zuhause. Diese Klangschale ist einzigartig durch einen Lingam gekennzeichnet - einen kleinen Vorsprung in der Mitte der inneren Schale, der eine schöne Resonanz erzeugt, die Yoga, Meditation, Gebet, Chakra-Heilung und Geisteshaltung fördert. Der Klang und die Schwingungen fördern einen entspannten Zustand, der sich perfekt für tiefe Meditation, kreatives Denken und intuitive Botschaften eignet.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Verzaubernde Töne für holistische Heilungsprozesse, auf garantierte perfekte Klangqualität geprüft, lebenslange Garantie, kompaktes Set und einzigartiges Design mit handgenähten tibetischen Baumwollkissen
+
+* Heilendes Klangspiel von WOODSTOCK
+
+Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - dieses Glockenspiel von WOODSTOCK ist nicht nur wunderschön anzusehen, sondern erzeugt eine einzigartig magische Stimmung, die so ungewöhnlich und tröstlich ist. Durch die Präzisionstastatur entsteht die Illusion von vielen mehr Noten als es Röhren gibt. 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
 
 #### Tipp 5: Schmuck & Edelsteine
+
+schamanische Geschenke
 
 #### Tipp 1: Meditation & Yoga
 
 #### Tipp 1: Deko & Licht
 
-Wasser energetisieren
+#### Tipp 1: DIY spirituelle Geschenke
 
-> ###### Formvollendetes Feng Shui Design in 6-welliger Dynamik nach dem Naturgesetz des Goldenen Schnitts. Das darin befindliche Wasser (auch geeignet für Säfte und Rotwein) wird in seiner Lebenskraft gestärkt und im Geschmack blumiger. Der Begründer des QI-Mag International Feng Shui Geobiology Institute, Prof. Dr. T.Y. Lim, testete die Karaffe auf stark rechtsdrehende Vitalenergie. Nach ca. 5 Minuten weist das darin befindliche Wasser eine Vitalkraft ähnlich des Wassers aus der Quelle in Lourdes auf. Die Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff. Am Boden der Karaffe ist das Symbol der BLUME DES LEBENS in das Glas eingebrannt. Die BLUME DES LEBENS ist ein Symbol für die erleuchtete Seele und wurde bereits in alten Kulturen zur Aufbereitung und Vitalisierung von Nahrungsmitteln verwendet. Die perfekte Harmonie der BLUME DES LEBENS lädt die in der Karaffe und in den Gläsern befindlichen Flüssigkeiten mit positiver Energie auf und verwandelt durch ihre Ausstrahlung die Umgebung. Die goldene Blume des Lebens - Vitalkaraffen Die goldene Blume des Lebens energetisiert das Wasser zusätzlich mit Schöpferkraft. Gold ist der Sonne zugeordnet - es wird auch "materialisiertes Lichtundquot; genannt. Bitte von Hand pflegen und nur für kühle oder lauwarme Getränke verwenden. Golden Aladdin Vitalkaraffe mit Stöpsel Inhalt 1,3 l
+* Makramee DIY Set
 
-[https://amzn.to/3lNXGtL](https://amzn.to/3lNXGtL "https://amzn.to/3lNXGtL")
+Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenkst - hier könnt ihr eurer Fantasie freien Lauf lassen und wunderschöne Makramee-Meisterwerke wie Pflanzenaufhänger, Wandbehänge, Traumfänger, Wandteppiche oder vieles mehr kreieren. Dieses Set eignet sich perfekt für jegliche Bastelvorhaben und mit dem großen Makramee-Buch dazu gibt es auch noch alle wichtigen Grundlagen, Anleitungen & Knotentechniken - ein perfektes Geschenk-Set für Kreative und alle die es werden wollen :)
 
-    <a href="https://www.amazon.de/Natures-Design-Golden-Alladin-Liter-Karaffe/dp/B002EIWP04/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YETP9XZEDK7D&dchild=1&keywords=karaffe+energie&qid=1607355341&sprefix=karaffe+ener,aps,229&sr=8-2&linkCode=li2&tag=innerlight06-21&linkId=0db7dedb76be76af52799085d9137ec8&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002EIWP04&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B002EIWP04" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+> **_Was macht dieses Geschenk besonders?_**
+>
+> weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
 
 ### 1 Entdecke dein wahres Selbst
 

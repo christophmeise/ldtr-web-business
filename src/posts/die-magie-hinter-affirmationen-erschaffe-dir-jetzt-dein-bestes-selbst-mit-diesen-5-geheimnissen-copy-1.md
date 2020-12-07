@@ -73,9 +73,47 @@ Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das 
 
 #### Tipp 2: Wohnen & Leben
 
-* Blume des Lebens Mobile
+* Blume des Lebens-Windspiel
 
-Blume des Lebens Mobile aus Edelstahl Dieses uralte kosmische Symbol erzeugt ein absolut harmonisches Schwingungsfeld. Faszinierendes Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschaffen. Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
+Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.Blume des Lebens Mobile aus Edelstahl 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
+
+* Wandteppich
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+* Makramee Wandbehang
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+#### Tipp 3: Geschenke für Körper, Geist & Seele
+
+* Ayurveda Kochbuch
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+* Achtsamkeitskalender
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
 
 * Vital-Karaffe für energetisiertes Wasser 
 
@@ -93,9 +131,7 @@ Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Edelstein-Se
 >
 > Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wiederverwendbar, kein Eigengeschmack, hochwertige Verpackung mit Holzschatulle und Jutesäckchen macht es zum perfekten Geschenk!
 
-#### Tipp 3: Geschenke für Körper, Geist & Seele
-
-#### Tipp 1: Klang
+#### Tipp 4: Klang
 
 * Tibetische Lingam-Klangschale
 
@@ -113,15 +149,45 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 >
 > Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
 
-#### Tipp 5: Schmuck & Edelsteine
-
 schamanische Geschenke
 
-#### Tipp 1: Meditation & Yoga
+#### Tipp 5: Meditation & Yoga
 
-#### Tipp 1: Deko & Licht
+* Meditationskissen mit Kapokfüllung
 
-#### Tipp 1: DIY spirituelle Geschenke
+Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um ein absolut perfektes Geschenk für jeden - es ist nicht nur wunderschön anzusehen, sondern hat auch einen unglaublich großen Einsatzbereich drinnen und draußen, da die Kapokfaser keine Feuchtigkeit aufnimmt. Für alle Yogis ist dieses Kissen der neue Lieblingsbegleiter für Meditation und Yoga-Sessions.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität
+
+* Yoga Blöcke 
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+#### Tipp 6: Journaling
+
+* Das 6-Minuten-Tagebuch
+
+Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und Familie - dieses Tagebuch ist ein simples und wissenschaftlich fundiertes Journal für ein glücklicheres, erfüllteres Leben. Das wunderschöne Design in Kombination mit den praxiserprobten Prinzipien der positiven Psychologie macht es zur pure Freude jeden Tag mehr Fokus auf das Gute zu legen und seine Selbstreflektion zu verbessern. Verschenke mehr Dankbarkeit, Achtsamkeit, Gelassenheit und Selbstliebe!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen
+
+* Tagebuch & Notizbuch 
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+#### Tipp 7: DIY spirituelle Geschenke
 
 * Makramee DIY Set
 
@@ -130,6 +196,14 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 > **_Was macht dieses Geschenk besonders?_**
 >
 > weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
+
+* Räucherset
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
 
 ### 1 Entdecke dein wahres Selbst
 

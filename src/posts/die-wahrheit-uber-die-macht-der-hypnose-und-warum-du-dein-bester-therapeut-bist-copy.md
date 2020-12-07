@@ -3,7 +3,7 @@ title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst m
   diesen 5 Geheimnissen
 path: "/die-magie-von-affirmationen"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2020-12-31T00:00:00+01:00
+date: 2020-12-31T00:00:00.000+01:00
 tags:
 - Selflove
 - Personal Development
@@ -31,7 +31,11 @@ blocks:
 ---
 ### Ist Hypnose gefährlich?
 
-Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
+## [SO wirken Affirmationen 100x stärker (Geheimer Trick!)](https://www.12trance.de/affirmationen-verstaerken/)
+
+[https://www.12trance.de/affirmationen-ver](https://www.12trance.de/affirmationen-ver "https://www.12trance.de/affirmationen-ver")[**staerken**](https://www.12trance.de/affirmationen-verstaerken/)
+
+Affirmationen können dir im Leben vielseitig nützlich sein und dein Unterbewusstsein regelrecht umprogrammieren. So kannst du z. B. deine Selbstheilung fördern, Selbstbewusstsein aufbauen, Selbstliebe stärken, besser Einschlafen, mehr Glück, Erfolg oder Reichtum im Leben ziehen und noch vieles, vieles mehr. Was Affirmationen genau sind, wie sie funktionieren und wie du sie anwenden musst, damit sie wirklich auf dich wirken können erfährst du in diesem Beitrag
 
 #### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
 

@@ -4,11 +4,8 @@ path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg"
 date: 2020-12-06T00:00:00+01:00
 tags:
-- Selflove
-- Personal Development
-- Corona
-- Selbsthilfe
-- Selbstliebe Tipps
+- Geschenke
+- Spiritualität
 blocks:
 - template: introduction
   images:

@@ -277,7 +277,7 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 
 ### **Tipp 9: Super Food**
 
-#### ↠ Ayurveda Kochbuch ↞ 
+#### ↠ Ayurveda Kochbuch ↞
 
 Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine Reise ins alte Indien, um sich von der Lebensphilosophie des Ayurveda inspirieren zu lassen. Das perfekte Kochbuch zum Entgiften und zur Aktivierung der Selbstheilungskräfte.
 
@@ -328,6 +328,8 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 ***
 
 **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
+
+![](../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg)
 
 ***
 

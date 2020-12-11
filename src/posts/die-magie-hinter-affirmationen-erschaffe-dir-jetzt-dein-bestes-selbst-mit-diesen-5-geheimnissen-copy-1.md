@@ -89,7 +89,7 @@ Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das 
 >
 > Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
 
-**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [**hier__]()***.**
+**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier]()***.**
 
 ***
 

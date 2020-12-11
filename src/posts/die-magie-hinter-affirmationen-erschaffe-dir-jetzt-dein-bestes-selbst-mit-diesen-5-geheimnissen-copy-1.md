@@ -2,7 +2,7 @@
 title: Die 10 besten Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg"
-date: 2020-12-25T00:00:00+01:00
+date: 2020-12-25T00:00:00.000+01:00
 tags:
 - Geschenke
 - Spiritualität
@@ -27,15 +27,19 @@ blocks:
 ---
 ### Geschenke vom Herzen für die Seele
 
-Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste an Weihnachten ist für mich daher nicht nur Zeit mit meinen Liebsten zu verbringen, sondern ihnen _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. Willst auch Du dieses Jahr tiefsinnige, bedeutsame Geschenke machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben ist? Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine Top 10 Geschenkideen für Weihnachten und jeden anderen besonderen Anlass zusammengestellt.
+Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste an Weihnachten ist für mich daher nicht nur Zeit mit meinen Liebsten zu verbringen, sondern ihnen _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Willst auch Du dieses Jahr tiefsinnige, bedeutsame Geschenke machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben ist?_** Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für Weihnachten und jeden anderen besonderen Anlass** zusammengestellt.
 
 #### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine Top 10 Geschenke Tipps zusammengestellt, die sowohl spirituelle Sucher, nachhaltig orientierte Menschen als auch Wohlfühl-Liebhaber erstrahlen lassen werden. Los geht´s!
+Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden. 
+
+Damit deine spirituellen Geschenke **rechtzeitig bis Weihnachten** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
 ### Die 10 besten spirituellen Geschenke Tipps
 
-Spirituelle, nachhaltige Geschenke müssen nicht teuer sein. Geschenke für ein bewussteres, schöneres und erfülltes Leben - nicht nur Geschenke für Frauen, sondern für wirklich jeden. Zwischen 10 Euro und 50 Euro
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituellen Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden. 
+
+Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit  deine Weihnachtsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
 
 #### Tipp 1: Räucherwerk
 
@@ -46,6 +50,8 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
+>
+>     
 
 * Räucherstäbchen Halterung
 
@@ -57,11 +63,11 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Ha
 
 * Räucherbündel zur Energetischen Reinigung
 
-Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause. 
+Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes Set zur energetischen Reinigung
+> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung 
 
 * Handbuch über Räucher-Anwendung, Wirkung & Rituale
 
@@ -75,53 +81,29 @@ Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das 
 
 * Blume des Lebens-Windspiel
 
-Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.Blume des Lebens Mobile aus Edelstahl 
+Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
 
-* Wandteppich
+* Mandala-Wandteppich
 
-...
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> ...
-
-* Makramee Wandbehang
-
-...
+Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke mit diesem wunderschönen Tuch ein Hauch Indien für zu Hause. Ob zur Dekoration als Wandteppich, als Tischdecke, als Tagesdecke oder Yogamatten-Handtuch - damit machst du spirituellen Menschen auf jeden Fall eine große Freude!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> ...
+> 100 % Baumwolle, handgefertigt in Indien mit traditionellen Methoden, wunderschönes Design, vielseitig einsetzbar
 
-#### Tipp 3: Geschenke für Körper, Geist & Seele
+#### Tipp 3: Energie-Wasser
 
-* Ayurveda Kochbuch
-
-...
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> ...
-
-* Achtsamkeitskalender
-
-...
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> ...
-
-* Vital-Karaffe für energetisiertes Wasser 
+* Vital-Karaffe für energetisiertes Wasser
 
 Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach dem Naturgesetz des Goldenen Schnitts ist nicht nur ein wahrer Hingucker und ein wunderschönes Geschenk für jeden Tag. Das darin befindliche Wasser (auch geeignet für Säfte und Rotwein) wird in seiner Lebenskraft gestärkt und im Geschmack blumiger. Am Boden der Karaffe ist das Symbol der BLUME DES LEBENS in das Glas eingebrannt, welches für erleuchtete Seele steht und Schöpferkraft.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch 
+> Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch
 
 * Edelsteinwasser-Set für energetisiertes Wasser
 
@@ -143,13 +125,11 @@ Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepal
 
 * Heilendes Klangspiel von WOODSTOCK
 
-Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - dieses Glockenspiel von WOODSTOCK ist nicht nur wunderschön anzusehen, sondern erzeugt eine einzigartig magische Stimmung, die so ungewöhnlich und tröstlich ist. Durch die Präzisionstastatur entsteht die Illusion von vielen mehr Noten als es Röhren gibt. 
+Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - dieses Glockenspiel von WOODSTOCK ist nicht nur wunderschön anzusehen, sondern erzeugt eine einzigartig magische Stimmung, die so ungewöhnlich und tröstlich ist. Durch die Präzisionstastatur entsteht die Illusion von vielen mehr Noten als es Röhren gibt.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
-
-schamanische Geschenke
 
 #### Tipp 5: Meditation & Yoga
 
@@ -161,13 +141,13 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 >
 > Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität
 
-* Yoga Blöcke 
+* Yoga Blöcke
 
-...
+Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premium Yoga-Set aus Naturkork! Auch für Workouts und Trainingseinheit sämtlicher Art eignen sich diese Blöcke ausgezeichnet. Zum 2er Set gibt es auch noch einen praktischen Jutebeutel dazu.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> ...
+> aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar
 
 #### Tipp 6: Journaling
 
@@ -179,13 +159,13 @@ Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und F
 >
 > Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen
 
-* Tagebuch & Notizbuch 
+* Tagebuch & Notizbuch
 
-...
+Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - dieses wundervoll designte Notizbuch bietet den optimalen Platz um Kreativität zu wecken, Selbstentfaltung zu fördern und besondere Momente zu zelebrieren. Auch wunderbar als Tagebuch geeignet. Den perfekten Kugelschreiber kannst du direkt dazu verschenken!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> ...
+> wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich 
 
 #### Tipp 7: DIY spirituelle Geschenke
 
@@ -197,111 +177,70 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 >
 > weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
 
-* Räucherset
+* Räuchermischung-Set
 
-...
+Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste verschenkst du kreative Momente, um die persönlichen Räuchermischungen herzustellen. In diesem Set ist alles was man braucht dabei - u.a.13 Räucherwerke in ihrer natürlichen Form, 1x Rolle mit 10 Räucherkohletabletten, 300 g Räuchersand, einem Räucherlöffel aus Kupfer und ein kleines Rezeptbuch für persönliche Notizen.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> ...
+> komplettes DIY Räucher-Set mit 22 Bestandteilen originell verpackt in stabiler Holzkiste, mit Booklet zum Mischen eigener Rezepturen, mit Räucherschale aus Speckstein (Unikat) und passendem Korkuntersetzer
 
-### 1 Entdecke dein wahres Selbst
+#### Tipp 8: Bücher, die das Leben schöner machen
 
-Um dein Selbst zu lieben, ist es wichtig zu erfahren, wer genau du denn eigentlich bist. Viel zu oft übernehmen wir ungefiltert Glaubenssätze, Werte, Lebenspläne und Annahmen von anderen - ohne zu prüfen, ob uns all das zu einem glücklichem Leben nach _unseren eigenen_ Vorstellungen führt.
+* Die Kuh, die weinte
 
-**Deine Selbsterkenntnis-Fragen:**
+Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses besondere Buch regt mit jeder der 108 buddhistische Geschichten dazu an, innezuhalten, um über den eigenen Lebensweg nachzudenken. Geschichten über den Weg zum Glück - voller Inspiration, verblüffender Erkenntnisse und immer unterhaltsam. Ohne religiösen Fachjargon werden Leser jeden Alters angesprochen - nie wurden die buddhistischen Lehren unterhaltsamer präsentiert!
 
-* Was bedeutet Selbstliebe für mich?
-* In welchen Momenten habe ich das Gefühl richtig gut für mich zu sorgen? Für mich einzustehen und mir etwas Gutes zu tun?
-* Wie sieht ein perfekter Morgen/Tag/Abend für mich aus?
-* In welchen Momenten fühle ich mich richtig glücklich?
-* Welche Eigenschaften bewundere ich an anderen Menschen?
-* Was sagt mir mein innerer Kritiker, wenn ich einen "Fehler" mache?
-* Was nimmt mir viel Energie?
+> **_Was macht dieses Geschenk besonders?_**
+>
+> inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt
 
-Nimm dir einen Zettel, dein Tagebuch oder ein Notizbuch und notiere deine Antworten auf diese Fragen. Lass dir dafür Zeit, fühle in dich hinein und schaue hinter all die Vorprägungen aus deiner Umgebung. **Du kannst wirklich stolz auf dich sein, dass du so mutig bist einfach mal genauer hin zu sehen - du machst das fantastisch!**
+* Das Café am Rande der Welt
 
-### 2 Erwecke deinen inneren Cheerleader
+Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese Sonderedition von John Strelecky ist beinhaltet eine zusätzliche Weihnachtsgeschichte - ein perfektes Buch für besinnliche Stunden unter dem Weihnachtsbaum.
 
-Viel zu oft erlauben wir es unserem Inneren Kritiker uns für jede Kleinigkeit, die nicht so läuft wie geplant, schlecht zu machen. Eigentlich können wir es ihm gar nicht recht machen, oder? Jetzt überleg mal wie du mit deiner besten Freundin bzw. besten Freund umgehst - gerade dann, wenn sie nicht perfekt sind. Wir bringen Liebe und Verständnis auf, und genau so solltest du ab sofort auch mit dir umgehen! **Die wichtigsten Worte, die du jemals hören wirst, sind die Worte, die du zu dir selbst sagst.** Also sprich ab sofort mit Dir als wärst du dein größter Fan! Wenn du ein Kompliment von jemanden bekommst, kann dein Verstand sich immer noch dazwischen schalten: ‘Ja, das ist ja ganz nett, aber das Kompliment kommt ja eh nur, weil sie gern in deinem Freundeskreis sein will. Oder weil sie das gleiche von mir hören möchte.’ Wenn du dir aber selbst ein Kompliment machst, hat dein Verstand keine andere Wahl als dir zu glauben. **Überschütte dich also mit Komplimenten!** Stell dich vor den Spiegel, schau dir in die Augen und sag dir all die wundervollen Worte, die du dir von deinem Partner, von deinen Eltern oder von deiner Freundin wünschst. Je verrückter du dich dabei fühlst, desto effektiver ist es und verändert auf Dauer deine komplette Beziehung zu dir selbst.
+> **_Was macht dieses Geschenk besonders?_**
+>
+> lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
 
-Wenn es deinem inneren Cheerleader am Anfang schwer fällt liebevolle, aufmunternde und positive Worte zu finden, sind Affirmationen eine großartige Unterstützung. Nächste Woche veröffentliche ich einen **neuen Blog-Artikel** in dem du wundervolle Selbstliebe-Affirmationen von mir bekommst und erfährst, was die Magie hinter Affirmationen ist!
+#### Tipp 9: Super Food 
+
+* Ayurveda Kochbuch
+
+Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine Reise ins alte Indien, um sich von der Lebensphilosophie des Ayurveda inspirieren zu lassen. Das perfekte Kochbuch zum Entgiften und zur Aktivierung der Selbstheilungskräfte. 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test
+
+* Ayurvedisches Superfood
+
+Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Pulver einfach ins Müsli, Joghurt oder Smoothie mischen und die Superfood-Zutaten wie Maca, Baobab und Q10 ihre Superkräfte entfalten lassen.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz
+
+#### Tipp 10: Spende schenken
+
+* Treedom
+
+Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk haben deine Liebsten bestimmt noch nicht oft bekommen - wie wäre es zum Beispiel mit einem Mango-Baum als besonderes Weihnachtsgeschenk für Mama, der für Glück steht und 700 kg CO2 ausgleicht? Und für die Bestellung brauchst du nur eine Minute - Let´s green the planet! 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied! 
+
+* Oxam Unverpackt
+
+Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen die nichts besitzen eine neue Perspektive. Wie wäre es mit einer 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig
+
+**Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
 
 ***
 
-### 3 Finde deine Sprache der Liebe
-
-Wenn es um unseren Ausdruck der Liebe geht, ist es wichtig zu erkennen, dass wir nicht alle dieselbe Muttersprache haben. Um dir Selbst die Liebe zu geben, die du brauchst, ist der erste Schritt zu erfahren, welche Sprache der Liebe du sprichst.
-
-Wenn deine Liebessprache _Lob und Anerkennung_ ist oder dir _Geschenke_ besonders viel bedeuten, achte darauf dich bei jeder kleinen und großen Errungenschaft mit liebevollen Worten oder Belohnungen zu erfreuen. Die Postkarte mit dem süßen Spruch, der dich zum Lachen gebracht hat? Hol sie dir und häng sie an deine Wand! Die stylischen Schuhe, die du gesehen hast? Gönn sie dir!
-
-Wenn deine Sprache der Liebe die _Zweisamkeit_ ist, setze dir regelmäßig Date-with-myself Tage, an denen es nur darum geht Dinge zu tun, die dich glücklich machen - ein Schaumbad, dein Lieblingsspiel, stundenlang deine Feel-good-Serie schauen oder allein in der Natur spazieren gehen? Do it!
-
-Ist deine Sprache der Liebe die _Hilfsbereitschaft_, achte darauf dir selbst die Frage zu stellen: Was kann ich Gutes für mich tun? Wobei brauche ich Unterstützung? Lerne die Hilfe von Freunden und Familie aktiv zu erbitten und anzunehmen. Du wirst merken, wie deine Selbstliebe sich ganz einfach steigert, wenn du für dich und deine Bedürfnisse einstehst und merkst wie gern andere für dich da sind!
-
-Die fünfte Sprache der Liebe ist _Zärtlichkeit_ - und ist ein wundervoller Ausdruck von Selbstliebe. Creme dich ausgiebig ein, geh zur Massage, gönn dir eine Gesichtsmaske und genieße es dich selbst zu spüren - denn wir selbst wissen doch immer noch am allerbesten welche Berührungen sich für uns fantastisch anfühlen.
-
-Du kennst deine Sprache der Liebe nicht? [Hier](https://www.5lovelanguages.com/quizzes/ "5 Sprachen der Liebe Test") kannst du den Test machen!
-
-![](../../uploads/annie-spratt-wqc8hvau2sy-unsplash.jpg)
-
-### 4 Vergib dir selbst
-
-> ###### _"Loslassen ist der Schlüssel zum Glück." - Buddha_
-
-Wir alle tragen alte Wunden, alte Glaubenssätze und Gewohnheiten aus unserer Vergangenheit in uns. Diese sind entstanden, weil wir Erlebnissen, Begegnungen und Erfahrungen eine bestimmte Bedeutung zugesprochen haben. Wir haben Entscheidungen über uns, über andere und über die Welt getroffen. Die Frage ist - Wie dienen dir deine vergangenen Entscheidungen jetzt in diesem Moment? Was bringt es dir wirklich dir selbst oder anderen nicht zu verzeihen? Deine Vergangenheit definiert nicht deine Gegenwart, nicht deine Zukunft - nicht wer du bist. Tatsächlich ist das Einzige, was uns an unseren alten Wunden festhalten lässt, unser Verstand. Dieser versucht uns sicher zu halten, vor Verletzung zu schützen, uns am Leben zu erhalten - seine Aufgabe ist es nicht uns glücklich zu machen. **Das ist deine Aufgabe!**
-
-Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet dich selbst anzunehmen, dir selbst verzeihen zu können und es dir keinen Tag länger zuzumuten den Schmerz aus der Vergangenheit immer und immer wieder zu durchleben indem du an negative Emotionen festhälst. Wenn deine Geschichte nicht dazu beiträgt, dass du dich frei und in deiner besten Version fühlst, dann gibt es keinen Grund an der Vergangenheit festzuhalten. Denn du verdienst es glücklich zu sein - du darfst dir selbst _jetzt_ in diesem Moment vergeben.
-
-**Je mehr Verständnis du für dich selbst aufbringst, desto liebevoller ist auch der Umgang mit dir selbst.** Nur, wenn wir es schaffen uns so zu akzeptieren wie wir sind - mit allem was dazu gehört - werden wir Frieden mit uns schließen und endlich mehr Selbstliebe erfahren. Bist du bereit? Los geht’s!
-
-* **_Schritt 1: Akzeptiere was ist_**  
-  ... denn das einzig Wahre ist dein Hier und Jetzt. Dieser Moment, in dem du diese Worte ließt. Alles andere passiert nur in deinem Kopf. Annahme und Hingabe an das, was ist, geben dir nicht nur deinen inneren Frieden zurück, sondern erlauben es dir auch endlich deinen Widerstand aufzugeben - gegen das was war, gegen das was ist, gegen dich selbst und die Welt.
-* **_Schritt 2: Verändere deine Schlussfolgerungen_**  
-  Du kannst die Vergangenheit nicht ändern. Das fühlt sich erstmal sehr endgültig an. Aber ich habe eine Überraschung für dich - das brauchst du auch nicht um frei davon zu sein! Oft denken wir, dass etwas nun mal so passiert ist und wir uns deswegen gar nicht anders fühlen können. Tatsächlich ist aber das Einzige was zählt, welche Schlussfolgerungen du auf Grund deiner Erfahrung über dich und die Welt getroffen hast. Verändere also deine Perspektive auf die Situation und dich, damit du neue Schlussfolgerungen treffen kannst! Dazu kannst du dir folgende Fragen stellen:
-  * _Welche drei Dinge sind als positives Resultat aus dieser vergangenen Situation entstanden?_
-  * _Was habe ich aus der Situation oder dank dieser Schwäche von mir für mein Leben gelernt?_
-  * _Wovor hat mich die Situation oder diese Schwäche von mir beschützt?_
-
-> _Schreibe die Antworten auf und mach dich darauf gefasst, dass dein Verstand dich glauben lassen will, dass es da nichts Positives gibt. Bleib dran, verändere deine Perspektive - Du findest etwas, du machst das fantastisch!_
-
-* **_Schritt 3: Lasse Hilfe zu_**
-
-  Selbstcoaching ist eine großartige Sache. Es gibt unzählige Tools, Bücher und Möglichkeiten, mit denen wir uns selbst helfen, Probleme lösen und immer weiter entwickeln können. Es gibt aber auch einfach Situationen, in denen du dich fragst, wie viele Ratgeber und Tipps du noch lesen sollst damit sich doch wieder Nichts in deinem Leben ändert. Wenn du vielleicht denkst „Die Tipps klingen zum Teil ja ganz toll... Aber ich kann das nicht. Für mich funktioniert das alles nicht.“ Oder du beim Lesen gemerkt hast, dass du dich eigentlich andauernd kritisierst. Dass du dich nur selten unbeschwert fühlst und du dein Leben eher als Belastung empfindest, dann ist **jetzt** der Moment, um die Unterstützung zu bekommen, die du verdienst!
-
-  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein kostenloses Beratungsgespräch mit mir [hier](https://innerlight-hypnotherapy.com/book-call "Hypnosetherapie Gratis Beratung") und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
-
-  Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre [hier](https://innerlight-hypnotherapy.com/innerlight-hypnotherapy "About Me: RTT Therapeutin & Hypnose-Coach Christin Meise") mehr zu mir und wie ich dich unterstützen kann!
-
-  ***
-
-### 5 Nimm einen neuen Job an - starte deine innere Arbeit!
-
-Wie viel Zeit verbringst du jeden Tag damit für eine Firma zu arbeiten oder etwas für jemand anderen zu tun? Und wie viel Zeit verbringst du damit etwas für _dein_ inneres Glück, für _deine_ innere Leichtigkeit, _deinen_ inneren Frieden zu tun? Wenn du beides gegenüberstellst und merkst, dass das Mehrgewicht nicht auf deiner Selbstliebe-Seite liegt, dann ist es jetzt Zeit das zu ändern. **Du und dein Glück ist dein Nummer 1 Job** - denn niemand anderes kann diese Aufgabe für dich übernehmen. Es geht um deine Bereitschaft deine innere Arbeit zu tun.
-
-Es ist _deine_ Entscheidung DICH von jetzt an zu deiner obersten Priorität zu machen und Selbstliebe in dein Leben zu bringen. Denn wenn du dich selbst beginnst zu lieben, wirst du merken **wie sich plötzlich dein ganzes Leben verändert**. Plötzlich kümmerst du dich mehr und mehr um dich selbst, du beginnst deine  Grenzen wahrzunehmen und zu kommunizieren. Du respektierst deine Bedürfnisse und hörst plötzlich immer mehr auf dein Herz und deine innere Stimme.
-
-> **Wenn du dich selbst liebst, sind für dich dein Glück, deine Gesundheit und deine Erfüllung von höchster Bedeutung - und du erkennst, dass du ohne Selbstliebe nie in der Lage sein wirst, andere wirklich zu lieben.**
-
-### ![](../../uploads/jackson-david-wuydtfap3t4-unsplash.jpg)Ändere deine Glaubenssätze und du veränderst dein Leben
-
-Wenn wir wirklich etwas ändern wollen, ist es notwendig zu verändern was wir täglich tun. Dabei geht es darum dein _GEWOHNTES ICH_ aufzugeben, damit dein _WAHRES ICH_ zum erstrahlen kommen kann. Doch wie kommst du weg von deinem gewohnten und hin zu deinem wahren Ich?
-
-Deine Glaubenssätze bestimmen dein Verhalten, dein Verhalten bestimmt deine Erfahrungen. Zum Beispiel hast du den Glaubenssatz 'Ich bin nicht genug'. Dein Verhalten ist, dass du versuchst mehr zu erreichen, mehr zu sein, mehr zu haben und anderen gerecht zu werden, um die Bestätigung zu bekommen, dass du - _wenn du nur genug getan hast_ - endlich genug bist. Deine Erfahrung ist, dass du immer wieder Beweise dafür finden wirst, dass dein Grundglaubenssatz richtig ist - nämlich dass du nicht genug bist. So funktioniert unser Verstand nun mal. Deswegen finden wir uns immer wieder in toxischen Beziehungen wider, in Jobs die uns unglücklich machen oder in anderweitigen Situationen, die uns genau das bestätigen, was wir unterbewusst für wahr halten. Nämlich dass wir nicht genug sind.
-
-Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkreis** zu machen! Ein Lichtkreis führt dazu, dass du dein inneres Licht mehr und mehr erstrahlen lassen kannst. Deine negativen Glaubenssätze sind tief in deinem Unterbewusstsein verankert und lassen sich am schnellsten und erfolgreichsten mit eine Hypnose-Therapie nach der [Rapid Transformational Therapy™](https://innerlight-hypnotherapy.com/rtt "Was ist Rapid Transformational Therapy?") durch positive, lebensbejahende Glaubenssätze ersetzen. **DU bist genug - genau so wie du jetzt bist.** Mit allen Ecken und Kanten. Und nach nur ein bis drei Sessions wirst du dir nicht mehr vorstellen können, dass du jemals etwas anderes gedacht und gefühlt hast.
-
-### Mache Selbst-Liebe zu deiner täglichen Routine
-
-Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
-
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: [goldene-selbstliebe_poster.pdf](goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
-  Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
-* **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir selbst etwas Gutes zu tun.
-* **Schritt 3:** Hänge deine goldene Selbstliebe-Routine irgendwo auf, wo du sie immer siehst oder falte sie zusammen und steck sie in die Rückseite deiner Handyhülle. So oder so: **Erinnere dich so oft es geht daran, dass du es verdienst dich selbst zu lieben, dass du es Wert bist und wie du dir im Alltag diese Selbstliebe geben kannst!**
-
-#### Bist du dafür bereit?
-
-Bist du bereit die Verantwortung zu übernehmen, dir selbst die Liebe und Aufmerksamkeit zu schenken, die du verdienst? Es nicht mehr anderen zu überlassen deinen Liebestank zu füllen? Deine Macht über dein Glück zurückzuerlangen und es nicht mehr von äußeren Umständen und den Reaktionen anderer abhängig zu machen?
-
-Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich. _Namasté_
+_*Dies ist ein Affiliate-Link. Wenn du auf diesen Link klickst und einen Kauf abschließt unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts - nur das du mit deinem Kauf gleichzeitig noch etwas Wundervolles unterstützt. Danke!_

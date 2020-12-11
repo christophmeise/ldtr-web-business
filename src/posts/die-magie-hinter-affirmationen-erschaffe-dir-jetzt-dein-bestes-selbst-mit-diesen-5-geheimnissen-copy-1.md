@@ -1,15 +1,11 @@
 ---
-title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst mit
-  diesen 5 Geheimnissen
-path: "/die-magie-von-affirmationen"
-featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2020-12-31T00:00:00.000+01:00
+title: Die 10 besten Geschenkideen für spirituelle Menschen
+path: "/geschenke-fuer-spirituelle-Menschen"
+featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg"
+date: 2020-12-25T00:00:00+01:00
 tags:
-- Selflove
-- Personal Development
-- Corona
-- Selbsthilfe
-- Selbstliebe Tipps
+- Geschenke
+- Spiritualität
 blocks:
 - template: introduction
   images:
@@ -29,31 +25,185 @@ blocks:
   title: test
 
 ---
-### Ist Hypnose gefährlich?
+### Geschenke vom Herzen für die Seele
 
-## [SO wirken Affirmationen 100x stärker (Geheimer Trick!)](https://www.12trance.de/affirmationen-verstaerken/)
+Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste an Weihnachten ist für mich daher nicht nur Zeit mit meinen Liebsten zu verbringen, sondern ihnen _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. Willst auch Du dieses Jahr tiefsinnige, bedeutsame Geschenke machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben ist? Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine Top 10 Geschenkideen für Weihnachten und jeden anderen besonderen Anlass zusammengestellt.
 
-[https://www.12trance.de/affirmationen-ver](https://www.12trance.de/affirmationen-ver "https://www.12trance.de/affirmationen-ver")[**staerken**](https://www.12trance.de/affirmationen-verstaerken/)
+#### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Affirmationen können dir im Leben vielseitig nützlich sein und dein Unterbewusstsein regelrecht umprogrammieren. So kannst du z. B. deine Selbstheilung fördern, Selbstbewusstsein aufbauen, Selbstliebe stärken, besser Einschlafen, mehr Glück, Erfolg oder Reichtum im Leben ziehen und noch vieles, vieles mehr. Was Affirmationen genau sind, wie sie funktionieren und wie du sie anwenden musst, damit sie wirklich auf dich wirken können erfährst du in diesem Beitrag
+Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine Top 10 Geschenke Tipps zusammengestellt, die sowohl spirituelle Sucher, nachhaltig orientierte Menschen als auch Wohlfühl-Liebhaber erstrahlen lassen werden. Los geht´s!
 
-#### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
+### Die 10 besten spirituellen Geschenke Tipps
 
-Wenn es dir wie mir vor einigen Jahren geht, dann kommen bei dir jedes mal wenn du solche Selbstliebe-Sprüche hörst, folgende "Aber´s" in deinen Kopf: Ja, okay, dann liebe ich mich. Aber... bedingungslos? Also liebenswert sein ohne dafür etwas zu tun? Genug sein ohne das perfekte Körpergewicht? Stolz auf mich sein, auch wenn ich die nächste Karrierestufe noch nicht erreicht habe? In einer Gesellschaft, die besessen ist von Perfektion, sind solche Aussagen für uns schwer annehmbar. Kein Wunder, denn wir leben in einer Leistungsgesellschaft, in der es in allen Lebensbereichen nur um schneller, höher und grundsätzlich immer um “mehr” zu gehen scheint. **Und doch spüren wir, dass uns dieses Denken unglücklich macht.** Dass wir der Anerkennung und der Liebe irgendwie immer hinterher zu laufen scheinen, anstatt uns jetzt in diesem Moment selbst zu 100 % so anzunehmen, so zu lieben, wie wir sind. Mit allen Ecken und Kanten.
+Spirituelle, nachhaltige Geschenke müssen nicht teuer sein. Geschenke für ein bewussteres, schöneres und erfülltes Leben - nicht nur Geschenke für Frauen, sondern für wirklich jeden. Zwischen 10 Euro und 50 Euro
 
-### Deine perfekte Liebesgeschichte beginnt jetzt
+#### Tipp 1: Räucherwerk
 
-Kannst du von dir selbst sagen, dass du dich ohne Bedingungen liebst? Also genau so wie du jetzt in diesem Moment bist? Corona und Quarantäne bringen uns gezwungenermaßen dazu zu erfahren, ob wir mit uns selbst glücklich sind. Ob wir die Zeit mit uns selbst genießen. Wenn du dir nicht sicher bist, dann mache den **Selbstliebe-Test**: _Stell dich ein paar Minuten vor den Spiegel, schau dir tief in die Augen und sage dir dann laut "Ich liebe dich, \[dein Name\]"._ Wie fühlst du dich dabei? Wenn du dabei Widerstand in dir spürst, es schwierig war deinem Selbst ein Liebesgeständnis zu machen oder du den Satz gar nicht erst über die Lippen bekommen hast - fühl dich bitte auf keinen Fall schlecht! Nimm es als wundervolle Chance, jetzt zu entscheiden, dass du es **verdienst** dich selbst zu lieben. Genau für dich habe ich diesen Artikel geschrieben, um dir 5 Selbstliebe-Tipps mit in deinen Alltag zu geben, die deine schönste Liebesgeschichte jetzt beginnen lassen.
+* Räucherstäbchen Set
 
-![](../../uploads/photo-1518199266791-5375a83190b7.jpg)
+Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Spiritual Masala Räucherstäbchen_ zeichnen sich durch sehr hohe Qualität, langer Brenndauer und besonders intensiven und lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
 
-### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
 
-Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst.
+* Räucherstäbchen Halterung
 
-**Weil genau dafür ist Selbstliebe deine Grundlage** - deinem Herzen zu folgen, an dich und deine Wünsche zu glauben und der Welt die Erlaubnis zu geben, dich in deinem strahlensten Licht zu sehen. Dann wirst du Liebe und Erfolg nicht mehr hinterherlaufen und immer die Angst haben alles verlieren zu können - du wirst tief in deinem Herzen wissen, dass du all das verdienst, was du dir wünschst. Dass du es wert bist.
+Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
 
-Dieser Artikel ist für dich. Um dich dabei zu unterstützen, die Beziehung zu dir selbst zu stärken, damit Du mehr Liebe, Freude und Frieden in deinem Leben erfahren kannst. Ich hoffe aus tiefsten Herzen, dass dich die folgenden Worte bestärken deinen Selbstwert zu erkennen, Liebe zu dir selbst aufbauen und du es dir erlaubst deinem Herzen zu folgen. **Alles beginnt mit Dir**. Du bist genug und du bist würdig um all das Glück zu haben, von dem Du träumst und das dich ab jetzt erwartet.
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, 10 extra Räucherkegel werden mitgeliefert
+
+* Räucherbündel zur Energetischen Reinigung
+
+Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause. 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes Set zur energetischen Reinigung
+
+* Handbuch über Räucher-Anwendung, Wirkung & Rituale
+
+Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
+
+#### Tipp 2: Wohnen & Leben
+
+* Blume des Lebens-Windspiel
+
+Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.Blume des Lebens Mobile aus Edelstahl 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
+
+* Wandteppich
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+* Makramee Wandbehang
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+#### Tipp 3: Geschenke für Körper, Geist & Seele
+
+* Ayurveda Kochbuch
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+* Achtsamkeitskalender
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+* Vital-Karaffe für energetisiertes Wasser 
+
+Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach dem Naturgesetz des Goldenen Schnitts ist nicht nur ein wahrer Hingucker und ein wunderschönes Geschenk für jeden Tag. Das darin befindliche Wasser (auch geeignet für Säfte und Rotwein) wird in seiner Lebenskraft gestärkt und im Geschmack blumiger. Am Boden der Karaffe ist das Symbol der BLUME DES LEBENS in das Glas eingebrannt, welches für erleuchtete Seele steht und Schöpferkraft.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch 
+
+* Edelsteinwasser-Set für energetisiertes Wasser
+
+Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Edelstein-Set aus Amethyst, Rosenquarz und Bergkristall. Die Steine entfalten im Wasser ihre heilsamen Eigenschaften, wodurch eine energetisch lebendige Signatur entsteht, ähnlich wie bei frischem Bergquellwasser. Auch in den Sets "Kraft & Mut" und "Vital & Fit" mit anderen hochwertigen Heilsteinen zur Wasseraufbereitung verfügbar - da ist definitiv für jeden das richtige Geschenk dabei :)
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wiederverwendbar, kein Eigengeschmack, hochwertige Verpackung mit Holzschatulle und Jutesäckchen macht es zum perfekten Geschenk!
+
+#### Tipp 4: Klang
+
+* Tibetische Lingam-Klangschale
+
+Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepalesischen Kunsthandwerkern in Handarbeit hergestellt und ich ein Must-Have für jedes spirituelle Zuhause. Diese Klangschale ist einzigartig durch einen Lingam gekennzeichnet - einen kleinen Vorsprung in der Mitte der inneren Schale, der eine schöne Resonanz erzeugt, die Yoga, Meditation, Gebet, Chakra-Heilung und Geisteshaltung fördert. Der Klang und die Schwingungen fördern einen entspannten Zustand, der sich perfekt für tiefe Meditation, kreatives Denken und intuitive Botschaften eignet.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Verzaubernde Töne für holistische Heilungsprozesse, auf garantierte perfekte Klangqualität geprüft, lebenslange Garantie, kompaktes Set und einzigartiges Design mit handgenähten tibetischen Baumwollkissen
+
+* Heilendes Klangspiel von WOODSTOCK
+
+Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - dieses Glockenspiel von WOODSTOCK ist nicht nur wunderschön anzusehen, sondern erzeugt eine einzigartig magische Stimmung, die so ungewöhnlich und tröstlich ist. Durch die Präzisionstastatur entsteht die Illusion von vielen mehr Noten als es Röhren gibt. 
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
+
+schamanische Geschenke
+
+#### Tipp 5: Meditation & Yoga
+
+* Meditationskissen mit Kapokfüllung
+
+Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um ein absolut perfektes Geschenk für jeden - es ist nicht nur wunderschön anzusehen, sondern hat auch einen unglaublich großen Einsatzbereich drinnen und draußen, da die Kapokfaser keine Feuchtigkeit aufnimmt. Für alle Yogis ist dieses Kissen der neue Lieblingsbegleiter für Meditation und Yoga-Sessions.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität
+
+* Yoga Blöcke 
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+#### Tipp 6: Journaling
+
+* Das 6-Minuten-Tagebuch
+
+Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und Familie - dieses Tagebuch ist ein simples und wissenschaftlich fundiertes Journal für ein glücklicheres, erfüllteres Leben. Das wunderschöne Design in Kombination mit den praxiserprobten Prinzipien der positiven Psychologie macht es zur pure Freude jeden Tag mehr Fokus auf das Gute zu legen und seine Selbstreflektion zu verbessern. Verschenke mehr Dankbarkeit, Achtsamkeit, Gelassenheit und Selbstliebe!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen
+
+* Tagebuch & Notizbuch 
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
+
+#### Tipp 7: DIY spirituelle Geschenke
+
+* Makramee DIY Set
+
+Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenkst - hier könnt ihr eurer Fantasie freien Lauf lassen und wunderschöne Makramee-Meisterwerke wie Pflanzenaufhänger, Wandbehänge, Traumfänger, Wandteppiche oder vieles mehr kreieren. Dieses Set eignet sich perfekt für jegliche Bastelvorhaben und mit dem großen Makramee-Buch dazu gibt es auch noch alle wichtigen Grundlagen, Anleitungen & Knotentechniken - ein perfektes Geschenk-Set für Kreative und alle die es werden wollen :)
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
+
+* Räucherset
+
+...
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> ...
 
 ### 1 Entdecke dein wahres Selbst
 

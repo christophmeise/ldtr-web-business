@@ -43,27 +43,27 @@ Damit du das passende Geschenk schnell und einfach findest habe ich die einzelne
 
 #### Tipp 1: Räucherwerk
 
-* Räucherstäbchen Set
+* **Räucherstäbchen Set**
 
-Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Spiritual Masala Räucherstäbchen_ zeichnen sich durch sehr hohe Qualität, langer Brenndauer und besonders intensiven und lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
+Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Spiritual Masala Räucherstäbchen_ zeichnen sich durch sehr hohe Qualität und besonders intensiven, lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
 
-Einzigartige Masala Räucherstäbchen im Set gibt es [bei Amazon](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")*.
+**Einzigartige Masala Räucherstäbchen im Set gibt es** [**bei Amazon**](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
 
-    <a href="https://www.amazon.de/dp/B01C0RMY86/ref=as_li_ss_il?coliid=IEOSSCWHKCZ9A&colid=FCK5BNIBCT8E&ref_=lv_ov_lig_dp_it&th=1&linkCode=li2&tag=innerlight06-21&linkId=98774e86b5f9b4d397fceafffc0c8c53&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01C0RMY86&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B01C0RMY86" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Räucherstäbchen Halterung
+* **Räucherstäbchen Halterung**
 
 Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, 10 extra Räucherkegel werden mitgeliefert
+> Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
 
-* Räucherbündel zur Energetischen Reinigung
+**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**bei Amazon**](https://amzn.to/3mclEiu "Drache Räucherstäbchen Halterung")***.**
+
+* **Räucherbündel zur Energetischen Reinigung**
 
 Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause.
 
@@ -71,7 +71,9 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
-* Handbuch über Räucher-Anwendung, Wirkung & Rituale
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**bei Amazon**](https://amzn.to/3mclEiu "Drache Räucherstäbchen Halterung")***.**
+
+Handbuch über Räucher-Anwendung, Wirkung & Rituale
 
 Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
 

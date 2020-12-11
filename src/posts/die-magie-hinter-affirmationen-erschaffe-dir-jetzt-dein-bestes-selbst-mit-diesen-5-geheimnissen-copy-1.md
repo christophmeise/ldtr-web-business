@@ -35,15 +35,17 @@ Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehunge
 
 Damit deine spirituellen Geschenke **rechtzeitig bis Weihnachten** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
+![](../../uploads/kira-auf-der-heide-ipx7j1n_xuc-unsplash.jpg)
+
 ### Die 10 besten spirituellen Geschenke Tipps
 
 Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituellen Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
 
 Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit  deine Weihnachtsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
 
-#### Tipp 1: Räucherwerk
+### **Tipp 1: Räucherwerk**
 
-* **Räucherstäbchen Set**
+#### ↠ Räucherstäbchen-Set ↞
 
 Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Spiritual Masala Räucherstäbchen_ zeichnen sich durch sehr hohe Qualität und besonders intensiven, lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
 
@@ -51,11 +53,11 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 >
 > Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
 
-**Einzigartige Masala Räucherstäbchen im Set gibt es** [**hier**](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
+**Einzigartige Masala Räucherstäbchen im Set gibt es** [**hier__](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
 
 ***
 
-* **Räucherstäbchen Halterung**
+#### ↠ Räucherstäbchen-Halterung ↞
 
 Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
 
@@ -63,11 +65,11 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Ha
 >
 > Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
 
-**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**hier**](https://amzn.to/3mclEiu "Drache Räucherstäbchen-Halterung")***.**
+**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**hier__](https://amzn.to/3mclEiu "Drache Räucherstäbchen-Halterung")***.**
 
 ***
 
-* **Räucherbündel zur Energetischen Reinigung**
+#### ↠ Räucherbündel zur Energetischen Reinigung ↞
 
 Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause.
 
@@ -75,11 +77,11 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**hier**](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**hier__](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
 
 ***
 
-* **Handbuch über Räucher-Anwendung, Wirkung & Rituale**
+#### ↠ Handbuch zur Räucher-Anwendung ↞
 
 Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
 
@@ -87,13 +89,13 @@ Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das 
 >
 > Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
 
-**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [**hier**]()***.**
+**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [**hier__]()***.**
 
 ***
 
-#### Tipp 2: Wohnen & Leben
+### **Tipp 2: Wohnen & Leben**
 
-* **Blume des Lebens-Windspiel**
+#### ↠ Blume des Lebens-Windspiel ↞
 
 Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
 
@@ -101,9 +103,11 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 >
 > Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
 
-**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [**hier**](https://amzn.to/2W6TScY "Blume des Lebens-Windspiel")***.**
+**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [**hier__](https://amzn.to/2W6TScY "Blume des Lebens-Windspiel")***.**
 
-* **Mandala Wandteppich**
+***
+
+#### ↠ Mandala Wandteppich ↞
 
 Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke mit diesem wunderschönen Tuch ein Hauch Indien für zu Hause. Ob zur Dekoration als Wandteppich, als Tischdecke, als Tagesdecke oder Yogamatten-Handtuch - damit machst du spirituellen Menschen auf jeden Fall eine große Freude!
 
@@ -111,9 +115,13 @@ Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke
 >
 > 100 % Baumwolle, handgefertigt in Indien mit traditionellen Methoden, wunderschönes Design, vielseitig einsetzbar
 
-#### Tipp 3: Energie-Wasser
+**Traditionelle Mandala Wandteppiche in weiß-gold gibt es** [**hier__](https://amzn.to/3gG0BUI "Mandala Tuch weiß-gold")***.**
 
-* Vital-Karaffe für energetisiertes Wasser
+***
+
+### **Tipp 3: Energie-Wasser**
+
+#### ↠ Vital-Karaffe für energetisiertes Wasser ↞
 
 Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach dem Naturgesetz des Goldenen Schnitts ist nicht nur ein wahrer Hingucker und ein wunderschönes Geschenk für jeden Tag. Das darin befindliche Wasser (auch geeignet für Säfte und Rotwein) wird in seiner Lebenskraft gestärkt und im Geschmack blumiger. Am Boden der Karaffe ist das Symbol der BLUME DES LEBENS in das Glas eingebrannt, welches für erleuchtete Seele steht und Schöpferkraft.
 
@@ -121,17 +129,25 @@ Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach de
 >
 > Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch
 
-* Edelsteinwasser-Set für energetisiertes Wasser
+**Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [**hier__](https://amzn.to/2W7XT0I "Vital-Karaffe von Natures-Design")***.**
+
+***
+
+#### ↠ Edelstein-Set für energetisiertes Wasser ↞
 
 Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Edelstein-Set aus Amethyst, Rosenquarz und Bergkristall. Die Steine entfalten im Wasser ihre heilsamen Eigenschaften, wodurch eine energetisch lebendige Signatur entsteht, ähnlich wie bei frischem Bergquellwasser. Auch in den Sets "Kraft & Mut" und "Vital & Fit" mit anderen hochwertigen Heilsteinen zur Wasseraufbereitung verfügbar - da ist definitiv für jeden das richtige Geschenk dabei :)
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wiederverwendbar, kein Eigengeschmack, hochwertige Verpackung mit Holzschatulle und Jutesäckchen macht es zum perfekten Geschenk!
+> Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen
 
-#### Tipp 4: Klang
+**Das Edelstein-Set zur Wasseraufbereitung von Spirit of Gaia gibt es** [**hier__](https://amzn.to/344yMjP "Edelstein-Set")***.**
 
-* Tibetische Lingam-Klangschale
+***
+
+### **Tipp 4: Klang**
+
+#### ↠ Tibetische Lingam-Klangschale ↞
 
 Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepalesischen Kunsthandwerkern in Handarbeit hergestellt und ich ein Must-Have für jedes spirituelle Zuhause. Diese Klangschale ist einzigartig durch einen Lingam gekennzeichnet - einen kleinen Vorsprung in der Mitte der inneren Schale, der eine schöne Resonanz erzeugt, die Yoga, Meditation, Gebet, Chakra-Heilung und Geisteshaltung fördert. Der Klang und die Schwingungen fördern einen entspannten Zustand, der sich perfekt für tiefe Meditation, kreatives Denken und intuitive Botschaften eignet.
 
@@ -139,7 +155,11 @@ Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepal
 >
 > Verzaubernde Töne für holistische Heilungsprozesse, auf garantierte perfekte Klangqualität geprüft, lebenslange Garantie, kompaktes Set und einzigartiges Design mit handgenähten tibetischen Baumwollkissen
 
-* Heilendes Klangspiel von WOODSTOCK
+**Die original tibetische Lingam-Klangschale gibt es** [**hier__](https://amzn.to/3gGhe2c "Lingam-Klangschale")***.**
+
+***
+
+#### ↠ Heilendes Klangspiel von WOODSTOCK ↞
 
 Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - dieses Glockenspiel von WOODSTOCK ist nicht nur wunderschön anzusehen, sondern erzeugt eine einzigartig magische Stimmung, die so ungewöhnlich und tröstlich ist. Durch die Präzisionstastatur entsteht die Illusion von vielen mehr Noten als es Röhren gibt.
 
@@ -147,9 +167,13 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 >
 > Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
 
-#### Tipp 5: Meditation & Yoga
+**Das original WOODSTOCK Klangspiel gibt es** [**hier__](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**
 
-* Meditationskissen mit Kapokfüllung
+***
+
+### **Tipp 5: Meditation & Yoga**
+
+#### ↠ Meditationskissen mit Kapokfüllung ↞
 
 Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um ein absolut perfektes Geschenk für jeden - es ist nicht nur wunderschön anzusehen, sondern hat auch einen unglaublich großen Einsatzbereich drinnen und draußen, da die Kapokfaser keine Feuchtigkeit aufnimmt. Für alle Yogis ist dieses Kissen der neue Lieblingsbegleiter für Meditation und Yoga-Sessions.
 
@@ -157,7 +181,11 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 >
 > Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität
 
-* Yoga Blöcke
+**Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [**hier__](https://amzn.to/379Rvwj "Meditationskissen")***.**
+
+***
+
+#### ↠ Naturkork-Blöcke ↞
 
 Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premium Yoga-Set aus Naturkork! Auch für Workouts und Trainingseinheit sämtlicher Art eignen sich diese Blöcke ausgezeichnet. Zum 2er Set gibt es auch noch einen praktischen Jutebeutel dazu.
 
@@ -165,9 +193,13 @@ Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premiu
 >
 > aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar
 
-#### Tipp 6: Journaling
+**Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [**hier__](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**
 
-* Das 6-Minuten-Tagebuch
+***
+
+### **Tipp 6: Journaling**
+
+#### ↠ Das 6-Minuten-Tagebuch ↞
 
 Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und Familie - dieses Tagebuch ist ein simples und wissenschaftlich fundiertes Journal für ein glücklicheres, erfüllteres Leben. Das wunderschöne Design in Kombination mit den praxiserprobten Prinzipien der positiven Psychologie macht es zur pure Freude jeden Tag mehr Fokus auf das Gute zu legen und seine Selbstreflektion zu verbessern. Verschenke mehr Dankbarkeit, Achtsamkeit, Gelassenheit und Selbstliebe!
 
@@ -175,7 +207,11 @@ Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und F
 >
 > Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen
 
-* Tagebuch & Notizbuch
+**Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [**hier__](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**
+
+***
+
+#### ↠ Tagebuch & Notizbuch ↞
 
 Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - dieses wundervoll designte Notizbuch bietet den optimalen Platz um Kreativität zu wecken, Selbstentfaltung zu fördern und besondere Momente zu zelebrieren. Auch wunderbar als Tagebuch geeignet. Den perfekten Kugelschreiber kannst du direkt dazu verschenken!
 
@@ -183,9 +219,13 @@ Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - 
 >
 > wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich
 
-#### Tipp 7: DIY spirituelle Geschenke
+**Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [**hier__](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**
 
-* Makramee DIY Set
+***
+
+### **Tipp 7: DIY spirituelle Geschenke**
+
+#### ↠ Makramee DIY Set ↞
 
 Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenkst - hier könnt ihr eurer Fantasie freien Lauf lassen und wunderschöne Makramee-Meisterwerke wie Pflanzenaufhänger, Wandbehänge, Traumfänger, Wandteppiche oder vieles mehr kreieren. Dieses Set eignet sich perfekt für jegliche Bastelvorhaben und mit dem großen Makramee-Buch dazu gibt es auch noch alle wichtigen Grundlagen, Anleitungen & Knotentechniken - ein perfektes Geschenk-Set für Kreative und alle die es werden wollen :)
 
@@ -193,7 +233,11 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 >
 > weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
 
-* Räuchermischung-Set
+**Das Do-It-Yourself Makramee-Set gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+
+***
+
+#### ↠ Räuchermischung-Set ↞
 
 Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste verschenkst du kreative Momente, um die persönlichen Räuchermischungen herzustellen. In diesem Set ist alles was man braucht dabei - u.a.13 Räucherwerke in ihrer natürlichen Form, 1x Rolle mit 10 Räucherkohletabletten, 300 g Räuchersand, einem Räucherlöffel aus Kupfer und ein kleines Rezeptbuch für persönliche Notizen.
 
@@ -201,9 +245,13 @@ Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste v
 >
 > komplettes DIY Räucher-Set mit 22 Bestandteilen originell verpackt in stabiler Holzkiste, mit Booklet zum Mischen eigener Rezepturen, mit Räucherschale aus Speckstein (Unikat) und passendem Korkuntersetzer
 
-#### Tipp 8: Bücher, die das Leben schöner machen
+**Das Do-It-Yourself Makramee-Set gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
-* Die Kuh, die weinte
+***
+
+### **Tipp 8: Bücher, die das Leben schöner machen**
+
+#### ↠ Die Kuh, die weinte ↞
 
 Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses besondere Buch regt mit jeder der 108 buddhistische Geschichten dazu an, innezuhalten, um über den eigenen Lebensweg nachzudenken. Geschichten über den Weg zum Glück - voller Inspiration, verblüffender Erkenntnisse und immer unterhaltsam. Ohne religiösen Fachjargon werden Leser jeden Alters angesprochen - nie wurden die buddhistischen Lehren unterhaltsamer präsentiert!
 
@@ -211,7 +259,9 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt
 
-* Das Café am Rande der Welt
+***
+
+#### ↠ Das Café am Rande der Welt  ↞
 
 Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese Sonderedition von John Strelecky ist beinhaltet eine zusätzliche Weihnachtsgeschichte - ein perfektes Buch für besinnliche Stunden unter dem Weihnachtsbaum.
 
@@ -219,9 +269,11 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
 
-#### Tipp 9: Super Food
+***
 
-* Ayurveda Kochbuch
+### **Tipp 9: Super Food**
+
+#### ↠ Ayurveda Kochbuch ↞ 
 
 Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine Reise ins alte Indien, um sich von der Lebensphilosophie des Ayurveda inspirieren zu lassen. Das perfekte Kochbuch zum Entgiften und zur Aktivierung der Selbstheilungskräfte.
 
@@ -229,7 +281,9 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test
 
-* Ayurvedisches Superfood
+***
+
+#### ↠ Ayurvedisches Superfood ↞
 
 Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Pulver einfach ins Müsli, Joghurt oder Smoothie mischen und die Superfood-Zutaten wie Maca, Baobab und Q10 ihre Superkräfte entfalten lassen.
 
@@ -237,9 +291,11 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 >
 > alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz
 
-#### Tipp 10: Spende schenken
+***
 
-* Treedom
+### **Tipp 10: Spende schenken**
+
+#### ↠ Treedom ↞
 
 Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk haben deine Liebsten bestimmt noch nicht oft bekommen - wie wäre es zum Beispiel mit einem Mango-Baum als besonderes Weihnachtsgeschenk für Mama, der für Glück steht und 700 kg CO2 ausgleicht? Und für die Bestellung brauchst du nur eine Minute - Let´s green the planet!
 
@@ -247,7 +303,9 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 >
 > Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!
 
-* Oxam Unverpackt
+***
+
+#### ↠ Oxam Unverpackt ↞
 
 Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen die nichts besitzen eine neue Perspektive. Wie wäre es mit einer
 

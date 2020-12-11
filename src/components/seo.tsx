@@ -25,6 +25,8 @@ const SEO = ({ description, meta, title }: Props) => {
         `,
     );
 
+    const pinterestBusinessContent = "affd6bb3f35488450ecc164162762b6c";
+
     const metaDescription = description || site.siteMetadata.description;
     const lang = i18n.language;
     return (
@@ -45,9 +47,13 @@ var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime
 _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
 
 var ml_account = ml('accounts', '2640527', 'j8z7t0x0z3', 'load');
-                    ` 
+                    `
                 }]}
                 meta={[
+                    {
+                        name: `p:domain_verify`,
+                        content: pinterestBusinessContent,
+                    },
                     {
                         name: `description`,
                         content: metaDescription,

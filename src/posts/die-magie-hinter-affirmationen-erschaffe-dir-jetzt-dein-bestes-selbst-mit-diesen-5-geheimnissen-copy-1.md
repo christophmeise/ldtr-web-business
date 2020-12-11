@@ -259,6 +259,8 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt
 
+**Das Buch "Die Kuh, die weinte" gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+
 ***
 
 #### ↠ Das Café am Rande der Welt  ↞
@@ -268,6 +270,8 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 > **_Was macht dieses Geschenk besonders?_**
 >
 > lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
+
+**Das Buch "Das Café am Rande der Welt" gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -281,6 +285,8 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test
 
+**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+
 ***
 
 #### ↠ Ayurvedisches Superfood ↞
@@ -290,6 +296,8 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 > **_Was macht dieses Geschenk besonders?_**
 >
 > alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz
+
+**Das ayurvedische Superfood in verschiedenen Sorten gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -303,6 +311,8 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 >
 > Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!
 
+**Zur Spende bei Treedom geht es direkt** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+
 ***
 
 #### ↠ Oxam Unverpackt ↞
@@ -312,6 +322,10 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig
+
+**Zur Spende bei Oxam Unverpackt geht es direkt** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+
+***
 
 **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
 

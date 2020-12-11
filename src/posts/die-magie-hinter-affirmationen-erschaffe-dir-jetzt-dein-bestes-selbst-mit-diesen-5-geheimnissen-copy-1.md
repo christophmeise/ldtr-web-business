@@ -51,7 +51,7 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 >
 > Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
 
-**Einzigartige Masala Räucherstäbchen im Set gibt es** [**bei Amazon**](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
+**Einzigartige Masala Räucherstäbchen im Set gibt es** [**hier**](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
 
 * **Räucherstäbchen Halterung**
 
@@ -61,7 +61,7 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Ha
 >
 > Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
 
-**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**bei Amazon**](https://amzn.to/3mclEiu "Drache Räucherstäbchen Halterung")***.**
+**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**hier**](https://amzn.to/3mclEiu "Drache Räucherstäbchen-Halterung")***.**
 
 * **Räucherbündel zur Energetischen Reinigung**
 
@@ -71,15 +71,17 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**bei Amazon**](https://amzn.to/3mclEiu "Drache Räucherstäbchen Halterung")***.**
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**hier**](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
 
-Handbuch über Räucher-Anwendung, Wirkung & Rituale
+* **Handbuch über Räucher-Anwendung, Wirkung & Rituale**
 
 Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
+
+**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [**hier**]()***.**
 
 #### Tipp 2: Wohnen & Leben
 

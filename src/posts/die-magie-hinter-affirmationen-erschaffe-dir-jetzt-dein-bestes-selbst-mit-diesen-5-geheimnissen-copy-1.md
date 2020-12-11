@@ -53,6 +53,8 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 
 **Einzigartige Masala Räucherstäbchen im Set gibt es** [**hier**](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
 
+***
+
 * **Räucherstäbchen Halterung**
 
 Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
@@ -62,6 +64,8 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Ha
 > Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
 
 **Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**hier**](https://amzn.to/3mclEiu "Drache Räucherstäbchen-Halterung")***.**
+
+***
 
 * **Räucherbündel zur Energetischen Reinigung**
 
@@ -73,6 +77,8 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 
 **Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**hier**](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
 
+***
+
 * **Handbuch über Räucher-Anwendung, Wirkung & Rituale**
 
 Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
@@ -83,9 +89,11 @@ Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das 
 
 **Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [**hier**]()***.**
 
+***
+
 #### Tipp 2: Wohnen & Leben
 
-* Blume des Lebens-Windspiel
+* **Blume des Lebens-Windspiel**
 
 Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
 
@@ -93,7 +101,9 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 >
 > Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
 
-* Mandala-Wandteppich
+**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [**hier**](https://amzn.to/2W6TScY "Blume des Lebens-Windspiel")***.**
+
+* **Mandala Wandteppich**
 
 Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke mit diesem wunderschönen Tuch ein Hauch Indien für zu Hause. Ob zur Dekoration als Wandteppich, als Tischdecke, als Tagesdecke oder Yogamatten-Handtuch - damit machst du spirituellen Menschen auf jeden Fall eine große Freude!
 

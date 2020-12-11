@@ -31,13 +31,13 @@ Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönst
 
 #### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden. 
+Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
 
 Damit deine spirituellen Geschenke **rechtzeitig bis Weihnachten** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
 ### Die 10 besten spirituellen Geschenke Tipps
 
-Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituellen Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden. 
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituellen Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
 
 Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit  deine Weihnachtsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
 
@@ -50,10 +50,12 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
->
->     
 
-* Räucherstäbchen Halterung
+Einzigartige Masala Räucherstäbchen im Set gibt es [bei Amazon](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")*.
+
+[![Geschenktipps für spirituelle Menschen](../../uploads/masala_raucherstabchen_luxflair.jpg "Luxflair Räucherstäbchen")](https://amzn.to/3na6ZWp "Luxflair Räucherstäbchen")
+
+Räucherstäbchen Halterung
 
 Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
 
@@ -67,7 +69,7 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung 
+> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
 * Handbuch über Räucher-Anwendung, Wirkung & Rituale
 
@@ -165,7 +167,7 @@ Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - 
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich 
+> wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich
 
 #### Tipp 7: DIY spirituelle Geschenke
 
@@ -203,11 +205,11 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
 
-#### Tipp 9: Super Food 
+#### Tipp 9: Super Food
 
 * Ayurveda Kochbuch
 
-Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine Reise ins alte Indien, um sich von der Lebensphilosophie des Ayurveda inspirieren zu lassen. Das perfekte Kochbuch zum Entgiften und zur Aktivierung der Selbstheilungskräfte. 
+Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine Reise ins alte Indien, um sich von der Lebensphilosophie des Ayurveda inspirieren zu lassen. Das perfekte Kochbuch zum Entgiften und zur Aktivierung der Selbstheilungskräfte.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
@@ -225,15 +227,15 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 
 * Treedom
 
-Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk haben deine Liebsten bestimmt noch nicht oft bekommen - wie wäre es zum Beispiel mit einem Mango-Baum als besonderes Weihnachtsgeschenk für Mama, der für Glück steht und 700 kg CO2 ausgleicht? Und für die Bestellung brauchst du nur eine Minute - Let´s green the planet! 
+Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk haben deine Liebsten bestimmt noch nicht oft bekommen - wie wäre es zum Beispiel mit einem Mango-Baum als besonderes Weihnachtsgeschenk für Mama, der für Glück steht und 700 kg CO2 ausgleicht? Und für die Bestellung brauchst du nur eine Minute - Let´s green the planet!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied! 
+> Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!
 
 * Oxam Unverpackt
 
-Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen die nichts besitzen eine neue Perspektive. Wie wäre es mit einer 
+Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen die nichts besitzen eine neue Perspektive. Wie wäre es mit einer
 
 > **_Was macht dieses Geschenk besonders?_**
 >

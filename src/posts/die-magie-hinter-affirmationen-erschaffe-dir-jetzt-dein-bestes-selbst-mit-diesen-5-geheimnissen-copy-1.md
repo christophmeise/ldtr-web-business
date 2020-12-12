@@ -53,7 +53,7 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 >
 > Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
 
-**Einzigartige Masala Räucherstäbchen im Set gibt es** [**hier__](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
+**Einzigartige Masala Räucherstäbchen im Set gibt es** [hier](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
 
 ***
 

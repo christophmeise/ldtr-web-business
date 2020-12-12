@@ -59,11 +59,11 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 
 #### ↠ Räucherstäbchen-Halterung ↞
 
-Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen Halterung in Form eines Drachen in der Größe 16 x 16 x 15 cm (L x W x H). Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
+Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Halterung in Form eines Drachen. Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Eyecatcher in jedem spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
+> Eyecatcher für jedes spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
 
 **Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**hier__](https://amzn.to/3mclEiu "Drache Räucherstäbchen-Halterung")***.**
 

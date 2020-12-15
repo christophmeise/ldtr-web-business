@@ -44,6 +44,8 @@ Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die 
 
 Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit  deine Weihnachtsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
 
+***
+
 ### **Tipp 1: Räucherwerk**
 
 #### ↠ Räucherstäbchen-Set ↞

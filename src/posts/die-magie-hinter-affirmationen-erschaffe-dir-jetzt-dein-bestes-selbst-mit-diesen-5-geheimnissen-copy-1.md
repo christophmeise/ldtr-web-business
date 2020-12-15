@@ -237,15 +237,15 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 
 ***
 
-#### ↠ Räuchermischung-Set ↞
+#### ↠ DIY Starterpaket für´s Räuchern ↞
 
-Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste verschenkst du kreative Momente, um die persönlichen Räuchermischungen herzustellen. In diesem Set ist alles was man braucht dabei - u.a.13 Räucherwerke in ihrer natürlichen Form, 1x Rolle mit 10 Räucherkohletabletten, 300 g Räuchersand, einem Räucherlöffel aus Kupfer und ein kleines Rezeptbuch für persönliche Notizen.
+Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste verschenkst du kreative Momente, um die persönlichen Räuchermischungen herzustellen. In diesem Set ist alles was man braucht dabei - ein perfektes Geschenk für alle Räucher-Anfänger und Kreative!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> komplettes DIY Räucher-Set mit 22 Bestandteilen originell verpackt in stabiler Holzkiste, mit Booklet zum Mischen eigener Rezepturen, mit Räucherschale aus Speckstein (Unikat) und passendem Korkuntersetzer
+> 13-teiliges Starterset, zum sofortigen Start mit dem Räuchern, verschiedene Räucherkräuter zum kreativ werden und ausprobieren
 
-**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Starterpaket mit verschiedenen Räuchermischungen gibt es** [hier](https://amzn.to/2JWlMG5 "Starterset Räuchermischungen")***.**
 
 ***
 
@@ -259,7 +259,7 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt
 
-**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/3qY9qxL "Die Kuh, die weinte Buch")***.**
 
 ***
 
@@ -271,7 +271,7 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
 
-**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2JZc45Q "Café am Rande der Welt")***.**
 
 ***
 
@@ -285,7 +285,7 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test
 
-**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/3oPL7QL "Ayurveda-Kochbuch")***.**
 
 ***
 

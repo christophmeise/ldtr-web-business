@@ -2,10 +2,11 @@
 title: Die 10 besten Last-Minute-Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
-date: 2020-12-25T00:00:00.000+01:00
+date: 2020-12-15T00:00:00+01:00
 tags:
 - Geschenke
 - Spiritualität
+- Weihnachten
 blocks:
 - template: introduction
   images:

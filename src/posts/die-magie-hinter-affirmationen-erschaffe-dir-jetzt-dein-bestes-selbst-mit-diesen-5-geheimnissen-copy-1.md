@@ -59,13 +59,13 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 
 #### ↠ Räucherstäbchen-Halterung ↞
 
-Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Halterung in Form eines Drachen. Für Rückfluss-Räucherkegel und Räucherstäbchen geeignet macht dieser Drache aus Keramik wirklich was her!
+Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Halterung - ein Buddha im Zen-Garten. Bei diesem Geschenk sind wunderschöne Deko-Elemente wie Blumen, Kerzen, 3 Räucherstäbchen und kleine Steine bereits enthalten.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Eyecatcher für jedes spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
+> Eyecatcher für jedes spirituelle Zuhause, geeignet für Räucherstäbchen, Deko-Elemente für Zen-Garten werden mitgeliefert
 
-**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [hier](https://amzn.to/2KlKXBr "Räucherstäbchen-Halterung")***.**
+**Wunderschöne Buddha-Räucherstäbchen Halterung gibt es** [hier](https://amzn.to/2KlKXBr "Räucherstäbchen-Halterung")***.**
 
 ***
 
@@ -77,7 +77,7 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von SARIMOIRE gibt es** [hier](https://amzn.to/2LD4dv7 "Salbei Räucherset")* **ein großartiges Salbei-Räucherset.** 
 
 ***
 

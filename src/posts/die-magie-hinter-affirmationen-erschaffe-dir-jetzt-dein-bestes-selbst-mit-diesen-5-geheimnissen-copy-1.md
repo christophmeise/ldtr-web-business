@@ -77,7 +77,7 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von SARIMOIRE gibt es** [hier](https://amzn.to/2LD4dv7 "Salbei Räucherset")* **ein großartiges Salbei-Räucherset.** 
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von SARIMOIRE gibt es** [hier](https://amzn.to/2LD4dv7 "Salbei Räucherset")* **ein großartiges Salbei-Räucherset.**
 
 ***
 
@@ -329,7 +329,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
 
-![](../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg)
+![](../../uploads/freestocks-pxm8aejbzvk-unsplash.jpg)
 
 ***
 

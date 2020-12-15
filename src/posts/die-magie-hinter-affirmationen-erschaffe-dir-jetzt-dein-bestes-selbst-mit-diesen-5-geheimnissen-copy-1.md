@@ -89,7 +89,7 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 >
 > Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
 
-**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier]()***.**
+**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier](https://amzn.to/3gMxMpD "Einfach Räuchern-Handbuch")***.**
 
 ***
 
@@ -101,9 +101,9 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
+> Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen, zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
 
-**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/2W6TScY "Blume des Lebens-Windspiel")***.**
+**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/3akwsZA "Blume des Lebens-Windspiel")***.**
 
 ***
 
@@ -297,7 +297,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 >
 > alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz
 
-**Das ayurvedische Superfood in verschiedenen Sorten gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das ayurvedische Superfood in verschiedenen Sorten gibt es** [hier](https://www.getnuglow.com/shop "NuGlow Superfood")***.**
 
 ***
 
@@ -311,7 +311,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 >
 > Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!
 
-**Zur Spende bei Treedom geht es direkt** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**
 
 ***
 
@@ -323,7 +323,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 >
 > Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig
 
-**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://unverpackt.oxfam.de/weihnachten-ein-st%C3%BCck-vom-gl%C3%BCck "Oxam Unverpackt Spende")***.**
 
 ***
 

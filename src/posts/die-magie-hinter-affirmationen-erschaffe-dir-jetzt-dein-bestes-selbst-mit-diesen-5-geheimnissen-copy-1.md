@@ -129,19 +129,19 @@ Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach de
 >
 > Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch
 
-**Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [hier](https://amzn.to/2W7XT0I "Vital-Karaffe von Natures-Design")***.**
+**Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [hier](https://amzn.to/3868e2D "Vital-Karaffe von Natures-Design")***.**
 
 ***
 
 #### ↠ Edelstein-Set für energetisiertes Wasser ↞
 
-Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Edelstein-Set aus Amethyst, Rosenquarz und Bergkristall. Die Steine entfalten im Wasser ihre heilsamen Eigenschaften, wodurch eine energetisch lebendige Signatur entsteht, ähnlich wie bei frischem Bergquellwasser. Auch in den Sets "Kraft & Mut" und "Vital & Fit" mit anderen hochwertigen Heilsteinen zur Wasseraufbereitung verfügbar - da ist definitiv für jeden das richtige Geschenk dabei :)
+Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Heilstein-Set mit den beliebtestes Natursteinen. Die Steine entfalten im Wasser ihre heilsamen Eigenschaften, wodurch eine energetisch lebendige Signatur entsteht, ähnlich wie bei frischem Bergquellwasser. 
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen
 
-**Das Edelstein-Set zur Wasseraufbereitung von Spirit of Gaia gibt es** [hier](https://amzn.to/344yMjP "Edelstein-Set")***.**
+**Das Edelstein-Set zur Wasseraufbereitung in Premium-Qualität gibt es** [hier](https://amzn.to/3oTHysN "Edelstein-Set")***.**
 
 ***
 

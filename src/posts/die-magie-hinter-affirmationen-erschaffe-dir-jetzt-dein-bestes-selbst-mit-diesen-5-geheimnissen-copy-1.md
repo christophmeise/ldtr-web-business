@@ -1,7 +1,7 @@
 ---
-title: Die 10 besten Geschenkideen für spirituelle Menschen
+title: Die 10 besten Last-Minute-Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
-featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash.jpg"
+featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
 date: 2020-12-25T00:00:00.000+01:00
 tags:
 - Geschenke
@@ -33,7 +33,7 @@ Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönst
 
 Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
 
-Damit deine spirituellen Geschenke **rechtzeitig bis Weihnachten** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
+Damit deine spirituellen Geschenke auch Last-Minute **rechtzeitig bis Weihnachten** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
 ![](../../uploads/kira-auf-der-heide-ipx7j1n_xuc-unsplash.jpg)
 
@@ -65,7 +65,7 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Ha
 >
 > Eyecatcher für jedes spirituelle Zuhause, geeignet für Räucherstäbchen & Räucherkegel, wunderschöner Raucheffekt, extra Räucherkegel & Stäbchen werden mitgeliefert
 
-**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [**hier__](https://amzn.to/3mclEiu "Drache Räucherstäbchen-Halterung")***.**
+**Wunderschöner Drachen-Räucherstäbchen Halterung gibt es** [hier](https://amzn.to/2KlKXBr "Räucherstäbchen-Halterung")***.**
 
 ***
 
@@ -77,7 +77,7 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [**hier__](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mclEiu "Räucherbündel-Set von MAMA WUNDERBAR")***.**
 
 ***
 
@@ -103,7 +103,7 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 >
 > Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen; gut biegsam ohne zu brechen (wird selbst zurechtgebogen); zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
 
-**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [**hier__](https://amzn.to/2W6TScY "Blume des Lebens-Windspiel")***.**
+**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/2W6TScY "Blume des Lebens-Windspiel")***.**
 
 ***
 
@@ -115,7 +115,7 @@ Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke
 >
 > 100 % Baumwolle, handgefertigt in Indien mit traditionellen Methoden, wunderschönes Design, vielseitig einsetzbar
 
-**Traditionelle Mandala Wandteppiche in weiß-gold gibt es** [**hier__](https://amzn.to/3gG0BUI "Mandala Tuch weiß-gold")***.**
+**Traditionelle Mandala Wandteppiche in weiß-gold gibt es** [hier](https://amzn.to/3gG0BUI "Mandala Tuch weiß-gold")***.**
 
 ***
 
@@ -129,7 +129,7 @@ Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach de
 >
 > Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch
 
-**Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [**hier__](https://amzn.to/2W7XT0I "Vital-Karaffe von Natures-Design")***.**
+**Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [hier](https://amzn.to/2W7XT0I "Vital-Karaffe von Natures-Design")***.**
 
 ***
 
@@ -141,7 +141,7 @@ Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Edelstein-Se
 >
 > Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen
 
-**Das Edelstein-Set zur Wasseraufbereitung von Spirit of Gaia gibt es** [**hier__](https://amzn.to/344yMjP "Edelstein-Set")***.**
+**Das Edelstein-Set zur Wasseraufbereitung von Spirit of Gaia gibt es** [hier](https://amzn.to/344yMjP "Edelstein-Set")***.**
 
 ***
 
@@ -155,7 +155,7 @@ Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepal
 >
 > Verzaubernde Töne für holistische Heilungsprozesse, auf garantierte perfekte Klangqualität geprüft, lebenslange Garantie, kompaktes Set und einzigartiges Design mit handgenähten tibetischen Baumwollkissen
 
-**Die original tibetische Lingam-Klangschale gibt es** [**hier__](https://amzn.to/3gGhe2c "Lingam-Klangschale")***.**
+**Die original tibetische Lingam-Klangschale gibt es** [hier](https://amzn.to/3gGhe2c "Lingam-Klangschale")***.**
 
 ***
 
@@ -167,7 +167,7 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 >
 > Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
 
-**Das original WOODSTOCK Klangspiel gibt es** [**hier__](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**
+**Das original WOODSTOCK Klangspiel gibt es** [hier](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**
 
 ***
 
@@ -181,7 +181,7 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 >
 > Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität
 
-**Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [**hier__](https://amzn.to/379Rvwj "Meditationskissen")***.**
+**Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [hier](https://amzn.to/379Rvwj "Meditationskissen")***.**
 
 ***
 
@@ -193,7 +193,7 @@ Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premiu
 >
 > aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar
 
-**Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [**hier__](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**
+**Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [hier](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**
 
 ***
 
@@ -207,7 +207,7 @@ Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und F
 >
 > Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen
 
-**Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [**hier__](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**
+**Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [hier](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**
 
 ***
 
@@ -219,7 +219,7 @@ Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - 
 >
 > wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich
 
-**Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [**hier__](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**
+**Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [hier](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**
 
 ***
 
@@ -233,7 +233,7 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 >
 > weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
 
-**Das Do-It-Yourself Makramee-Set gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -245,7 +245,7 @@ Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste v
 >
 > komplettes DIY Räucher-Set mit 22 Bestandteilen originell verpackt in stabiler Holzkiste, mit Booklet zum Mischen eigener Rezepturen, mit Räucherschale aus Speckstein (Unikat) und passendem Korkuntersetzer
 
-**Das Do-It-Yourself Makramee-Set gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -259,7 +259,7 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt
 
-**Das Buch "Die Kuh, die weinte" gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -271,7 +271,7 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
 
-**Das Buch "Das Café am Rande der Welt" gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -285,7 +285,7 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test
 
-**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -297,7 +297,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 >
 > alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz
 
-**Das ayurvedische Superfood in verschiedenen Sorten gibt es** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das ayurvedische Superfood in verschiedenen Sorten gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -311,7 +311,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 >
 > Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!
 
-**Zur Spende bei Treedom geht es direkt** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Zur Spende bei Treedom geht es direkt** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 
@@ -323,7 +323,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 >
 > Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig
 
-**Zur Spende bei Oxam Unverpackt geht es direkt** [**hier__](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
 
 ***
 

@@ -83,7 +83,7 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 
 #### ↠ Handbuch zur Räucher-Anwendung ↞
 
-Passend zu dem Set von _MAMA WUNDERBAR_ eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
+Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
 
 > **_Was macht dieses Geschenk besonders?_**
 >

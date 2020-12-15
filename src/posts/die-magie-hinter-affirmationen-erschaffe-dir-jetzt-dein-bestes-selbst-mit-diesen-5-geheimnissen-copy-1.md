@@ -51,7 +51,7 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung
+> _Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung_
 
 **Einzigartige Masala Räucherstäbchen im Set gibt es** [hier](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
 
@@ -63,7 +63,7 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Ha
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Eyecatcher für jedes spirituelle Zuhause, geeignet für Räucherstäbchen, Deko-Elemente für Zen-Garten werden mitgeliefert
+> _Eyecatcher für jedes spirituelle Zuhause, geeignet für Räucherstäbchen, Deko-Elemente für Zen-Garten werden mitgeliefert_
 
 **Wunderschöne Buddha-Räucherstäbchen Halterung gibt es** [hier](https://amzn.to/2KlKXBr "Räucherstäbchen-Halterung")***.**
 
@@ -75,7 +75,7 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung
+> _Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung_
 
 **Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von SARIMOIRE gibt es** [hier](https://amzn.to/2LD4dv7 "Salbei Räucherset")* **ein großartiges Salbei-Räucherset.**
 
@@ -87,7 +87,7 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet
+> _Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet_
 
 **Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier](https://amzn.to/3gMxMpD "Einfach Räuchern-Handbuch")***.**
 
@@ -101,7 +101,7 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen, zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück
+> _Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen, zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück_
 
 **Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/3akwsZA "Blume des Lebens-Windspiel")***.**
 
@@ -113,7 +113,7 @@ Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> 100 % Baumwolle, handgefertigt in Indien mit traditionellen Methoden, wunderschönes Design, vielseitig einsetzbar
+> _100 % Baumwolle, handgefertigt in Indien mit traditionellen Methoden, wunderschönes Design, vielseitig einsetzbar_
 
 **Traditionelle Mandala Wandteppiche in weiß-gold gibt es** [hier](https://amzn.to/3gG0BUI "Mandala Tuch weiß-gold")***.**
 
@@ -127,7 +127,7 @@ Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach de
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch
+> _Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch_
 
 **Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [hier](https://amzn.to/3868e2D "Vital-Karaffe von Natures-Design")***.**
 
@@ -139,7 +139,7 @@ Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Heilstein-Se
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen
+> _Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen_
 
 **Das Edelstein-Set zur Wasseraufbereitung in Premium-Qualität gibt es** [hier](https://amzn.to/3oTHysN "Edelstein-Set")***.**
 
@@ -153,7 +153,7 @@ Diese wunderschöne Lingam-Klangschale wurde in den Himalaya-Vorbergen von nepal
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Verzaubernde Töne für holistische Heilungsprozesse, auf garantierte perfekte Klangqualität geprüft, lebenslange Garantie, kompaktes Set und einzigartiges Design mit handgenähten tibetischen Baumwollkissen
+> _Verzaubernde Töne für holistische Heilungsprozesse, auf garantierte perfekte Klangqualität geprüft, lebenslange Garantie, kompaktes Set und einzigartiges Design mit handgenähten tibetischen Baumwollkissen_
 
 **Die original tibetische Lingam-Klangschale gibt es** [hier](https://amzn.to/3gGhe2c "Lingam-Klangschale")***.**
 
@@ -165,7 +165,7 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma _Woodstock_ gefertigt, in _Woodstock Chimes_-Box geliefert - perfekt zum Verschenken
+> _Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma Woodstock gefertigt, in Woodstock Chimes-Box geliefert - perfekt zum Verschenken_
 
 **Das original WOODSTOCK Klangspiel gibt es** [hier](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**
 
@@ -179,7 +179,7 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität
+> _Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität_
 
 **Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [hier](https://amzn.to/379Rvwj "Meditationskissen")***.**
 
@@ -191,7 +191,7 @@ Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premiu
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar
+> _aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar_
 
 **Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [hier](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**
 
@@ -205,7 +205,7 @@ Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und F
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen
+> _Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen_
 
 **Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [hier](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**
 
@@ -217,7 +217,7 @@ Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - 
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich
+> _wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich_
 
 **Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [hier](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**
 
@@ -231,9 +231,9 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kein Verfilzen der Enden, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke
+> _weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke_
 
-**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2Klf2kD "DIY Makramee-Set")***.**
+**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2K3YA8E "DIY Makramee-Set")***.**
 
 ***
 
@@ -243,7 +243,7 @@ Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste v
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> 13-teiliges Starterset, zum sofortigen Start mit dem Räuchern, verschiedene Räucherkräuter zum kreativ werden und ausprobieren
+> _13-teiliges Starterset, zum sofortigen Start mit dem Räuchern, verschiedene Räucherkräuter zum kreativ werden und ausprobieren_
 
 **Das Starterpaket mit verschiedenen Räuchermischungen gibt es** [hier](https://amzn.to/2JWlMG5 "Starterset Räuchermischungen")***.**
 
@@ -257,7 +257,7 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt
+> _inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt_
 
 **Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/3qY9qxL "Die Kuh, die weinte Buch")***.**
 
@@ -269,7 +269,7 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte
+> _lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte_
 
 **Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2JZc45Q "Café am Rande der Welt")***.**
 
@@ -283,7 +283,7 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test
+> _fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test_
 
 **Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/3oPL7QL "Ayurveda-Kochbuch")***.**
 
@@ -295,7 +295,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz
+> _alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz_
 
 **Das ayurvedische Superfood in verschiedenen Sorten gibt es** [hier](https://www.getnuglow.com/shop "NuGlow Superfood")***.**
 
@@ -309,7 +309,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!
+> _Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!_
 
 **Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**
 
@@ -321,7 +321,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig
+> _Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig_
 
 **Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://unverpackt.oxfam.de/weihnachten-ein-st%C3%BCck-vom-gl%C3%BCck "Oxam Unverpackt Spende")***.**
 

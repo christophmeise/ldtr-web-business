@@ -38,7 +38,7 @@ Damit deine spirituellen Geschenke auch Last-Minute **rechtzeitig bis Weihnachte
 
 ![](../../uploads/kira-auf-der-heide-ipx7j1n_xuc-unsplash.jpg)
 
-### Die 10 besten spirituellen Geschenke Tipps
+## Die 10 besten spirituellen Geschenke Tipps
 
 Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituellen Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
 
@@ -46,7 +46,7 @@ Damit du das passende Geschenk schnell und einfach findest habe ich die einzelne
 
 ***
 
-### **Tipp 1: Räucherwerk**
+## **Tipp 1: Räucherwerk**
 
 #### ↠ Räucherstäbchen-Set ↞
 
@@ -96,7 +96,7 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 
 ***
 
-### **Tipp 2: Wohnen & Leben**
+## **Tipp 2: Wohnen & Leben**
 
 #### ↠ Blume des Lebens-Windspiel ↞
 
@@ -122,7 +122,7 @@ Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke
 
 ***
 
-### **Tipp 3: Energie-Wasser**
+## **Tipp 3: Energie-Wasser**
 
 #### ↠ Vital-Karaffe für energetisiertes Wasser ↞
 
@@ -148,7 +148,7 @@ Perfekt passend zur _Natures-Design Vital-Wasserkaraffe_ ist dieses Heilstein-Se
 
 ***
 
-### **Tipp 4: Klang**
+## **Tipp 4: Klang**
 
 #### ↠ Tibetische Lingam-Klangschale ↞
 
@@ -174,7 +174,7 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 
 ***
 
-### **Tipp 5: Meditation & Yoga**
+## **Tipp 5: Meditation & Yoga**
 
 #### ↠ Meditationskissen mit Kapokfüllung ↞
 
@@ -200,7 +200,7 @@ Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premiu
 
 ***
 
-### **Tipp 6: Journaling**
+## **Tipp 6: Journaling**
 
 #### ↠ Das 6-Minuten-Tagebuch ↞
 
@@ -226,7 +226,7 @@ Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - 
 
 ***
 
-### **Tipp 7: DIY spirituelle Geschenke**
+## **Tipp 7: DIY spirituelle Geschenke**
 
 #### ↠ Makramee DIY Set ↞
 
@@ -252,7 +252,7 @@ Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste v
 
 ***
 
-### **Tipp 8: Bücher, die das Leben schöner machen**
+## **Tipp 8: Bücher, die das Leben schöner machen**
 
 #### ↠ Die Kuh, die weinte ↞
 
@@ -278,7 +278,7 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 
 ***
 
-### **Tipp 9: Super Food**
+## **Tipp 9: Super Food**
 
 #### ↠ Ayurveda Kochbuch ↞
 
@@ -304,7 +304,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 
 ***
 
-### **Tipp 10: Spende schenken**
+## **Tipp 10: Spende schenken**
 
 #### ↠ Treedom ↞
 
@@ -330,7 +330,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 ***
 
-**Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
+#### **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
 
 ![](../../uploads/freestocks-pxm8aejbzvk-unsplash.jpg)
 

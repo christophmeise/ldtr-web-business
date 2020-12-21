@@ -3,7 +3,7 @@ title: "(Selbst-)Liebe in Zeiten von Corona: 5 praktische Tipps wie du jetzt dei
   perfekte Liebesgeschichte erlebst"
 path: "/wahre-selbstliebe-erfahren"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2020-11-01T00:00:00+01:00
+date: 2020-11-01T00:00:00.000+01:00
 tags:
 - Selflove
 - Personal Development
@@ -31,7 +31,7 @@ blocks:
 ---
 ### Social Distancing statt romantische Liebesgeschichten
 
-Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
+Eine lebenslange Liebesgeschichte, die niemals verblasst, dich niemals unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
 
 #### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
 
@@ -66,6 +66,8 @@ Um dein Selbst zu lieben, ist es wichtig zu erfahren, wer genau du denn eigentli
 * Was nimmt mir viel Energie?
 
 Nimm dir einen Zettel, dein Tagebuch oder ein Notizbuch und notiere deine Antworten auf diese Fragen. Lass dir dafür Zeit, fühle in dich hinein und schaue hinter all die Vorprägungen aus deiner Umgebung. **Du kannst wirklich stolz auf dich sein, dass du so mutig bist einfach mal genauer hin zu sehen - du machst das fantastisch!**
+
+***
 
 ### 2 Erwecke deinen inneren Cheerleader
 

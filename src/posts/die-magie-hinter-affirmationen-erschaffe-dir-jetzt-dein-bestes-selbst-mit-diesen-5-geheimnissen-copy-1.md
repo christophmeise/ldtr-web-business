@@ -298,7 +298,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _alle Zutaten aus zertifizierten Quellen, einfache Zubereitung, 100% pflanzlich ohne Zusatzstoffe und Zuckerzusatz_
+> _Smoothie-Pulver mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau u.a. Maca, Kurkuma, Guarana, Yerba Mate, Himbeeren, Açai, Goji Beeren_
 
 **Das ayurvedische Superfood in verschiedenen Sorten gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver")***.**
 

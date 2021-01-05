@@ -3,7 +3,7 @@ title: Die Wahrheit über die Macht der Hypnose und warum du dein bester Therape
   bist
 path: "/wahrheit-ueber-hypnose"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2020-12-31T00:00:00+01:00
+date: 2021-12-31T00:00:00+01:00
 tags:
 - Selflove
 - Personal Development

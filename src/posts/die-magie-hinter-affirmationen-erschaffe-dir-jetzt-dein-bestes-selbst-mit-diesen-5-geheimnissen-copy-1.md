@@ -28,21 +28,21 @@ blocks:
 ---
 ### Geschenke vom Herzen für die Seele
 
-Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste an Weihnachten ist für mich daher nicht nur Zeit mit meinen Liebsten zu verbringen, sondern ihnen _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Willst auch Du dieses Jahr tiefsinnige, bedeutsame Geschenke machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben ist?_** Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für Weihnachten und jeden anderen besonderen Anlass** zusammengestellt.
+Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste am Schenken ist für mich meinen Liebsten _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Bist du bereit tiefsinnige, bedeutsame Geschenke zu machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben sind?_** Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für Geburtstage und jeden anderen besonderen Anlass** zusammengestellt.
 
 #### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Dieses Jahr hat uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
+Die letzten Monate haben uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
 
-Damit deine spirituellen Geschenke auch Last-Minute **rechtzeitig bis Weihnachten** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
+Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
 ![](../../uploads/kira-auf-der-heide-ipx7j1n_xuc-unsplash.jpg)
 
 ## Die 10 besten spirituellen Geschenke Tipps
 
-Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituellen Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
 
-Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit  deine Weihnachtsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
+Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit Geburtstagsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
 
 ***
 
@@ -294,13 +294,13 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 
 #### ↠ Ayurvedisches Superfood ↞
 
-Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Pulver einfach ins Müsli, Joghurt oder Smoothie mischen und die Superfood-Zutaten wie Maca, Baobab und Q10 ihre Superkräfte entfalten lassen.
+Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Pulver einfach ins Müsli, Joghurt oder Smoothie mischen und die Superfood-Zutaten ihre Superkräfte entfalten lassen.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _Smoothie-Pulver mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau u.a. Maca, Kurkuma, Guarana, Yerba Mate, Himbeeren, Açai, Goji Beeren_
+> _Smoothie-Pulver in verschiedenen Geschmacksrichtungen mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau, gesund und vitalisierend, einfach und schnell zubereitet_
 
-**Das ayurvedische Superfood in verschiedenen Sorten gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver")***.**
+**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver ROTE KRAFT")* **und als GRÜNE MUTTER gibt es** [hier](https://amzn.to/35bHfC1 "Smoothie-Pulver GRÜNE MUTTER")*.
 
 ***
 
@@ -312,7 +312,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _Last-Minute Geschenkidee nachhaltig und außergewöhnlich, Du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!_
+> _Last-Minute Geschenkidee nachhaltig, außergewöhnlich UND du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!_
 
 **Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**
 
@@ -336,4 +336,4 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 ***
 
-_*Dies ist ein Affiliate-Link. Wenn du auf diesen Link klickst und einen Kauf abschließt unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts - nur das du mit deinem Kauf gleichzeitig noch etwas Wundervolles unterstützt. Danke!_
+_*Dies ist ein Affiliate-Link. Wenn du auf diesen Link klickst und einen Kauf abschließt unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts. Danke!_

@@ -1,5 +1,5 @@
 ---
-title: Vergebung - In 5 Schritten zu deiner Freiheit und inneren Frieden-(copy)
+title: Was ist RTT?
 path: "/vergebung-als-weg-zu-deiner-freiheit"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2021-12-31T00:00:00+01:00
@@ -30,9 +30,31 @@ blocks:
 ---
 ### Vergebung
 
-I am always willing to forgive.
+RTT umfasst viele der positiven Aspekte der Hypnose und Hypnotherapie, von denen bekannt ist, dass sie eine transformative Wirkung auf Klienten haben: die Verwendung von Trance, Regression und hypnotischer Konditionierung. RTT geht jedoch darüber hinaus und diagnostiziert, was mit echten Klienten in echten Sitzungen funktioniert, um einen neuen therapeutischen Ansatz zu entwickeln. Marisa stellte fest, dass Klienten unabhängig von ihrem Problem in Sitzungen davon profitierten, dass sie eine bestimmte Reihe von Techniken immer und immer wieder anwandte. Diese Erkenntnisse bildeten die Grundlage für die Rapid Transformational Therapy, die sich zu einem unverwechselbaren Ansatz entwickelte.
 
-I am in complete surrender and I trust that the universe responds to my willingness to forgive and help me find a way.
+Wie sieht sie aus?
+
+Wir wissen, dass Klienten unter Zeitmangel leiden und mit körperlichen oder emotionalen Schmerzen zu uns kommen. Sie wollen schnelle Ergebnisse. Der erste Unterschied zur RTT ist also, dass sie darauf abzielt, in einer einzigen 90-minütigen Sitzung eine dauerhafte Veränderung zu erreichen. Obwohl manche Klienten und manche Themen bis zu 3 Sitzungen benötigen.
+
+Der zweite Unterschied bei RTT ist, dass es eine Methode ist, die Klienten wirklich befähigt. Durch die Verwendung einer Technik, die Role Function, Purpose genannt wird, ehrt und wertschätzt sie die Bedeutung, die Klienten ihren Themen/Problemen beimessen, und bietet dann eine kraftvolle emotionale Befreiung für sie. Sie können sich tatsächlich vom Schmerz befreien.
+
+Ein dritter Unterschied bei RTT ist die Verwendung der Command Cell Therapie als Modalität zur gezielten Heilung des Körpers, im Gegensatz zur positiven Konditionierung allein.
+
+Schließlich holt RTT "unerledigte Angelegenheiten" hervor, was bedeutet, dass es eine Technik ist, um das Trauma anzusprechen, an dem die Klienten seit vielen Jahren festhalten. 
+
+Upgrading the Child bietet einen therapeutischen Raum für Dialog und Kommunikation mit signifikanten anderen.
+
+Marisa verfügt über weitere einzigartige Techniken, darunter:  
+
+Verschmelzen des Kindes 
+
+Dialog mit der Person, die Sie verletzt hat 
+
+Zurückgehen zu jeder Szene in der Regression, um zu betonen, das bin nicht ich und zu betonen warum.
+
+Der Klient ist mit dem Therapeuten daran beteiligt, die Bedeutung und Interpretation der Ereignisse aufzudecken und sie dann zu verändern. Dies führt zu einer dauerhaften kraftvollen Veränderung.
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 
 #### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
 

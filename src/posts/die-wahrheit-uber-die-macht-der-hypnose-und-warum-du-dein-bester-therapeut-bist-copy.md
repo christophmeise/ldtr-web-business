@@ -37,6 +37,10 @@ blocks:
 
 Affirmationen können dir im Leben vielseitig nützlich sein und dein Unterbewusstsein regelrecht umprogrammieren. So kannst du z. B. deine Selbstheilung fördern, Selbstbewusstsein aufbauen, Selbstliebe stärken, besser Einschlafen, mehr Glück, Erfolg oder Reichtum im Leben ziehen und noch vieles, vieles mehr. Was Affirmationen genau sind, wie sie funktionieren und wie du sie anwenden musst, damit sie wirklich auf dich wirken können erfährst du in diesem Beitrag
 
+Die Worte "ICH BIN" haben starke und realitätsverändernde Frequenzen.  Was immer Du an Gefühlen oder Absichten hinter die Worte ICH BIN stellst, wird Deine Realität erschaffen.  Du hast es dein ganzes Leben lang getan.  Es ist an der Zeit, die Kontrolle über diese unterbewusste Programmierung zu übernehmen und sich ganz auf Reichtum, Wohlstand und Fülle auszurichten.  Ein außergewöhnliches Leben wartet auf Dich.  Richten Sie sich auf Fülle aus, während Sie in tiefem und friedlichem Schlaf ruhen.
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
+
 #### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
 
 Wenn es dir wie mir vor einigen Jahren geht, dann kommen bei dir jedes mal wenn du solche Selbstliebe-Sprüche hörst, folgende "Aber´s" in deinen Kopf: Ja, okay, dann liebe ich mich. Aber... bedingungslos? Also liebenswert sein ohne dafür etwas zu tun? Genug sein ohne das perfekte Körpergewicht? Stolz auf mich sein, auch wenn ich die nächste Karrierestufe noch nicht erreicht habe? In einer Gesellschaft, die besessen ist von Perfektion, sind solche Aussagen für uns schwer annehmbar. Kein Wunder, denn wir leben in einer Leistungsgesellschaft, in der es in allen Lebensbereichen nur um schneller, höher und grundsätzlich immer um “mehr” zu gehen scheint. **Und doch spüren wir, dass uns dieses Denken unglücklich macht.** Dass wir der Anerkennung und der Liebe irgendwie immer hinterher zu laufen scheinen, anstatt uns jetzt in diesem Moment selbst zu 100 % so anzunehmen, so zu lieben, wie wir sind. Mit allen Ecken und Kanten.

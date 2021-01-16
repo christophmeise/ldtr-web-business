@@ -2,7 +2,7 @@
 title: Die 10 besten Last-Minute-Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
-date: 2020-12-15T00:00:00+01:00
+date: 2020-12-15T00:00:00.000+01:00
 tags:
 - Geschenke
 - Spiritualität
@@ -24,6 +24,11 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
+abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste
+  am Schenken ist für mich meinen Liebsten Danke zu sagen, für alles was sie sind
+  und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir
+  vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig,
+  sinnvoll und mit besonderer Bedeutung ist.
 
 ---
 ### Geschenke vom Herzen für die Seele

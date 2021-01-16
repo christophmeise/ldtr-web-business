@@ -3,7 +3,7 @@ tags:
 - Fun
 title: test
 path: "/test123"
-featuredImage: ''
+featuredImage: "../../uploads/otter2.jpg"
 date: 2021-02-19T00:00:00+01:00
 
 ---

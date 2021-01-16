@@ -28,7 +28,7 @@ const SectionRTTTestimonials = ({ t }) => {
     const params = {
         slidesPerView: slidesPerView,
         spaceBetween: 40,
-        loop: true,
+        loop: false,
         pagination: {
             el: '.swiper-pagination',
             clickable: true,
@@ -102,7 +102,7 @@ const SectionRTTTestimonials = ({ t }) => {
             mobile={slidesPerView === 1}
             label={t('testimonials:customer4-label')}
             text={t('testimonials:customer4-text')}
-            author="Theresa, Berlin"
+            author="Teresa, Berlin"
             src={data.customer4.childImageSharp.fluid}
         ></RTTTestimonialCard>
     </div>);

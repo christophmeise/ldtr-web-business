@@ -1,4 +1,5 @@
 import { graphql, Link, useStaticQuery } from 'gatsby';
+import i18n from 'i18next';
 import React from 'react';
 import { Button, Container, Grid, Icon } from 'semantic-ui-react';
 import { getPathWithLocale } from '../navigateWithLocale';
@@ -14,10 +15,9 @@ const SectionRTTBlog = ({ t }) => {
                         title
                     }
                 }
-                allMarkdownRemark(
-                    filter: { fileAbsolutePath: { regex: "/(posts)/" } }
+                german: allMarkdownRemark(
+                    filter: { fileAbsolutePath: { regex: "/(posts\\W)/" } }
                     sort: { fields: [frontmatter___date], order: DESC }
-                    limit: 3
                 ) {
                     edges {
                         node {
@@ -39,18 +39,51 @@ const SectionRTTBlog = ({ t }) => {
                         }
                     }
                 }
+                english: allMarkdownRemark(
+                    filter: { fileAbsolutePath: { regex: "/(postsenglish)/" } }
+                    sort: { fields: [frontmatter___date], order: DESC }
+                ) {
+                    edges {
+                        node {
+                            id
+                            excerpt(pruneLength: 250)
+                            frontmatter {
+                                title
+                                date(formatString: "MMMM DD, YYYY")
+                                path
+                                tags
+                                featuredImage {
+                                    childImageSharp {
+                                        fluid(maxWidth: 800) {
+                                            ...GatsbyImageSharpFluid
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+        
+                }
             }
         `,
     );
 
-    let posts = data.allMarkdownRemark.edges;
+
+    let posts;
+    if (i18n.language === 'de') {
+        posts = data.german.edges;
+    } else {
+        posts = data.english.edges;
+    }
+    posts = posts
+        .filter((post) => new Date(post.node.frontmatter.date) <= new Date())
 
     return (
         <section className="bg-secondary">
             <Container>
                 <SectionHeader
-                    headline={t('rtt-blog-headline')}
-                    subheadline={t('rtt-blog-subheadline')}
+                    headline={t('blog:Blogeinträge rund um die Themen Hypnotherapie, RTT™ und innerer Transformation')}
+                    subheadline={t('blog:Neuigkeiten von Inner Light') + ' Inner Light'}
                     primary={false}
                     textAlign="left"
                 ></SectionHeader>

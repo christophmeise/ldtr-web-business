@@ -18,7 +18,7 @@ const SectionRTT = ({ t }) => {
                 <article>
                     <div className="index-rtt-video-container">
                         <Embed
-                            id="HyjhRKM2VCA"
+                            id="3rzZHje8NhA"
                             aspectRatio="16:9"
                             className="video-wrapper shadow rounded hover-animate"
                             placeholder="/youtube-placeholder.jpg"

@@ -3,6 +3,7 @@ import i18n from 'i18next';
 import React from 'react';
 import { Button } from 'semantic-ui-react';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
+import SectionRTTBlog from '../components/index/rtt-blog';
 import Layout from '../components/layout';
 import { getPathWithLocale } from '../components/navigateWithLocale';
 import SEO from '../components/seo';
@@ -69,7 +70,7 @@ class Index extends React.Component<Props> {
                     {/*                     <div data-sal="slide-up" data-sal-delay="0" data-sal-duration="300" data-sal-easing="ease">
                         <SectionRTTCallToAction t={t}></SectionRTTCallToAction>
                     </div> */}
-                    {/* <SectionRTTBlog t={t}></SectionRTTBlog> */}
+                    <SectionRTTBlog t={t}></SectionRTTBlog>
                     <div className="bg-secondary">
                         <FAQ t={t}></FAQ>
                     </div>
@@ -142,4 +143,4 @@ export const pageQuery = graphql`
     }
 `;
 
-export default withI18next(['common', 'faq', 'testimonials'])(Index);
+export default withI18next(['common', 'faq', 'testimonials', 'blog'])(Index);

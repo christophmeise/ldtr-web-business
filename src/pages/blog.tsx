@@ -63,21 +63,21 @@ class Blog extends React.Component<Props, BlogState> {
         const data = this.props.data;
         const comingSoonImage = data.comingSoonImage.childImageSharp.fluid;
         const comingSoonImageMobile = data.comingSoonImageMobile.childImageSharp.fluid;
+        const siteTitle = data.site.siteMetadata.title;
+        const description = data.site.siteMetadata.description;
         let posts;
         if (i18n.language === 'de') {
             posts = data.german.edges;
         } else {
             posts = data.english.edges;
         }
-        const siteTitle = data.site.siteMetadata.title;
-        const description = data.site.siteMetadata.description;
-        const tags = this.getTags(posts);
         posts = posts
             .filter((post) => new Date(post.node.frontmatter.date) <= new Date())
         if (this.state.tagFilter.length > 0 && this.state.tagFilter != this.props.t('blog:Alle')) {
             posts = posts
                 .filter((post) => post.node.frontmatter.tags.includes(this.state.tagFilter));
         }
+        const tags = this.getTags(posts);
 
         const sources = [
             comingSoonImageMobile,

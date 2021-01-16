@@ -3,7 +3,7 @@ title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst m
   diesen 5 Geheimnissen
 path: "/die-magie-von-affirmationen"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2021-12-31T00:00:00+01:00
+date: 2021-12-31T00:00:00.000+01:00
 tags:
 - Selflove
 - Personal Development
@@ -27,6 +27,10 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
+abstract: Affirmationen können dir im Leben vielseitig nützlich sein und dein Unterbewusstsein
+  regelrecht umprogrammieren. So kannst du z. B. deine Selbstheilung fördern, Selbstbewusstsein
+  aufbauen, Selbstliebe stärken, besser Einschlafen, mehr Glück, Erfolg oder Reichtum
+  im Leben ziehen und noch vieles, vieles mehr.
 
 ---
 ### Ist Hypnose gefährlich?

@@ -27,6 +27,11 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
+abstract: Eine lebenslange Liebesgeschichte, die niemals verblasst, dich niemals unglücklich
+  macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner
+  Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person,
+  die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen
+  und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen.
 
 ---
 ### Social Distancing statt romantische Liebesgeschichten

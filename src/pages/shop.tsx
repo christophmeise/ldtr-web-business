@@ -59,10 +59,14 @@ class Shop extends React.Component<Props, State> {
                 media: `(min-width: 768px)`,
             },
         ];
+        const meta = [{
+            name: 'robots',
+            content: 'noindex'
+        }];
 
         return (
             <Layout title={siteTitle} invertedHeader={true} t={t}>
-                <SEO title="Shop" />
+                <SEO title="Shop" meta={meta} />
                 <HeaderOverlay
                     sources={sources}
                     color="#000000"
@@ -204,9 +208,8 @@ export const pricingData = {
 export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, handleOnCheckout }) => {
     return (
         <div
-            className={`rtt-shop-pricing-container rounded shadow ${
-                isSelected ? 'rtt-shop-pricing-container-selected' : null
-            }`}
+            className={`rtt-shop-pricing-container rounded shadow ${isSelected ? 'rtt-shop-pricing-container-selected' : null
+                }`}
         >
             <div className="rtt-shop-pricing-header">
                 <h3>{pricingData.title}</h3>
@@ -287,11 +290,11 @@ export const PricingComponent = ({ t, pricingData, isSelected, handleOnSelect, h
                             {t('shop:pricing-select')}
                         </Button>
                     ) : (
-                        <Button primary className="rounded shadow hover-animate" onClick={handleOnCheckout}>
-                            <Icon name="lock" style={{ opacity: 1 }}></Icon>
-                            {t('shop:pricing-checkout')}
-                        </Button>
-                    )}
+                            <Button primary className="rounded shadow hover-animate" onClick={handleOnCheckout}>
+                                <Icon name="lock" style={{ opacity: 1 }}></Icon>
+                                {t('shop:pricing-checkout')}
+                            </Button>
+                        )}
                 </div>
             )}
         </div>

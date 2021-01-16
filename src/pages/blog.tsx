@@ -247,6 +247,7 @@ export const pageQuery = graphql`
                         date(formatString: "MMMM DD, YYYY")
                         path
                         tags
+                        abstract
                         featuredImage {
                             childImageSharp {
                                 fluid(maxWidth: 800) {
@@ -271,6 +272,7 @@ export const pageQuery = graphql`
                         date(formatString: "MMMM DD, YYYY")
                         path
                         tags
+                        abstract
                         featuredImage {
                             childImageSharp {
                                 fluid(maxWidth: 800) {

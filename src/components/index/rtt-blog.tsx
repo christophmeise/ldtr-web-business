@@ -28,6 +28,7 @@ const SectionRTTBlog = ({ t }) => {
                                 date(formatString: "MMMM DD, YYYY")
                                 path
                                 tags
+                                abstract
                                 featuredImage {
                                     childImageSharp {
                                         fluid(maxWidth: 800) {
@@ -52,6 +53,7 @@ const SectionRTTBlog = ({ t }) => {
                                 date(formatString: "MMMM DD, YYYY")
                                 path
                                 tags
+                                abstract
                                 featuredImage {
                                     childImageSharp {
                                         fluid(maxWidth: 800) {

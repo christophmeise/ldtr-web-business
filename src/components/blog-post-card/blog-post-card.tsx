@@ -20,6 +20,7 @@ type PostFrontmatter = {
     path: string;
     tags: any;
     featuredImage: any;
+    abstract: string;
 };
 
 export default function BlogPostCard({ post }: Props) {
@@ -33,7 +34,7 @@ export default function BlogPostCard({ post }: Props) {
                     fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
                 >
                     <Label.Group className="blog-post-tag-label-group">
-                        {post.frontmatter.tags.slice(0,3).map((tag, index) => {
+                        {post.frontmatter.tags.slice(0, 3).map((tag, index) => {
                             return (
                                 <Label
                                     size="small"
@@ -58,7 +59,7 @@ export default function BlogPostCard({ post }: Props) {
                     </Link>
                 </CardHeader> */}
 
-                    <Card.Description>{post.excerpt}</Card.Description>
+                    <Card.Description>{post.frontmatter.abstract}</Card.Description>
                 </CardContent>
                 <CardContent extra>
                     <CardMeta>{post.frontmatter.date}</CardMeta>

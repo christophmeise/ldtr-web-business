@@ -2,7 +2,7 @@
 title: Was ist RTT?
 path: "/vergebung-als-weg-zu-deiner-freiheit"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2021-12-31T00:00:00+01:00
+date: 2021-12-31T00:00:00.000+01:00
 tags:
 - Selflove
 - Personal Development
@@ -26,6 +26,15 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
+abstract: 'RTT umfasst viele der positiven Aspekte der Hypnose und Hypnotherapie,
+  von denen bekannt ist, dass sie eine transformative Wirkung auf Klienten haben:
+  die Verwendung von Trance, Regression und hypnotischer Konditionierung. RTT geht
+  jedoch darüber hinaus und diagnostiziert, was mit echten Klienten in echten Sitzungen
+  funktioniert, um einen neuen therapeutischen Ansatz zu entwickeln. Marisa stellte
+  fest, dass Klienten unabhängig von ihrem Problem in Sitzungen davon profitierten,
+  dass sie eine bestimmte Reihe von Techniken immer und immer wieder anwandte. Diese
+  Erkenntnisse bildeten die Grundlage für die Rapid Transformational Therapy, die
+  sich zu einem unverwechselbaren Ansatz entwickelte.'
 
 ---
 ### Vergebung

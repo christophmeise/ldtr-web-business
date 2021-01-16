@@ -9,7 +9,11 @@ title: "(Self) love in times of Corona: 5 practical tips how to experience your 
   love story now"
 path: "/true-self-love-experience"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2020-12-02T00:00:00+01:00
+date: 2020-12-02T00:00:00.000+01:00
+abstract: Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich
+  macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner
+  Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person,
+  die uns genau das geben kann.
 
 ---
 ### Social Distancing statt romantische Liebesgeschichten

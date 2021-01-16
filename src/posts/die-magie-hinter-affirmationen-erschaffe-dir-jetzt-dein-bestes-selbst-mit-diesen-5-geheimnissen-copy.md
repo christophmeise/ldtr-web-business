@@ -2,7 +2,7 @@
 title: Vergebung - In 5 Schritten zu deiner Freiheit und inneren Frieden
 path: "/vergebung-als-weg-zu-deiner-freiheit"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2021-12-31T00:00:00+01:00
+date: 2021-12-31T00:00:00.000+01:00
 tags:
 - Selflove
 - Personal Development
@@ -26,6 +26,10 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
+abstract: 'Wenn es dir wie mir vor einigen Jahren geht, dann kommen bei dir jedes
+  mal wenn du solche Selbstliebe-Sprüche hörst, folgende "Aber´s" in deinen Kopf:
+  Ja, okay, dann liebe ich mich. Aber... bedingungslos? Also liebenswert sein ohne
+  dafür etwas zu tun? Genug sein ohne das perfekte Körpergewicht?'
 
 ---
 ### Vergebung

@@ -48,7 +48,7 @@ Kannst du von dir selbst sagen, dass du dich ohne Bedingungen liebst? Also genau
 
 ![](../../uploads/photo-1518199266791-5375a83190b7.jpg)
 
-### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
+### Fünf praktische Tipps, die funktionieren, um deine Selbstliebe zu stärken
 
 Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst.
 

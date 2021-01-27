@@ -38,7 +38,7 @@ Das Ritual, das ich heute mit dir teilen möchte, ist eine Basisritual, das Du b
 
 Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen ein. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen?
 
-##### Du möchtest zum Wolfs-Mond am 28. Januar beim INNER LIGHT Vollmond-Ritual dabei sein? Klicke einfach <a href="[https://www.meetup.com/de-DE/erwecke-dein-inneres-licht-spirituelle-community/events/275888272/](https://www.meetup.com/de-DE/erwecke-dein-inneres-licht-spirituelle-community/events/275888272/ "https://www.meetup.com/de-DE/erwecke-dein-inneres-licht-spirituelle-community/events/275888272/")" target="_blank">**HIER**</a>und wir freuen uns auf dich! ♥
+##### Du möchtest zum Wolfs-Mond am 28. Januar beim INNER LIGHT Vollmond-Ritual dabei sein? Klicke einfach [**HIER**](https://www.meetup.com/de-DE/erwecke-dein-inneres-licht-spirituelle-community/events/275888272/ "INNER LIGHT Vollmond-Ritual") und wir freuen uns auf dich! ♥
 
 #### Was du zu deinem Vollmond-Ritual benötigst:
 
@@ -54,9 +54,7 @@ Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeit
 
 #### Part I: Einstimmung
 
-Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M) von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von <a href="[https://www.youtube.com/watch?v=itBR5TU-4L0](https://www.youtube.com/watch?v=itBR5TU-4L0 "https://www.youtube.com/watch?v=itBR5TU-4L0")/" target="_blank">**PowerThoughts Meditation Club**</a>
-
-<a href="https://hierdenlinkeinfuegen/" target="_blank">Hier den Namen des Links einfuegen</a>
+Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M "Vollmond-Mantra") von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club](https://www.youtube.com/watch?v=itBR5TU-4L0 "PowerThoughts Frequenzen").
 
 #### Part II: Dankbarkeit
 
@@ -80,7 +78,7 @@ Nutze die Energien des aktuellen Vollmonds und geh tief in die Themen, die gerad
 
 Nutze das INNER LIGHT Workbook zum kostenlosen Download! Hier bekommst du immer die aktuellen Themen auf einen Blick zusammengefasst.
 
-**Lade dir** <a href="[https://docdro.id/MJZu5r2](https://docdro.id/MJZu5r2 "https://docdro.id/MJZu5r2")/" target="_blank">**HIER**</a> **dein Workbook zum Wolf-Vollmond am 28. Januar 2021 herunter!**
+**Lade dir** [HIER](https://docdro.id/MJZu5r2 "Workbook zum Wolfs-Vollmond") **dein Workbook zum Wolf-Vollmond am 28. Januar 2021 herunter!**
 
 #### Part V: Ritual ausklingen lassen
 

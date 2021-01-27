@@ -54,7 +54,9 @@ Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeit
 
 #### Part I: Einstimmung
 
-Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M) von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von <a href="https://[https://www.youtube.com/watch?v=itBR5TU-4L0](https://www.youtube.com/watch?v=itBR5TU-4L0 "https://www.youtube.com/watch?v=itBR5TU-4L0")/" target="_blank">**PowerThoughts Meditation Club**</a>
+Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M) von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von <a href="[https://www.youtube.com/watch?v=itBR5TU-4L0](https://www.youtube.com/watch?v=itBR5TU-4L0 "https://www.youtube.com/watch?v=itBR5TU-4L0")/" target="_blank">**PowerThoughts Meditation Club**</a>
+
+<a href="https://hierdenlinkeinfuegen/" target="_blank">Hier den Namen des Links einfuegen</a>
 
 #### Part II: Dankbarkeit
 

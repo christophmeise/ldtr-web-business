@@ -2,11 +2,10 @@
 title: 'Vollmond-Ritual '
 path: "/vollmond-ritual-wolfsvollmond"
 featuredImage: "../../uploads/kopie-von-vollmond-ritual.jpg"
-date: 2021-12-30T00:00:00+01:00
+date: 2021-01-26T00:00:00+01:00
 tags:
-- Geschenke
 - Spiritualität
-- Weihnachten
+- Vollmond
 blocks:
 - template: introduction
   images:
@@ -24,11 +23,11 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste
-  am Schenken ist für mich meinen Liebsten Danke zu sagen, für alles was sie sind
-  und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir
-  vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig,
-  sinnvoll und mit besonderer Bedeutung ist.
+abstract: Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben
+  und natürliche Rhythmen in unseren Alltag zu integrieren. Wenn Du die Zyklen der
+  Natur nutzen, um inne zuhalten und wahrzunehmen, wo Du stehst, was Du erlebt hast
+  und wo Du hin möchtest, hilft das sehr, dein Leben mit mehr Tiefe und Bewusstsein
+  zu gestalten und wieder in Einklang mit dir selbst zu kommen.
 
 ---
 ### Die Vollmond-Energie für dich nutzen

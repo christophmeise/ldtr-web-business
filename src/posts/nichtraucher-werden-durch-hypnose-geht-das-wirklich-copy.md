@@ -43,7 +43,7 @@ Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeit
 
 Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wenn wir die Manifestation der Intentionen erleben, die wir beim Neumond gesetzt haben. Der Vollmond ist eine Zeit dein Inneres Licht erstrahlen zu lassen und alles loszulassen, was deinen Schein trübt: Er ist eine Einladung, uns mit unser INNER SOUL Family zu verbinden und unser Licht zum Leuchten zu bringen, um andere zu inspirieren, sich mit ihrer eigenen Essenz zu verbinden und ebenfalls hell zu leuchten.
 
-<a href="[https://amzn.to/36AiNuK](https://amzn.to/36AiNuK "https://amzn.to/36AiNuK")/" target="_blank">Hier den Namen des Links einfuegen</a>
+<a href="https://amzn.to/36AiNuK/" target="_blank">Hier den Namen des Links einfuegen</a>
 
 > 
 >

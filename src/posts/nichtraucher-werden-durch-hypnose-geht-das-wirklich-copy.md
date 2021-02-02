@@ -29,7 +29,7 @@ abstract: Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu le
   nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen.
 
 ---
-### Wie du die Mond-Energie für dich nutzen kannst
+## Wie du die Mond-Energie für dich nutzen kannst
 
 Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben und natürliche Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der Natur und der in ihr lebenden Magie verbinden will, kann deshalb die Mondphasen nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen. Wenn Du die Zyklen der Natur nutzen willst, um innezuhalten und wahrzunehmen, wo Du stehst, was Du erlebt hast und wo Du hin möchtest, hilft das sehr, dein Leben mit mehr Tiefe und Bewusstsein zu gestalten und wieder in Einklang mit dir selbst zu kommen.
 
@@ -97,7 +97,7 @@ Du kannst das Ritual abschließen, indem du nochmal mit geschlossenen Augen ein 
 
 Wenn du möchtest, kannst du deine Dankbarkeitsliste und das Blatt mit deinen Wünschen gut sichtbar aufhängen. So lenkst du jeden Tag deinen Fokus darauf und ziehst automatisch mehr Fülle in dein Leben. Die Vollmond-Energie verstärkt diesen Effekt noch.
 
-Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem Peeling aus Meersalz, Honig und Kokosöl peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
+Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem <a href="[https://amzn.to/3oBBaWw](https://amzn.to/3oBBaWw "https://amzn.to/3oBBaWw")"_blank">Peeling aus Meersalz, Honig und Kokosöl</a> peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
 
 Die Energie des Vollmondes hält eine Weile an und Du kannst das Ritual auch 1-2 Tage vor oder nach Vollmond machen.
 

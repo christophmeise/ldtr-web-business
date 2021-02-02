@@ -45,7 +45,7 @@ Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wen
 
 #### Was du zu deinem Vollmond-Ritual benötigst:
 
-* deinen <a href="[https://amzn.to/36AiNuK](https://amzn.to/36AiNuK "https://amzn.to/36AiNuK")" target="_blank">Lieblingsstift</a>
+* deinen <a href="[https://amzn.to/36AiNuK](https://amzn.to/36AiNuK "https://amzn.to/36AiNuK")/">Lieblingsstift</a>
 
    und dein <a href="[https://amzn.to/39HBcrE](https://amzn.to/39HBcrE "https://amzn.to/39HBcrE")" target="_blank">Journal</a>
 * WORKBOOK mit Reflektionsfragen _(gratis zum Download in deinem Blogbeitrag)_

@@ -1,6 +1,6 @@
 ---
 title: 'Vollmond-Ritual '
-path: "/vollmond-ritual-wolfsvollmond"
+path: "/vollmond-rituale"
 featuredImage: "../../uploads/kopie-von-vollmond-ritual.jpg"
 date: 2021-01-26T00:00:00+01:00
 tags:
@@ -24,43 +24,54 @@ blocks:
 - template: fulltext
   title: test
 abstract: Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben
-  und natürliche Rhythmen in unseren Alltag zu integrieren. Wenn Du die Zyklen der
-  Natur nutzen, um inne zuhalten und wahrzunehmen, wo Du stehst, was Du erlebt hast
-  und wo Du hin möchtest, hilft das sehr, dein Leben mit mehr Tiefe und Bewusstsein
-  zu gestalten und wieder in Einklang mit dir selbst zu kommen.
+  und natürliche Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der
+  Natur und der in ihr lebenden Magie verbinden will, kann deshalb die Mondphasen
+  nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen.
 
 ---
-### Die Vollmond-Energie für dich nutzen
+### Wie du die Mond-Energie für dich nutzen kannst
 
-Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben und natürliche Rhythmen in unseren Alltag zu integrieren. Wenn Du die Zyklen der Natur nutzen, um inne zuhalten und wahrzunehmen, wo Du stehst, was Du erlebt hast und wo Du hin möchtest, hilft das sehr, dein Leben mit mehr Tiefe und Bewusstsein zu gestalten und wieder in Einklang mit dir selbst zu kommen.
+Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben und natürliche Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der Natur und der in ihr lebenden Magie verbinden will, kann deshalb die Mondphasen nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen. Wenn Du die Zyklen der Natur nutzen willst, um innezuhalten und wahrzunehmen, wo Du stehst, was Du erlebt hast und wo Du hin möchtest, hilft das sehr, dein Leben mit mehr Tiefe und Bewusstsein zu gestalten und wieder in Einklang mit dir selbst zu kommen.
 
 Das Ritual, das ich heute mit dir teilen möchte, ist eine Basisritual, das Du bei jedem Vollmond anwenden kannst, um die Energie für dich zu nutzen.
 
-Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen ein. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen?
+Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen ♥
 
 ##### Du möchtest zum Wolfs-Mond am 28. Januar beim INNER LIGHT Vollmond-Ritual dabei sein? Klicke einfach [**HIER**](https://www.meetup.com/de-DE/erwecke-dein-inneres-licht-spirituelle-community/events/275888272/ "INNER LIGHT Vollmond-Ritual") und wir freuen uns auf dich! ♥
 
+## **Vollmond-Rituale**
+
+Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wenn wir die Manifestation der Intentionen erleben, die wir beim Neumond gesetzt haben. Der Vollmond ist eine Zeit dein Inneres Licht erstrahlen zu lassen und alles loszulassen, was deinen Schein trübt: Er ist eine Einladung, uns mit unser INNER SOUL Family zu verbinden und unser Licht zum Leuchten zu bringen, um andere zu inspirieren, sich mit ihrer eigenen Essenz zu verbinden und ebenfalls hell zu leuchten.
+
 #### Was du zu deinem Vollmond-Ritual benötigst:
 
-* deinen Lieblingsstift und dein Journal
+* deinen <a href="[https://amzn.to/36AiNuK](https://amzn.to/36AiNuK "https://amzn.to/36AiNuK")" target="_blank">Lieblingsstift</a>
+
+   und dein <a href="[https://amzn.to/39HBcrE](https://amzn.to/39HBcrE "https://amzn.to/39HBcrE")" target="_blank">Journal</a>
 * WORKBOOK mit Reflektionsfragen _(gratis zum Download in deinem Blogbeitrag)_
-* Kerzen
+* <a href="[https://amzn.to/3oFBqDV](https://amzn.to/3oFBqDV "https://amzn.to/3oFBqDV")" target="_blank">Kerzen Set</a>
 * Hintergrundmusik mit Frequenzen
-* Räucherstäbchen, Räucherzubehör oder Palo Santo
-* eine feuerfeste Schale
+* Räucher-Zubehör: <a href="[https://amzn.to/3pDqKHc](https://amzn.to/3pDqKHc "https://amzn.to/3pDqKHc")" target="_blank">Räucherstäbchen</a>, 
+
+  <a href="[https://amzn.to/3tlHZin](https://amzn.to/3tlHZin "https://amzn.to/3tlHZin")" target="_blank">Räucher-Set´s</a> mit Weißem Salbei oder Palo Santo
+* <a href="[https://amzn.to/3cA9v5O](https://amzn.to/3cA9v5O "https://amzn.to/3cA9v5O")" target="_blank">eine feuerfeste Räucherschale</a>
 * einen Ort, an dem Du zur Ruhe kommen und für dich sein kannst
 
-### Dein Vollmond-Ritual 
+### Dein Vollmond-Ritual
 
-#### Part I: Einstimmung
+#### Part I: Einstimmung & energetische Reinigung
 
 Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M "Vollmond-Mantra") von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club](https://www.youtube.com/watch?v=itBR5TU-4L0 "PowerThoughts Frequenzen").
+
+Zur energetischen Reinigung eignen sich vor allem Palo Santo und Weißer Salbei. Wichtig ist, dass du eine <a href="[https://amzn.to/3cA9v5O](https://amzn.to/3cA9v5O "https://amzn.to/3cA9v5O")" target="_blank">eine feuerfeste Räucherschale</a>hast, damit dein Räucherritual sicher ist. Nachdem du deine Umgebung energetisch gereinigt hast, zünde dir gern <a href="[https://amzn.to/3pDqKHc](https://amzn.to/3pDqKHc "https://amzn.to/3pDqKHc")" target="_blank">Räucherstäbchen</a> an und mach es dir richtig gemütlich! 
 
 #### Part II: Dankbarkeit
 
 Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen die aufzuschreiben, wofür du gerade dankbar in deinem Leben bist. Das können Menschen, besondere Momente, Dinge, die du besitzt oder scheinbare Kleinigkeiten wie dein Zuhause, dein Essen, dein Bett usw. sein. Durch die Dankbarkeit erhöhst du deine Energiefrequenz und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen Herzraum in der Mitte von deinem Brustkorb übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
 
 #### Part III: Loslassen und Fülle einladen
+
+Der Vollmond ist ein Symbol der Erleuchtung. Es ist eine Zeit in der Klarheit in unserem Inneren entsteht und Licht auf unbeleuchtete Themen geworfen wird, die zuvor versteckt oder unklar waren. Die Schatten können sich lichten und wir können diese Energie nutzen, um Klarheit darüber zu erlangen was unser nächster Schritt auf unserer Seelenreise ist. 
 
 Wenn du so weit bist, schreibe nun auf ein Blatt all das auf, was Du gerne loslassen möchtest. Das können Verhaltensweisen, Glaubenssätze, Ängste, Ärger, Selbstkritik, überflüssig gewordene Dinge und vieles mehr sein. Schreib es alles einmal raus. Allein das kann schon sehr befreiend sein.
 

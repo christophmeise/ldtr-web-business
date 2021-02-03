@@ -37,30 +37,24 @@ Das Ritual, das ich heute mit dir teilen möchte, ist eine Basisritual, das Du b
 
 Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen ♥
 
-##### Du möchtest zum Wolfs-Mond am 28. Januar beim INNER LIGHT Vollmond-Ritual dabei sein? Klicke einfach [**HIER**](https://www.meetup.com/de-DE/erwecke-dein-inneres-licht-spirituelle-community/events/275888272/ "INNER LIGHT Vollmond-Ritual") und wir freuen uns auf dich! ♥
+##### Du möchtest zum Snow Moon am 27. Februar beim INNER LIGHT Vollmond-Ritual dabei sein? Tritt unser Community <a href="https://www.facebook.com/groups/innerlightsoulfamily/" target="_blank">hier</a>bei und verpasse kein Event mehr! Wir freuen uns auf dich! ♥
 
 ## **Vollmond-Rituale**
 
 Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wenn wir die Manifestation der Intentionen erleben, die wir beim Neumond gesetzt haben. Der Vollmond ist eine Zeit dein Inneres Licht erstrahlen zu lassen und alles loszulassen, was deinen Schein trübt: Er ist eine Einladung, uns mit unser INNER SOUL Family zu verbinden und unser Licht zum Leuchten zu bringen, um andere zu inspirieren, sich mit ihrer eigenen Essenz zu verbinden und ebenfalls hell zu leuchten.
 
-<a href="https://amzn.to/36AiNuK/" target="_blank">Hier den Namen des Links einfuegen</a>
-
-> 
->
-> <a href="[https://amzn.to/36AiNuK](https://amzn.to/36AiNuK "https://amzn.to/36AiNuK")/" target="_blank">Lieblingsstift</a>
-
 #### Was du zu deinem Vollmond-Ritual benötigst:
 
-* deinen <a href="[https://amzn.to/36AiNuK](https://amzn.to/36AiNuK "https://amzn.to/36AiNuK")/"> Lieblingsstift</a>
+* deinen <a href="https://amzn.to/36AiNuK/"> Lieblingsstift</a>
 
-   und dein <a href="[https://amzn.to/39HBcrE](https://amzn.to/39HBcrE "https://amzn.to/39HBcrE")" target="_blank"> Journal</a>
+   und dein <a href="https://amzn.to/39HBcrE" target="_blank"> Journal</a>
 * WORKBOOK mit Reflektionsfragen _(gratis zum Download in deinem Blogbeitrag)_
-* <a href="[https://amzn.to/3oFBqDV](https://amzn.to/3oFBqDV "https://amzn.to/3oFBqDV")" target="_blank">Kerzen Set</a>
+* <a href="https://amzn.to/3oFBqDV" target="_blank">Kerzen Set</a>
 * Hintergrundmusik mit Frequenzen
-* Räucher-Zubehör: <a href="[https://amzn.to/3pDqKHc](https://amzn.to/3pDqKHc "https://amzn.to/3pDqKHc")" target="_blank">Räucherstäbchen</a>, 
+* Räucher-Zubehör: <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a>, 
 
-  <a href="[https://amzn.to/3tlHZin](https://amzn.to/3tlHZin "https://amzn.to/3tlHZin")" target="_blank">Räucher-Set´s</a> mit Weißem Salbei oder Palo Santo
-* <a href="[https://amzn.to/3cA9v5O](https://amzn.to/3cA9v5O "https://amzn.to/3cA9v5O")" target="_blank">eine feuerfeste Räucherschale</a>
+  <a href="https://amzn.to/3tlHZin" target="_blank">Räucher-Set´s</a> mit Weißem Salbei oder Palo Santo
+* <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a>
 * einen Ort, an dem Du zur Ruhe kommen und für dich sein kannst
 
 ### Dein Vollmond-Ritual
@@ -69,7 +63,7 @@ Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wen
 
 Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M "Vollmond-Mantra") von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club](https://www.youtube.com/watch?v=itBR5TU-4L0 "PowerThoughts Frequenzen").
 
-Zur energetischen Reinigung eignen sich vor allem <a href="[https://amzn.to/3rcJi1m](https://amzn.to/3rcJi1m "https://amzn.to/3rcJi1m")" target="_blank">Palo Santo</a> und <a href="[https://amzn.to/3arz1rp](https://amzn.to/3arz1rp "https://amzn.to/3arz1rp")" target="_blank">Weißer Salbei</a>. Wichtig ist, dass du eine <a href="[https://amzn.to/3cA9v5O](https://amzn.to/3cA9v5O "https://amzn.to/3cA9v5O")" target="_blank">eine feuerfeste Räucherschale</a>hast, damit dein Räucherritual sicher ist. Nachdem du deine Umgebung energetisch gereinigt hast, zünde dir gern <a href="[https://amzn.to/3pDqKHc](https://amzn.to/3pDqKHc "https://amzn.to/3pDqKHc")" target="_blank">Räucherstäbchen</a> an und mach es dir richtig gemütlich! 
+Zur energetischen Reinigung eignen sich vor allem <a href="https://amzn.to/3rcJi1m" target="_blank">Palo Santo</a> und <a href="https://amzn.to/3arz1rp" target="_blank">Weißer Salbei</a>. Wichtig ist, dass du eine <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a>hast, damit dein Räucherritual sicher ist. Nachdem du deine Umgebung energetisch gereinigt hast, zünde dir gern <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a> an und mach es dir richtig gemütlich! 
 
 #### Part II: Dankbarkeit
 
@@ -103,7 +97,7 @@ Du kannst das Ritual abschließen, indem du nochmal mit geschlossenen Augen ein 
 
 Wenn du möchtest, kannst du deine Dankbarkeitsliste und das Blatt mit deinen Wünschen gut sichtbar aufhängen. So lenkst du jeden Tag deinen Fokus darauf und ziehst automatisch mehr Fülle in dein Leben. Die Vollmond-Energie verstärkt diesen Effekt noch.
 
-Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem <a href="[https://amzn.to/3oBBaWw](https://amzn.to/3oBBaWw "https://amzn.to/3oBBaWw")"_blank">Peeling aus Meersalz, Honig und Kokosöl</a> peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
+Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem <a href="https://amzn.to/3oBBaWw"_blank">Peeling aus Meersalz, Honig und Kokosöl</a> peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
 
 Die Energie des Vollmondes hält eine Weile an und Du kannst das Ritual auch 1-2 Tage vor oder nach Vollmond machen.
 

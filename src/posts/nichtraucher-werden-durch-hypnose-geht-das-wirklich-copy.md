@@ -102,3 +102,5 @@ Genieße die Magie des Abends und das wundervolle Gefühl nach dem Ritual. Happy
 ##### Ich freue mich sehr für dich, dass du bereit bist deine Macht über dein Leben zu nutzen um dein wahres Selbst heller und heller scheinen zu lassen. Danke, dass es dich gibt, du wundervolle Seele! _Namasté_
 
 ***
+
+_*Bei den in diesem Blogpost verwendeten Links handelt es sich um Affiliate-Links. Wenn du auf diesen Link klickst und einen Kauf abschließt unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts. Danke!_

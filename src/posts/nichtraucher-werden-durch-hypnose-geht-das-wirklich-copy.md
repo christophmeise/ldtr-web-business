@@ -93,7 +93,7 @@ Du kannst das Ritual abschließen, indem du nochmal mit geschlossenen Augen ein 
 
 Wenn du möchtest, kannst du deine Dankbarkeitsliste und das Blatt mit deinen Wünschen gut sichtbar aufhängen. So lenkst du jeden Tag deinen Fokus darauf und ziehst automatisch mehr Fülle in dein Leben. Die Vollmond-Energie verstärkt diesen Effekt noch.
 
-Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem <a href="https://amzn.to/3oBBaWw"_blank">Peeling aus Meersalz, Honig und Kokosöl</a> peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
+Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem <a href="https://amzn.to/3oBBaWw" target="_blank">Peeling aus Meersalz, Honig und Kokosöl</a> peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
 
 Die Energie des Vollmondes hält eine Weile an und Du kannst das Ritual auch 1-2 Tage vor oder nach Vollmond machen.
 

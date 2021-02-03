@@ -49,7 +49,7 @@ Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wen
 * WORKBOOK mit Reflektionsfragen _(gratis zum Download in diesem Blogbeitrag)_
 * <a href="https://amzn.to/3oFBqDV" target="_blank">Kerzen Set</a>
 * Hintergrundmusik mit Frequenzen
-* Räucher-Zubehör: <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a>, <a href="https://amzn.to/3tlHZin" target="_blank">Räucher-Set´s</a> mit Weißem Salbei  Palo Santo
+* Räucher-Zubehör: <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a>, <a href="https://amzn.to/3tlHZin" target="_blank">Räucher-Set´s</a> mit Weißem Salbei oder Palo Santo
 * <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a>
 * einen Ort, an dem Du zur Ruhe kommen und für dich sein kannst
 
@@ -57,13 +57,13 @@ Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wen
 
 #### Part I: Einstimmung & energetische Reinigung
 
-Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M "Vollmond-Mantra") von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club](https://www.youtube.com/watch?v=itBR5TU-4L0 "PowerThoughts Frequenzen").
+Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra <a href="https://www.youtube.com/watch?v=e6hEvSvpx7M" target="_blank">Kiss the Earth</a> von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von <a href="https://www.youtube.com/watch?v=itBR5TU-4L0" target="_blank">PowerThoughts Meditation Club.</a>
 
-Zur energetischen Reinigung eignen sich vor allem <a href="https://amzn.to/3rcJi1m" target="_blank">Palo Santo</a> und <a href="https://amzn.to/3arz1rp" target="_blank">Weißer Salbei</a>. Wichtig ist, dass du eine <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a>hast, damit dein Räucherritual sicher ist. Nachdem du deine Umgebung energetisch gereinigt hast, zünde dir gern <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a> an und mach es dir richtig gemütlich!
+Zur energetischen Reinigung eignen sich vor allem <a href="https://amzn.to/3rcJi1m" target="_blank">Palo Santo</a> und <a href="https://amzn.to/3arz1rp" target="_blank">Weißer Salbei</a>. Wichtig ist, dass du eine <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a> hast, damit dein Räucherritual sicher ist. Nachdem du deine Umgebung energetisch gereinigt hast, zünde dir gern <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a> an und mach es dir richtig gemütlich!
 
 #### Part II: Dankbarkeit
 
-Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen die aufzuschreiben, wofür du gerade dankbar in deinem Leben bist. Das können Menschen, besondere Momente, Dinge, die du besitzt oder scheinbare Kleinigkeiten wie dein Zuhause, dein Essen, dein Bett usw. sein. Durch die Dankbarkeit erhöhst du deine Energiefrequenz und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen Herzraum in der Mitte von deinem Brustkorb übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
+Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen aufzuschreiben, wofür du gerade dankbar in deinem Leben bist. Das können Menschen, besondere Momente, Dinge, die du besitzt oder scheinbare Kleinigkeiten wie dein Zuhause, dein Essen, dein Bett usw. sein. Durch die Dankbarkeit erhöhst du deine Energiefrequenz und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen Herzraum in der Mitte von deinem Brustkorb übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
 
 #### Part III: Loslassen und Fülle einladen
 
@@ -73,15 +73,15 @@ Wenn du so weit bist, schreibe nun auf ein Blatt all das auf, was Du gerne losla
 
 Auf einem zweiten Blatt listest du anschließend all das auf, was du stattdessen gerne in dein Leben ziehen möchtest. Wenn du zum Beispiel geschrieben hast, dass Du Stress gerne loslassen möchtest, dann schreibe auf das zweite Blatt, was du dir stattdessen wünschst: Ruhe, Ausgeglichenheit, mehr Zeit für dich? Werde hier so konkret wie möglich.
 
-Wenn Du magst, kannst Du jetzt nochmal alle Dinge auf deiner Loslass-Liste durchgehen und dir vorstellen, wie Du sie mit Liebe und Leichtigkeit gehen lässt. Irgendwann haben sie dir mal auf irgendeine Art und Weise gedient und daher lass sie ohne Groll, sondern mit einem Gefühl von Dankbarkeit los.
+Wenn Du magst, kannst Du jetzt nochmal alle Dinge auf deiner Loslass-Liste durchgehen und dir vorstellen, wie Du sie mit Liebe und Leichtigkeit gehen lässt. Irgendwann haben sie dir mal auf irgendeine Art und Weise gedient und daher lass sie nicht mit Groll, sondern mit einem Gefühl von Dankbarkeit los.
 
-Symbolisch kannst Du diese Hälfte des Zettels jetzt in einer feuerfesten Schale verbrennen. Du kannst dir aber auch einfach vorstellen, dass Du alles Aufgeschriebene an eine höhere Kraft übergibst, die all diese Dinge transformiert. Es gibt hier kein richtig oder falsch, es geht nur um die Symbolik des Loslassens also werde ruhig kreativ und vertraue darauf, was sich für dich richtig anfühlt.
+Symbolisch kannst Du diese Hälfte des Zettels jetzt in einer feuerfesten Schale verbrennen. Du kannst dir aber auch einfach vorstellen, dass Du alles Aufgeschriebene an eine höhere Kraft übergibst, die all diese Dinge transformiert. Es gibt hier kein richtig oder falsch, es geht nur um die Symbolik des Loslassens. Also werde gern kreativ und vertraue darauf, was sich für dich richtig anfühlt.
 
-Gehe nun auch nochmal die Liste mit deinen Wünschen durch und bedanke dich, dass all das in dein Leben kommt.
+Gehe nun auch nochmal die Liste mit deinen Wünschen durch und bedanke dich beim Universum, deinem Higher Self oder einer höheren Kraft dafür, dass all das in dein Leben kommt.
 
 #### Part IV: Reflektionsfragen
 
-Nutze die Energien des aktuellen Vollmonds und geh tief in die Themen, die gerade hochkommen. Mit Reflektionsfragen kannst du dich genau damit auseinander setzen, was du vielleicht schon länger in dir arbeiten fühlst, aber bisher noch nicht den Raum oder die Kraft hattest dich tiefer damit auseinander zu setzen.
+Nutze die Energien des aktuellen Vollmonds und geh tief in die Themen, die gerade hochkommen. Mit Reflektionsfragen kannst du dich genau damit auseinander setzen, was du vielleicht schon länger in dir arbeiten fühlst, aber wofür du bisher noch nicht den Raum oder die Kraft hattest dich tiefer damit auseinander zu setzen.
 
 Nutze das INNER LIGHT Workbook zum kostenlosen Download! Hier bekommst du immer die aktuellen Themen auf einen Blick zusammengefasst.
 

@@ -1,5 +1,5 @@
 ---
-title: Die 10 besten Last-Minute-Geschenkideen für spirituelle Menschen
+title: Die 10 besten Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
 date: 2020-12-15T00:00:00.000+01:00
@@ -61,7 +61,7 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 >
 > _Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung_
 
-**Einzigartige Masala Räucherstäbchen im Set gibt es** [hier](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
+**Einzigartige Masala Räucherstäbchen im Set gibt es** <a href="https://amzn.to/2Kb0HHz" target="_blank">hier*</a>.
 
 ***
 
@@ -73,7 +73,7 @@ Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Ha
 >
 > _Eyecatcher durch wunderschönes Design, geeignet für Räucherstäbchen und Räucher-Kegel, sehr geschmackvoll und hochwertige Optik_
 
-**Wunderschöne Räucherstäbchen Halterung gibt es** [hier](https://amzn.to/390lqql "Räucherstäbchen-Halterung")***.**
+**Wunderschöne Räucherstäbchen Halterung gibt es** <a href="https://amzn.to/390lqql" target="_blank">hier*</a>.
 
 ***
 
@@ -85,7 +85,9 @@ Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-
 >
 > _Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung_
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von JIRI&FRIENDS gibt es** [hier](https://amzn.to/2LkwbeU "Räucherset")* **ein großartiges Räucherset.**
+**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von JIRI&FRIENDS gibt es** [hier](https://amzn.to/2LkwbeU "Räucherset")* **ein großartiges Räucherset.**<a href="https://amzn.to/2Kb0HHz" target="_blank">hier*</a>.
+
+<a href="[https://www.amazon.de/Sage-Smudge-Kit-Abalone-St%C3%A4nder/dp/B081FG119W?pd_rd_w=o74ja&pf_rd_p=9c5e12ce-f6e4-4f9d-9c5b-b51e3f5453e0&pf_rd_r=8PGNQEEF2DE4FR5W8B8Z&pd_rd_r=f1992c72-9f35-4ea0-a645-27f8cbca5fb9&pd_rd_wg=P9b3m&pd_rd_i=B081FG119W&psc=1&linkCode=li2&tag=innerlight06-21&linkId=4d001faeee612572d1cd8c41e86e4da4&language=de_DE&ref_=as_li_ss_il](https://www.amazon.de/Sage-Smudge-Kit-Abalone-St%C3%A4nder/dp/B081FG119W?pd_rd_w=o74ja&pf_rd_p=9c5e12ce-f6e4-4f9d-9c5b-b51e3f5453e0&pf_rd_r=8PGNQEEF2DE4FR5W8B8Z&pd_rd_r=f1992c72-9f35-4ea0-a645-27f8cbca5fb9&pd_rd_wg=P9b3m&pd_rd_i=B081FG119W&psc=1&linkCode=li2&tag=innerlight06-21&linkId=4d001faeee612572d1cd8c41e86e4da4&language=de_DE&ref_=as_li_ss_il "https://www.amazon.de/Sage-Smudge-Kit-Abalone-St%C3%A4nder/dp/B081FG119W?pd_rd_w=o74ja&pf_rd_p=9c5e12ce-f6e4-4f9d-9c5b-b51e3f5453e0&pf_rd_r=8PGNQEEF2DE4FR5W8B8Z&pd_rd_r=f1992c72-9f35-4ea0-a645-27f8cbca5fb9&pd_rd_wg=P9b3m&pd_rd_i=B081FG119W&psc=1&linkCode=li2&tag=innerlight06-21&linkId=4d001faeee612572d1cd8c41e86e4da4&language=de_DE&ref_=as_li_ss_il")" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081FG119W&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="[https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B081FG119W](https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B081FG119W "https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B081FG119W")" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -97,7 +99,7 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 >
 > _Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet_
 
-**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier](https://amzn.to/3gMxMpD "Einfach Räuchern-Handbuch")***.**
+**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier](https://amzn.to/3gMxMpD "Einfach Räuchern-Handbuch")***.**<a href="https://amzn.to/2Kb0HHz" target="_blank">hier*</a>.
 
 ***
 
@@ -111,7 +113,7 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 >
 > _Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen, zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück_
 
-**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/3akwsZA "Blume des Lebens-Windspiel")***.**
+**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/3akwsZA "Blume des Lebens-Windspiel")***.**<a href="https://amzn.to/2Kb0HHz" target="_blank">hier*</a>.
 
 ***
 

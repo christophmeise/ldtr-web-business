@@ -162,7 +162,9 @@ Perfekt passend zur _Vital-Wasserkaraffe_ ist dieses Heilstein-Set mit den belie
 >
 > _Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen_
 
-**Das Edelstein-Set zur Wasseraufbereitung in Premium-Qualität gibt es** [hier](https://amzn.to/3oTHysN "Edelstein-Set")***.**
+**Das Edelstein-Set zur Wasseraufbereitung in Premium-Qualität gibt es** _<a href="_https://amzn.to/3oTHysN_" target="_blank">hier*_</a>.
+
+<a href="https://www.amazon.de/dp/B07KJL92YY?psc=1&pd_rd_i=B07KJL92YY&pd_rd_w=CCEp2&pf_rd_p=403c666b-0b30-4f66-afde-0388ffdf2c39&pd_rd_wg=LBLaq&pf_rd_r=YY2G0V6EK4KWMP371SB4&pd_rd_r=e2bb9603-f11e-45da-aa2a-d5b18c85872d&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOEdTWVVXRzhHVzhYJmVuY3J5cHRlZElkPUEwMTAzMjg0MTExSUlHQzAxMjFQJmVuY3J5cHRlZEFkSWQ9QTA4ODMyMTYzQjYxN01QSUpOQ01KJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=li2&tag=innerlight06-21&linkId=80b990f45da3184692c2332a6bc36c04&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KJL92YY&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07KJL92YY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/dp/B07XV9VH6F?pd_rd_i=B07XV9VH6Fp13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjlZVjEwVkQwUUMmZW5jcnlwdGVkSWQ9QTEwMTM0MzkzS1VWTDk0Tk9ZSk9SJmVuY3J5cHRlZEFkSWQ9QTAxNTc2NTExMDk5Skc4RFYxWkhWJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=li2&tag=innerlight06-21&linkId=8f5ddffe7cf412a5d977405135392ae8&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XV9VH6F&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07XV9VH6F" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Edelsteinwasser-Kraft-Mischung-100-Natursteine/dp/B07Q4WKG22?dchild=1&keywords=Raw+%26+Noble&qid=1613061634&s=drugstore&search-type=ss&sr=1-6&linkCode=li2&tag=innerlight06-21&linkId=1e0adddcec1b0ac9ac71e3f609dfc7f7&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Q4WKG22&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07Q4WKG22" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -176,7 +178,7 @@ Diese wunderschöne Klangschale wurde in den Himalaya-Vorbergen von nepalesische
 >
 > _Klangschale aus Nepal in edler Geschenkbox, Fairtrade und von Hand gegossen, inklusive farblich passendem Halterungs-Ring und Lederklöppel_
 
-**Die original Klangschale aus Nepal gibt es** [hier](https://amzn.to/3ndSUGJ "Tibetische Klangschale")***.**
+**Die original Klangschale aus Nepal gibt es** [hier](https://amzn.to/3ndSUGJ "Tibetische Klangschale")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -188,7 +190,7 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 >
 > _Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma Woodstock gefertigt, in Woodstock Chimes-Box geliefert - perfekt zum Verschenken_
 
-**Das original WOODSTOCK Klangspiel gibt es** [hier](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**
+**Das original WOODSTOCK Klangspiel gibt es** [hier](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -202,7 +204,7 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 >
 > _Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität_
 
-**Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [hier](https://amzn.to/379Rvwj "Meditationskissen")***.**
+**Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [hier](https://amzn.to/379Rvwj "Meditationskissen")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -214,7 +216,7 @@ Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premiu
 >
 > _aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar_
 
-**Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [hier](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**
+**Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [hier](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -228,7 +230,7 @@ Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und F
 >
 > _Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen_
 
-**Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [hier](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**
+**Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [hier](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -240,7 +242,7 @@ Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - 
 >
 > _wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich_
 
-**Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [hier](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**
+**Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [hier](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -254,7 +256,7 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 >
 > _weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke_
 
-**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2K3YA8E "DIY Makramee-Set")***.**
+**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2K3YA8E "DIY Makramee-Set")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -266,7 +268,7 @@ Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste v
 >
 > _13-teiliges Starterset, zum sofortigen Start mit dem Räuchern, verschiedene Räucherkräuter zum kreativ werden und ausprobieren_
 
-**Das Starterpaket mit verschiedenen Räuchermischungen gibt es** [hier](https://amzn.to/2JWlMG5 "Starterset Räuchermischungen")***.**
+**Das Starterpaket mit verschiedenen Räuchermischungen gibt es** [hier](https://amzn.to/2JWlMG5 "Starterset Räuchermischungen")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -280,7 +282,7 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > _inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt_
 
-**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/3qY9qxL "Die Kuh, die weinte Buch")***.**
+**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/3qY9qxL "Die Kuh, die weinte Buch")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -292,7 +294,7 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > _lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte_
 
-**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2JZc45Q "Café am Rande der Welt")***.**
+**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2JZc45Q "Café am Rande der Welt")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -306,7 +308,7 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > _fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test_
 
-**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/3oPL7QL "Ayurveda-Kochbuch")***.**
+**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/3oPL7QL "Ayurveda-Kochbuch")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -318,7 +320,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 >
 > _Smoothie-Pulver in verschiedenen Geschmacksrichtungen mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau, gesund und vitalisierend, einfach und schnell zubereitet_
 
-**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver ROTE KRAFT")* **und als GRÜNE MUTTER gibt es** [hier](https://amzn.to/35bHfC1 "Smoothie-Pulver GRÜNE MUTTER")*.
+**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver ROTE KRAFT")* **und als GRÜNE MUTTER gibt es** [hier](https://amzn.to/35bHfC1 "Smoothie-Pulver GRÜNE MUTTER")*._<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -332,7 +334,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 >
 > _Last-Minute Geschenkidee nachhaltig, außergewöhnlich UND du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!_
 
-**Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**
+**Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 
@@ -344,7 +346,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 >
 > _Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig_
 
-**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://unverpackt.oxfam.de/weihnachten-ein-st%C3%BCck-vom-gl%C3%BCck "Oxam Unverpackt Spende")***.**
+**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://unverpackt.oxfam.de/weihnachten-ein-st%C3%BCck-vom-gl%C3%BCck "Oxam Unverpackt Spende")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
 
 ***
 

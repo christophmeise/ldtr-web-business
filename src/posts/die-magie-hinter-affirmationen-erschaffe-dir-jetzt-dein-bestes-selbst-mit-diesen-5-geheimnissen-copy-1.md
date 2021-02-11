@@ -1,7 +1,7 @@
 ---
 title: Die 10 besten Geschenkideen für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
-featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
+featuredImage: "../../uploads/1.png"
 date: 2020-12-15T00:00:00.000+01:00
 tags:
 - Geschenke
@@ -41,7 +41,7 @@ Die letzten Monate haben uns, unsere familiären und unsere freundschaftlichen B
 
 Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
-![](../../uploads/kira-auf-der-heide-ipx7j1n_xuc-unsplash.jpg)
+![](../../uploads/3.png)
 
 ## Die 10 besten spirituellen Geschenke Tipps
 
@@ -374,9 +374,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 ***
 
-#### **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
-
-![](../../uploads/freestocks-pxm8aejbzvk-unsplash.jpg)
+#### **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namast_![](../../uploads/2.png)
 
 ***
 

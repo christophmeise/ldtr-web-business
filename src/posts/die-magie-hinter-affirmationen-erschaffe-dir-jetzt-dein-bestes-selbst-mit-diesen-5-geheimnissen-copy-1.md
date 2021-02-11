@@ -100,7 +100,7 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 >
 > _Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet_
 
-**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** _<a href="_https://amzn.to/3gMxMpD_" target="_blank">hier*_</a>.
+**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** <a href="https://amzn.to/3gMxMpD" target="_blank">hier*</a>.
 
 <a href="https://www.amazon.de/dp/3867282013?coliid=I1THDD0PRS1O64&colid=FCK5BNIBCT8E&psc=1&linkCode=li2&tag=innerlight06-21&linkId=c3c709901fc11f64eb74520faa978632&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3867282013&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3867282013" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -298,7 +298,9 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > _inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt_
 
-**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/3qY9qxL "Die Kuh, die weinte Buch")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
+**Das Buch "Die Kuh, die weinte" gibt es** _<a href="_https://amzn.to/3qY9qxL_" target="_blank">hier*_</a>.
+
+<a href="https://www.amazon.de/dp/3778781839?coliid=I1JYMPJCVZTSWV&colid=FCK5BNIBCT8E&psc=1&linkCode=li2&tag=innerlight06-21&linkId=4f7a408bf5419caf6d6efaf3b53fcfc3&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3778781839&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3778781839" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -310,7 +312,9 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > _lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte_
 
-**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2JZc45Q "Café am Rande der Welt")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
+**Das Buch "Das Café am Rande der Welt" gibt es** _<a href="_https://amzn.to/2JZc45Q_" target="_blank">hier*_</a>.
+
+<a href="https://www.amazon.de/Das-Caf%C3%A9-Rande-Welt-Erz%C3%A4hlung/dp/3423289848?_encoding=UTF8&qid=1608031051&sr=1-1&linkCode=li2&tag=innerlight06-21&linkId=dfc91fd633daf77ea021a44ac70b0d14&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3423289848&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3423289848" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -324,7 +328,9 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > _fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test_
 
-**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/3oPL7QL "Ayurveda-Kochbuch")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
+**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** _<a href="_https://amzn.to/3oPL7QL_" target="_blank">hier*_</a>.
+
+<a href="https://www.amazon.de/Ayurveda-Kochbuch-Selbstheilung-Entgiften-Dosha-Test/dp/B08LJ9TKT3?_encoding=UTF8&coliid=I24EFWDO0DQI3K&colid=FCK5BNIBCT8E&qid=&sr=&linkCode=li2&tag=innerlight06-21&linkId=07a7b433218d54a8b8a264d72c3ee0ec&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LJ9TKT3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08LJ9TKT3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -336,7 +342,9 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 >
 > _Smoothie-Pulver in verschiedenen Geschmacksrichtungen mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau, gesund und vitalisierend, einfach und schnell zubereitet_
 
-**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver ROTE KRAFT")* **und als GRÜNE MUTTER gibt es** [hier](https://amzn.to/35bHfC1 "Smoothie-Pulver GRÜNE MUTTER")*._<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
+**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** _<a href="_https://amzn.to/2XeyDGo_" target="_blank">hier*_</a>.
+
+<a href="https://www.amazon.de/Morning-Fr%C3%BChst%C3%BCcksmischung-Makron%C3%A4hrstoffen-Erbsenprotein-Vitamine/dp/B074J3W86P?_encoding=UTF8&pd_rd_i=B074J3W86P&pd_rd_r=c041b4c4-5470-48e1-beed-04e69b40e767&pd_rd_w=a8z3F&pd_rd_wg=t7fyK&pf_rd_p=4490d326-3239-499b-8c8a-0dd8d6ad582a&pf_rd_r=BHZ957B3X8XKDJA5NH94&psc=1&refRID=BHZ957B3X8XKDJA5NH94&linkCode=li2&tag=innerlight06-21&linkId=f23daa9eeb5ac7c5132211bade7cb19d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074J3W86P&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B074J3W86P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Smoothie-Energie-Wurzeln-Kurkuma-Himbeeren/dp/B01GBX2TSK?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2JBVX9UJCVZCV&dchild=1&keywords=superfood+pulver&qid=1609854727&sprefix=suprefood%2Caps%2C204&sr=8-9&linkCode=li2&tag=innerlight06-21&linkId=600912dc6d0c6ad019d16a302d464eea&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GBX2TSK&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B01GBX2TSK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Weizengras-Brennnessel-Mariendistel-Superfoods-Rohkostqualit%C3%A4t/dp/B015BJKVHG?_encoding=UTF8&pd_rd_i=B015BJKVHG&pd_rd_r=8d641906-1543-48f7-80b7-918fcb79b558&pd_rd_w=hnQtZ&pd_rd_wg=OWURu&pf_rd_p=4490d326-3239-499b-8c8a-0dd8d6ad582a&pf_rd_r=65MWAEB1YA2TMMF3V9S5&psc=1&refRID=65MWAEB1YA2TMMF3V9S5&linkCode=li2&tag=innerlight06-21&linkId=ffaca12306870b028f9d7efb54680576&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015BJKVHG&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B015BJKVHG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -350,7 +358,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 >
 > _Last-Minute Geschenkidee nachhaltig, außergewöhnlich UND du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!_
 
-**Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
+**Zur Spende bei Treedom geht es direkt** _<a href="_https://www.treedom.net/de/_" target="_blank">hier*_</a>.
 
 ***
 
@@ -362,7 +370,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 >
 > _Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig_
 
-**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://unverpackt.oxfam.de/weihnachten-ein-st%C3%BCck-vom-gl%C3%BCck "Oxam Unverpackt Spende")***.**_<a href="_https://amzn.to/3868e2D_" target="_blank">hier*_</a>.
+**Zur Spende bei Oxam Unverpackt geht es direkt** _<a href="_https://unverpackt.oxfam.de/geburtstag-2020_" target="_blank">hier*_</a>.
 
 ***
 

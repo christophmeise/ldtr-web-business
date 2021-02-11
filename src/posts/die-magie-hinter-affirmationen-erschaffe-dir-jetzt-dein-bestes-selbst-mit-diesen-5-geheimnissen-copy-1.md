@@ -63,6 +63,8 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 
 **Einzigartige Masala Räucherstäbchen im Set gibt es** <a href="https://amzn.to/2Kb0HHz" target="_blank">hier*</a>.
 
+<a href="https://www.amazon.de/dp/B01C0RMY86?coliid=IEOSSCWHKCZ9A&colid=FCK5BNIBCT8E&psc=1&linkCode=li2&tag=innerlight06-21&linkId=23e8dc68138215d1460b6fe9e0d8cacd&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01C0RMY86&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B01C0RMY86" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ***
 
 #### ↠ Räucherstäbchen-Halterung ↞

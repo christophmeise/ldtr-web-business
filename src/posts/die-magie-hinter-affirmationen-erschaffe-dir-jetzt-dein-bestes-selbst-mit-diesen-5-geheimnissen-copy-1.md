@@ -364,7 +364,7 @@ Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk
 
 #### ↠ Oxam Unverpackt ↞
 
-Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen die nichts besitzen eine neue Perspektive. Wie wäre es mit einer
+Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen, die nichts besitzen, eine neue Perspektive - ein Geschenk von Herzen für die Welt.
 
 > **_Was macht dieses Geschenk besonders?_**
 >

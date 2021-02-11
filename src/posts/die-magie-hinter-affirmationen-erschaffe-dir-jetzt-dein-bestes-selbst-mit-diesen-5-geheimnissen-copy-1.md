@@ -39,9 +39,7 @@ Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönst
 
 Die letzten Monate haben uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
 
-Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
-
-![](../../uploads/3.png)
+Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!![](../../uploads/3-1.png)
 
 ## Die 10 besten spirituellen Geschenke Tipps
 

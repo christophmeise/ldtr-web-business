@@ -44,6 +44,7 @@ fields:
   description: Kurzbeschreibung des Blogeintrags für die Vorschau
 pages:
 - src/posts/cute-otter.md
+- src/posts/die-10-besten-geschenkideen-fur-spirituelle-menschen-copy.md
 - src/posts/die-10-besten-last-minute-geschenkideen-fur-spirituelle-menschen-copy.md
 - src/posts/die-10-besten-muttertags-geschenkideen.md
 - src/posts/die-magie-hinter-affirmationen-erschaffe-dir-jetzt-dein-bestes-selbst-mit-diesen-5-geheimnissen-copy-1.md

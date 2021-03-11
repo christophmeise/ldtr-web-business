@@ -23,11 +23,12 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste
-  am Schenken ist für mich meinen Liebsten Danke zu sagen, für alles was sie sind
-  und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir
-  vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig,
-  sinnvoll und mit besonderer Bedeutung ist.
+abstract: Die Solfeggio-Frequenzen bilden eine jahrhundertealte 6-Ton-Audioskala,
+  von der gesagt wird, dass sie bis in biblische Zeiten zurückreicht und gottähnliche
+  Eigenschaften besitzt. Diese bestimmten Schwingungen von Klängen sollen nicht nur
+  eine heilende Wirkung auf unseren Körper, Geist und unsere Seele haben sollen, sondern
+  auch unsere DNA positiv beeinflussen und reparieren können. Doch was genau hat es
+  mit diesen geheimnisvollen Frequenzen auf sich?
 
 ---
 ### **Geheimnisse und Wirkungen der Solfeggio-Frequenzen**

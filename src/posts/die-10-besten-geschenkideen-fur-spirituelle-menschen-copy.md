@@ -51,9 +51,7 @@ Die machtvollen Frequenzen, die seit der Antike von den Mönchen für spirituell
 
 #### **Wie wurden die Frequenzen wiederentdeckt?**
 
-Erst nach mehreren Jahrhunderten der Vergessenheit entdeckten der amerikanische Naturheilpraktiker und einer der führenden Kräuterkundler Amerikas, Dr. Joseph Puleo, in der Mitte der 1970er Jahre die sechs speziellen Solfeggio Frequenzen wieder. In dem Werk „Healing Codes for the Biological Apocalypse“, welches er zusammen mit Dr. Leonhard Horowitz veröffentlichte, teilte er das Wissen der kraftvollen Frequenzen und ihre verschiedenen Wirkweisen auf den menschlichen Körper.
-
-Er entdeckte die verloren gegangenen Frequenten durch die Anwendung pythagoreischer Mathematik auf Passagen des Alten Testaments wieder. Die pythagoreische Methode ist eine einfache Reduktionsmethode, mit der große Zahlen in einzelne Ziffern umwandelt werden, indem die Werte aller Ziffern der Zahl addiert werden. Wenn nach der ersten Addition die Zahl noch mehr als eine Ziffer enthält, wird der Vorgang wiederholt, z.B. kann 456 auf 4 + 5 + 6 = 15 reduziert und anschließend auf 1 + 5 = 6 reduziert werden. So verringert sich die Zahl 456 schließlich auf die einstellige Stelle 6. Diesem Muster folgend entdeckte Puleo, dass die Solfeggio Frequenzen auf dieser mathematischen Reduktion basieren und alle auf die Quersummen 3, 6 und 9 reduziert werden können:
+Erst nach mehreren Jahrhunderten der Vergessenheit entdeckten der amerikanische Naturheilpraktiker und einer der führenden Kräuterkundler Amerikas, Dr. Joseph Puleo, in der Mitte der 1970er Jahre die sechs speziellen Solfeggio Frequenzen durch die Anwendung pythagoreischer Mathematik auf Passagen des Alten Testaments wieder. Die pythagoreische Methode ist eine einfache Reduktionsmethode, mit der große Zahlen in einzelne Ziffern umwandelt werden, indem die Werte aller Ziffern der Zahl addiert werden. Wenn nach der ersten Addition die Zahl noch mehr als eine Ziffer enthält, wird der Vorgang wiederholt, z.B. kann 456 auf 4 + 5 + 6 = 15 reduziert und anschließend auf 1 + 5 = 6 reduziert werden. So verringert sich die Zahl 456 schließlich auf die einstellige Stelle 6. Diesem Muster folgend entdeckte Puleo, dass die Solfeggio Frequenzen auf dieser mathematischen Reduktion basieren und alle auf die Quersummen 3, 6 und 9 reduziert werden können:
 
 **UT**queant laxis 396 Hz Quersumme 9
 
@@ -71,7 +69,7 @@ Auf die Bedeutung der Zahlen 3-6-9 wies auch Nikola Tesla in seinen Arbeiten hin
 
 #### **Die geheime Bedeutung der alten Silben**
 
-Doch woher stammen diese Silben? Jeder Ton hat sein eigenes einzigartiges Potenzial und die Silben für die Töne sind: Ut, Re, Mi Fa, Sol, La. Sie wurden aus der ersten Strophe der Hymne an Johannes dem Täufer entnommen:
+Doch woher stammen diese Silben? Jeder Ton hat sein eigenes einzigartiges Potenzial und die Silben für die Töne sind: Ut, Re, Mi, Fa, Sol, La. Sie stammen aus der ersten Strophe der Hymne an Johannes dem Täufer:
 
 > Ut queantische Laxis Resonare fibris
 >
@@ -83,23 +81,23 @@ Doch woher stammen diese Silben? Jeder Ton hat sein eigenes einzigartiges Potenz
 
 Die Übersetzung aus dem Lateinischen lautet: „Damit die Sklaven die Wunder (Wunder) eurer Kreationen mit gelockerten (erweiterten) Stimmbändern anschwingen (erklären). Waschen Sie die Schuld von (unserer) verschmutzten Lippe. St. Johannes.“ Mit anderen Worten könnten so die Menschen in Frieden zusammenleben und in Harmonie über das Wunder in ihrem Leben kommunizieren.
 
-So wie Gott die Menschen segnete, um diese „Magie“ zu produzieren, fordert die wahre, unverschmutzte und geistige Natur der Menschen Offenbarung. Die Hymne an Johannes dem Täufer scheint darauf hinzudeuten, dass Solfeggio Frequenzen Informationen offenlegen, die einen Kanal der Kommunikation mit dem Göttlichen preisgeben. Jede Silbe wurde sorgfältig von Dr. Puleo und anderen professionellen Forschern studiert.
+So wie Gott die Menschen segnete, um diese „Magie“ zu produzieren, fordert die wahre, unverschmutzte und geistige Natur der Menschen Offenbarung. Die Hymne an Johannes dem Täufer scheint darauf hinzudeuten, dass Solfeggio Frequenzen Informationen offenlegen, die einen Kanal der Kommunikation mit dem Göttlichen preisgeben. Jede Silbe wurde sorgfältig von Dr. Puleo und anderen  Forschern studiert.
 
 #### **Die Solfeggio-Frequenzen**
 
 **Sechs verschiedene Frequenzen bilden die Solfeggio-Skala:**
 
-> **_396 Hz (Ut)_** - Befreiung von Schuld und Furcht
+> **_396 Hz (Ut)_** - Befreiung von Schuld und Angst
 >
 > **_417 Hz (Re)_** - Rückgängigmachen von Situationen und Erleichterung von Veränderungen
 >
-> **_528 Hz (Mi)_** - Transformationswunder (DNA-Reparatur)
+> **_528 Hz (Mi)_** - Transformation und Wunder manifestieren, DNA-Reparatur
 >
-> **_639 Hz (Fa)_** - Verbindung und Beziehungen
+> **_639 Hz (Fa)_** - Verbindung und Beziehungen harmonisieren
 >
-> **_741 Hz (Sol)_** - Ausdruck & Lösungen
+> **_741 Hz (Sol)_** - Erwecken der Intuition
 >
-> **_852 Hz (La)_** - Rückkehr zur spirituellen Ordnung
+> **_852 Hz (La)_** - Öffnung des Bewusstseins
 
 Jede Solfeggio Frequenz verfügt über eine ganz bestimmte Wirkungsweise. Grund dafür ist, dass in unserem Universum die gesamte Materie in einer bestimmten Frequenz schwingt, auch der menschliche Organismus. Wirken nun Schwingungen von außen in einer abweichenden Frequenz auf unsere Grundschwingung, können Veränderungen ausgelöst, der gesamte menschliche Körper positiv beeinflusst und die Selbstheilungskräfte angeregt werden.
 
@@ -117,13 +115,13 @@ Jede Solfeggio Frequenz verfügt über eine ganz bestimmte Wirkungsweise. Grund 
 
 ##### Solfeggio Frequenz 528 Hz – Die Frequenz der Transformation, Wunder und Zeichen, Reparatur von DNA
 
-> Der Solfeggio Frequenz 528 Hz wird eine ganz besondere Bedeutung zugesprochen - Untersuchungen im Bereich der Molekularbiologie zeigten, dass mit Hilfe dieser Frequenz eine defekte DNA repariert wurde. Die Frequenz 528 Hz steht für Transformation, Wunder und Zeichen und scheint sogar in der Lage zu sein, auf unser Erbgut einzuwirken. Für die wissenschaftliche Bestätigung einer solchen Heilwirkung auf die DNA bedarf es jedoch noch weiterer wissenschaftlicher Studien. Im alternativmedizinischem Bereich wird die Frequenz dafür aber verwendet, die menschliche DNA in den ursprünglichen Zustand zurückzusetzen. Das wiederum sorgt dafür, dass mehr Lebensenergie zur Verfügung steht, das Bewusstsein erwacht und klarer sowie die Kreativität entfacht wird. Zustände von innerem Frieden sollen außerdem erreicht werden, ebenso wie die Aktivierung von Phantasie, Intention und Intuition. 
+> Der Solfeggio Frequenz 528 Hz wird eine ganz besondere Bedeutung zugesprochen - Untersuchungen im Bereich der Molekularbiologie zeigten, dass mit Hilfe dieser Frequenz eine defekte DNA repariert wurde. Die Frequenz 528 Hz steht für Transformation, Wunder und Zeichen und scheint sogar in der Lage zu sein, auf unser Erbgut einzuwirken. Für die wissenschaftliche Bestätigung einer solchen Heilwirkung auf die DNA bedarf es jedoch noch weiterer wissenschaftlicher Studien. Im alternativmedizinischem Bereich wird die Frequenz dafür aber verwendet, die menschliche DNA in den ursprünglichen Zustand zurückzusetzen. Das wiederum sorgt dafür, dass mehr Lebensenergie zur Verfügung steht, das Bewusstsein erwacht und klarer sowie die Kreativität entfacht wird. Zustände von innerem Frieden sollen außerdem erreicht werden, ebenso wie die Aktivierung von Phantasie, Intention und Intuition.
 
 ##### Solfeggio Frequenz 639 Hz – Die Frequenz der harmonischen Beziehungen und Verbindungen
 
 > Dies ist eine Solfeggio Frequenz, welche für harmonische Beziehungen, für Verbindungen und Liebe, für Toleranz und Kommunikation steht. Das Hören dieser Frequenz unterstützt die Harmonisierung von zwischenmenschlichen Beziehungen, ermöglicht die Bildung einer harmonischen Gemeinschaft und fördert die innere Balance. Auch zerbrochene oder problematische Beziehungen zwischen Partnern, Freunden oder innerhalb der Familie sollen mit Hilfe dieser Heilklänge wiederhergestellt werden können. Das intensive Hören wirkt sich positiv auf den Umgang mit sozialen Problemen aus, wodurch gestörte Kommunikation zwischen Menschen verbessert und dazu angeregt wird das Verständnis für die andere Seite zu vertiefen.
 
-##### Solfeggio Frequenz 741 Hz – Die Frequenz des Erwachens der Intuition, des Ausdrucks und der Lösungen, der Reinigung und des Lösens
+##### Solfeggio Frequenz 741 Hz – Die Frequenz des Erwachens der Intuition, des Ausdrucks und der Lösungensfindung
 
 > Die Solfeggio Frequenz 741 Hertz steht für das Erwachen der Seele und Intuition, für das Lösen von Problemen, für Reinigung und für eine Bewusstseinserweiterung. Der lateinische Name dieser Frequenz lautet „Solive polluti“. „Sol“ ist der 5. Ton auf der entsprechenden Tonleiter und bildet gemeinsam mit der Notensilbe „fa“ die italienische Bezeichnung „Solfeggio“. „Solve polluti“ bedeutet übersetzt so viel wie „Verschmutzungen lösen“, das bezieht sich auf die Wirkung dieser Frequenz 741 Hz, die unsere Zellen von Giftstoffen (Toxinen) oder elekromagnetischen Strahlungen reinigen soll. Das regelmäßige Hören dieser Solfeggio Frequenz soll zu einem gesünderen Leben verhelfen und Veränderungen im Lebensstil, z.B. im Bereich der Ernährung vorantreiben. Auch das Lösen von Problemen gehört mit zum Wirkungsbereich der Frequenz 741 Hz.
 >

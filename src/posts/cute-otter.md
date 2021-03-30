@@ -119,13 +119,9 @@ Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet di
 
   Selbstcoaching ist eine großartige Sache. Es gibt unzählige Tools, Bücher und Möglichkeiten, mit denen wir uns selbst helfen, Probleme lösen und immer weiter entwickeln können. Es gibt aber auch einfach Situationen, in denen du dich fragst, wie viele Ratgeber und Tipps du noch lesen sollst damit sich doch wieder Nichts in deinem Leben ändert. Wenn du vielleicht denkst „Die Tipps klingen zum Teil ja ganz toll... Aber ich kann das nicht. Für mich funktioniert das alles nicht.“ Oder du beim Lesen gemerkt hast, dass du dich eigentlich andauernd kritisierst. Dass du dich nur selten unbeschwert fühlst und du dein Leben eher als Belastung empfindest, dann ist **jetzt** der Moment, um die Unterstützung zu bekommen, die du verdienst!
 
-  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein 
+  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein <a href="https://innerlight-hypnotherapy.com/book-call" target="_blank">kostenloses Beratungsgespräch</a> mit mir und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
 
-  <a href="https://innerlight-hypnotherapy.com/book-call" target="_blank">kostenloses Beratungsgespräch</a> mit mir und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
-
-  Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre mehr 
-
-  <a href="https://innerlight-hypnotherapy.com/innerlight-hypnotherapy" target="_blank">zu mir</a> und wie ich dich unterstützen kann!
+  Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre mehr <a href="https://innerlight-hypnotherapy.com/innerlight-hypnotherapy" target="_blank">zu mir</a> und wie ich dich unterstützen kann!
 
   ***
 

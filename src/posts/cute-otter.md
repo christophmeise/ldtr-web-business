@@ -1,15 +1,13 @@
 ---
-title: "(Selbst-)Liebe in Zeiten von Corona: 5 praktische Tipps wie du jetzt deine
-  perfekte Liebesgeschichte erlebst"
+title: 'Wahre Selbstliebe erfahren: 5 praktische Tipps wie du jetzt deine perfekte
+  Liebesgeschichte erlebst'
 path: "/wahre-selbstliebe-erfahren"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2020-11-01T00:00:00.000+01:00
 tags:
 - Selflove
 - Personal Development
-- Corona
-- Selbsthilfe
-- Selbstliebe Tipps
+- Selbstliebe
 blocks:
 - template: introduction
   images:
@@ -27,11 +25,10 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Eine lebenslange Liebesgeschichte, die niemals verblasst, dich niemals unglücklich
+abstract: Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich
   macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner
-  Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person,
-  die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen
-  und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen.
+  Form wünschen. Finde heraus wie du diese Liebesgeschichte mit dir selbst beginnst
+  - heute und für immer!
 
 ---
 ### Social Distancing statt romantische Liebesgeschichten
@@ -94,11 +91,11 @@ Ist deine Sprache der Liebe die _Hilfsbereitschaft_, achte darauf dir selbst die
 
 Die fünfte Sprache der Liebe ist _Zärtlichkeit_ - und ist ein wundervoller Ausdruck von Selbstliebe. Creme dich ausgiebig ein, geh zur Massage, gönn dir eine Gesichtsmaske und genieße es dich selbst zu spüren - denn wir selbst wissen doch immer noch am allerbesten welche Berührungen sich für uns fantastisch anfühlen.
 
-Du kennst deine Sprache der Liebe nicht? [Hier](https://www.5lovelanguages.com/quizzes/ "5 Sprachen der Liebe Test") kannst du den Test machen!
+Du kennst deine Sprache der Liebe nicht? <a href="https://www.5lovelanguages.com/quizzes/" target="_blank">Hier</a> kannst du den Test machen!
 
 ![](../../uploads/annie-spratt-wqc8hvau2sy-unsplash.jpg)
 
-### 4 Vergib dir selbst
+### 4 Vergib dir Selbst
 
 > ###### _"Loslassen ist der Schlüssel zum Glück." - Buddha_
 
@@ -122,9 +119,13 @@ Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet di
 
   Selbstcoaching ist eine großartige Sache. Es gibt unzählige Tools, Bücher und Möglichkeiten, mit denen wir uns selbst helfen, Probleme lösen und immer weiter entwickeln können. Es gibt aber auch einfach Situationen, in denen du dich fragst, wie viele Ratgeber und Tipps du noch lesen sollst damit sich doch wieder Nichts in deinem Leben ändert. Wenn du vielleicht denkst „Die Tipps klingen zum Teil ja ganz toll... Aber ich kann das nicht. Für mich funktioniert das alles nicht.“ Oder du beim Lesen gemerkt hast, dass du dich eigentlich andauernd kritisierst. Dass du dich nur selten unbeschwert fühlst und du dein Leben eher als Belastung empfindest, dann ist **jetzt** der Moment, um die Unterstützung zu bekommen, die du verdienst!
 
-  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein kostenloses Beratungsgespräch mit mir [hier](https://innerlight-hypnotherapy.com/book-call "Hypnosetherapie Gratis Beratung") und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
+  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein 
 
-  Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre [hier](https://innerlight-hypnotherapy.com/innerlight-hypnotherapy "About Me: RTT Therapeutin & Hypnose-Coach Christin Meise") mehr zu mir und wie ich dich unterstützen kann!
+  <a href="https://innerlight-hypnotherapy.com/book-call" target="_blank">kostenloses Beratungsgespräch</a> mit mir und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
+
+  Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre mehr 
+
+  <a href="https://innerlight-hypnotherapy.com/innerlight-hypnotherapy" target="_blank">zu mir</a> und wie ich dich unterstützen kann!
 
   ***
 
@@ -142,13 +143,13 @@ Wenn wir wirklich etwas ändern wollen, ist es notwendig zu verändern was wir t
 
 Deine Glaubenssätze bestimmen dein Verhalten, dein Verhalten bestimmt deine Erfahrungen. Zum Beispiel hast du den Glaubenssatz 'Ich bin nicht genug'. Dein Verhalten ist, dass du versuchst mehr zu erreichen, mehr zu sein, mehr zu haben und anderen gerecht zu werden, um die Bestätigung zu bekommen, dass du - _wenn du nur genug getan hast_ - endlich genug bist. Deine Erfahrung ist, dass du immer wieder Beweise dafür finden wirst, dass dein Grundglaubenssatz richtig ist - nämlich dass du nicht genug bist. So funktioniert unser Verstand nun mal. Deswegen finden wir uns immer wieder in toxischen Beziehungen wider, in Jobs die uns unglücklich machen oder in anderweitigen Situationen, die uns genau das bestätigen, was wir unterbewusst für wahr halten. Nämlich dass wir nicht genug sind.
 
-Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkreis** zu machen! Ein Lichtkreis führt dazu, dass du dein inneres Licht mehr und mehr erstrahlen lassen kannst. Deine negativen Glaubenssätze sind tief in deinem Unterbewusstsein verankert und lassen sich am schnellsten und erfolgreichsten mit eine Hypnose-Therapie nach der [Rapid Transformational Therapy™](https://innerlight-hypnotherapy.com/rtt "Was ist Rapid Transformational Therapy?") durch positive, lebensbejahende Glaubenssätze ersetzen. **DU bist genug - genau so wie du jetzt bist.** Mit allen Ecken und Kanten. Und nach nur ein bis drei Sessions wirst du dir nicht mehr vorstellen können, dass du jemals etwas anderes gedacht und gefühlt hast.
+Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkreis** zu machen! Ein Lichtkreis führt dazu, dass du dein inneres Licht mehr und mehr erstrahlen lassen kannst. Deine negativen Glaubenssätze sind tief in deinem Unterbewusstsein verankert und lassen sich am schnellsten und erfolgreichsten mit eine Hypnose-Therapie nach der <a href="https://innerlight-hypnotherapy.com/rtt" target="_blank">Rapid Transformational Therapy™</a> durch positive, lebensbejahende Glaubenssätze ersetzen. **DU bist genug - genau so wie du jetzt bist.** Mit allen Ecken und Kanten. Und nach nur ein bis drei Sessions wirst du dir nicht mehr vorstellen können, dass du jemals etwas anderes gedacht und gefühlt hast.
 
 ### Mache Selbst-Liebe zu deiner täglichen Routine
 
 Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
 
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: [goldene-selbstliebe_poster.pdf](goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
+* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: <a href="goldene-selbstliebe_poster.pdf" download="goldene-selbstliebe_poster.pdf">   
   Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
 * **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir selbst etwas Gutes zu tun.
 * **Schritt 3:** Hänge deine goldene Selbstliebe-Routine irgendwo auf, wo du sie immer siehst oder falte sie zusammen und steck sie in die Rückseite deiner Handyhülle. So oder so: **Erinnere dich so oft es geht daran, dass du es verdienst dich selbst zu lieben, dass du es Wert bist und wie du dir im Alltag diese Selbstliebe geben kannst!**
@@ -157,4 +158,6 @@ Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das ver�
 
 Bist du bereit die Verantwortung zu übernehmen, dir selbst die Liebe und Aufmerksamkeit zu schenken, die du verdienst? Es nicht mehr anderen zu überlassen deinen Liebestank zu füllen? Deine Macht über dein Glück zurückzuerlangen und es nicht mehr von äußeren Umständen und den Reaktionen anderer abhängig zu machen?
 
-Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich. _Namasté_
+Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich. 
+
+_Namasté ♥_

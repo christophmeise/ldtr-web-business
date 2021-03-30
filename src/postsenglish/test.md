@@ -61,7 +61,7 @@ Take a piece of paper, your diary, or a notebook and write down your answers to 
 
 Far too often we allow our Inner Critic to badmouth us for every little thing that doesn't go as planned. In fact, we can't really please him, can we? Now think about how you treat your best friend - especially when they are not perfect. We bring up love and understanding, and that's exactly how you should treat yourself from now on! **The most important words you will ever hear are the words you say to yourself.** So from now on, talk to yourself as if you were your biggest fan! When you get a compliment from someone, your mind can always interject, 'Yeah, that's nice, but the compliment is only because she wants to be in your circle of friends anyway.' Or because she wants to hear the same thing from me.' But when you compliment yourself, your mind has no choice but to believe you. **So shower yourself with compliments!** Stand in front of the mirror, look yourself in the eye and say all the wonderful words you wish your partner, your parents or your girlfriend would say to you. The crazier you feel about it, the more effective it is and in the long run, it changes your entire relationship with yourself.
 
-If your inner cheerleader is having a hard time finding loving, encouraging, and positive words at first, affirmations are a great support. Next week I'll be publishing a **new blog article** where you'll get wonderful self-love affirmations from me and learn what the magic behind affirmations is!
+If your inner cheerleader is having a hard time finding loving, encouraging, and positive words at first, affirmations are a great support. You can get instant access to your <a href="https://www.etsy.com/de/listing/974912455/self-hypnosis-outstanding-self?ref=shop_home_active_2" target="_blank">"Outstanding Self-Confidence" Recording</a> to try it out!
 
 ***
 
@@ -103,11 +103,11 @@ Write down the answers and be prepared that your mind wants you to believe that 
 
 * **_Step 3: Allow help_**
 
-Self-coaching is a great thing. There are countless tools, books, and possibilities with which we can help ourselves, solve problems, and always develop further. But there are also situations in which you ask yourself how many guides and tips you still have to read so that nothing changes in your life. If you think, "Some of the tips sound great.... But I can't do it. None of it works for me." Or you've noticed while reading that you're actually criticizing yourself all the time. That you rarely feel lighthearted and you feel your life is more of a burden, then **now is** the time to get the support you deserve!
+Self-coaching is a great thing. There are countless tools, books, and possibilities with which we can help ourselves, solve problems, and always develop further. But there are also situations in which you ask yourself how many guides and tips you still have to read so that nothing changes in your life. If you think, "Some of the tips sound great... But I can't do it. None of it works for me." Or you've noticed while reading that you're actually criticizing yourself all the time. That you rarely feel lighthearted and you feel your life is more of a burden, then **now is** the time to get the support you deserve!
 
-With your decision to allow help, you have just taken the first step towards your healing. **Congratulations!** From here on, you don't have to go it alone - schedule your free consultation with me right <a href="https://innerlight-hypnotherapy.com/en/book-call" target="_blank">here</a> and together we'll figure out how to create the life reality you dream of.
+With your decision to allow help, you have just taken the first step towards your healing. **Congratulations!** From here on, you don't have to go it alone - schedule your <a href="https://innerlight-hypnotherapy.com/en/book-call" target="_blank">free consultation call</a> with me, and together we'll figure out how to create the life reality you dream of.
 
-You are not alone on your path - _I see you, I see your potential and I am there for you so that you can let your inner light shine again._ Learn more about me and how I can support you!
+You are not alone on your path - _I see you, I see your potential and I am there for you so that you can let your inner light shine again._ Learn more <a href="https://innerlight-hypnotherapy.com/en/innerlight-hypnotherapy" target="_blank">about me</a> and how I can support you!
 
 ***
 
@@ -133,7 +133,10 @@ It's time to break this vicious circle - and make it your **circle of light**! A
 
 If we really want to change something in our lives, we have to change what we do every day. The key is **your golden self-love routine**! To help you integrate your newfound self-love into your everyday life, I've created a powerful visualization poster for you. All the insights you gathered while answering the self-knowledge question will go on your self-love poster:
 
-* **Step 1:** Download and print your visualization poster: <a href="self-love-poster.pdf" download="self-love-poster.pdf"> Self-Love Poster </a>.  
+* **Step 1:** Download and print your visualization poster: 
+
+  <a href="https://docdro.id/RoklxFV" target="_blank">Golden Self-Love Routine</a>
+
   Or you can let your creativity run wild and create your own poster!
 * **Step 2:** Everything positive you wrote down when answering the self-knowledge question goes on your poster! Write down everything you need to be truly happy and everything you can do to make yourself feel good.
 * **Step 3:** Hang your golden self-love routine somewhere you'll always see it or fold it up and put it in the back of your phone case. Either way, **remind yourself as often as you can that you deserve to love yourself, that you are worth it, and how you can give yourself that self-love in your everyday life!**

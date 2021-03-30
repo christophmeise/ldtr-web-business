@@ -75,7 +75,7 @@ Nimm dir einen Zettel, dein Tagebuch oder ein Notizbuch und notiere deine Antwor
 
 Viel zu oft erlauben wir es unserem Inneren Kritiker uns für jede Kleinigkeit, die nicht so läuft wie geplant, schlecht zu machen. Eigentlich können wir es ihm gar nicht recht machen, oder? Jetzt überleg mal wie du mit deiner besten Freundin bzw. besten Freund umgehst - gerade dann, wenn sie nicht perfekt sind. Wir bringen Liebe und Verständnis auf, und genau so solltest du ab sofort auch mit dir umgehen! **Die wichtigsten Worte, die du jemals hören wirst, sind die Worte, die du zu dir selbst sagst.** Also sprich ab sofort mit Dir als wärst du dein größter Fan! Wenn du ein Kompliment von jemanden bekommst, kann dein Verstand sich immer noch dazwischen schalten: ‘Ja, das ist ja ganz nett, aber das Kompliment kommt ja eh nur, weil sie gern in deinem Freundeskreis sein will. Oder weil sie das gleiche von mir hören möchte.’ Wenn du dir aber selbst ein Kompliment machst, hat dein Verstand keine andere Wahl als dir zu glauben. **Überschütte dich also mit Komplimenten!** Stell dich vor den Spiegel, schau dir in die Augen und sag dir all die wundervollen Worte, die du dir von deinem Partner, von deinen Eltern oder von deiner Freundin wünschst. Je verrückter du dich dabei fühlst, desto effektiver ist es und verändert auf Dauer deine komplette Beziehung zu dir selbst.
 
-Wenn es deinem inneren Cheerleader am Anfang schwer fällt liebevolle, aufmunternde und positive Worte zu finden, sind Affirmationen eine großartige Unterstützung. Hol dir dein <a href="https://www.etsy.com/de/listing/974969303/personalisierte-selbst-hypnose-o?ref=shop_home_active_1" target="_blank">individuelles Tranformations-Recording</a> mit deinen persönlichen Affirmationen!
+Wenn es deinem inneren Cheerleader am Anfang schwer fällt liebevolle, aufmunternde und positive Worte zu finden, sind Affirmationen eine großartige Unterstützung. Hol dir dein <a href="https://www.etsy.com/de/listing/974969303/personalisierte-selbst-hypnose-o?ref=shop_home_active_1" target="_blank">individuelles Transformations-Recording</a> mit deinen persönlichen Affirmationen!
 
 ***
 
@@ -145,7 +145,7 @@ Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkrei
 
 Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
 
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: 
+* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus:
 
   <a href="https://docdro.id/RkYzSOO" target="_blank">Goldene Selbst-Routine als Poster</a>
 

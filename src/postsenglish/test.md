@@ -5,8 +5,8 @@ tags:
 - Self love tips
 - Self love
 - Self help
-title: "(Self) love in times of Corona: 5 practical tips how to experience your perfect
-  love story now"
+title: 'True Self-Love Experience: 5 practical tips how to experience your perfect
+  love story now'
 path: "/true-self-love-experience"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
 date: 2021-12-01T23:53:00+01:00
@@ -16,125 +16,133 @@ abstract: Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglüc
   die uns genau das geben kann.
 
 ---
-### Social Distancing statt romantische Liebesgeschichten
+### **Social distancing instead of romantic love stories**
 
-Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person, die uns genau das geben kann. Gerade jetzt in der Zeit von Social Distancing, Kontaktbeschränkungen und Lock Down gestaltet es sich noch schwieriger als sonst, diese eine Person kennenzulernen. Aber warum versuchen wir das in einem anderen Menschen zu finden, bevor wir begonnen haben mit uns selbst diese Liebesbeziehung aufzubauen?
+A lifelong love story that never fades, never makes you unhappy, or disappoints you - that's probably something we all want in some form or another. For that, of course, we need someone first. Another person who can give us just that. Especially now in the time of social distancing, contact restrictions, and lockdown it is even more difficult than usual to get to know this one person. But why do we try to find that in another person before we have begun to build that love relationship with ourselves?
 
-#### Liebe dich selbst bedingungslos und du gibst der Welt die Erlaubnis dich genauso zu lieben wie du bist
+##### **Love yourself unconditionally and you give the world permission to love you just as you are**
 
-Wenn es dir wie mir vor einigen Jahren geht, dann kommen bei dir jedes mal wenn du solche Selbstliebe-Sprüche hörst, folgende "Aber´s" in deinen Kopf: Ja, okay, dann liebe ich mich. Aber... bedingungslos? Also liebenswert sein ohne dafür etwas zu tun? Genug sein ohne das perfekte Körpergewicht? Stolz auf mich sein, auch wenn ich die nächste Karrierestufe noch nicht erreicht habe? In einer Gesellschaft, die besessen ist von Perfektion, sind solche Aussagen für uns schwer annehmbar. Kein Wunder, denn wir leben in einer Leistungsgesellschaft, in der es in allen Lebensbereichen nur um schneller, höher und grundsätzlich immer um “mehr” zu gehen scheint. **Und doch spüren wir, dass uns dieses Denken unglücklich macht.** Dass wir der Anerkennung und der Liebe irgendwie immer hinterher zu laufen scheinen, anstatt uns jetzt in diesem Moment selbst zu 100 % so anzunehmen, so zu lieben, wie wir sind. Mit allen Ecken und Kanten.
+If you're like me a few years ago, every time you hear self-love sayings like this, the following "but's" pop into your head: Yes, okay, then I love myself. But... unconditionally? So being lovable without doing anything for it? Being enough without the perfect body weight? Being proud of myself even if I haven't reached the next career level yet? In a society obsessed with perfection, such statements are difficult for us to accept. No wonder, because we live in a meritocracy in which all areas of life seem to be about faster, higher, and basically always about "more." **And yet we feel that this thinking makes us unhappy.** That we somehow always seem to run after recognition and love, instead of accepting ourselves 100% at this moment, loving ourselves as we are. With all corners and edges.
 
-### Deine perfekte Liebesgeschichte beginnt jetzt
+### **Your perfect love story starts now**
 
-Kannst du von dir selbst sagen, dass du dich ohne Bedingungen liebst? Also genau so wie du jetzt in diesem Moment bist? Corona und Quarantäne bringen uns gezwungenermaßen dazu zu erfahren, ob wir mit uns selbst glücklich sind. Ob wir die Zeit mit uns selbst genießen. Wenn du dir nicht sicher bist, dann mache den **Selbstliebe-Test**: _Stell dich ein paar Minuten vor den Spiegel, schau dir tief in die Augen und sage dir dann laut "Ich liebe dich, \[dein Name\]"._ Wie fühlst du dich dabei? Wenn du dabei Widerstand in dir spürst, es schwierig war deinem Selbst ein Liebesgeständnis zu machen oder du den Satz gar nicht erst über die Lippen bekommen hast - fühl dich bitte auf keinen Fall schlecht! Nimm es als wundervolle Chance, jetzt zu entscheiden, dass du es **verdienst** dich selbst zu lieben. Genau für dich habe ich diesen Artikel geschrieben, um dir 5 Selbstliebe-Tipps mit in deinen Alltag zu geben, die deine schönste Liebesgeschichte jetzt beginnen lassen.
+Can you say of yourself that you love yourself without conditions? That is, exactly as you are right now in this moment? Corona and quarantine force us to know if we are happy with ourselves. Whether we are enjoying our time with ourselves. If you're not sure, take the **self-love test**: _stand in front of the mirror for a few minutes, look deep into your eyes, and then say out loud to yourself, "I love you, \[your name\]."_ How does that make you feel? If you feel resistance, if it was difficult to confess love to your Self, or if you couldn't even get the phrase past your lips - please don't feel bad! Take it as a wonderful chance to decide now that you **deserve to** love yourself. Just for you, I've written this article to give you 5 self-love tips to take into your everyday life that will get your most beautiful love story started now.
 
 ![](../../uploads/photo-1518199266791-5375a83190b7.jpg)
 
-### Fünf praktische Tipps die funktionieren um deine Selbstliebe zu stärken
+## **Five practical tips that work to boost your self-love**
 
-Viele Menschen wollen Veränderung in ihrem Leben, sind aber noch nicht bereit ihre innere Arbeit dafür zu tun - weil viele auch gar nicht genau wissen WIE. Daher geht es mir nicht darum, dir Selbstliebe-Tipps zu geben, die du einmal ließt und dir dann denkst "Ja, dass sollte ich wohl mal ausprobieren" - um es dann doch nicht zu tun. **Ich motiviere dich Selbstliebe zu praktizieren, zu erfahren und sie zu einem so essentiellem Bestandteil deines Lebens zu machen -** sodass du dir gar nicht mehr vorstellen kannst, dass du dich nicht strahlend im Spiegel ansiehst oder du dir nicht das Leben erschaffst, dass du verdienst.
+Many people want change in their lives, but are not yet ready to do their inner work for it - because many do not even know exactly HOW. Therefore, I'm not about giving you self-love tips that you read once and then think "Yeah, I should probably try that" - only to not do it. **I'm motivating you to practice self-love, to experience it, and to make it such an essential part of your life - that you can't** even imagine not looking at yourself radiantly in the mirror or not creating the life you deserve.
 
-**Weil genau dafür ist Selbstliebe deine Grundlage** - deinem Herzen zu folgen, an dich und deine Wünsche zu glauben und der Welt die Erlaubnis zu geben, dich in deinem strahlensten Licht zu sehen. Dann wirst du Liebe und Erfolg nicht mehr hinterherlaufen und immer die Angst haben alles verlieren zu können - du wirst tief in deinem Herzen wissen, dass du all das verdienst, was du dir wünschst. Dass du es wert bist.
+**Because that's what self-love is your foundation for** - following your heart, believing in yourself and your desires, and giving the world permission to see you in your most radiant light. Then you will no longer chase love and success and always have the fear of losing everything - you will know deep in your heart that you deserve all that you desire. That you are worth it.
 
-Dieser Artikel ist für dich. Um dich dabei zu unterstützen, die Beziehung zu dir selbst zu stärken, damit Du mehr Liebe, Freude und Frieden in deinem Leben erfahren kannst. Ich hoffe aus tiefsten Herzen, dass dich die folgenden Worte bestärken deinen Selbstwert zu erkennen, Liebe zu dir selbst aufbauen und du es dir erlaubst deinem Herzen zu folgen. **Alles beginnt mit Dir**. Du bist genug und du bist würdig um all das Glück zu haben, von dem Du träumst und das dich ab jetzt erwartet.
-
-### 1 Entdecke dein wahres Selbst
-
-Um dein Selbst zu lieben, ist es wichtig zu erfahren, wer genau du denn eigentlich bist. Viel zu oft übernehmen wir ungefiltert Glaubenssätze, Werte, Lebenspläne und Annahmen von anderen - ohne zu prüfen, ob uns all das zu einem glücklichem Leben nach _unseren eigenen_ Vorstellungen führt.
-
-**Deine Selbsterkenntnis-Fragen:**
-
-* Was bedeutet Selbstliebe für mich?
-* In welchen Momenten habe ich das Gefühl richtig gut für mich zu sorgen? Für mich einzustehen und mir etwas Gutes zu tun?
-* Wie sieht ein perfekter Morgen/Tag/Abend für mich aus?
-* In welchen Momenten fühle ich mich richtig glücklich?
-* Welche Eigenschaften bewundere ich an anderen Menschen?
-* Was sagt mir mein innerer Kritiker, wenn ich einen "Fehler" mache?
-* Was nimmt mir viel Energie?
-
-Nimm dir einen Zettel, dein Tagebuch oder ein Notizbuch und notiere deine Antworten auf diese Fragen. Lass dir dafür Zeit, fühle in dich hinein und schaue hinter all die Vorprägungen aus deiner Umgebung. **Du kannst wirklich stolz auf dich sein, dass du so mutig bist einfach mal genauer hin zu sehen - du machst das fantastisch!**
-
-### 2 Erwecke deinen inneren Cheerleader
-
-Viel zu oft erlauben wir es unserem Inneren Kritiker uns für jede Kleinigkeit, die nicht so läuft wie geplant, schlecht zu machen. Eigentlich können wir es ihm gar nicht recht machen, oder? Jetzt überleg mal wie du mit deiner besten Freundin bzw. besten Freund umgehst - gerade dann, wenn sie nicht perfekt sind. Wir bringen Liebe und Verständnis auf, und genau so solltest du ab sofort auch mit dir umgehen! **Die wichtigsten Worte, die du jemals hören wirst, sind die Worte, die du zu dir selbst sagst.** Also sprich ab sofort mit Dir als wärst du dein größter Fan! Wenn du ein Kompliment von jemanden bekommst, kann dein Verstand sich immer noch dazwischen schalten: ‘Ja, das ist ja ganz nett, aber das Kompliment kommt ja eh nur, weil sie gern in deinem Freundeskreis sein will. Oder weil sie das gleiche von mir hören möchte.’ Wenn du dir aber selbst ein Kompliment machst, hat dein Verstand keine andere Wahl als dir zu glauben. **Überschütte dich also mit Komplimenten!** Stell dich vor den Spiegel, schau dir in die Augen und sag dir all die wundervollen Worte, die du dir von deinem Partner, von deinen Eltern oder von deiner Freundin wünschst. Je verrückter du dich dabei fühlst, desto effektiver ist es und verändert auf Dauer deine komplette Beziehung zu dir selbst.
-
-Wenn es deinem inneren Cheerleader am Anfang schwer fällt liebevolle, aufmunternde und positive Worte zu finden, sind Affirmationen eine großartige Unterstützung. Nächste Woche veröffentliche ich einen **neuen Blog-Artikel** in dem du wundervolle Selbstliebe-Affirmationen von mir bekommst und erfährst, was die Magie hinter Affirmationen ist!
+This article is for you. To help you strengthen your relationship with yourself so that you can experience more love, joy, and peace in your life. I hope from the bottom of my heart that the following words will encourage you to recognize your self-worth, build love for yourself and allow you to follow your heart. **Everything starts with you**. You are enough and you are worthy to have all the happiness you dream of and that awaits you from now on.
 
 ***
 
-### 3 Finde deine Sprache der Liebe
+### **1 Discover your true self**
 
-Wenn es um unseren Ausdruck der Liebe geht, ist es wichtig zu erkennen, dass wir nicht alle dieselbe Muttersprache haben. Um dir Selbst die Liebe zu geben, die du brauchst, ist der erste Schritt zu erfahren, welche Sprache der Liebe du sprichst.
+In order to love your Self, it is important to learn who exactly you are. Far too often, we unfiltered adopt beliefs, values, life plans, and assumptions from others - without checking whether all this leads us to a happy life according to _our own_ ideas.
 
-Wenn deine Liebessprache _Lob und Anerkennung_ ist oder dir _Geschenke_ besonders viel bedeuten, achte darauf dich bei jeder kleinen und großen Errungenschaft mit liebevollen Worten oder Belohnungen zu erfreuen. Die Postkarte mit dem süßen Spruch, der dich zum Lachen gebracht hat? Hol sie dir und häng sie an deine Wand! Die stylischen Schuhe, die du gesehen hast? Gönn sie dir!
+#### **Your self-knowledge questions:**
 
-Wenn deine Sprache der Liebe die _Zweisamkeit_ ist, setze dir regelmäßig Date-with-myself Tage, an denen es nur darum geht Dinge zu tun, die dich glücklich machen - ein Schaumbad, dein Lieblingsspiel, stundenlang deine Feel-good-Serie schauen oder allein in der Natur spazieren gehen? Do it!
+* What does self-love mean to me?
+* In which moments do I have the feeling of taking really good care of myself? To stand up for me and do something good for me?
+* What does a perfect morning/day/evening look like for me?
+* In which moments do I feel really happy?
+* What qualities do I admire in other people?
+* What does my inner critic tell me when I make a "mistake"?
+* What takes a lot of my energy?
 
-Ist deine Sprache der Liebe die _Hilfsbereitschaft_, achte darauf dir selbst die Frage zu stellen: Was kann ich Gutes für mich tun? Wobei brauche ich Unterstützung? Lerne die Hilfe von Freunden und Familie aktiv zu erbitten und anzunehmen. Du wirst merken, wie deine Selbstliebe sich ganz einfach steigert, wenn du für dich und deine Bedürfnisse einstehst und merkst wie gern andere für dich da sind!
+Take a piece of paper, your diary, or a notebook and write down your answers to these questions. Take your time, feel inside yourself and look behind all the preconceptions from your environment. **You can be really proud of yourself for being brave enough to just take a closer look - you're doing fantastic!**
 
-Die fünfte Sprache der Liebe ist _Zärtlichkeit_ - und ist ein wundervoller Ausdruck von Selbstliebe. Creme dich ausgiebig ein, geh zur Massage, gönn dir eine Gesichtsmaske und genieße es dich selbst zu spüren - denn wir selbst wissen doch immer noch am allerbesten welche Berührungen sich für uns fantastisch anfühlen.
+***
 
-Du kennst deine Sprache der Liebe nicht? [Hier](https://www.5lovelanguages.com/quizzes/ "5 Sprachen der Liebe Test") kannst du den Test machen!
+### **2 Install your inner cheerleader**
+
+Far too often we allow our Inner Critic to badmouth us for every little thing that doesn't go as planned. In fact, we can't really please him, can we? Now think about how you treat your best friend - especially when they are not perfect. We bring up love and understanding, and that's exactly how you should treat yourself from now on! **The most important words you will ever hear are the words you say to yourself.** So from now on, talk to yourself as if you were your biggest fan! When you get a compliment from someone, your mind can always interject, 'Yeah, that's nice, but the compliment is only because she wants to be in your circle of friends anyway.' Or because she wants to hear the same thing from me.' But when you compliment yourself, your mind has no choice but to believe you. **So shower yourself with compliments!** Stand in front of the mirror, look yourself in the eye and say all the wonderful words you wish your partner, your parents or your girlfriend would say to you. The crazier you feel about it, the more effective it is and in the long run, it changes your entire relationship with yourself.
+
+If your inner cheerleader is having a hard time finding loving, encouraging, and positive words at first, affirmations are a great support. Next week I'll be publishing a **new blog article** where you'll get wonderful self-love affirmations from me and learn what the magic behind affirmations is!
+
+***
+
+### **3 Find your language of love**
+
+When it comes to our expression of love, it is important to realize that we do not all have the same mother tongue. In order to give yourself the love you need, the first step is to learn what language of love you speak.
+
+If your love language is _praise and appreciation_ or _gifts_ mean a lot to you, be sure to delight yourself with loving words or rewards at every small and big achievement. That postcard with the sweet saying that made you smile? Get it and hang it on your wall! Those stylish shoes you saw? Treat yourself to them!
+
+If your love language is _togetherness_, set regular date-with-myself days that are all about doing things that make you happy - a bubble bath, your favorite game, watching your feel-good series for hours on end, or walking alone in nature? Do it!
+
+If your language of love is _helpfulness_, be sure to ask yourself the question: What good can I do for me? What do I need support with? Learn to actively ask for and accept help from friends and family. You will notice how your self-love simply increases when you stand up for yourself and your needs and realize how gladly others are there for you!
+
+The fifth language of love is _tenderness_ - and is a wonderful expression of self-love. Put on lots of creams, go for a massage, treat yourself to a face mask and enjoy feeling yourself - because we ourselves still know best which touches feel fantastic to us.
+
+You don't know your love language? [Here](https://www.5lovelanguages.com/quizzes/ "5 Sprachen der Liebe Test") you can take the test!
 
 ![](../../uploads/annie-spratt-wqc8hvau2sy-unsplash.jpg)
 
-### 4 Vergib dir selbst
+### **4 Forgive yourself**
 
-> ###### _"Loslassen ist der Schlüssel zum Glück." - Buddha_
+> **_"Letting go is the key to happiness." - Buddha_**
 
-Wir alle tragen alte Wunden, alte Glaubenssätze und Gewohnheiten aus unserer Vergangenheit in uns. Diese sind entstanden, weil wir Erlebnissen, Begegnungen und Erfahrungen eine bestimmte Bedeutung zugesprochen haben. Wir haben Entscheidungen über uns, über andere und über die Welt getroffen. Die Frage ist - Wie dienen dir deine vergangenen Entscheidungen jetzt in diesem Moment? Was bringt es dir wirklich dir selbst oder anderen nicht zu verzeihen? Deine Vergangenheit definiert nicht deine Gegenwart, nicht deine Zukunft - nicht wer du bist. Tatsächlich ist das Einzige, was uns an unseren alten Wunden festhalten lässt, unser Verstand. Dieser versucht uns sicher zu halten, vor Verletzung zu schützen, uns am Leben zu erhalten - seine Aufgabe ist es nicht uns glücklich zu machen. **Das ist deine Aufgabe!**
+We all carry old wounds, old beliefs, and habits from our past. These have arisen because we have attributed a certain meaning to experiences, encounters, and experiences. We have made decisions about ourselves, about others, and about the world. The question is - How do your past choices serve you now at this moment? What does it really do for you to not forgive yourself or others? Your past does not define your present, not your future - not who you are. In fact, the only thing that keeps us holding on to our old wounds is our minds. It tries to keep us safe, to protect us from hurt, to keep us alive - its job is not to make us happy. **That is your job!**
 
-Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet dich selbst anzunehmen, dir selbst verzeihen zu können und es dir keinen Tag länger zuzumuten den Schmerz aus der Vergangenheit immer und immer wieder zu durchleben indem du an negative Emotionen festhälst. Wenn deine Geschichte nicht dazu beiträgt, dass du dich frei und in deiner besten Version fühlst, dann gibt es keinen Grund an der Vergangenheit festzuhalten. Denn du verdienst es glücklich zu sein - du darfst dir selbst _jetzt_ in diesem Moment vergeben.
+Make yourself happy by loving yourself. True self-love means accepting yourself, forgiving yourself, and not allowing yourself to relive the pain of the past over and over again by holding on to negative emotions. If your history is not helping you feel free and at your best, then there is no reason to hold on to the past. Because you deserve to be happy - you get to forgive yourself _right now_ in this moment.
 
-**Je mehr Verständnis du für dich selbst aufbringst, desto liebevoller ist auch der Umgang mit dir selbst.** Nur, wenn wir es schaffen uns so zu akzeptieren wie wir sind - mit allem was dazu gehört - werden wir Frieden mit uns schließen und endlich mehr Selbstliebe erfahren. Bist du bereit? Los geht’s!
+**The more understanding you have for yourself, the more loving you will be with yourself.** Only if we manage to accept ourselves as we are - with everything that belongs to it - we will make peace with ourselves and finally experience more self-love. Are you ready? Let's go!
 
-* **_Schritt 1: Akzeptiere was ist_**  
-  ... denn das einzig Wahre ist dein Hier und Jetzt. Dieser Moment, in dem du diese Worte ließt. Alles andere passiert nur in deinem Kopf. Annahme und Hingabe an das, was ist, geben dir nicht nur deinen inneren Frieden zurück, sondern erlauben es dir auch endlich deinen Widerstand aufzugeben - gegen das was war, gegen das was ist, gegen dich selbst und die Welt.
-* **_Schritt 2: Verändere deine Schlussfolgerungen_**  
-  Du kannst die Vergangenheit nicht ändern. Das fühlt sich erstmal sehr endgültig an. Aber ich habe eine Überraschung für dich - das brauchst du auch nicht um frei davon zu sein! Oft denken wir, dass etwas nun mal so passiert ist und wir uns deswegen gar nicht anders fühlen können. Tatsächlich ist aber das Einzige was zählt, welche Schlussfolgerungen du auf Grund deiner Erfahrung über dich und die Welt getroffen hast. Verändere also deine Perspektive auf die Situation und dich, damit du neue Schlussfolgerungen treffen kannst! Dazu kannst du dir folgende Fragen stellen:
-  * _Welche drei Dinge sind als positives Resultat aus dieser vergangenen Situation entstanden?_
-  * _Was habe ich aus der Situation oder dank dieser Schwäche von mir für mein Leben gelernt?_
-  * _Wovor hat mich die Situation oder diese Schwäche von mir beschützt?_
+* **_Step 1: Accept what is..._**   
+  ... because the only real thing is your Here and Now. This moment in which you read these words. Everything else happens only in your head. Acceptance and surrender to what is not only gives you back your inner peace but also allows you to finally give up your resistance - against what was, against what is, against yourself and the world.
+* **_Step 2: Change your conclusions_**  
+  You cannot change the past. That feels very final at first. But I have a surprise for you - you don't need to be free of it! Often we think that something happened that way and therefore we can't feel any different. In fact, the only thing that matters is what conclusions you have made about yourself and the world based on your experience. So change your perspective on the situation and yourself so that you can make new conclusions! To do this, you can ask yourself the following questions:
+  * _What three things have come out of this past situation as a positive result?_
+  * _What did I learn for my life from the situation or thanks to this weakness of mine?_
+  * _What did the situation or this weakness of mine protect me from?_
 
-> _Schreibe die Antworten auf und mach dich darauf gefasst, dass dein Verstand dich glauben lassen will, dass es da nichts Positives gibt. Bleib dran, verändere deine Perspektive - Du findest etwas, du machst das fantastisch!_
+Write down the answers and be prepared that your mind wants you to believe that there is nothing positive there. Keep at it, change your perspective - you'll find something, you're doing fantastic!
 
-* **_Schritt 3: Lasse Hilfe zu_**
+* **_Step 3: Allow help_**
 
-  Selbstcoaching ist eine großartige Sache. Es gibt unzählige Tools, Bücher und Möglichkeiten, mit denen wir uns selbst helfen, Probleme lösen und immer weiter entwickeln können. Es gibt aber auch einfach Situationen, in denen du dich fragst, wie viele Ratgeber und Tipps du noch lesen sollst damit sich doch wieder Nichts in deinem Leben ändert. Wenn du vielleicht denkst „Die Tipps klingen zum Teil ja ganz toll... Aber ich kann das nicht. Für mich funktioniert das alles nicht.“ Oder du beim Lesen gemerkt hast, dass du dich eigentlich andauernd kritisierst. Dass du dich nur selten unbeschwert fühlst und du dein Leben eher als Belastung empfindest, dann ist **jetzt** der Moment, um die Unterstützung zu bekommen, die du verdienst!
+Self-coaching is a great thing. There are countless tools, books, and possibilities with which we can help ourselves, solve problems, and always develop further. But there are also situations in which you ask yourself how many guides and tips you still have to read so that nothing changes in your life. If you think, "Some of the tips sound great.... But I can't do it. None of it works for me." Or you've noticed while reading that you're actually criticizing yourself all the time. That you rarely feel lighthearted and you feel your life is more of a burden, then **now is** the time to get the support you deserve!
 
-  Mit deiner Entscheidung Hilfe zuzulassen bist du gerade den ersten Schritt in Richtung deiner Heilung gegangen. **Herzlichen Glückwunsch!** Ab hier musst du nicht allein weitergehen - vereinbare direkt dein kostenloses Beratungsgespräch mit mir [hier](https://innerlight-hypnotherapy.com/book-call "Hypnosetherapie Gratis Beratung") und wir finden zusammen raus, wie du die Lebensrealität erschaffst, von der du träumst.
+With your decision to allow help, you have just taken the first step towards your healing. **Congratulations!** From here on, you don't have to go it alone - schedule your free consultation with me right [here](https://innerlight-hypnotherapy.com/en/book-call "Free Consultation Call") and together we'll figure out how to create the life reality you dream of.
 
-  Du bist nicht allein auf deinem Weg - _ich sehe dich, ich sehe dein Potential und ich bin für dich da damit du dein Inneres Licht wieder erstrahlen lassen kannst._ Erfahre [hier](https://innerlight-hypnotherapy.com/innerlight-hypnotherapy "About Me: RTT Therapeutin & Hypnose-Coach Christin Meise") mehr zu mir und wie ich dich unterstützen kann!
+You are not alone on your path - _I see you, I see your potential and I am there for you so that you can let your inner light shine again._ Learn more about me and how I can support you!
 
-  ***
+***
 
-### 5 Nimm einen neuen Job an - starte deine innere Arbeit!
+### **5 Take a new job - start your inner work!**
 
-Wie viel Zeit verbringst du jeden Tag damit für eine Firma zu arbeiten oder etwas für jemand anderen zu tun? Und wie viel Zeit verbringst du damit etwas für _dein_ inneres Glück, für _deine_ innere Leichtigkeit, _deinen_ inneren Frieden zu tun? Wenn du beides gegenüberstellst und merkst, dass das Mehrgewicht nicht auf deiner Selbstliebe-Seite liegt, dann ist es jetzt Zeit das zu ändern. **Du und dein Glück ist dein Nummer 1 Job** - denn niemand anderes kann diese Aufgabe für dich übernehmen. Es geht um deine Bereitschaft deine innere Arbeit zu tun.
+How much time do you spend every day working for a company or doing something for someone else? And how much time do you spend doing something for _your_ inner happiness, for _your_ inner lightness, _your inner_ peace? If you compare both and realize that the extra weight is not on your self-love side, now is the time to change that. **You and your happiness are your #1 job** - because no one else can do that job for you. It's about your willingness to do your inner work.
 
-Es ist _deine_ Entscheidung DICH von jetzt an zu deiner obersten Priorität zu machen und Selbstliebe in dein Leben zu bringen. Denn wenn du dich selbst beginnst zu lieben, wirst du merken **wie sich plötzlich dein ganzes Leben verändert**. Plötzlich kümmerst du dich mehr und mehr um dich selbst, du beginnst deine  Grenzen wahrzunehmen und zu kommunizieren. Du respektierst deine Bedürfnisse und hörst plötzlich immer mehr auf dein Herz und deine innere Stimme.
+It is _your_ decision to make YOU your top priority from now on and to bring self-love into your life. Because when you start to love yourself, you will notice **how suddenly your whole life changes**. Suddenly you care more and more about yourself, you start to notice and communicate your boundaries. You respect your needs and suddenly listen more and more to your heart and your inner voice.
 
-> **Wenn du dich selbst liebst, sind für dich dein Glück, deine Gesundheit und deine Erfüllung von höchster Bedeutung - und du erkennst, dass du ohne Selbstliebe nie in der Lage sein wirst, andere wirklich zu lieben.**
+**When you love yourself, your happiness, health, and fulfillment are paramount to you - and you realize that without self-love, you will never be able to truly love others.**
 
-### ![](../../uploads/jackson-david-wuydtfap3t4-unsplash.jpg)Ändere deine Glaubenssätze und du veränderst dein Leben
+![](../../uploads/jackson-david-wuydtfap3t4-unsplash.jpg)
 
-Wenn wir wirklich etwas ändern wollen, ist es notwendig zu verändern was wir täglich tun. Dabei geht es darum dein _GEWOHNTES ICH_ aufzugeben, damit dein _WAHRES ICH_ zum erstrahlen kommen kann. Doch wie kommst du weg von deinem gewohnten und hin zu deinem wahren Ich?
+### **Change your beliefs and you change your life**
 
-Deine Glaubenssätze bestimmen dein Verhalten, dein Verhalten bestimmt deine Erfahrungen. Zum Beispiel hast du den Glaubenssatz 'Ich bin nicht genug'. Dein Verhalten ist, dass du versuchst mehr zu erreichen, mehr zu sein, mehr zu haben und anderen gerecht zu werden, um die Bestätigung zu bekommen, dass du - _wenn du nur genug getan hast_ - endlich genug bist. Deine Erfahrung ist, dass du immer wieder Beweise dafür finden wirst, dass dein Grundglaubenssatz richtig ist - nämlich dass du nicht genug bist. So funktioniert unser Verstand nun mal. Deswegen finden wir uns immer wieder in toxischen Beziehungen wider, in Jobs die uns unglücklich machen oder in anderweitigen Situationen, die uns genau das bestätigen, was wir unterbewusst für wahr halten. Nämlich dass wir nicht genug sind.
+If we really want to change something, it is necessary to change what we do every day. It's about giving up the way you _used to be_ so that your _TRUE self_ can shine. But how do you get away from your habitual and towards your true self?
 
-Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkreis** zu machen! Ein Lichtkreis führt dazu, dass du dein inneres Licht mehr und mehr erstrahlen lassen kannst. Deine negativen Glaubenssätze sind tief in deinem Unterbewusstsein verankert und lassen sich am schnellsten und erfolgreichsten mit eine Hypnose-Therapie nach der [Rapid Transformational Therapy™](https://innerlight-hypnotherapy.com/rtt "Was ist Rapid Transformational Therapy?") durch positive, lebensbejahende Glaubenssätze ersetzen. **DU bist genug - genau so wie du jetzt bist.** Mit allen Ecken und Kanten. Und nach nur ein bis drei Sessions wirst du dir nicht mehr vorstellen können, dass du jemals etwas anderes gedacht und gefühlt hast.
+Your beliefs determine your behavior, your behavior determines your experiences. For example, you have the belief 'I am not enough'. Your behavior is that you try to achieve more, to be more, to have more, and to live up to others, to get the confirmation that - _if only you did enough - you_ are finally enough. Your experience is that you will always find evidence that your basic belief is correct - that you are not enough. That's just the way our minds work. That's why we keep finding ourselves in toxic relationships, jobs that make us unhappy, or other situations that confirm exactly what we subconsciously believe to be true. Namely that we are not enough.
 
-### Mache Selbst-Liebe zu deiner täglichen Routine
+It's time to break this vicious circle - and make it your **circle of light**! A circle of light leads to the fact that you can let your inner light shine more and more. Your negative beliefs are deeply embedded in your subconscious mind and can be most quickly and successfully replaced with positive, life-affirming beliefs using [Rapid Transformational Therapy™](https://innerlight-hypnotherapy.com/en/rtt "Was ist Rapid Transformational Therapy?"). **YOU are enough - just the way you are right now.** With all the rough edges. And after just one to three sessions, you won't be able to imagine ever thinking or feeling anything else.
 
-Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
+### **Make self-love your daily routine**
 
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: [goldene-selbstliebe_poster.pdf](goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
-  Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
-* **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir selbst etwas Gutes zu tun.
-* **Schritt 3:** Hänge deine goldene Selbstliebe-Routine irgendwo auf, wo du sie immer siehst oder falte sie zusammen und steck sie in die Rückseite deiner Handyhülle. So oder so: **Erinnere dich so oft es geht daran, dass du es verdienst dich selbst zu lieben, dass du es Wert bist und wie du dir im Alltag diese Selbstliebe geben kannst!**
+If we really want to change something in our lives, we have to change what we do every day. The key is **your golden self-love routine**! To help you integrate your newfound self-love into your everyday life, I've created a powerful visualization poster for you. All the insights you gathered while answering the self-knowledge question will go on your self-love poster:
 
-#### Bist du dafür bereit?
+* **Step 1:** Download and print your visualization poster: [goldene-selbstliebe_poster.pdf](https://innerlight-hypnotherapy.com/goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
+   Or you can let your creativity run wild and create your own poster!
+* **Step 2:** Everything positive you wrote down when answering the self-knowledge question goes on your poster! Write down everything you need to be truly happy and everything you can do to make yourself feel good.
+* **Step 3:** Hang your golden self-love routine somewhere you'll always see it or fold it up and put it in the back of your phone case. Either way, **remind yourself as often as you can that you deserve to love yourself, that you are worth it, and how you can give yourself that self-love in your everyday life!**
 
-Bist du bereit die Verantwortung zu übernehmen, dir selbst die Liebe und Aufmerksamkeit zu schenken, die du verdienst? Es nicht mehr anderen zu überlassen deinen Liebestank zu füllen? Deine Macht über dein Glück zurückzuerlangen und es nicht mehr von äußeren Umständen und den Reaktionen anderer abhängig zu machen?
+#### **Are you ready for it?**
 
-Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich. _Namasté_
+Are you ready to take responsibility for giving yourself the love and attention you deserve? To stop letting others fill your love tank? To reclaim your power over your happiness and no longer make it dependent on external circumstances and the reactions of others?
+
+When you love yourself, you give the world permission to love you, to see you as you are. You are wanted, you are loved, you are needed - time to let your inner light shine. Time to make your happiness your top priority. Time to invest in yourself and your best life. Decide now for yourself and your happiness. I look forward to seeing you and thank you for your trust - in me and in you. 
+
+_Namasté ♥_

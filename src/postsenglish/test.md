@@ -134,7 +134,7 @@ It's time to break this vicious circle - and make it your **circle of light**! A
 
 If we really want to change something in our lives, we have to change what we do every day. The key is **your golden self-love routine**! To help you integrate your newfound self-love into your everyday life, I've created a powerful visualization poster for you. All the insights you gathered while answering the self-knowledge question will go on your self-love poster:
 
-* **Step 1:** Download and print your visualization poster: [goldene-selbstliebe_poster.pdf](https://innerlight-hypnotherapy.com/goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
+* **Step 1:** Download and print your visualization poster: <a href="self-love-poster.pdf" download="self-love-poster.pdf"> Self-Love Poster </a>.  
   Or you can let your creativity run wild and create your own poster!
 * **Step 2:** Everything positive you wrote down when answering the self-knowledge question goes on your poster! Write down everything you need to be truly happy and everything you can do to make yourself feel good.
 * **Step 3:** Hang your golden self-love routine somewhere you'll always see it or fold it up and put it in the back of your phone case. Either way, **remind yourself as often as you can that you deserve to love yourself, that you are worth it, and how you can give yourself that self-love in your everyday life!**

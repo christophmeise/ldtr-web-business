@@ -78,7 +78,7 @@ If your language of love is _helpfulness_, be sure to ask yourself the question:
 
 The fifth language of love is _tenderness_ - and is a wonderful expression of self-love. Put on lots of creams, go for a massage, treat yourself to a face mask and enjoy feeling yourself - because we ourselves still know best which touches feel fantastic to us.
 
-You don't know your love language? [Here](https://www.5lovelanguages.com/quizzes/ "5 Sprachen der Liebe Test") you can take the test!
+You don't know your love language? <a href="https://www.5lovelanguages.com/quizzes/" target="_blank">Here</a> you can take the test!
 
 ![](../../uploads/annie-spratt-wqc8hvau2sy-unsplash.jpg)
 
@@ -92,7 +92,7 @@ Make yourself happy by loving yourself. True self-love means accepting yourself,
 
 **The more understanding you have for yourself, the more loving you will be with yourself.** Only if we manage to accept ourselves as we are - with everything that belongs to it - we will make peace with ourselves and finally experience more self-love. Are you ready? Let's go!
 
-* **_Step 1: Accept what is..._**   
+* **_Step 1: Accept what is..._**  
   ... because the only real thing is your Here and Now. This moment in which you read these words. Everything else happens only in your head. Acceptance and surrender to what is not only gives you back your inner peace but also allows you to finally give up your resistance - against what was, against what is, against yourself and the world.
 * **_Step 2: Change your conclusions_**  
   You cannot change the past. That feels very final at first. But I have a surprise for you - you don't need to be free of it! Often we think that something happened that way and therefore we can't feel any different. In fact, the only thing that matters is what conclusions you have made about yourself and the world based on your experience. So change your perspective on the situation and yourself so that you can make new conclusions! To do this, you can ask yourself the following questions:
@@ -106,7 +106,7 @@ Write down the answers and be prepared that your mind wants you to believe that 
 
 Self-coaching is a great thing. There are countless tools, books, and possibilities with which we can help ourselves, solve problems, and always develop further. But there are also situations in which you ask yourself how many guides and tips you still have to read so that nothing changes in your life. If you think, "Some of the tips sound great.... But I can't do it. None of it works for me." Or you've noticed while reading that you're actually criticizing yourself all the time. That you rarely feel lighthearted and you feel your life is more of a burden, then **now is** the time to get the support you deserve!
 
-With your decision to allow help, you have just taken the first step towards your healing. **Congratulations!** From here on, you don't have to go it alone - schedule your free consultation with me right [here](https://innerlight-hypnotherapy.com/en/book-call "Free Consultation Call") and together we'll figure out how to create the life reality you dream of.
+With your decision to allow help, you have just taken the first step towards your healing. **Congratulations!** From here on, you don't have to go it alone - schedule your free consultation with me right <a href="https://innerlight-hypnotherapy.com/en/book-call" target="_blank">here</a> and together we'll figure out how to create the life reality you dream of.
 
 You are not alone on your path - _I see you, I see your potential and I am there for you so that you can let your inner light shine again._ Learn more about me and how I can support you!
 
@@ -128,14 +128,14 @@ If we really want to change something, it is necessary to change what we do ever
 
 Your beliefs determine your behavior, your behavior determines your experiences. For example, you have the belief 'I am not enough'. Your behavior is that you try to achieve more, to be more, to have more, and to live up to others, to get the confirmation that - _if only you did enough - you_ are finally enough. Your experience is that you will always find evidence that your basic belief is correct - that you are not enough. That's just the way our minds work. That's why we keep finding ourselves in toxic relationships, jobs that make us unhappy, or other situations that confirm exactly what we subconsciously believe to be true. Namely that we are not enough.
 
-It's time to break this vicious circle - and make it your **circle of light**! A circle of light leads to the fact that you can let your inner light shine more and more. Your negative beliefs are deeply embedded in your subconscious mind and can be most quickly and successfully replaced with positive, life-affirming beliefs using [Rapid Transformational Therapy™](https://innerlight-hypnotherapy.com/en/rtt "Was ist Rapid Transformational Therapy?"). **YOU are enough - just the way you are right now.** With all the rough edges. And after just one to three sessions, you won't be able to imagine ever thinking or feeling anything else.
+It's time to break this vicious circle - and make it your **circle of light**! A circle of light leads to the fact that you can let your inner light shine more and more. Your negative beliefs are deeply embedded in your subconscious mind and can be most quickly and successfully replaced with positive, life-affirming beliefs using <a href="https://innerlight-hypnotherapy.com/en/rtt/" target="_blank">Rapid Transformational Therapy™</a>. **YOU are enough - just the way you are right now.** With all the rough edges. And after just one to three sessions, you won't be able to imagine ever thinking or feeling anything else.
 
 ### **Make self-love your daily routine**
 
 If we really want to change something in our lives, we have to change what we do every day. The key is **your golden self-love routine**! To help you integrate your newfound self-love into your everyday life, I've created a powerful visualization poster for you. All the insights you gathered while answering the self-knowledge question will go on your self-love poster:
 
 * **Step 1:** Download and print your visualization poster: [goldene-selbstliebe_poster.pdf](https://innerlight-hypnotherapy.com/goldene-selbstliebe_poster.pdf "Goldenes Selbstliebe-Poster")  
-   Or you can let your creativity run wild and create your own poster!
+  Or you can let your creativity run wild and create your own poster!
 * **Step 2:** Everything positive you wrote down when answering the self-knowledge question goes on your poster! Write down everything you need to be truly happy and everything you can do to make yourself feel good.
 * **Step 3:** Hang your golden self-love routine somewhere you'll always see it or fold it up and put it in the back of your phone case. Either way, **remind yourself as often as you can that you deserve to love yourself, that you are worth it, and how you can give yourself that self-love in your everyday life!**
 
@@ -143,6 +143,6 @@ If we really want to change something in our lives, we have to change what we do
 
 Are you ready to take responsibility for giving yourself the love and attention you deserve? To stop letting others fill your love tank? To reclaim your power over your happiness and no longer make it dependent on external circumstances and the reactions of others?
 
-When you love yourself, you give the world permission to love you, to see you as you are. You are wanted, you are loved, you are needed - time to let your inner light shine. Time to make your happiness your top priority. Time to invest in yourself and your best life. Decide now for yourself and your happiness. I look forward to seeing you and thank you for your trust - in me and in you. 
+When you love yourself, you give the world permission to love you, to see you as you are. You are wanted, you are loved, you are needed - time to let your inner light shine. Time to make your happiness your top priority. Time to invest in yourself and your best life. Decide now for yourself and your happiness. I look forward to seeing you and thank you for your trust - in me and in you.
 
 _Namasté ♥_

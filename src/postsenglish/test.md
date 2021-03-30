@@ -9,11 +9,10 @@ title: 'True Self-Love Experience: 5 practical tips how to experience your perfe
   love story now'
 path: "/true-self-love-experience"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2021-12-01T23:53:00+01:00
-abstract: Eine lebenslange Liebesgeschichte, die niemals verblasst, dich unglücklich
-  macht oder dich enttäuscht - das ist wohl etwas was wir uns alle in irgendeiner
-  Form wünschen. Dafür brauchen wir natürlich erstmal jemanden. Einen andere Person,
-  die uns genau das geben kann.
+date: 2021-03-28T23:53:00+02:00
+abstract: A lifelong love story that never fades, makes you unhappy or disappoints
+  you - that's probably something we all want in some form or another. Find out how
+  to start this love story with yourself - today and forever!
 
 ---
 ### **Social distancing instead of romantic love stories**

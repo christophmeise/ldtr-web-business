@@ -113,7 +113,7 @@ Mach dich glücklich, indem du dich selbst liebst. Wahre Selbstliebe bedeutet di
   * _Was habe ich aus der Situation oder dank dieser Schwäche von mir für mein Leben gelernt?_
   * _Wovor hat mich die Situation oder diese Schwäche von mir beschützt?_
 
-> _Schreibe die Antworten auf und mach dich darauf gefasst, dass dein Verstand dich glauben lassen will, dass es da nichts Positives gibt. Bleib dran, verändere deine Perspektive - Du findest etwas, du machst das fantastisch!_
+> Schreibe die Antworten auf und mach dich darauf gefasst, dass dein Verstand dich glauben lassen will, dass es da nichts Positives gibt. Bleib dran, verändere deine Perspektive - Du findest etwas, du machst das fantastisch!
 
 * **_Schritt 3: Lasse Hilfe zu_**
 

@@ -145,7 +145,7 @@ Es ist Zeit, diesen Teufelskreis zu durchbrechen - und ihn zu deinem **Lichtkrei
 
 Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das verändern was wir täglich tun. Der Schlüssel dazu ist **deine goldene Selbstliebe-Routine**! Damit du deine neue gewonnene Selbstliebe in deinem Alltag integrieren kannst, habe ich für dich ein kraftvolles Visualisierungs-Poster entworfen. Alle Erkenntnisse, die du während der Beantwortung der Selbsterkenntnis-Frage gesammelt hast, kommen auf dein Selbstliebe-Poster:
 
-* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: <a href="goldene-selbstliebe_poster.pdf" download="goldene-selbstliebe_poster.pdf">   
+* **Schritt 1:** Lade dir dein Visualisierungs-Poster herunter und drucke es aus: <a href="https://docdro.id/RkYzSOO" download="goldene-selbstliebe_poster.pdf">  
   Oder du lässt deiner Kreativität freien lauf und kreierst dir dein eigenes Poster!
 * **Schritt 2:** Alles, was du Positives bei der Beantwortung der Selbsterkenntnis-Frage aufgeschrieben hast, kommt auf dein Poster! Schreibe alles auf was du brauchst, um wirklich glücklich zu sein und alles was du tun kannst, um dir selbst etwas Gutes zu tun.
 * **Schritt 3:** Hänge deine goldene Selbstliebe-Routine irgendwo auf, wo du sie immer siehst oder falte sie zusammen und steck sie in die Rückseite deiner Handyhülle. So oder so: **Erinnere dich so oft es geht daran, dass du es verdienst dich selbst zu lieben, dass du es Wert bist und wie du dir im Alltag diese Selbstliebe geben kannst!**
@@ -154,6 +154,6 @@ Wenn wir wirklich etwas in unserem Leben verändern wollen, müssen wir das ver�
 
 Bist du bereit die Verantwortung zu übernehmen, dir selbst die Liebe und Aufmerksamkeit zu schenken, die du verdienst? Es nicht mehr anderen zu überlassen deinen Liebestank zu füllen? Deine Macht über dein Glück zurückzuerlangen und es nicht mehr von äußeren Umständen und den Reaktionen anderer abhängig zu machen?
 
-Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich. 
+Wenn du dich selbst liebst, gibst du der Welt die Erlaubnis dich so zu lieben, dich so zu sehen wie du bist. Du bist gewollt, du bist geliebt, du bist gebraucht - Zeit, dein inneres Licht zum strahlen zu bringen. Zeit dein Glück zu deiner obersten Priorität zu machen. Zeit in dich und dein bestes Leben zu investieren. Entscheide dich jetzt für dich und dein Glück. Ich freue mich auf dich und danke dir für dein Vertrauen - in mich und in dich.
 
 _Namasté ♥_

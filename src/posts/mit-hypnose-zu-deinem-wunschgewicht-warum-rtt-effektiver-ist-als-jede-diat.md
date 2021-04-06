@@ -92,6 +92,8 @@ Wenn du dir nicht sicher bist, ob du an einer Essstörung leidest, kannst du dic
 
 Das Wundervolle ist, dass du ab jetzt nie wieder im Stillen leiden oder eine Diät nach der anderen durchstehen musst. Mit der richtigen Unterstützung ist möglich, Essstörungen erfolgreich und dauerhaft zu behandeln, um endlich frei und sorglos mit dem Thema Essen deinen Frieden zu schließen.
 
+![](../../uploads/caju-gomes-qdq3ylizg48-unsplash.jpg)
+
 ### Abnehmen mit Hypnose: Eine echte Alternative zu Diät & Co.?
 
 Ob ein Stück Kuchen nach einem anstrengenden Tag im Büro oder eine Pizza, um schlechte Laune zu kompensieren: Den Appetit auf Süßes, Junk Food oder bestimmte andere Lebensmittel, die in Stresssituationen die Seele streicheln sollen, kennt wohl jeder. Der Grund dafür ist, dass sich unser emotionales Zentrum - das Solar-Plexus Chakra - in unserer Bauchregion befindet, in welchem wir Gefühle verarbeiten. Bei Ängsten, Sorgen, Trauer oder Stress beginnen viele Menschen sich selbst mit Essen zu therapieren.
@@ -118,6 +120,8 @@ Bei der <a href="https://innerlight-hypnotherapy.com/rtt" target="_blank">Rapid 
 
 Die RTT™ Therapie kann durch die Kombination der besten Prinzipien der Hypnotherapie, der kognitiven Verhaltenstherapie, der neurolinguistische Programmierung und der Psychotherapie, direkt zur **Ursache des Verhaltens** vordringen. Verständnis hat eine tiefgreifende transformierende Wirkung und den Grund für dein sabotierendes Verhalten in Hypnose zu verstehen hat eine absolut befreiende Wirkung - du bekommst deine Macht zurück zu entscheiden, welche Version du von dir Selbst sein möchtest und wie du dich verhalten willst. So kann RTT™ dich dabei unterstützen **mit Freude und Leichtigkeit** einen gesünderen Lebensstil zu entwickeln und eine Gleichgültigkeit gegenüber ungesunden Lebensmitteln etablieren.
 
+![](../../uploads/dish-1209170_1920.jpg)
+
 ### Erwecke deine Innere Leichtigkeit und erreiche dein Traumgewicht für immer
 
 Möchtest du dein Traumgewicht erreichen, sehnst du dich nach dauerhaftem Frieden mit dem Essen und nach einer tiefen Zuneigung und Wertschätzung für deinen Körper? Dann ist mein neues Coaching-Programm **_AWAKENING YOUR INNER LIGHT-NESS_** ganz genau für dich da.
@@ -143,3 +147,5 @@ Bist du bereit die Verantwortung zu übernehmen, dir selbst und deinem Körper d
 Dann vereinbare jetzt dein <a href="https://innerlight-hypnotherapy.com/book-call" target="_blank">unverbindliches, kostenloses Beratungsgespräch</a> mit mir und finde heraus wie die <a href="https://innerlight-hypnotherapy.com/rtt" target="_blank">Rapid Transformational Therapy™</a> auch dich dabei unterstützen kann dein Wunschgewicht einfach, dauerhaft und ohne Diät zu erreichen. Ich sehe das Licht in dir, scheine hell, wundervolle Seele!
 
 _Namasté ♥_
+
+![](../../uploads/brooke-lark-nbtmglfy0hu-unsplash.jpg)

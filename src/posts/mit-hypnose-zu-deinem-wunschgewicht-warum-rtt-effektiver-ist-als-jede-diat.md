@@ -24,9 +24,9 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: 'Mit Hypnose nach der Rapid Transformational Therapy™ zum Wunschgewicht
-  – einfach, dauerhaft, ohne Diät und ohne Jo-Jo Effekt. Funktioniert das wirklich
-  und wenn ja, wie? '
+abstract: Mit Hypnose nach der Rapid Transformational Therapy™ zu deinem Wunschgewicht
+  – einfach, dauerhaft, ohne Diät und ohne Jo-Jo Effekt. Ob Hypnose eine echte Alternative
+  ist und wie genau RTT zum Abnehmen funktioniert erfährst du in diesem Blogartikel!
 
 ---
 ### Warum so viele Menschen an Gewichtsproblemen und Essstörungen leiden

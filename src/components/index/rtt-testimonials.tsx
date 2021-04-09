@@ -1,9 +1,9 @@
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 import React from 'react';
-import Swiper, { ReactIdSwiperChildren } from 'react-id-swiper';
 import { Container, Icon, Label } from 'semantic-ui-react';
-import 'swiper/css/swiper.css';
+import SwiperCore, { Autoplay, Pagination } from 'swiper';
+import { Swiper, SwiperSlide } from 'swiper/react';
 import SectionHeader from './../sectionHeader';
 import './rtt.less';
 
@@ -29,37 +29,41 @@ const SectionRTTTestimonials = ({ t }) => {
         slidesPerView: slidesPerView,
         spaceBetween: 40,
         loop: false,
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
+        pagination: { clickable: true, dynamicBullets: true }
     };
 
     const data = useStaticQuery(
         graphql`
             query {
-                customer1: file(relativePath: { eq: "lini.jpg" }) {
+                customer1: file(relativePath: { eq: "clients/lini.jpg" }) {
                     childImageSharp {
                         fluid(maxWidth: 100, quality: 90) {
                             ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
-                customer2: file(relativePath: { eq: "Testimonial_Laetitia_Edited.jpg" }) {
+                customer2: file(relativePath: { eq: "clients/Laetitia.jpg" }) {
                     childImageSharp {
                         fluid(maxWidth: 100, quality: 90) {
                             ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
-                customer3: file(relativePath: { eq: "antje.jpg" }) {
+                customer3: file(relativePath: { eq: "clients/antje.jpg" }) {
                     childImageSharp {
                         fluid(maxWidth: 100, quality: 90) {
                             ...GatsbyImageSharpFluid_withWebp
                         }
                     }
                 }
-                customer4: file(relativePath: { eq: "theresa.jpg" }) {
+                customer4: file(relativePath: { eq: "clients/theresa.jpg" }) {
+                    childImageSharp {
+                        fluid(maxWidth: 100, quality: 90) {
+                            ...GatsbyImageSharpFluid_withWebp
+                        }
+                    }
+                }
+                customer5: file(relativePath: { eq: "clients/denys.jpg" }) {
                     childImageSharp {
                         fluid(maxWidth: 100, quality: 90) {
                             ...GatsbyImageSharpFluid_withWebp
@@ -70,45 +74,51 @@ const SectionRTTTestimonials = ({ t }) => {
         `,
     );
 
-    const card1 = (<div>
+    const card1 = (
         <RTTTestimonialCard
             mobile={slidesPerView === 1}
             label={t('testimonials:customer1-label')}
             text={t('testimonials:customer1-text')}
             author="Celina, Berlin"
             src={data.customer1.childImageSharp.fluid}
-        ></RTTTestimonialCard>
-    </div>);
-    const card2 = (<div>
+        ></RTTTestimonialCard>);
+    const card2 = (
         <RTTTestimonialCard
             mobile={slidesPerView === 1}
             label={t('testimonials:customer2-label')}
             text={t('testimonials:customer2-text')}
             author="Laetitia, Paris"
             src={data.customer2.childImageSharp.fluid}
-        ></RTTTestimonialCard>
-    </div>);
-    const card3 = (<div>
+        ></RTTTestimonialCard>);
+    const card3 = (
         <RTTTestimonialCard
             mobile={slidesPerView === 1}
             label={t('testimonials:customer3-label')}
             text={t('testimonials:customer3-text')}
             author="Antje, Leipzig"
             src={data.customer3.childImageSharp.fluid}
-        ></RTTTestimonialCard>
-    </div>);
-    const card4 = (<div>
+        ></RTTTestimonialCard>);
+    const card4 = (
         <RTTTestimonialCard
             mobile={slidesPerView === 1}
             label={t('testimonials:customer4-label')}
             text={t('testimonials:customer4-text')}
             author="Teresa, Berlin"
             src={data.customer4.childImageSharp.fluid}
-        ></RTTTestimonialCard>
-    </div>);
+        ></RTTTestimonialCard>);
+    const card5 = (
+        <RTTTestimonialCard
+            mobile={slidesPerView === 1}
+            label={t('testimonials:customer5-label')}
+            text={t('testimonials:customer5-text')}
+            author="Denys, Berlin"
+            src={data.customer5.childImageSharp.fluid}
+        ></RTTTestimonialCard>);
 
-    const cards: ReactIdSwiperChildren = [card1, card2, card3, card4];
+    const cards: any = [card1, card2, card3, card4, card5];
     shuffleArray(cards);
+
+    SwiperCore.use([Pagination, Autoplay]);
 
     return (
         <Container as="section">
@@ -120,11 +130,11 @@ const SectionRTTTestimonials = ({ t }) => {
             ></SectionHeader>
             <Swiper {...params}>
 
-                {cards.map((card) => {
+                {cards.map((card, index) => {
                     return (
-                        <div>
+                        <SwiperSlide key={"card-" + index}>
                             {card}
-                        </div>
+                        </SwiperSlide>
                     );
                 })}
 

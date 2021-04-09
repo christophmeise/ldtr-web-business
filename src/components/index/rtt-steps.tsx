@@ -1,11 +1,11 @@
 import React from 'react';
-import { Container, Grid, GridColumn, Icon, Responsive } from 'semantic-ui-react';
+import { Container, Grid, GridColumn, Icon } from 'semantic-ui-react';
 import { SemanticICONS, SemanticTEXTALIGNMENTS } from 'semantic-ui-react/dist/commonjs/generic';
 import SectionHeader from './../sectionHeader';
 
 const SectionRTTSteps = ({ t }) => {
     let textAlignment: SemanticTEXTALIGNMENTS = 'left';
-    if (typeof window !== 'undefined' && window.innerWidth <= Responsive.onlyTablet.minWidth) {
+    if (typeof window !== 'undefined' && window.innerWidth <= 1024) {
         textAlignment = 'center';
     }
 
@@ -66,9 +66,8 @@ const IconCircleWithText = ({ color, icon, headline, description }: IconCircleWi
             data-sal-easing="ease"
         >
             <div
-                className={`rtt-icon-circle ${
-                    color === 'primary' ? 'rtt-icon-circle-primary' : 'rtt-icon-circle-secondary'
-                }`}
+                className={`rtt-icon-circle ${color === 'primary' ? 'rtt-icon-circle-primary' : 'rtt-icon-circle-secondary'
+                    }`}
             >
                 <Icon className={color === 'primary' ? 'text-primary' : 'text-secondary'} name={icon} size="big"></Icon>
             </div>

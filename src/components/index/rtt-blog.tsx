@@ -80,6 +80,8 @@ const SectionRTTBlog = ({ t }) => {
     posts = posts
         .filter((post) => new Date(post.node.frontmatter.date) <= new Date())
 
+    posts = posts.slice(0, 3);
+
     return (
         <section className="bg-secondary">
             <Container>

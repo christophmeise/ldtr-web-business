@@ -1,53 +1,56 @@
 @import 'lib.less';
+@import 'swiper/components/navigation/navigation.less';
+@import 'swiper/components/pagination/pagination.less';
+@import 'swiper/swiper.less';
 
 @font-face {
     font-family: 'Poppins';
-    font-style: normal;
-    src: local('Poppins Light'), local('Poppins-Light'),
+    font-style : normal;
+    src        : local('Poppins Light'), local('Poppins-Light'),
         url('../../static/fonts/Poppins/Poppins-Light.ttf') format('truetype');
-    font-weight: 300;
+    font-weight : 300;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Poppins';
-    font-style: normal;
-    src: local('Poppins'), local('Poppins-Regular'),
+    font-style : normal;
+    src        : local('Poppins'), local('Poppins-Regular'),
         url('../../static/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
-    font-weight: 400;
+    font-weight : 400;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Poppins';
-    font-style: normal;
-    src: local('Poppins Medium'), local('Poppins-Medium'),
+    font-style : normal;
+    src        : local('Poppins Medium'), local('Poppins-Medium'),
         url('../../static/fonts/Poppins/Poppins-Medium.ttf') format('truetype');
-    font-weight: 500;
+    font-weight : 500;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Poppins';
-    font-style: normal;
-    src: local('Poppins SemiBold'), local('Poppins-SemiBold'),
+    font-style : normal;
+    src        : local('Poppins SemiBold'), local('Poppins-SemiBold'),
         url('../../static/fonts/Poppins/Poppins-SemiBold.ttf') format('truetype');
-    font-weight: 600;
+    font-weight : 600;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Poppins';
-    font-style: normal;
-    src: local('Poppins Bold'), local('Poppins-Bold'),
+    font-style : normal;
+    src        : local('Poppins Bold'), local('Poppins-Bold'),
         url('../../static/fonts/Poppins/Poppins-Bold.ttf') format('truetype');
-    font-weight: 700;
+    font-weight : 700;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Playfair';
-    src: local('PlayfairDisplay Bold'), local('Poppins-PlayfairDisplay-Bold'),
+    src        : local('PlayfairDisplay Bold'), local('Poppins-PlayfairDisplay-Bold'),
         url('../../static/fonts/Playfair/PlayfairDisplay-Bold.ttf') format('truetype');
     font-display: swap;
 }
@@ -66,19 +69,21 @@ li {
     font-family: 'Poppins', 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif !important;
     white-space: pre-line;
 }
+
 .font-playfair {
     font-family: 'Playfair', 'Helvetica Neue', Arial, Helvetica, sans-serif !important;
 }
 
 html {
-    overflow: hidden;
+    overflow : hidden;
     font-size: 16px !important;
 }
+
 html,
 body {
-    margin: 0;
-    padding: 0;
-    font-style: normal;
+    margin     : 0;
+    padding    : 0;
+    font-style : normal;
     font-weight: 400;
 }
 
@@ -86,49 +91,49 @@ body {
     display: block;
 }
 
-body > div {
+body>div {
     height: 100%;
-    width: 100%;
+    width : 100%;
     margin: 0;
 }
 
-body > div > div {
+body>div>div {
     height: 100%;
-    width: 100%;
+    width : 100%;
     margin: 0;
 }
 
 .hyphenate {
-    hyphens: auto;
-    -ms-hyphens: auto;
-    -moz-hyphens: auto;
+    hyphens        : auto;
+    -ms-hyphens    : auto;
+    -moz-hyphens   : auto;
     -webkit-hyphens: auto;
 }
 
 .flex-container {
-    display: flex;
+    display       : flex;
     flex-direction: column;
-    min-height: 100vh;
-    height: 100%;
+    min-height    : 100vh;
+    height        : 100%;
 }
 
 @media @mobile {
-    .flex-container > div {
+    .flex-container>div {
         /* margin-top: 52px; */
         /*         margin-top: 49px !important; */
     }
 }
 
 .global-navbar {
-    position: absolute !important;
-    top: 0;
-    width: 100%;
-    z-index: 100;
-    padding: 0em 0em;
+    position     : absolute !important;
+    top          : 0;
+    width        : 100%;
+    z-index      : 100;
+    padding      : 0em 0em;
     margin-bottom: 1em;
-    border: none;
-    text-align: 'center';
-    box-shadow: 0px 3px 7px 2px rgba(0, 0, 0, 0.07);
+    border       : none;
+    text-align   : 'center';
+    box-shadow   : 0px 3px 7px 2px rgba(0, 0, 0, 0.07);
 }
 
 .global-navbar-transparent {
@@ -139,74 +144,77 @@ body > div > div {
     background: rgba(255, 255, 255, 0.72) !important;
 }
 
-.global-navbar-scrolled > .logo-container > img {
+.global-navbar-scrolled>.logo-container>img {
     filter: drop-shadow(0px 0px 9px rgba(255, 255, 255, 0.8));
 }
 
 .global-navbar-mobile {
-    height: 52px;
-    top: -2px !important;
-    margin-top: 0px !important;
+    height          : 52px;
+    top             : -2px !important;
+    margin-top      : 0px !important;
     background-color: rgba(255, 255, 255, 0.9) !important;
-    border-top: none !important;
-    border-left: none !important;
-    border-right: none !important;
-    border-bottom: solid 1px rgba(0, 0, 0, 0.16);
+    border-top      : none !important;
+    border-left     : none !important;
+    border-right    : none !important;
+    border-bottom   : solid 1px rgba(0, 0, 0, 0.16);
 }
 
 .mobile-menu {
-    height: 0vh;
-    position: absolute;
-    top: 50px;
-    z-index: 100;
-    width: 100% !important;
-    overflow: hidden;
+    height    : 0vh;
+    position  : absolute;
+    top       : 50px;
+    z-index   : 100;
+    width     : 100% !important;
+    overflow  : hidden;
     transition: all 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
-    border: none !important;
+    border    : none !important;
     box-shadow: none !important;
 }
 
 @supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
     .global-navbar-mobile {
-        background-color: rgba(255, 255, 255, 0.72) !important;
+        background-color       : rgba(255, 255, 255, 0.72) !important;
         -webkit-backdrop-filter: saturate(180%) blur(20px);
-        backdrop-filter: saturate(180%) blur(20px) !important;
+        backdrop-filter        : saturate(180%) blur(20px) !important;
     }
 }
+
 @supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
     .global-navbar-transparent {
-        background-color: rgba(255, 255, 255, 0.25) !important;
+        background-color       : rgba(255, 255, 255, 0.25) !important;
         -webkit-backdrop-filter: saturate(180%) blur(20px);
-        backdrop-filter: saturate(180%) blur(20px) !important;
+        backdrop-filter        : saturate(180%) blur(20px) !important;
     }
 }
+
 @supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
     .global-navbar-scrolled {
-        background-color: rgba(255, 255, 255, 0.72) !important;
+        background-color       : rgba(255, 255, 255, 0.72) !important;
         -webkit-backdrop-filter: saturate(180%) blur(20px);
-        backdrop-filter: saturate(180%) blur(20px) !important;
+        backdrop-filter        : saturate(180%) blur(20px) !important;
     }
 }
 
 .menu-item-logo {
-    padding: 0px !important;
+    padding     : 0px !important;
     margin-right: 1.5rem !important;
 }
 
 .global-navbar-dropdown {
     padding: 20px 35px !important;
+
     a .item {
-        padding: 9px 0 !important;
-        margin-left: 0rem !important;
+        padding     : 9px 0 !important;
+        margin-left : 0rem !important;
         margin-right: 0rem !important;
 
-        font-size: 1rem;
-        line-height: 22px !important;
+        font-size     : 1rem;
+        line-height   : 22px !important;
         text-transform: uppercase !important;
-        font-weight: 600 !important;
+        font-weight   : 600 !important;
         letter-spacing: 0.025em;
-        transition: color 0.1s;
-        color: rgba(0, 0, 0, 0.87) !important;
+        transition    : color 0.1s;
+        color         : rgba(0, 0, 0, 0.87) !important;
     }
 
     a .item:hover {
@@ -215,21 +223,21 @@ body > div > div {
 }
 
 .ui.simple.dropdown .menu {
-    height: auto !important;
-    opacity: 0 !important;
-    width: auto !important;
+    height    : auto !important;
+    opacity   : 0 !important;
+    width     : auto !important;
     transition: all 0.25s ease !important;
 }
 
-.ui.simple.active.dropdown > .menu,
-.ui.simple.dropdown:hover > .menu {
+.ui.simple.active.dropdown>.menu,
+.ui.simple.dropdown:hover>.menu {
     opacity: 1 !important;
     padding: 20px 35px !important;
-    height: auto !important;
+    height : auto !important;
 }
 
-.ui.secondary.menu .dropdown.item > .menu,
-.ui.text.menu .dropdown.item > .menu {
+.ui.secondary.menu .dropdown.item>.menu,
+.ui.text.menu .dropdown.item>.menu {
     margin-top: 0 !important;
 }
 
@@ -259,8 +267,8 @@ body > div > div {
 
 @media only screen and (min-width: 1200px) {
     .ui.container {
-        width: 1200px !important;
-        margin-left: auto !important;
+        width       : 1200px !important;
+        margin-left : auto !important;
         margin-right: auto !important;
     }
 }
@@ -286,43 +294,45 @@ body > div > div {
 }
 
 .rounded-corners-top {
-    border-top-left-radius: 0.5rem !important;
+    border-top-left-radius : 0.5rem !important;
     border-top-right-radius: 0.5rem !important;
+
     img {
-        border-top-left-radius: 0.5rem !important;
+        border-top-left-radius : 0.5rem !important;
         border-top-right-radius: 0.5rem !important;
     }
 }
 
 p {
-    color: rgb(15, 19, 26);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
+    color                 : rgb(15, 19, 26);
+    font-size             : 16px;
+    font-weight           : 400;
+    line-height           : 24px;
     -webkit-font-smoothing: antialiased;
-    text-rendering: optimizelegibility;
+    text-rendering        : optimizelegibility;
 }
 
 .global-subtitle {
-    margin-bottom: 0;
+    margin-bottom : 0;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1rem !important;
-    line-height: 1.6 !important;
+    font-weight   : bold;
+    font-size     : 1rem !important;
+    line-height   : 1.6 !important;
 }
 
 h2&.global-headline {
-    font-weight: 700;
-    font-size: 2rem;
-    margin-top: 0rem;
-    line-height: 1.15 !important;
+    font-weight  : 700;
+    font-size    : 2rem;
+    margin-top   : 0rem;
+    line-height  : 1.15 !important;
     margin-bottom: 3rem !important;
 }
 
 .text-primary-inverted {
     color: #fff !important;
 }
+
 .shadow {
     box-shadow: 0 5px 12px 0 rgba(33, 43, 54, 0.07), 0 10px 30px 0 rgba(33, 43, 54, 0.085) !important;
 }
@@ -334,13 +344,16 @@ h2&.global-headline {
 .rounded {
     border-radius: 0.5rem !important;
 }
+
 .bg-secondary {
     background: #f8f9fa;
 }
+
 .global-flex-column {
-    display: flex;
+    display       : flex;
     flex-direction: column;
 }
+
 .global-no-margin {
     margin: 0 !important;
 }
@@ -353,13 +366,13 @@ h2&.global-headline {
 .dark-overlay::after,
 .dark-overlay::before {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    content: ' ';
-    filter: brightness(0.9);
-    z-index: 1 !important;
+    top     : 0;
+    left    : 0;
+    width   : 100%;
+    height  : 100%;
+    content : ' ';
+    filter  : brightness(0.9);
+    z-index : 1 !important;
 }
 
 .dark-overlay-blog {
@@ -370,13 +383,13 @@ h2&.global-headline {
 .dark-overlay-blog::after,
 .dark-overlay-blog::before {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    content: ' ';
-    filter: brightness(0.8);
-    z-index: 1 !important;
+    top     : 0;
+    left    : 0;
+    width   : 100%;
+    height  : 100%;
+    content : ' ';
+    filter  : brightness(0.8);
+    z-index : 1 !important;
 }
 
 .hover-animate {
@@ -386,7 +399,7 @@ h2&.global-headline {
 .hover-animate:hover,
 .hover-animate:focus {
     -webkit-transform: translate3d(0, -2px, 5px);
-    transform: translate3d(0, -2px, 5px);
+    transform        : translate3d(0, -2px, 5px);
 }
 
 @media @desktop {
@@ -397,10 +410,10 @@ h2&.global-headline {
 
 @media @mobile {
     .Toastify__toast-container {
-        width: 94vw !important;
-        margin-left: 3vw !important;
+        width       : 94vw !important;
+        margin-left : 3vw !important;
         margin-right: 3vw !important;
-        bottom: 3vw !important;
+        bottom      : 3vw !important;
 
         div {
             .rounded();
@@ -416,13 +429,13 @@ h2&.global-headline {
 .pusher {
     /*     display: flex;
     flex-direction: column; */
-    height: 100%;
-    overflow: visible !important;
+    height    : 100%;
+    overflow  : visible !important;
     min-height: 100vh !important;
 }
 
 .text-primary {
-    color: @primaryColor !important;
+    color: @primaryColor  !important;
 }
 
 .text-secondary {
@@ -440,6 +453,7 @@ h2&.global-headline {
         padding: 4rem 0rem;
     }
 }
+
 .main-content-sections-bottom section {
     padding-bottom: 6rem;
 
@@ -449,20 +463,20 @@ h2&.global-headline {
 }
 
 hr {
-    margin-top: 1rem;
+    margin-top   : 1rem;
     margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border       : 0;
+    border-top   : 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .icon-circle-with-text {
     h3 {
-        font-size: 17px !important;
+        font-size     : 17px !important;
         text-transform: uppercase;
         letter-spacing: 0.08em;
-        line-height: 1.3;
-        margin-bottom: 0.5rem;
-        margin-top: 0rem;
+        line-height   : 1.3;
+        margin-bottom : 0.5rem;
+        margin-top    : 0rem;
     }
 
     p {
@@ -472,22 +486,23 @@ hr {
     .rtt-icon-circle-primary {
         background-color: fade(@primaryColor, 20%);
     }
+
     .rtt-icon-circle-secondary {
         background-color: fade(@secondaryColor, 20%);
     }
 
     .rtt-icon-circle {
-        display: inline-block;
-        min-width: 4rem;
-        width: 4rem;
-        height: 4rem;
+        display      : inline-block;
+        min-width    : 4rem;
+        width        : 4rem;
+        height       : 4rem;
         border-radius: 50%;
-        text-align: center;
-        line-height: 4rem;
+        text-align   : center;
+        line-height  : 4rem;
         margin-bottom: 1rem !important;
     }
 
-    .rtt-icon-circle > i {
+    .rtt-icon-circle>i {
         margin: 0 !important;
     }
 }
@@ -497,9 +512,9 @@ hr {
 }
 
 .content-container {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    display: flex;
+    margin-top     : 3rem;
+    margin-bottom  : 3rem;
+    display        : flex;
     justify-content: center;
 }
 
@@ -517,5 +532,5 @@ hr {
 }
 
 .swiper-pagination-bullet-active {
-    background: @primaryColor !important;
+    background: @primaryColor  !important;
 }

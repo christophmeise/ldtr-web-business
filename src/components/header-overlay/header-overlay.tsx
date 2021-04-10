@@ -23,6 +23,7 @@ const HeaderOverlay = ({ sources, color, inverted, content, darken = false }) =>
                     Tag="section"
                     className={`header-overlay-center-cropped ${darken ? 'dark-overlay' : null}`}
                     fluid={sources}
+                    critical
                 >
                     <Container className="header-overlay-container">
                         <Grid className="header-overlay-container-desktop responsive-desktop-container">

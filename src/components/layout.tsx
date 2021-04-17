@@ -53,7 +53,6 @@ class Layout extends React.Component<Props, any> {
     }
 
     componentDidMount() {
-        console.log('test');
         this.notify();
         if (typeof window !== 'undefined') {
             document.body.addEventListener('scroll', this.listenToScroll);
@@ -117,47 +116,47 @@ class Layout extends React.Component<Props, any> {
                     >
                         {(typeof window === 'undefined' ||
                             (typeof window !== 'undefined' && window.innerWidth < 768)) && (
-                            <GlobalNavbar
-                                location={location}
-                                handleItemClick={this.handleItemClick}
-                                inverted={true}
-                                mobile={true}
-                                t={t}
-                            />
-                        )}
+                                <GlobalNavbar
+                                    location={location}
+                                    handleItemClick={this.handleItemClick}
+                                    inverted={true}
+                                    mobile={true}
+                                    t={t}
+                                />
+                            )}
                     </Menu>
 
                     <div>
                         {(typeof window === 'undefined' ||
                             (typeof window !== 'undefined' && window.innerWidth >= 768)) && (
-                            <section
-                                className={
-                                    'responsive-desktop-container  global-navbar' +
-                                    (!(this.state.theposition > 700) && invertedHeader
-                                        ? ' global-navbar-transparent'
-                                        : ' global-navbar-scrolled')
-                                }
-                                style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
-                            >
-                                <Menu
-                                    inverted={!(this.state.theposition > 700) && invertedHeader}
-                                    pointing={false}
-                                    secondary={true}
-                                    size="large"
-                                    borderless
+                                <section
+                                    className={
+                                        'responsive-desktop-container  global-navbar' +
+                                        (!(this.state.theposition > 700) && invertedHeader
+                                            ? ' global-navbar-transparent'
+                                            : ' global-navbar-scrolled')
+                                    }
+                                    style={{ padding: '0em 0em', marginBottom: '1em', border: 'none', textAlign: 'center' }}
                                 >
-                                    <Container>
-                                        <GlobalNavbar
-                                            location={location}
-                                            handleItemClick={this.handleItemClick}
-                                            inverted={!(this.state.theposition > 700) && invertedHeader}
-                                            mobile={false}
-                                            t={t}
-                                        />
-                                    </Container>
-                                </Menu>
-                            </section>
-                        )}
+                                    <Menu
+                                        inverted={!(this.state.theposition > 700) && invertedHeader}
+                                        pointing={false}
+                                        secondary={true}
+                                        size="large"
+                                        borderless
+                                    >
+                                        <Container>
+                                            <GlobalNavbar
+                                                location={location}
+                                                handleItemClick={this.handleItemClick}
+                                                inverted={!(this.state.theposition > 700) && invertedHeader}
+                                                mobile={false}
+                                                t={t}
+                                            />
+                                        </Container>
+                                    </Menu>
+                                </section>
+                            )}
                         <main role="main">
                             {children}
                             <PageFooter t={t} />

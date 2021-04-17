@@ -90,6 +90,15 @@ const PageFooter = ({ t }) => {
                                         <List.Item>
                                             <Link to={getPathWithLocale('/book-call')}>{t('book-call')}</Link>
                                         </List.Item>
+                                        <List.Item>
+                                            <a
+                                                href="https://landing.mailerlite.com/webforms/landing/p0f6l7"
+                                                target="_blank"
+                                                rel="noopener"
+                                            >
+                                                Newsletter
+                                            </a>
+                                        </List.Item>
                                     </List>
                                 </Grid.Column>
                                 <Grid.Column style={{ display: 'inline-block', width: '50%', verticalAlign: 'top' }}>
@@ -167,7 +176,7 @@ const PageFooter = ({ t }) => {
                                         <Icon className="hover-animate" size="large" name="linkedin" inverted></Icon>
                                     </a>
                                     <a
-                                        href="https://instagram.com/iamenoughbymarisapeer?igshid=owrg3d6x2h7v"
+                                        href="https://instagram.com/innerlight_hypnotherapy"
                                         target="_blank"
                                         rel="noopener"
                                         aria-label="Instagram"

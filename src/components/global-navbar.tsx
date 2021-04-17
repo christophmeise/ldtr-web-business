@@ -97,13 +97,6 @@ class GlobalNavbar extends React.Component<Props, any> {
                             active={location.pathname === '/rtt-areas'}
                             onClick={handleItemClick}
                         ></Menu.Item>
-                        <Menu.Item
-                            name="/faq"
-                            content={t('faq')}
-                            link
-                            active={location.pathname === '/faq'}
-                            onClick={handleItemClick}
-                        ></Menu.Item>
                     </React.Fragment>
                 )}
 

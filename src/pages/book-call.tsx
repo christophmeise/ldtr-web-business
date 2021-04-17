@@ -36,7 +36,7 @@ class BookCall extends React.Component<Props> {
 
         return (
             <Layout title={siteTitle} t={t}>
-                <SEO title="Index" />
+                <SEO title={t('book-first-call-SEOTitle')} />
                 <Container className="global-header-padding">
                     <PlainHeader content={HeaderContent(t)} />
                     <Container>

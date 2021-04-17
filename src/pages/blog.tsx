@@ -89,7 +89,7 @@ class Blog extends React.Component<Props, BlogState> {
 
         return (
             <Layout title={siteTitle} t={t} invertedHeader={true}>
-                <SEO lang="en" description={description} title="All posts" />
+                <SEO lang="en" description={description} title={t('blog:SEOTitle')} />
                 <HeaderOverlay
                     sources={sources}
                     color="#000000"

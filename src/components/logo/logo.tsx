@@ -1,10 +1,8 @@
 import React from 'react';
 import './logo.less';
-const logoGold = require('./logo-gold.svg');
-const logoWhite = require('./logo-inverted.svg');
 
 const Logo = ({ inverted }) => {
-    const logo = inverted ? logoWhite : logoGold;
+    const logo = inverted ? '/logo/logo-inverted.svg' : '/logo/logo-gold.svg';
 
     return (
         <div className="logo-container">

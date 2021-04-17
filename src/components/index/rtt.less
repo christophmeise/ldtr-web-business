@@ -1,53 +1,56 @@
 @import '../../styles/lib.less';
 
 .aspect-ratio {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
+    position      : relative;
+    width         : 100%;
+    height        : 0;
+    padding-bottom: 56.25%;
+    /* The height of the item will now be 56.25% of the width. */
 }
 
 /* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
 .aspect-ratio iframe {
     position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
+    width   : 100%;
+    height  : 100%;
+    left    : 0;
+    top     : 0;
 }
 
 .image-dark-overlay {
-    opacity: 1 !important;
-    background-size: cover;
+    opacity         : 1 !important;
+    background-size : cover;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
 .rtt-call-to-action-image {
-    height: 450px;
+    height             : 450px;
     background-position: center;
     .image-dark-overlay();
 }
 
 .call-to-action-text {
-    font-size: 4.5rem;
-    color: rgba(255, 255, 255, 0.9);
+    font-size  : 4.5rem;
+    color      : rgba(255, 255, 255, 0.9);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
 }
+
 @media @mobile {
     .call-to-action-text {
-        font-size: 3rem;
-        color: rgba(255, 255, 255, 0.9);
+        font-size  : 3rem;
+        color      : rgba(255, 255, 255, 0.9);
         text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
     }
 }
+
 .rtt-call-to-action-image-container {
     display: flex !important;
-    height: 100%;
+    height : 100%;
 }
 
 .swiper-container {
-    width: 100%;
-    height: 100%;
+    width   : 100%;
+    height  : 100%;
     /*this gives the dimension of slider container*/
     /*these values will make the container as big as the parent div*/
     overflow: hidden;
@@ -56,43 +59,39 @@
 
 .swiper-container .swiper-wrapper {
     padding-bottom: 3rem !important;
-    padding-top: 0.5rem !important;
-}
-
-.swiper-slide {
-    width: 300px;
-    height: 300px;
+    padding-top   : 0.5rem !important;
 }
 
 .rtt-testimonials-card {
-    position: relative;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
+    position        : relative;
+    flex-direction  : column;
+    min-width       : 0;
+    word-wrap       : break-word;
     background-color: #fff;
-    background-clip: border-box;
-    border: 0px;
-    border-radius: 0.4rem;
-    padding: 1rem;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.15);
-    border-radius: 0.6rem;
+    background-clip : border-box;
+    border          : 0px;
+    border-radius   : 0.4rem;
+    padding         : 1rem;
+    box-shadow      : 0 0 1rem rgba(0, 0, 0, 0.15);
+    border-radius   : 0.6rem;
 
     @media @desktop {
         padding-left: 70px;
-        margin-left: 4rem;
+        margin-left : 4rem;
         margin-right: 2rem;
     }
 
     @media @mobile {
-        margin-left: 0.5rem;
+        margin-left : 0.5rem;
         margin-right: 0.5rem;
-        margin-top: 2.5rem;
+        margin-top  : 2.5rem;
     }
+
     .rtt-testimonials-card-text {
         position: block;
 
         @media @desktop {
-            padding: 2rem;
+            padding     : 2rem;
             padding-left: 1rem;
         }
 
@@ -111,32 +110,32 @@
 }
 
 .rtt-testimonials-card-text-main {
-    margin-top: 1rem;
+    margin-top   : 1rem;
     margin-bottom: 1rem;
 }
 
 .rtt-testimonials-avatar {
-    overflow: hidden;
-    width: 80px;
-    height: 80px;
+    overflow         : hidden;
+    width            : 80px;
+    height           : 80px;
     -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    border-radius: 50%;
-    box-shadow: -8px 4px 15px 0px rgba(0, 0, 0, 0.2);
-    position: absolute;
+    transform        : translate(-50%, -50%);
+    border-radius    : 50%;
+    box-shadow       : -8px 4px 15px 0px rgba(0, 0, 0, 0.2);
+    position         : absolute;
 
     @media @desktop {
-        top: 50%;
+        top : 50%;
         left: 0;
     }
 
     @media @mobile {
-        top: 0;
+        top : 0;
         left: 50%;
     }
 
     & img {
-        width: 80px;
+        width : 80px;
         height: 80px;
     }
 }
@@ -151,43 +150,70 @@
 
 .rtt-areas-card-background {
     background-size: cover;
-    overflow: hidden;
-    height: 100%;
-    cursor: pointer;
+    overflow       : hidden;
+    height         : 100%;
+    cursor         : pointer;
+}
+
+.rtt-areas-card-background-blog {
+    background-size: cover;
+    overflow       : hidden;
+    height         : 400px;
+    cursor         : pointer;
+}
+
+.rtt-areas-card-background-text-wrapper-blog {
+    display        : flex;
+    justify-content: center;
+    text-align     : left;
+    word-break     : break-word;
+    padding-left   : 0.5rem;
+    padding-right  : 0.5rem;
+    height         : calc(100% - 55px);
+    align-items    : center;
+
+    .rtt-areas-card-background-text {
+        z-index    : 10;
+        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.35);
+        font-size  : 1.75rem !important;
+        color      : white;
+        font-weight: 600;
+    }
 }
 
 .rtt-areas-card-background-text-wrapper {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-    display: flex;
+    padding-top    : 8rem;
+    padding-bottom : 8rem;
+    display        : flex;
     justify-content: center;
-    text-align: left;
-    word-break: break-word;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    text-align     : left;
+    word-break     : break-word;
+    padding-left   : 0.5rem;
+    padding-right  : 0.5rem;
+
     .rtt-areas-card-background-text {
-        z-index: 10;
-        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+        z-index       : 10;
+        text-shadow   : 2px 2px 2px rgba(0, 0, 0, 0.3);
         text-transform: uppercase;
         letter-spacing: 0.1em;
-        font-size: 1.75rem !important;
-        color: white;
-        font-weight: 700;
+        font-size     : 1.75rem !important;
+        color         : white;
+        font-weight   : 700;
     }
 }
 
 .rtt-call-container-desktop {
-    display: flex;
+    display   : flex;
     align-self: center;
     text-align: left;
-    width: 100%;
+    width     : 100%;
 }
 
 .rtt-call-container-mobile {
-    display: flex;
+    display   : flex;
     align-self: center;
     text-align: left;
-    width: 100%;
+    width     : 100%;
 
     h2 {
         margin-bottom: 3rem;

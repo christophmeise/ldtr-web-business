@@ -101,7 +101,7 @@ const SectionRTTAreas = ({ t }) => {
                             <RTTAreaCard source={data.fears.childImageSharp.fluid} text={t('rtt-area-4')} />
                         </GridColumn>
                         <GridColumn>
-                            <RTTAreaCard source={data.weight.childImageSharp.fluid} text={t('rtt-area-5')} />
+                            <RTTAreaCard source={data.weight.childImageSharp.fluid} text={t('rtt-area-5')} href="/hypnose-zur-gewichtsreduktion" />
                         </GridColumn>
                         <GridColumn>
                             <RTTAreaCard source={data.stress.childImageSharp.fluid} text={t('rtt-area-6')} />

@@ -49,6 +49,10 @@ const localesNSContent = {
             content: fs.readFileSync(`src/locales/en/testimonials.json`, 'utf8'),
             ns: 'testimonials',
         },
+        {
+            content: fs.readFileSync(`src/locales/en/business.json`, 'utf8'),
+            ns: 'business',
+        }
     ],
     de: [
         {
@@ -87,6 +91,10 @@ const localesNSContent = {
             content: fs.readFileSync(`src/locales/de/testimonials.json`, 'utf8'),
             ns: 'testimonials',
         },
+        {
+            content: fs.readFileSync(`src/locales/de/business.json`, 'utf8'),
+            ns: 'business',
+        }
     ],
 };
 

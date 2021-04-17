@@ -16,7 +16,7 @@ module.exports = {
         siteUrl: `https://innerlight-hypnotherapy.com/`,
         description: `Erwecke dein INNER LIGHT Erschaffe das Leben, von dem du träumst mit der Rapid Transformational Therapy™`,
         social: {
-            instagram: `iamenoughbymarisapeer`,
+            instagram: `innerlight_hypnotherapy`,
         },
     },
     plugins: [

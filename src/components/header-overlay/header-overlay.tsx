@@ -3,7 +3,7 @@ import React from 'react';
 import { Container, Grid, GridColumn } from 'semantic-ui-react';
 import './header-overlay.less';
 
-const HeaderOverlay = ({ sources, color, inverted, content, darken = false }) => {
+const HeaderOverlay = ({ sources, color, inverted, content, darken = false, veryDark = false, width = 8 }) => {
     let vh = 100;
     const isSSR = typeof window === 'undefined';
     if (!isSSR) {
@@ -21,13 +21,13 @@ const HeaderOverlay = ({ sources, color, inverted, content, darken = false }) =>
             <div className="header-overlay-image-wrapper">
                 <BackgroundImage
                     Tag="section"
-                    className={`header-overlay-center-cropped ${darken ? 'dark-overlay' : null}`}
+                    className={`header-overlay-center-cropped ${darken && !veryDark ? 'dark-overlay' : null} ${veryDark && 'very-dark-overlay'}`}
                     fluid={sources}
                     critical
                 >
                     <Container className="header-overlay-container">
                         <Grid className="header-overlay-container-desktop responsive-desktop-container">
-                            <GridColumn width={8}>
+                            <GridColumn width={width}>
                                 <div
                                     data-sal="slide-down"
                                     data-sal-delay="0"

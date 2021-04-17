@@ -91,8 +91,23 @@ h5,
 h6,
 p,
 ul,
+.item,
+.ui.button,
 li {
     font-family: 'Poppins', 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif !important;
+}
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
     white-space: pre-line;
 }
 
@@ -389,6 +404,23 @@ h2&.global-headline {
     z-index : 1 !important;
 }
 
+.very-dark-overlay {
+    position: relative;
+    overflow: hidden;
+}
+
+.very-dark-overlay::after,
+.very-dark-overlay::before {
+    position: absolute;
+    top     : 0;
+    left    : 0;
+    width   : 100%;
+    height  : 100%;
+    content : ' ';
+    filter  : brightness(0.65);
+    z-index : 1 !important;
+}
+
 .dark-overlay-blog {
     position: relative;
     overflow: hidden;
@@ -674,4 +706,10 @@ hr {
 
 .ml-form-embedSubmit {
     margin-bottom: 0 !important;
+}
+
+.ui.cards>.card>.content>.description,
+.ui.card>.content>.description {
+    color      : rgba(0, 0, 0, 0.75) !important;
+    line-height: 22px !important;
 }

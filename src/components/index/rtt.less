@@ -155,6 +155,32 @@
     cursor         : pointer;
 }
 
+.rtt-areas-card-background-blog {
+    background-size: cover;
+    overflow       : hidden;
+    height         : 400px;
+    cursor         : pointer;
+}
+
+.rtt-areas-card-background-text-wrapper-blog {
+    display        : flex;
+    justify-content: center;
+    text-align     : left;
+    word-break     : break-word;
+    padding-left   : 0.5rem;
+    padding-right  : 0.5rem;
+    height         : calc(100% - 55px);
+    align-items    : center;
+
+    .rtt-areas-card-background-text {
+        z-index    : 10;
+        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.35);
+        font-size  : 1.75rem !important;
+        color      : white;
+        font-weight: 600;
+    }
+}
+
 .rtt-areas-card-background-text-wrapper {
     padding-top    : 8rem;
     padding-bottom : 8rem;
@@ -167,7 +193,7 @@
 
     .rtt-areas-card-background-text {
         z-index       : 10;
-        text-shadow   : 2px 2px 2px rgba(0, 0, 0, 0.1);
+        text-shadow   : 2px 2px 2px rgba(0, 0, 0, 0.3);
         text-transform: uppercase;
         letter-spacing: 0.1em;
         font-size     : 1.75rem !important;

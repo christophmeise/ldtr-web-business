@@ -30,7 +30,7 @@ export default function BlogPostCard({ post }: Props) {
                 <div></div>
                 <BackgroundImage
                     Tag="div"
-                    className="rounded-corners-top dark-overlay-blog rtt-areas-card-background"
+                    className="rounded-corners-top dark-overlay-blog rtt-areas-card-background-blog"
                     fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
                 >
                     <Label.Group className="blog-post-tag-label-group">
@@ -48,7 +48,7 @@ export default function BlogPostCard({ post }: Props) {
                             );
                         })}
                     </Label.Group>
-                    <div className="rtt-areas-card-background-text-wrapper">
+                    <div className="rtt-areas-card-background-text-wrapper-blog">
                         <h3 className="rtt-areas-card-background-text">{post.frontmatter.title}</h3>
                     </div>
                 </BackgroundImage>

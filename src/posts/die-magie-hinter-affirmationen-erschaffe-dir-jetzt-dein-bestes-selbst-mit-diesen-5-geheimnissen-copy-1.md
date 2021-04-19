@@ -332,17 +332,23 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 
 ***
 
-#### ↠ Ayurvedisches Superfood ↞
+#### ↠ Superfood ↞
 
-Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Pulver einfach ins Müsli, Joghurt oder Smoothie mischen und die Superfood-Zutaten ihre Superkräfte entfalten lassen.
+Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Produkte, die ökologisch nachhaltig sind und nicht nur etwas unheimlich gutes für den Körper tun, sondern auf für unseren Planeten, findest du bei <a href="https://www.regenbogenkreis.de/" target="_blank">Regenbogenkreis.de</a>
 
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Smoothie-Pulver in verschiedenen Geschmacksrichtungen mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau, gesund und vitalisierend, einfach und schnell zubereitet_
+**_Was macht dieses Geschenk besonders?_**
 
-**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** <a href="https://amzn.to/2XeyDGo" target="_blank">hier*</a>.
+> _Das Regenbogenkreis Projekt macht einen wirklichen Unterschied in der Welt und trägt zu deiner Heilung und der unserer Erde bei. Mit deiner Bestellung bekommst du nicht nur beste Premiumqualität und hochwertigste Bio-Produkte, sondern schützt auch Regenwald in Ecuador!_
 
-<a href="https://www.amazon.de/Morning-Fr%C3%BChst%C3%BCcksmischung-Makron%C3%A4hrstoffen-Erbsenprotein-Vitamine/dp/B074J3W86P?_encoding=UTF8&pd_rd_i=B074J3W86P&pd_rd_r=c041b4c4-5470-48e1-beed-04e69b40e767&pd_rd_w=a8z3F&pd_rd_wg=t7fyK&pf_rd_p=4490d326-3239-499b-8c8a-0dd8d6ad582a&pf_rd_r=BHZ957B3X8XKDJA5NH94&psc=1&refRID=BHZ957B3X8XKDJA5NH94&linkCode=li2&tag=innerlight06-21&linkId=f23daa9eeb5ac7c5132211bade7cb19d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074J3W86P&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B074J3W86P" width="1" height="1" border="2" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Smoothie-Energie-Wurzeln-Kurkuma-Himbeeren/dp/B01GBX2TSK?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2JBVX9UJCVZCV&dchild=1&keywords=superfood+pulver&qid=1609854727&sprefix=suprefood%2Caps%2C204&sr=8-9&linkCode=li2&tag=innerlight06-21&linkId=600912dc6d0c6ad019d16a302d464eea&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GBX2TSK&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B01GBX2TSK" width="1" height="1" border="1" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Weizengras-Brennnessel-Mariendistel-Superfoods-Rohkostqualit%C3%A4t/dp/B015BJKVHG?_encoding=UTF8&pd_rd_i=B015BJKVHG&pd_rd_r=8d641906-1543-48f7-80b7-918fcb79b558&pd_rd_w=hnQtZ&pd_rd_wg=OWURu&pf_rd_p=4490d326-3239-499b-8c8a-0dd8d6ad582a&pf_rd_r=65MWAEB1YA2TMMF3V9S5&psc=1&refRID=65MWAEB1YA2TMMF3V9S5&linkCode=li2&tag=innerlight06-21&linkId=ffaca12306870b028f9d7efb54680576&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015BJKVHG&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B015BJKVHG" width="1" height="1" border="5" alt="" style="border:none !important; margin:0px !important;" />
+<!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
+
+<a href="https://www.awin1.com/cread.php?s=2610419&v=16306&q=379574&r=845791">
+
+    <img src="https://www.awin1.com/cshow.php?s=2610419&v=16306&q=379574&r=845791" border="0">
+
+</a>
+
+<!-- END ADVERTISER: Regenbogenkreis DE from awin.com -->
 
 ***
 

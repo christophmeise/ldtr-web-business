@@ -340,13 +340,7 @@ Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und gute
 
 > _Das Regenbogenkreis Projekt macht einen wirklichen Unterschied in der Welt und trägt zu deiner Heilung und der unserer Erde bei. Mit deiner Bestellung bekommst du nicht nur beste Premiumqualität und hochwertigste Bio-Produkte, sondern schützt auch Regenwald in Ecuador!_
 
-    <!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
-    
-    <a href="https://www.awin1.com/cread.php?s=2610419&v=16306&q=379574&r=845791">
-        <img src="https://www.awin1.com/cshow.php?s=2610419&v=16306&q=379574&r=845791" border="0">
-    </a>
-    
-    <!-- END ADVERTISER: Regenbogenkreis DE from awin.com -->
+![Regenbogenkreis.de](https://ui2.awin.com/ads/awin/16306/imgkraftvolleprodukte_300x250-1582103572753.jpg "Regenbogenkreis Online-Shop")
 
 ***
 

@@ -1,7 +1,7 @@
 ---
 title: Hypnose in der Traumatherapie - Wie RTT Trauma für immer heilen kann
 path: "/hypnose-zur-gewichtsreduktion"
-featuredImage: "../../uploads/fruit-2305192_1920.jpg"
+featuredImage: ''
 date: 2021-04-01T00:00:00.000+02:00
 tags:
 - Selfcare
@@ -29,33 +29,76 @@ abstract: Mit Hypnose nach der Rapid Transformational Therapy™ zu deinem Wunsc
   ist und wie genau RTT zum Abnehmen funktioniert erfährst du in diesem Blogartikel!
 
 ---
-### Warum so viele Menschen an Gewichtsproblemen und Essstörungen leiden
+### Wie äußert sich ein Trauma?
 
-Diäten, Jo-Jo-Effekt und Essstörungen sind in unserer Gesellschaft keine Seltenheit - fast ein Drittel der Weltbevölkerung ist übergewichtig, auch in Deutschland sind sehr viele von Gewichtsproblemen betroffen und haben gestörte Essverhalten. Dabei sind heutzutage alle Informationen zu gesundem Essen, verschiedensten Trainingsprogrammen und Motivationsvideos nur wenige Klicks entfernt. Und in der Theorie klingt es eigentlich ganz einfach: **Der Schlüssel zu einer schlanken Figur und einem gesunden Körper liegt in bewusster, ausgewogener Ernährung und ausreichend Bewegung.** Warum haben also nicht alle Menschen ihr Wohlfühlgewicht und eine gesunde Beziehung zum Thema Essen?
+Erleben wir Situationen, in denen wir mit tatsächlichem oder drohendem Tod konfrontiert werden, so lösen diese in allen Menschen starke Gefühle aus. Traumatische Erlebnisse wie Unfälle, Überfälle, Vergewaltigungen, Krieg, Folter oder Naturkatastrophen bleiben bei manchen Betroffenen so tief verwurzelt, dass die Gefühle nicht mehr abklingen, sondern immer wieder auferlebt werden. Nach dem diagnostischen und statistischen Handbuch psychischer Störungen (DSM-IV) liegt ein Trauma vor, wenn eine Person
 
-Sich von einem Tag auf den anderen vom „Sportmuffel” zum „Fitnessguru” zu verändern oder Schokolade, Fast Food und Co. ohne Weiteres gegen Obst und Gemüse auszutauschen, ist leichter gesagt als getan. Der Grund dafür ist nicht, dass uns die Willenskraft oder das Know-How fehlt, sondern das wir mit Diäten und Trainingsprogrammen nur auf unserer bewussten Verstandes-Ebene ansetzen. Unser Verhalten wird aber zu **95% von unserem Unterbewusstsein gesteuert** - und die dort verwurzelten Glaubenssätze und Verhaltensmuster entscheiden wie wir uns in jedem Moment unseres Lebens fühlen und verhalten. Oft stehen dem erreichen deines Wunschgewichtes also **tief verwurzelte Überzeugungen und unbewusste Blockaden** im Wege, die zu Abhängigkeiten und verschiedenen Essstörungen führen.
+* mit tatsächlichem oder drohendem Tod konfrontiert wurde,
+* ernsthaft verletzt wurde, oder
+* die eigene oder fremde körperliche Unversehrtheit bedroht wurde und ...
+* ... die Person daraufhin intensive Furcht, Hilflosigkeit und Entsetzen verspürt.
 
-Du hast schon alle möglichen Diäten ausprobiert, sehnst dich aber immer noch nach Süßigkeiten und ungesunden Snacks? Hast du versucht, das Verlangen nach Essen loszuwerden, fühlst sich aber machtlos? In diesem Blogbeitrag bekommst du nicht nur tiefgehende Einblicke in die Verbindung zwischen Essstörungen, Gewichtsreduktion und deinem Verstand, sondern auch **einen effizienten Weg** wie du diese Verbindung nutzen kannst, um endlich einen gesunden, schönen Körper zu bekommen.
+Hat der Betroffene eine solche Erfahrung gemacht, so fühlt er sich zunächst wie betäubt, funktioniert nur noch und wirkt abwesend. Nicht jedes schlimme Erlebnis ist jedoch ein Trauma. Es hängt davon ab, wie belastend der Betroffene die Situation empfindet. Häufig entstehen durch ein Trauma auch Erinnerungslücken, eine erhöhte Schreckhaftigkeit, **Schlafstörungen** und Konzentrationsschwierigkeiten. Bleiben die Symptome über längere Zeit bestehen, entwickeln Betroffene eine **Posttraumatische Belastungsstörung**.
 
-#### Wodurch negative Glaubenssätze entstehen und wie sie uns beeinflussen
+Die wichtigsten Symptome sind:
 
-Du bist auf die Welt gekommen und hattest eine gesunde, ausgewogene und vor allem positive Beziehung zum Essen. Du hast gegessen als du hungrig warst und aufgehört, als du statt warst. Du hattest ein gesundes Gewicht und hast dich rund um wohl und sicher in deiner Haut gefühlt. Aber da Kinder nun einmal Schutz und Vertrauen benötigen nehmen wir uns manchmal Glaubenssätze und Vorstellungen an, die uns daran hindern ein gesundes, glückliches Leben zu führen. Drei häufige Gründe, warum wir diese unterbewussten Glaubenssätze und ungesunde Verhaltensmuster im Laufe unseres Lebens entwicklen, sind die Folgenden:
+* Wiedererleben der traumatischen Erfahrung durch Intrusionen, Flashbacks oder Alpträume
+* Übererregung, Nervosität, Schreckhaftigkeit
+* Schlaflosigkeit, Erinnerungslücken und Konzentrationsschwierigkeiten
+* Reizbarkeit, Ungeduld, schlechte Laune
+* Vermeidungsverhalten, emotionale Taubheit, Passivität, Rückzug
+* Misstrauen, Scham- und Schuldgefühle, vermindertes Selbstwertgefühl
+* Traurigkeit, Hoffnungslosigkeit, negatives Denken
 
-**(1) Gesellschaftliche Beeinflussung**
+Auch kann sie erst mit einer gewissen Verzögerung nach dem traumatischen Ereignis auftreten.
 
-Unsere Gesellschaft mit all dem Komfort und dem ständigen Zugang zu allem was wir haben wollen hat sich so schnell entwickelt, dass unser Körper und unser Verstand evolutionär gesehen noch auf einem viel früheren Entwicklungsstand sind. Eine gewisse Fitness war für den Menschen früher überlebenswichtig, um seine Beute zu jagen und widrige Bedingungen zu überstehen. Im Gegensatz dazu besteht unser Beutezug heutzutage höchstens noch aus dem Gang in den Supermarkt oder zum Kühlschrank. Zudem werden wir jeden Tag mit Marketing-Botschaften manipuliert, die uns suggerieren nach einem "Happy Meal" glücklicher zu sein oder nur mit "Celebrations" feiern zu können. Diese gesellschaftliche Beeinflussung passiert größtenteils unterbewusst und führt dazu, dass wir Nahrung zu uns nehmen, die uns erheblich schadet - und uns dabei noch einen gewissen Lifestyle oder positive Emotionen suggeriert.
+Später zeigen einige Betroffene anhaltende Angst und Schreckhaftigkeit. Immer wieder erleben sie die traumatischen Momente vor ihrem inneren Auge. Wie ein Film spielt sich das Trauma wiederholt ab, dazu treten erneut sehr intensive Angst- und Ohnmachtsgefühle auf. Das Wiedererleben kann durch Bilder, Geräusche, Gerüche oder Gedanken ausgelöst werden. Als Folge davon sind traumatisierte Menschen ständig angespannt und nervös, schlafen schlecht und können sich nicht entspannen. Sie vermeiden jegliche Situationen, die sie an das Trauma erinnern könnten. 
 
-**(2) Kindheitserfahrungen**
+ Etwa 15 bis 25 Prozent bleiben jedoch traumatisiert und entwickeln eine **Posttraumatische Belastungsstörung**.
 
-Erhebliche Einflussfaktoren auf unser Essverhalten und auf unsere Glaubenssätze rund um das Thema Essen liegen in unserer Kindheit. In der Prägephase zwischen 0 und 7 Jahren führen Erfahrungen dazu, dass wir Annahmen in unser Unterbewusstsein aufnehmen, die unsere Sichtweise auf Essen und auf unseren Körper prägen. Essen ist ein Akt der Regression, was bedeutet, dass wir allein durch das Essen wieder eine gewisse Emotion in uns fühlen können. Finden wir uns also nach einem stressigen Arbeitstag immer beim Bäcker wieder um das Stückchen Kuchen zu kaufen oder nach einem Streit mit unserem Partner mit einem Ben&Jerry´s Eis auf der Couch, dann liegt das daran, dass uns diese Nahrungsmittel ein Gefühl aus der Kindheit aufleben lassen mit dem wir uns entspannt, sicher oder geliebt fühlen. 
+Bei dieser Symptomkombination handelt es sich um eine posttraumatische Belastungsstörung (PTBS). Die posttraumatische Belastungsstörung (PTBS) ist eine **psychische Reaktion auf ein belastendes Ereignis**, eine außergewöhnliche Bedrohung oder Extremsituation. Traumatische Erlebnisse können neben PTBS auch andere psychische Krankheiten wie Depression, Angststörungen, Suchterkrankungen oder Veränderungen der Persönlichkeit hervorrufen. Die posttraumatische Belastungsstörung ist nur eine von verschiedenen möglichen Traumafolgestörungen. Durch ein Trauma können außerdem Depressionen, Persönlichkeitsstörungen, Angststörungen oder eine Suchterkrankung entstehen. 
 
-**(3) Soziale Prägungen**
+#### Was bei einer traumatischen Erfahrung mit unserem Verstand passiert
 
-Ein anderer Grund lässt sich in unseren sozialen Prägungen finden. Je nachdem mit welchen Menschen wir positive oder negative Erfahrungen machen, entscheiden wir unterbewusst wie wir sein wollen und auch was für uns erreichbar ist. Wenn zum Beispiel die sportliche Schwester immer als Vorbild suggeriert wurde und du damit eine negative Emotion verbindest, so versucht dein Unterbewusstsein dich weg von diesem Bild zu leiten, auch wenn du auf bewusster Ebene selbst gern sportlicher und aktiver wärst. Oder du befindest dich in einen sozialen Umfeld was einen ungesunden Lebensstil vorlebt und es fällt dir schwer eine andere Beziehung zum Essen aufzubauen, denn zuerst lernen wir was wir leben und dann leben wir was wir gelernt haben.
+Die Aufgabe unseres Verstandes ist es uns sicher zu halten, damit wir auf diesem Planeten überleben. Wenn wir eine Erfahrung im Außen machen, die traumatisch ist und die starke Emotionen wie Schmerz, Trauer, Schock oder Angst auslöst, dann passiert etwas in unserem Gehirn. Unser Verstand macht einen „Schnappschuss“ von dieser Erfahrung, um sicherzugehen, dass wir nie wieder einen solchen Moment erleben müssen. Ein Weg, wie er versucht das sicherzustellen ist, dass jedes Mal, wenn wir an dieses Trauma denken, **die gleiche Chemie im Gehirn und Körper** produziert wird, als ob es gerade in diesem Moment passieren würde. Nach einer traumatischen Erfahrung geht es manchen Menschen sogar so, dass sie diese Momente hundertemale am Tag wiedererleben.
 
-#### Warum Diäten und Co. nicht funktionieren
+Was bei diesen Flashbacks passiert ist, dass ihr Überlebensgen aktiviert wird. In diesem **Überlebensmodus**, in den unser Verstand schaltet, liegt sein Fokus darauf die Ursache dieser Erfahrung zu verhindern und beginnt zu prognostizieren was, wie, wo und durch wen so etwas ausgelöst werden könnte. Der Verstand beginnt Worst-Case-Szenarien in unserem Kopf auszumalen und die Gedanken kreisen sich darum, was ist, wenn dies oder das passiert. Mit jedem Mal werden die Szenarien vielschichtiger und die Emotionen der Vergangenheit - die Angst, die Wut oder der Schmerz - nehmen den Körper vollkommen ein bis zu einem Gefühl der Schockstarre.
 
-Wenn du diese Worte hier ließt, sind die Chancen hoch, dass du dir im Laufe deines Lebens negative Vorstellungen über das Thema Essen und deinen Körper angenommen hast. Wahrscheinlich hast du auch schon einige Diäten ausprobiert, nur um immer wieder frustrierst festzustellen, dass du nach einigen Wochen wieder bei deinen alten Gewohnheiten bzw. bei deinem alten Gewicht bist. Der Grund dafür ist, dass **unsere Gewohnheit des Handels durch unsere Gewohnheit des Denkens** bestimmt wird. Unser Verstand tut genau das, was wir sagen das er tun soll und worauf er unterbewusst programmiert ist.
+#### Die Konditionierung der Angst
+
+Je höher der emotionale Quotient, das heißt umso tiefer die erfahrene Angst, der Schmerz oder der Schock ist, desto tiefer wird dieser Schnappschuss in unserer Langzeiterinnerung gespeichert. Das führt dazu, dass das Gehirn und der Körper durch **Trigger im Außen** wieder in die Vergangenheit zurückversetzt werden. In dem Moment wirken die gleichen Gehirnwellen, wie zu dem Zeitpunkt, zu dem das Trauma passiert ist. In einem solch aktivierten Status des Überlebens beginnt der Verstand deine Umgebung abzuscannen, um Gefahren auszumachen und herauszufinden, was dich gerade bedrohen könnte. Dies ist kein bewusster Prozess, sondern er wird von deinem Unterbewusstsein ausgelöst – diese Konditionierung wird durch einen Reiz im Außen reaktiviert und verursacht automatisch eine autonome physiologische chemische Veränderung. Diese kann auf körperlicher Ebene Symptome wie Anspannung, Herzrasen, Zittern, Angstschweiß, Atemnot, Übelkeit und Ohnmachtsanfälle hervorrufen.
+
+### Wie Traumata deine unterbewussten Glaubenssätze verändern
+
+Auf Verstandesebene können traumatische Erlebnisse dazu führen, dass unterbewusste Glaubenssätze verändert werden. Nach Abraham Maslow gehört das Bedürfnis nach Sicherheit zu den menschlichen Grundbedürfnissen. Menschen streben nach einer sicheren Umgebung, um sich frei entfalten zu können und ihr Licht in die Welt zu tragen. Mit diesem Grundvertrauen in das Leben, in andere Menschen und in uns selbst werden wir geboren. Sind die Sicherheitsbedürfnisse eines Menschen befriedigt, dann entwickelt er unterbewusste Glaubenssätze, die ihn dabei unterstützen mit Vertrauen und Liebe in die Welt zu gehen:
+
+> Alles, was passiert, passiert für mich und nicht gegen mich.  
+> Ich bin sicher, ich bin geschützt, ich bin gewollt.  
+> Ich vertraue dem Leben, anderen Menschen und mir Selbst.
+
+Wenn dann Ereignisse im Außen passieren, die dazu führen, dass das Bedürfnis nach Sicherheit und Schutz nicht erfüllt werden kann, versucht der Verstand sicherzustellen, dass dies nie wieder passiert und speichert dieses Gefühl. Das natürliche Grundvertrauen in das Leben wird dann durch eine Grundangst ersetzt, um dich sicher zu halten. Nach einem Trauma können sich diese Glaubenssätze daher verändern. Die Überzeugung, dass die Welt sicher und geborgen ist, geht verloren. Wann immer etwas im Außen passiert, dass das erschütterte Sicherheitsbedürfnis angreift, werden die neu angenommenen Glaubenssätze verstärkt:
+
+> Die Welt ist ein feindseliger, unberechenbarer und chaotischer Ort.   
+> Es ist nicht sicher anderen Menschen, dem Leben und mir Selbst zu vertrauen.  
+> Ich muss immer wachsam sein.
+
+### Wie behandelt man ein Trauma?
+
+### Wann ist eine Traumatherapie sinnvoll?
+
+Eine Traumatherapie ist eine spezielle Therapie für Menschen, die aufgrund eines katastrophalen Erlebnisses in ihrem Leben stark beeinträchtigt sind, beziehungsweise darunter leiden. 
+
+### Was ist der Unterschied zwischen einer klassischen Traumatherapie und der Methode der Rapid Transformational Therapy?
+
+### Wie läuft eine Traumatherapie nach der Rapid Transformational Therapy-Methode ab?
+
+#### Wie du mit RTT nach einem Trauma dein Leben zurück bekommst
+
+Sind angstbasierte Glaubenssätze im Unterbewusstsein gespeichert so werden Trigger immer wieder dafür sorgen, die Emotionen des traumatischen Erlebnisses wieder aufleben zu lassen. Das führt dazu, dass nicht nur die Gefühle, die mit dem Erlebnis verknüpft sind, eingefroren sind. Auch du hörst auf dich ab diesem Zeitpunkt weiterzuentwickeln, weil dich diese Emotionen an die Vergangenheit fesseln. Wie durchbrichst du also dieses Teufelskreis und beginnst endlich wieder dein Leben frei von der Vergangenheit zu leben? Das was passiert ist kann nicht ungeschehen gemacht werden – und das großartige ist, das müssen wir auch gar nicht. Denn es geht nie um das Ereignis selbst, sondern um die Emotionen und Glaubenssätze, die in diesem Moment im Unterbewusstsein verankert wurden. Und die Rapid Transformational Therapy ist dein Zugang, um diese Verknüpfung aufzulösen.
+
+95 % unserer Gedanken, Gefühle und unseres Verhaltens werden vom Unterbewusstsein gesteuert. Bei dieser posttraumatischen Belastungsstörung hinterlassen tiefgreifende emotionale Erlebnisse einen Abdruck im Unterbewusstsein, was dazu führt, dass wir im Überlebensmodus verharren und unseren vollen Fokus auf das Abwehren von Gefahren liegt. Somit bleibt kein Raum, damit neue Informationen in das Nervensystem eindringen können, die uns wiederum eine neue, positive Lebenserfahrung und die Transformation unserer Glaubenssätze ermöglichen. Der gespeicherte Schnappschuss ist zudem oft nicht nur mit Angst, Wut und Schmerz verbunden, sondern auch mit Scham oder Schuldgefühlen, die es uns nicht erlauben mit unserem Leben weiterzumachen.
+
+Der erste Schritt der RTT-Behandlung ist also dem traumatischen Erlebnis die Macht zu nehmen, indem wir in Hypnose direkt mit deinem Unterbewusstsein arbeiten und die eingefrorenen Emotionen auflösen. Ist die Wurzel der traumatischen Erfahrung entfernt, so handelt es sich lediglich noch um eine Erinnerung an ein schlimmes Ereignis, dem aber jegliche Macht über dich genommen wurde. Deine Gehirnströme beginnen signifikante Änderungen vorzunehmen und erlauben es dir neue Glaubenssätze in dein Unterbewusstsein aufzunehmen, die dein Grundvertrauen in dich und das Leben wieder aktivieren. Mit deinem personalisiertem Transformations-Recording stellst du sicher, dass die neu gebildeten neuronalen Bahnen vertieft werden und dein neues, unterbewussten Programm bilden.
 
 Wenn du dich also zu dick oder zu dünn fühlst, du das Gefühl hast in Bezug auf bestimmte Lebensmittel die Kontrolle zu verlieren oder du immer wieder von Heißhunger-Attacken geplagt wirst, dann liegt das nicht daran, dass du zu schwach bist oder einfach nur immer noch nicht das richtige Diät-Programm gefunden hast. Der Grund dafür, dass die ganze Reihe von Diäten und Ernährungsprogrammen keine dauerhaften Ergebnisse bei dir erzielt haben ist, dass diese **Essgewohnheiten nicht von deinem Verstand, sondern von deinem Unterbewusstsein** gesteuert werden. Um völlige Freiheit von einer negativen Beziehung zu Nahrung und deinem Körper zu erlangen, müssen wir das verändern, was in unseren Gedanken ist, nicht was auf unseren Tellern liegt.
 
@@ -102,9 +145,9 @@ Wenn sich diese Situationen häufen, in denen man sich mit Nahrung trösten oder
 
 ##### Verabschiede dich für immer von Diäten und verändere deine Beziehung zum Essen - jetzt und für immer
 
-Hypnose unterscheidet sich grundlegend von einer Diät, da auf der Ebene des Unterbewusstseins mit den dort verwurzelten Gefühlen gearbeitet wird. Eine Diät ignoriert meist Gefühle und basiert auf Willenskraft, um bestimmte Einschränkungen bzw. Anordnungen durchzusetzen. Da eine Regel des Verstandes lautet, dass Emotionen immer gegen Logik gewinnt, können Diäten dauerhaft gar nicht funktionieren - denn **Gefühle sind immer stärker als unsere Willenskraft**. 
+Hypnose unterscheidet sich grundlegend von einer Diät, da auf der Ebene des Unterbewusstseins mit den dort verwurzelten Gefühlen gearbeitet wird. Eine Diät ignoriert meist Gefühle und basiert auf Willenskraft, um bestimmte Einschränkungen bzw. Anordnungen durchzusetzen. Da eine Regel des Verstandes lautet, dass Emotionen immer gegen Logik gewinnt, können Diäten dauerhaft gar nicht funktionieren - denn **Gefühle sind immer stärker als unsere Willenskraft**.
 
-Sobald Du deine unterbewussten Glaubenssätze transformierst, wirst du nicht nur das Essen in einem neuen Licht sehen, sondern auch deinen Körper bedingungslos lieben lernen und dein Selbstbewusstsein immense steigern. Du wurdest mit einer gesunden Beziehung zu Lebensmitteln und zu dir Selbst geboren und es ist jetzt an der Zeit diese wieder zu entdecken. 
+Sobald Du deine unterbewussten Glaubenssätze transformierst, wirst du nicht nur das Essen in einem neuen Licht sehen, sondern auch deinen Körper bedingungslos lieben lernen und dein Selbstbewusstsein immense steigern. Du wurdest mit einer gesunden Beziehung zu Lebensmitteln und zu dir Selbst geboren und es ist jetzt an der Zeit diese wieder zu entdecken.
 
 Alles, was du dafür brauchst, sind zwei Schritte:
 
@@ -114,9 +157,9 @@ Alles, was du dafür brauchst, sind zwei Schritte:
 
 ### Wie die Rapid Transformational Therapy™ dir dabei helfen kann
 
-Der Grund, die Funktion und die emotionalen Auslöser, die hinter deinen Essgewohnheiten liegen, sind tief in deinem Unterbewusstsein verwurzelt. Der Schlüssel, um langfristig dein Wunschgewicht zu erreichen, liegt darin herauszufinden, **was wirklich hinter den Essattacken und den ungesunden Essgewohnheiten steckt**. Nur das kann dir einen dauerhaften Frieden in deiner Beziehung zum Essen geben und dauerhaft zur Erreichung deines Traumgewichts führen. Erst wenn die tief vergrabenen Gefühle Raum bekommen um zu heilen, können auch emotionale Auslöser für negative Gewohnheiten eliminiert werden. 
+Der Grund, die Funktion und die emotionalen Auslöser, die hinter deinen Essgewohnheiten liegen, sind tief in deinem Unterbewusstsein verwurzelt. Der Schlüssel, um langfristig dein Wunschgewicht zu erreichen, liegt darin herauszufinden, **was wirklich hinter den Essattacken und den ungesunden Essgewohnheiten steckt**. Nur das kann dir einen dauerhaften Frieden in deiner Beziehung zum Essen geben und dauerhaft zur Erreichung deines Traumgewichts führen. Erst wenn die tief vergrabenen Gefühle Raum bekommen um zu heilen, können auch emotionale Auslöser für negative Gewohnheiten eliminiert werden.
 
-Bei der <a href="https://innerlight-hypnotherapy.com/rtt" target="_blank">Rapid Transformational Therapy™</a> (deutsch: Sofortige Transformierende Hypnotherapie) handelt es sich um ein sehr effizientes Instrument, um nicht nur die Rolle und die Funktion des ungesunden Essverhaltens zu identifizieren, sondern diese auch zu transformieren. Da die RTT™ Therapie direkt mit dem Unterbewusstsein arbeitet, können verborgene oder unbewusste Überzeugungen und Ursachen für Verhaltensweisen aufgedeckt und aufgelöst werden. 
+Bei der <a href="https://innerlight-hypnotherapy.com/rtt" target="_blank">Rapid Transformational Therapy™</a> (deutsch: Sofortige Transformierende Hypnotherapie) handelt es sich um ein sehr effizientes Instrument, um nicht nur die Rolle und die Funktion des ungesunden Essverhaltens zu identifizieren, sondern diese auch zu transformieren. Da die RTT™ Therapie direkt mit dem Unterbewusstsein arbeitet, können verborgene oder unbewusste Überzeugungen und Ursachen für Verhaltensweisen aufgedeckt und aufgelöst werden.
 
 Die RTT™ Therapie kann durch die Kombination der besten Prinzipien der Hypnotherapie, der kognitiven Verhaltenstherapie, der neurolinguistische Programmierung und der Psychotherapie, direkt zur **Ursache des Verhaltens** vordringen. Verständnis hat eine tiefgreifende transformierende Wirkung und den Grund für dein sabotierendes Verhalten in Hypnose zu verstehen hat eine absolut befreiende Wirkung - du bekommst deine Macht zurück zu entscheiden, welche Version du von dir Selbst sein möchtest und wie du dich verhalten willst. So kann RTT™ dich dabei unterstützen **mit Freude und Leichtigkeit** einen gesünderen Lebensstil zu entwickeln und eine Gleichgültigkeit gegenüber ungesunden Lebensmitteln etablieren.
 
@@ -147,5 +190,3 @@ Bist du bereit die Verantwortung zu übernehmen, dir selbst und deinem Körper d
 Dann vereinbare jetzt dein <a href="https://innerlight-hypnotherapy.com/book-call" target="_blank">unverbindliches, kostenloses Beratungsgespräch</a> mit mir und finde heraus wie die <a href="https://innerlight-hypnotherapy.com/rtt" target="_blank">Rapid Transformational Therapy™</a> auch dich dabei unterstützen kann dein Wunschgewicht einfach, dauerhaft und ohne Diät zu erreichen. Ich sehe das Licht in dir, scheine hell, wundervolle Seele!
 
 _Namasté ♥_
-
-![](../../uploads/brooke-lark-nbtmglfy0hu-unsplash.jpg)

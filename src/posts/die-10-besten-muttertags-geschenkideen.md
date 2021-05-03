@@ -1,12 +1,12 @@
 ---
 title: Die 10 besten Muttertags-Geschenkideen
 path: "/geschenkideen-zum-muttertag"
-featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
-date: 2021-12-31T00:00:00+01:00
+featuredImage: "../../uploads/5.png"
+date: 2021-05-02T00:00:00+02:00
 tags:
 - Geschenke
 - Spiritualität
-- Weihnachten
+- Muttertag
 blocks:
 - template: introduction
   images:
@@ -24,102 +24,61 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste
-  am Schenken ist für mich meinen Liebsten Danke zu sagen, für alles was sie sind
-  und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir
-  vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig,
-  sinnvoll und mit besonderer Bedeutung ist.
+abstract: Am 09. Mai ist Muttertag! Das Schönste am Schenken ist für mich meinen Liebsten
+  Danke zu sagen, für alles was sie sind und jeden Tag leisten. Du willst tiefsinnige,
+  bedeutsame Geschenke machen? Hier geht es zu meinen Top 10 Geschenkideen zum Muttertag
+  ♥
 
 ---
-### Geschenke vom Herzen für die Seele
+### Geschenke vom Herzen für deine Mama
 
-Am 09. Mai ist Muttertag! Ein wundervoller Anlass, um geliebten Menschen eine Freude machen. ist ein wundervolles Gefühl Das Schönste am Schenken ist für mich meinen Liebsten _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Bist du bereit tiefsinnige, bedeutsame Geschenke zu machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben sind?_** Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für Geburtstage und jeden anderen besonderen Anlass** zusammengestellt.
+**Am 09. Mai ist Muttertag!** Ein wundervoller Anlass, um geliebten Menschen eine Freude machen. Das Schönste am Schenken ist für mich meinen Liebsten _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Bist du bereit tiefsinnige, bedeutsame Geschenke zu machen, die deiner Mama dauerhaft ein Lächeln ins Gesicht zaubern?_** Ja? Fantastisch! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für den Muttertag** zusammengestellt.
 
 **Ein Hoch auf alle Mutterfiguren**
 
-Berücksichtige bei deinem Angebot alle Arten von Müttern, inklusive frischgebackene Mütter, Stiefmütter, Großmütter, Haustier- und Pflanzenmamas und all jene, die eine Extraportion Aufmerksamkeit verdient haben.
+Wir wollen an diesem Tag allen Arten von Müttern einmal DANKE sagen - inklusive der frischgebackenen Mamas, der Stiefmütter, der Großmütter, der Haustier- und Pflanzenmamas und all jene, die eine Extraportion Aufmerksamkeit verdient haben ♥ Deswegen habe ich hier wundervolle Geschenkideen zusammengestellt, über die sich garantiert auch Menschen freuen, die schon alles haben.
 
 #### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Dieses Jahr beginnen Käufer früher, nach Geschenken für wichtige Anlässe zu suchen. Plane daher bereits jetzt dein Inventar für den Muttertag (14. März im UK, 9. Mai in Deutschland und den USA und am 1. Sonntag im Mai in vielen anderen europäischen Ländern). Zu den wichtigsten Produktkategorien zählen Grußkarten, Halsketten und Wohndekor – gern mit der Option zur Personalisierung.
+Die letzten Monate haben uns und unsere familiären Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deiner Mama etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die von Herzen kommen auch auch **spirituell Interessierte**, **nachhaltig orientierte Mamas** sowie **Yoga-Fans** erstrahlen lassen werden.
 
-#### **1 Selbstfürsorge**
+Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
-Muttertagsgeschenke wie diese kommen nie aus der Mode, doch besonders 2021 suchen die Leute nach Möglichkeiten, ihren Müttern etwas Entspannung zu ermöglichen. Badesalz, Badebomben, Lotionen, Kerzen (besonders bei Käufern im UK sehr gefragt) und Wellnessartikel wie Yogamatten bieten sich hier an.
+![](../../uploads/5.png)
 
-#### **2 Miteinander**
+## Die 10 besten Geschenke Tipps zum Muttertag
 
-Konzentriere dich auf Geschenke, die Eltern und Kinder durch ein gemeinsames Erlebnis zusammenbringen. Dazu gehören zum Beispiel Geschenke rund ums Kochen, Kunstprojekte oder pädagogische Aktivitäten für jüngere Kinder.
-
-#### **3 Langlebigkeit**
-
-Käufer könnten sich auf die Suche nach hochwertigen Artikeln machen, die einmal als geliebte Erbstücke in ihre Familiengeschichte eingehen werden. Innovative Geschenkideen wie Küchenutensilien mit Gravur (Schneidbretter oder Servierteller mit einem Familienrezept) oder Truhen für Erinnerungsstücke sind nicht nur nützlich, sondern haben auch sentimentalen Wert.
-
-#### **4 DIY Geschenke**
-
-Biete Kindern eine Möglichkeit, etwas für (oder mit) ihrer Mama zu basteln. Shops, die für DIY-Projekte, Bastel-Kits und ähnliche Geschenke klare Anleitungen oder Video-Tutorials bereitstellen, werden sich von der Masse abheben.
-
-#### **5 Geschenke aus der Ferne**
-
-Manche Menschen trennen Hunderte Kilometer von ihren Liebsten – da sind extra persönliche Geschenke gefragt. Gut eigenen sich Halsketten mit den Initialen der/des Beschenkten sowie neuere Ideen wie die sogenannten „Pocket Hugs“ („Taschenumarmungen“).
-
-![](../../uploads/kira-auf-der-heide-ipx7j1n_xuc-unsplash.jpg)
-
-## Die 10 besten spirituellen Geschenke Tipps
-
-Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
-
-Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit Geburtstagsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben. 
 
 ***
 
-## **Tipp 1: Räucherwerk**
+## **Tipp 1: Selbstliebe verschenken**
 
-#### ↠ Räucherstäbchen-Set ↞
+#### ↠ Bio Badepralienen im Geschenkset ↞
 
-Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Spiritual Masala Räucherstäbchen_ zeichnen sich durch sehr hohe Qualität und besonders intensiven, lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
+Muttertagsgeschenke wie diese kommen nie aus der Mode, doch besonders dieses Jahr verdienen es unsere Mütter sich zu entspannen! Mit diesem wundervollen Geschenkset in höchster Qualität verschenkst du eine Reise für die Sinne.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, tolle Mischung von wundervollen Düften für Meditation, Yoga oder einfach zur Entspannung_
+> _Bio Qualität, vergane Geschenk-Idee, hochwertige Geschenkbox mit Satinschleife_
 
-**Einzigartige Masala Räucherstäbchen im Set gibt es** [hier](https://amzn.to/2Kb0HHz "Luxflair Räucherstäbchen")***.**
+**Hier geht es direkt zu den** <a href="https://amzn.to/2QP4TAs" target="_blank">**Bio Badepralinen Set in der Geschenkbox**</a>*.
+
+<a href="https://www.amazon.de/Badepralinen-Geschenkset-Weihnachtsgeschenk-hochwertiger-Geschenk-Idee/dp/B01BPEA9PA?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3PRAKVFHAENE6&dchild=1&keywords=muttertag+badeset&qid=1620051110&sprefix=muttertag+bade%2Caps%2C193&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUSkxGNjJZUVZVR0omZW5jcnlwdGVkSWQ9QTA3MzQ4MzMxRTRPNE0wTVA3QkRMJmVuY3J5cHRlZEFkSWQ9QTA0NTYwODQxUDRBUkg2MlBFVFpOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=li2&tag=innerlight06-21&linkId=2101ee5a16c5a311cfc1e7a204f5287a&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BPEA9PA&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B01BPEA9PA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
-#### ↠ Räucherstäbchen-Halterung ↞
+#### ↠ Duftkerzen Aromatherapie ↞
 
-Als passendes Geschenk dazu eignet sich diese wunderschöne Räucherstäbchen-Halterung in Form einer Lotusblüte- aus Keramik gefertigt, edel und handgemacht. Diese Halterung eignet sich für Räucherstäbchen und Räucher-Kegel, was es zum absoluten Must-Have für jedes spirituelle Zuhause macht.
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Eyecatcher durch wunderschönes Design, geeignet für Räucherstäbchen und Räucher-Kegel, sehr geschmackvoll und hochwertige Optik_
-
-**Wunderschöne Räucherstäbchen Halterung gibt es** [hier](https://amzn.to/390lqql "Räucherstäbchen-Halterung")***.**
-
-***
-
-#### ↠ Räucherbündel zur Energetischen Reinigung ↞
-
-Dieses fantastische Räucher-Set besteht aus weißem Salbei, Wacholder, Blüten-Salbei, Palo Santo und Yerba Santa. Die Räucherung mit diesen ausgewählten Kräutern befreit Körper, Geist und Seele, aber auch Räume, Gegenstände und Kristalle von negativen Energien und bringt Segen über dich und dein Zuhause.
+Als passendes Geschenk dazu eignet sich dieses wunderschöne Kerzenset mit verschiedenen Düften für perfekte Entspannung. Das Kerzen-Geschenkset wird in einer tollen Box geliefert, sodass du das Geschenk auch direkt zu deiner Mama nach Hause schicken lassen kannst.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _Alle Inhaltsstoffe sind 100%ig biologisch & ethisch korrekt von Hand geerntet, tolle Zusammenstellung aus hochwertigen Räucherbündeln, mit Liebe und per Hand gebunden, perfektes schamanische Geschenke-Idee zur energetischen Reinigung_
+> _Aromatherapie Duftkerzenset mit sechs verschiedenen Düften,_ hergestellt aus Sojawachs und bleifreiem Baumwollkern, lange Brenndauer und wunderschönes Design
 
-**Qualitativ hochwertiges Räucherbündel-Set von _MAMA WUNDERBAR_ gibt es** [hier](https://amzn.to/3mp5TF8 "Räucherbündel-Set von MAMA WUNDERBAR")* **oder von JIRI&FRIENDS gibt es** [hier](https://amzn.to/2LkwbeU "Räucherset")* **ein großartiges Räucherset.**
+**Hier geht es direkt zum** <a href="https://amzn.to/3xHAgxj" target="_blank">**Duftkerzen-Geschenkset**</a>*.
 
-***
-
-#### ↠ Handbuch zur Räucher-Anwendung ↞
-
-Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die Natur bietet uns ein facettenreiches Paradies von verschiedensten Kräutern, Hölzern und Harzen, die sie mit den unterschiedlichsten Wirkungen ausgestattet hat. Räuchern bringt sie zum Vorschein und kann uns Menschen in vielfältigen Situationen behilflich sein. Mit diesem Buch erfährst du wie!
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Die anerkannte Expertin Susanne Berk führt in die Welt des Räucherns ein: 54 Räucherstoffe werden genau beschrieben, etliche Rituale vorgeschlagen und traditionelle Anwendungen erklärt; für Räucheranfänger geeignet_
-
-**Das Handbuch 'Einfach Räuchern: Anwendung, Wirkung und Rituale' gibt es** [hier](https://amzn.to/3gMxMpD "Einfach Räuchern-Handbuch")***.**
+<a href="https://www.amazon.de/Geschenkset-Aromatherapie-Geometrische-Weihnachten-Valentinstag/dp/B08XHVS96N?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=muttertag%2Bkerzen&qid=1620051501&refinements=p_76%3A419122031&rnid=419121031&rps=1&sr=8-8&th=1&linkCode=li2&tag=innerlight06-21&linkId=ca37038fdbe78071a201953b28201777&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08XHVS96N&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08XHVS96N" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -127,65 +86,15 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 
 #### ↠ Blume des Lebens-Windspiel ↞
 
-Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
+Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deiner Mama jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > _Wunderschönes 3D-Windspiel aus Edelstahl für drinnen und draußen, zieht magisch jeden Betrachter in seinen Bann, verzaubert und bringt ihn zu seiner inneren Mitte zurück_
 
-**Das wunderschöne Blume des Lebens-Windspiel aus Edelstahl gibt es** [hier](https://amzn.to/3akwsZA "Blume des Lebens-Windspiel")***.**
+**Hier geht es direkt zum wunderschönen** <a href="https://amzn.to/3akwsZA" target="_blank">**Blume des Lebens-Windspiel**</a>*.
 
-***
-
-#### ↠ Mandala Wandteppich ↞
-
-Mandala-Tücher sind nicht nur wunderschön, sondern auch vielseitig! Verschenke mit diesem wunderschönen Tuch ein Hauch Indien für zu Hause. Ob zur Dekoration als Wandteppich, als Tischdecke, als Tagesdecke oder Yogamatten-Handtuch - damit machst du spirituellen Menschen auf jeden Fall eine große Freude!
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _100 % Baumwolle, handgefertigt in Indien mit traditionellen Methoden, wunderschönes Design, vielseitig einsetzbar_
-
-**Traditionelle Mandala Wandteppiche in weiß-gold gibt es** [hier](https://amzn.to/3gG0BUI "Mandala Tuch weiß-gold")***.**
-
-***
-
-## **Tipp 3: Energie-Wasser**
-
-#### ↠ Vital-Karaffe für energetisiertes Wasser ↞
-
-Diese Karaffe im formvollendetes Feng Shui Design mit 6-welliger Dynamik nach dem Naturgesetz des Goldenen Schnitts ist nicht nur ein wahrer Hingucker und ein wunderschönes Geschenk für jeden Tag. Das darin befindliche Wasser (auch geeignet für Säfte und Rotwein) wird in seiner Lebenskraft gestärkt und im Geschmack blumiger. Am Boden der Karaffe ist das Symbol der BLUME DES LEBENS in das Glas eingebrannt, welches für erleuchtete Seele steht und Schöpferkraft.
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Herstellung erfolgt nach traditioneller Handwerkskunst ohne Schwermetallanteil im Glasrohstoff; energetisiertes, weiches, wohlschmeckendes Wasser; wunderschönes Geschenk für den alltäglichen Gebrauch_
-
-**Die wunderschöne Vital-Karaffe von Natures-Design gibt es** [hier](https://amzn.to/3868e2D "Vital-Karaffe von Natures-Design")***.**
-
-***
-
-#### ↠ Edelstein-Set für energetisiertes Wasser ↞
-
-Perfekt passend zur _Vital-Wasserkaraffe_ ist dieses Heilstein-Set mit den beliebtestes Natursteinen. Die Steine entfalten im Wasser ihre heilsamen Eigenschaften, wodurch eine energetisch lebendige Signatur entsteht, ähnlich wie bei frischem Bergquellwasser.
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Höchste Wirkung durch Verwendung der besten Rohsteine, keine chemischen Rückstände, beliebig oft wieder verwendbar, kein Eigengeschmack, Verpackung in Jutesäckchen_
-
-**Das Edelstein-Set zur Wasseraufbereitung in Premium-Qualität gibt es** [hier](https://amzn.to/3oTHysN "Edelstein-Set")***.**
-
-***
-
-## **Tipp 4: Klang**
-
-#### ↠ Klangschale aus Nepal ↞
-
-Diese wunderschöne Klangschale wurde in den Himalaya-Vorbergen von nepalesischen Kunsthandwerkern in Handarbeit hergestellt und ich ein Must-Have für jedes spirituelle Zuhause. Diese Klangschale ist einzigartig einen heilsamen Klang, welcher Yoga, Meditation, Gebete, Chakra-Heilung und die Geisteshaltung fördert. Der Klang und die Schwingungen fördern einen entspannten Zustand, der sich perfekt für tiefe Meditation, kreatives Denken und intuitive Botschaften eignet.
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Klangschale aus Nepal in edler Geschenkbox, Fairtrade und von Hand gegossen, inklusive farblich passendem Halterungs-Ring und Lederklöppel_
-
-**Die original Klangschale aus Nepal gibt es** [hier](https://amzn.to/3ndSUGJ "Tibetische Klangschale")***.**
+<a href="<a href="https://www.amazon.de/Kristallen-Wohn-Dekoration-Lebensblume-Spirituelles-Esoterik/dp/B079Y5XLZH?th=1&linkCode=li2&tag=innerlight06-21&linkId=1038effcfe5bce730c8cbd4e7684a08e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079Y5XLZH&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B079Y5XLZH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />" target="_blank"> </a>
 
 ***
 
@@ -197,7 +106,41 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 >
 > _Optisch wunderschönes & tief heilsames Klangspiel für drinnen und draußen, von Meisterklingel-Handwerkern der Firma Woodstock gefertigt, in Woodstock Chimes-Box geliefert - perfekt zum Verschenken_
 
-**Das original WOODSTOCK Klangspiel gibt es** [hier](https://amzn.to/2Ker0ww "WOODSTOCK Klangspiel")***.**
+**Hier geht es direkt zum original** <a href="https://amzn.to/3gVc9VZ" target="_blank">**WOODSTOCK Klangspiel**</a>*.
+
+<a href="https://www.amazon.de/Woodstock-Windspiel-Bells-Paradise-Silber/dp/B008ES4DMG?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1VIMFCA1TJ1B&dchild=1&keywords=woodstock+chimes&qid=1620054248&refinements=p_76%3A183888031&rnid=183868031&rps=1&s=garden&sprefix=woodsto%2Coutdoor%2C192&sr=1-3&linkCode=li2&tag=innerlight06-21&linkId=3d994379c5bbb68fd076d27ac5edc61d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008ES4DMG&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B008ES4DMG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+***
+
+## **Tipp 3: Schmuck**
+
+#### ↠ Doppelherz-Kette ↞
+
+Mit dieser Mutter-Tochter-Halskette tragt ihr jeden Tag eure einzigartige und tiefe Verbindung ganz nah bei eurem Herzen. Die Anhänger passen ineinander und sind aus hochwertigen Silber hergestellt. Absoluter Hingucker und ein großartiges Geschenk für euch beide!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> 100% echtes 925 Sterling Silber, entworfen und hergestellt von EUDORA, wunderschöne symbolische Bedeutung
+
+**Hier geht es direkt zur wunderschönen** <a href="https://amzn.to/3ecdaao" target="_blank">**Mutter-Tochter-Halskette**</a>*.
+
+<a href="https://www.amazon.de/EUDORA-Tochter-Sterling-Halsketten-geburtstagsgeschenk/dp/B07RRMY4Z6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=muttertag%2Bschmuck&qid=1620055063&sr=8-45&th=1&linkCode=li2&tag=innerlight06-21&linkId=7a84ff2e8ff0d3ae85fb9df2479535ac&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07RRMY4Z6&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07RRMY4Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+***
+
+## **Tipp 4: DIY**
+
+#### ↠ DIY Holzschild ↞
+
+Eine wunderschöne Möglichkeit deine Liebe zu deiner Mama zu verewigen. Mit diesem DIY Holzschild kannst du in 100 verschiedenen Designs deiner Mama zeigen, wie lieb zu sie hast und dich dabei auch noch kreativ verwirklichen. Mit nur 1-2 Stunden Bastelzeit kannst du das hochwertige Fichtenholz in das perfekte Geschenk zum Muttertag verwandeln!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> _hochwertige Geschenkverpackung, ideal für Anfänger geeignet, etwas Selbstgemachtes, grenzenlose Kreativität, individuell und personalisierbar_
+
+**Hier gehts direkt zum** <a href="https://amzn.to/3nI4vzG" target="_blank">**DIY Holztafel-Geschenk**</a>*.
+
+<a href="https://www.amazon.de/String-BASTELN-Geburtstagsgeschenk-Geschenkbox-Geschenk/dp/B0755DYQLV?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=muttertag%2Bbasteln&qid=1620052422&sr=8-25&th=1&linkCode=li2&tag=innerlight06-21&linkId=0fc1944894e3a1f12f143d526fffe28e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0755DYQLV&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B0755DYQLV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -215,15 +158,19 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 
 ***
 
-#### ↠ Naturkork-Blöcke ↞
+#### ↠ Yoga Matte ↞
 
-Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premium Yoga-Set aus Naturkork! Auch für Workouts und Trainingseinheit sämtlicher Art eignen sich diese Blöcke ausgezeichnet. Zum 2er Set gibt es auch noch einen praktischen Jutebeutel dazu.
+Für alle Yoga-Anfänger und Sport-Liebhaber das perfekte Geschenk - eine wundervolle Yoga-Matte! Diese ist aus umweltfreundlichem Material, dick genug, um die Gelenke zu schützen und trotzdem leicht zu transportieren. In verschiedenen Farben und Designs erhältlich!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _aus 100% Naturkork und umweltfreundlich produziert; robustes, rutschfestes und formstabiles Design; im Innen- & Außenbereich nutzbar; universal zur Unterstützung von Trainingseinheiten anwendbar_
+> _aus umweltfreundlichem Material, rutschfest, wunderschöne Farben und Designs, geeignet für Yoga, Pilates und Fitness-Übungen_
 
-**Die Yoga-Blöcke aus Naturkork im 2er-Set gibt es** [hier](https://amzn.to/2Kgq4Yu "Yoga-Blöcke")***.**
+**Hier geht es direkt zur perfekten .**
+
+<a href="https://amzn.to/3texbBB" target="_blank">**Yoga-Matte**</a>*.
+
+<a href="https://www.amazon.de/TOPLUS-hochwertigen-Gynastikmatte-%C3%9Cbungsmatte-usw-Hellblau/dp/B07WVVK1GX?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=yogamatte&qid=1620055701&refinements=p_76%3A183890031%2Cp_72%3A184747031&rnid=22579884031&rps=1&s=sports&sr=1-6&linkCode=li2&tag=innerlight06-21&linkId=5822d6f0d1dd26ab25dd2621690d1c4c&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WVVK1GX&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07WVVK1GX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -231,51 +178,31 @@ Für alle Yoga-Anfänger und erfahrenen Yogis das perfekte Geschenk - ein Premiu
 
 #### ↠ Das 6-Minuten-Tagebuch ↞
 
-Mein täglicher Begleiter und eines meiner Lieblingsgeschenke für Freunde und Familie - dieses Tagebuch ist ein simples und wissenschaftlich fundiertes Journal für ein glücklicheres, erfüllteres Leben. Das wunderschöne Design in Kombination mit den praxiserprobten Prinzipien der positiven Psychologie macht es zur pure Freude jeden Tag mehr Fokus auf das Gute zu legen und seine Selbstreflektion zu verbessern. Verschenke mehr Dankbarkeit, Achtsamkeit, Gelassenheit und Selbstliebe!
+Mein täglicher Begleiter und eines der Lieblingsgeschenke meiner Mama - dieses Tagebuch ist ein simples und wissenschaftlich fundiertes Journal für ein glücklicheres, erfüllteres Leben. Das wunderschöne Design in Kombination mit den praxiserprobten Prinzipien der positiven Psychologie macht es zur pure Freude jeden Tag mehr Fokus auf das Gute zu legen und seine Selbstreflektion zu verbessern. Verschenke mehr Dankbarkeit, Achtsamkeit, Gelassenheit und Selbstliebe!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
 > _Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen_
 
-**Das original 6-Minuten-Tagebuch mit Bonus-EBook gibt es** [hier](https://amzn.to/376DjE5 "6-Minuten-Tagebuch")***.**
+**Hier geht es direkt zum** <a href="https://amzn.to/3gXqMbr" target="_blank">**6-Minuten-Tagebuch__</a>* **mit Bonus-EBook.**
+
+<a href="https://www.amazon.de/6-Minuten-Tagebuch-Nachfolgeversion-Erfolgs-Journal-Dankbarkeits-Journal-Gelassenheit/dp/B07WFQCDZ3?dchild=1&keywords=6%2Bminuten%2Btagebuch&qid=1620056135&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSFczR1g0RTYzUFZEJmVuY3J5cHRlZElkPUEwODQ1NDUwMVRSMVpTUUFZNlczNyZlbmNyeXB0ZWRBZElkPUEwNzc5NDI5M0xLNjVKRU5WSUxURSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=li2&tag=innerlight06-21&linkId=e1d4e81cd357104975aed92cb2bf1ac3&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WFQCDZ3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07WFQCDZ3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
-#### ↠ Tagebuch & Notizbuch ↞
+## **Tipp 7: Verbundenheit** 
 
-Das perfekte Geschenk für spirituelle, reflektierte und tiefsinnige Menschen - dieses wundervoll designte Notizbuch bietet den optimalen Platz um Kreativität zu wecken, Selbstentfaltung zu fördern und besondere Momente zu zelebrieren. Auch wunderbar als Tagebuch geeignet. Den perfekten Kugelschreiber kannst du direkt dazu verschenken!
+#### ↠ Vertellis Familien-Edition ↞
 
-> **_Was macht dieses Geschenk besonders?_**
->
-> _wunderschönes Design, hohe Papierqualität, mit Erinnerungsbox und mit Lesebändchen, Verschluss mit seitlicher Schnalle möglich_
-
-**Das wunderschöne Paperblanks-Tagebuch in maya-blau gibt es** [hier](https://amzn.to/2W9ThH6 "Paperblanks-Tagebuch")***.**
-
-***
-
-## **Tipp 7: DIY spirituelle Geschenke**
-
-#### ↠ Makramee DIY Set ↞
-
-Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenkst - hier könnt ihr eurer Fantasie freien Lauf lassen und wunderschöne Makramee-Meisterwerke wie Pflanzenaufhänger, Wandbehänge, Traumfänger, Wandteppiche oder vieles mehr kreieren. Dieses Set eignet sich perfekt für jegliche Bastelvorhaben und mit dem großen Makramee-Buch dazu gibt es auch noch alle wichtigen Grundlagen, Anleitungen & Knotentechniken - ein perfektes Geschenk-Set für Kreative und alle die es werden wollen :)
+Unsere schnelllebige, digitale Gesellschaft kann eine Herausforderung für das Familienleben darstellen. WhatsApp, Snapchat, Gaming oder die Lieblingsserie sorgen für weniger Zeit für die Familie. Mit diesem Kartenspiel von Vertellis in der Familien-Edition ermöglichst du tief gehende Gespräche und stärkst den Zusammenhalt! Dieses Fragekartenspiel sorgt für unerwartete und bereichernde Gespräche im Kreis deiner Liebsten.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _weiches, leicht zu verarbeitendes Naturbaumwollseil mit verschiedenem Deko-Zubehör, sehr ergiebig & perfekte Seil-Dicke, kreative Entfaltung beim kreieren eigener Makramee-Kunstwerke_
+> _Das wertvollste was wir haben ist Zeit zusammen - mit diesem Kartenspiel schenkst du Aufmerksamkeit, Verbundenheit und tief gehende Gespräche, die deine Mama unendlich glücklich machen werden!_
 
-**Das Do-It-Yourself Makramee-Set gibt es** [hier](https://amzn.to/2K3YA8E "DIY Makramee-Set")***.**
+**Das Vertellis Kartenspiel in der Familien-Edition gibt es** <a href="https://amzn.to/2SezoA2" target="_blank">hier</a>*.
 
-***
-
-#### ↠ DIY Starterpaket für´s Räuchern ↞
-
-Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste verschenkst du kreative Momente, um die persönlichen Räuchermischungen herzustellen. In diesem Set ist alles was man braucht dabei - ein perfektes Geschenk für alle Räucher-Anfänger und Kreative!
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _13-teiliges Starterset, zum sofortigen Start mit dem Räuchern, verschiedene Räucherkräuter zum kreativ werden und ausprobieren_
-
-**Das Starterpaket mit verschiedenen Räuchermischungen gibt es** [hier](https://amzn.to/2JWlMG5 "Starterset Räuchermischungen")***.**
+<a href="https://www.amazon.de/Vertellis-Gesellschaftsspiel-mit-Fragen-Familie/dp/B07B8XYZ5H?_encoding=UTF8&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=vertellis&psc=1&qid=1620050066&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRTRFN05HTjVCVkNMJmVuY3J5cHRlZElkPUEwNTIzMTE5MjdXNkNNOUMwME5LQiZlbmNyeXB0ZWRBZElkPUEwMTQwNDEyM0ZTQkowV1NWSFlBTiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&sr=8-1-spons&linkCode=li2&tag=innerlight06-21&linkId=4ac1408785007202822b889e61efc4de&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B8XYZ5H&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07B8XYZ5H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -321,45 +248,63 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 
 #### ↠ Ayurvedisches Superfood ↞
 
-Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Pulver einfach ins Müsli, Joghurt oder Smoothie mischen und die Superfood-Zutaten ihre Superkräfte entfalten lassen.
+Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Produkte, die ökologisch nachhaltig sind und nicht nur etwas unheimlich gutes für den Körper tun, sondern auf für unseren Planeten, findest du bei Regenbogenkreis.de! 
+
+<!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
+
+<a href="https://www.awin1.com/cread.php?s=2610419&v=16306&q=379574&r=845791">
+
+    <img src="https://www.awin1.com/cshow.php?s=2610419&v=16306&q=379574&r=845791" border="0">
+
+</a>
+
+<!-- END ADVERTISER: Regenbogenkreis DE from awin.com -->!
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _Smoothie-Pulver in verschiedenen Geschmacksrichtungen mit hochwertigen Wurzeln & Beeren aus nachhaltigem Anbau, gesund und vitalisierend, einfach und schnell zubereitet_
+> _Das Regenbogenkreis Projekt macht einen wirklichen Unterschied in der Welt und trägt zu deiner Heilung und der unserer Erde bei. Mit deiner Bestellung bekommst du nicht nur beste Premiumqualität und hochwertigste Bio-Produkte, sondern schützt auch Regenwald in Ecuador!_
 
-**Das Superfood in der Geschmacksrichtung ROTE KRAFT gibt es** [hier](https://amzn.to/2XeyDGo "Smoothie Pulver ROTE KRAFT")* **und als GRÜNE MUTTER gibt es** [hier](https://amzn.to/35bHfC1 "Smoothie-Pulver GRÜNE MUTTER")*.
+<!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
+
+<a href="https://www.awin1.com/cread.php?s=2569102&v=16306&q=381926&r=845791">
+
+    <img src="https://www.awin1.com/cshow.php?s=2569102&v=16306&q=381926&r=845791" border="0">
+
+</a>
+
+<!-- END ADVERTISER: Regenbogenkreis DE from awin.com -->
 
 ***
 
 ## **Tipp 10: Spende schenken**
 
-#### ↠ Treedom ↞
+#### ↠ UNICEF Spende ↞
 
-Bei Treedom kannst du Bäume aus der Ferne pflanzen. Ein so originelles Geschenk haben deine Liebsten bestimmt noch nicht oft bekommen - wie wäre es zum Beispiel mit einem Mango-Baum als besonderes Weihnachtsgeschenk für Mama, der für Glück steht und 700 kg CO2 ausgleicht? Und für die Bestellung brauchst du nur eine Minute - Let´s green the planet!
-
-> **_Was macht dieses Geschenk besonders?_**
->
-> _Last-Minute Geschenkidee nachhaltig, außergewöhnlich UND du tust etwas Gutes für die Natur, für ländliche Gemeinden und für die Umwelt - mit diesem Geschenk machst du einen Unterschied!_
-
-**Zur Spende bei Treedom geht es direkt** [hier](https://www.treedom.net/de/ "Treedom Spende")***.**
-
-***
-
-#### ↠ Oxam Unverpackt ↞
-
-Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen auf der ganzen Welt spenden, die in Armut leben, auf der Flucht sind oder von der weltweiten Pandemie hart getroffen sind. Gib denjenigen die nichts besitzen eine neue Perspektive. Wie wäre es mit einer
+Jede Mutter hat einen Wunsch: dass ihr Kind gesund und glücklich ist. Mit Hilfsgütern von UNICEF trägst du dazu bei, dass dieser Wunsch auch für Mütter (und Väter!) in Not wahr wird. Direkt im Anschluss an deine Spende erhälst du eine Urkunde, die du personalisieren und verschenken kannst. Unterdessen schickt UNICEF die Hilfsgüter auf den Weg zu Familien, die in Kriegs- und Krisengebieten, auf der Flucht oder in Armut leben und dringend auf die Unterstützung warten.
 
 > **_Was macht dieses Geschenk besonders?_**
 >
-> _Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; Geschenke sind als Spende steuerlich abzugsfähig_
+> _Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; personaliserbare Urkunde zum Verschenken_
 
-**Zur Spende bei Oxam Unverpackt geht es direkt** [hier](https://unverpackt.oxfam.de/weihnachten-ein-st%C3%BCck-vom-gl%C3%BCck "Oxam Unverpackt Spende")***.**
+**Hier geht es zur Spende für** <a href="https://www.unicef.de/muttertag" target="_blank">UNICEF</a>.
 
 ***
 
-#### **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
+#### ↠ Verschenke einen Baum zum Muttertag ↞
 
-![](../../uploads/freestocks-pxm8aejbzvk-unsplash.jpg)
+Mama am Muttertag stolz machen: Mit einem Treedom Baum! Dass dir der Planet am Herzen liegt, kannst du jetzt sogar am Muttertag zeigen: Mit einem Geschenk, das Leben verändert und unserem Planeten gut tut: ein Baum.
+
+Auch aus der Entfernung eine große Freude machen ist oft nicht einfach, doch mit Treedom ist das möglich. Ein Baum zum Muttertag tut nicht nur dem Planeten gut, sondern vermittelt außerdem eine emotionale Botschaft. “Danke Mama, und danke Mutternatur”!
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> _Last-Minute Geschenkidee, außergewöhnlich UND du tust etwas Gutes für die Natur, mit einer persönlichen Widmung direkt per ausdruckbarer Geschenkkarte, E-Mail, Facebook oder auch gleich per WhatsApp_
+
+**Hier holst du dir deinen Baum bei** <a href="https://www.treedom.net/de/plant-a-tree?utm_source=media&utm_medium=website&utm_campaign=all_dach_de_conversion_trees_pr_md21_utopia_de" target="_blank">**TREEDOM**</a>.
+
+***
+
+#### **Ich freue mich, dass du deiner Mama eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
 
 ***
 

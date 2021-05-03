@@ -1,6 +1,6 @@
 ---
 title: Hypnose in der Traumatherapie - Wie RTT Trauma für immer heilen kann
-path: "/hypnose-zur-gewichtsreduktion"
+path: "/traumatherapie-durch-hypnose"
 featuredImage: ''
 date: 2021-05-09T00:00:00+02:00
 tags:

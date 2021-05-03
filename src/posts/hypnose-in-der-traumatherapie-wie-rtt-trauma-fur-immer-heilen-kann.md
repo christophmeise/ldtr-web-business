@@ -52,11 +52,11 @@ Die wichtigsten Symptome sind:
 
 Auch kann sie erst mit einer gewissen Verzögerung nach dem traumatischen Ereignis auftreten.
 
-Später zeigen einige Betroffene anhaltende Angst und Schreckhaftigkeit. Immer wieder erleben sie die traumatischen Momente vor ihrem inneren Auge. Wie ein Film spielt sich das Trauma wiederholt ab, dazu treten erneut sehr intensive Angst- und Ohnmachtsgefühle auf. Das Wiedererleben kann durch Bilder, Geräusche, Gerüche oder Gedanken ausgelöst werden. Als Folge davon sind traumatisierte Menschen ständig angespannt und nervös, schlafen schlecht und können sich nicht entspannen. Sie vermeiden jegliche Situationen, die sie an das Trauma erinnern könnten. 
+Später zeigen einige Betroffene anhaltende Angst und Schreckhaftigkeit. Immer wieder erleben sie die traumatischen Momente vor ihrem inneren Auge. Wie ein Film spielt sich das Trauma wiederholt ab, dazu treten erneut sehr intensive Angst- und Ohnmachtsgefühle auf. Das Wiedererleben kann durch Bilder, Geräusche, Gerüche oder Gedanken ausgelöst werden. Als Folge davon sind traumatisierte Menschen ständig angespannt und nervös, schlafen schlecht und können sich nicht entspannen. Sie vermeiden jegliche Situationen, die sie an das Trauma erinnern könnten.
 
- Etwa 15 bis 25 Prozent bleiben jedoch traumatisiert und entwickeln eine **Posttraumatische Belastungsstörung**.
+Etwa 15 bis 25 Prozent bleiben jedoch traumatisiert und entwickeln eine **Posttraumatische Belastungsstörung**.
 
-Bei dieser Symptomkombination handelt es sich um eine posttraumatische Belastungsstörung (PTBS). Die posttraumatische Belastungsstörung (PTBS) ist eine **psychische Reaktion auf ein belastendes Ereignis**, eine außergewöhnliche Bedrohung oder Extremsituation. Traumatische Erlebnisse können neben PTBS auch andere psychische Krankheiten wie Depression, Angststörungen, Suchterkrankungen oder Veränderungen der Persönlichkeit hervorrufen. Die posttraumatische Belastungsstörung ist nur eine von verschiedenen möglichen Traumafolgestörungen. Durch ein Trauma können außerdem Depressionen, Persönlichkeitsstörungen, Angststörungen oder eine Suchterkrankung entstehen. 
+Bei dieser Symptomkombination handelt es sich um eine posttraumatische Belastungsstörung (PTBS). Die posttraumatische Belastungsstörung (PTBS) ist eine **psychische Reaktion auf ein belastendes Ereignis**, eine außergewöhnliche Bedrohung oder Extremsituation. Traumatische Erlebnisse können neben PTBS auch andere psychische Krankheiten wie Depression, Angststörungen, Suchterkrankungen oder Veränderungen der Persönlichkeit hervorrufen. Die posttraumatische Belastungsstörung ist nur eine von verschiedenen möglichen Traumafolgestörungen. Durch ein Trauma können außerdem Depressionen, Persönlichkeitsstörungen, Angststörungen oder eine Suchterkrankung entstehen.
 
 #### Was bei einer traumatischen Erfahrung mit unserem Verstand passiert
 
@@ -78,7 +78,7 @@ Auf Verstandesebene können traumatische Erlebnisse dazu führen, dass unterbewu
 
 Wenn dann Ereignisse im Außen passieren, die dazu führen, dass das Bedürfnis nach Sicherheit und Schutz nicht erfüllt werden kann, versucht der Verstand sicherzustellen, dass dies nie wieder passiert und speichert dieses Gefühl. Das natürliche Grundvertrauen in das Leben wird dann durch eine Grundangst ersetzt, um dich sicher zu halten. Nach einem Trauma können sich diese Glaubenssätze daher verändern. Die Überzeugung, dass die Welt sicher und geborgen ist, geht verloren. Wann immer etwas im Außen passiert, dass das erschütterte Sicherheitsbedürfnis angreift, werden die neu angenommenen Glaubenssätze verstärkt:
 
-> Die Welt ist ein feindseliger, unberechenbarer und chaotischer Ort.   
+> Die Welt ist ein feindseliger, unberechenbarer und chaotischer Ort.  
 > Es ist nicht sicher anderen Menschen, dem Leben und mir Selbst zu vertrauen.  
 > Ich muss immer wachsam sein.
 
@@ -86,7 +86,7 @@ Wenn dann Ereignisse im Außen passieren, die dazu führen, dass das Bedürfnis 
 
 ### Wann ist eine Traumatherapie sinnvoll?
 
-Eine Traumatherapie ist eine spezielle Therapie für Menschen, die aufgrund eines katastrophalen Erlebnisses in ihrem Leben stark beeinträchtigt sind, beziehungsweise darunter leiden. 
+Eine Traumatherapie ist eine spezielle Therapie für Menschen, die aufgrund eines katastrophalen Erlebnisses in ihrem Leben stark beeinträchtigt sind, beziehungsweise darunter leiden.
 
 ### Was ist der Unterschied zwischen einer klassischen Traumatherapie und der Methode der Rapid Transformational Therapy?
 
@@ -135,7 +135,7 @@ Wenn du dir nicht sicher bist, ob du an einer Essstörung leidest, kannst du dic
 
 Das Wundervolle ist, dass du ab jetzt nie wieder im Stillen leiden oder eine Diät nach der anderen durchstehen musst. Mit der richtigen Unterstützung ist möglich, Essstörungen erfolgreich und dauerhaft zu behandeln, um endlich frei und sorglos mit dem Thema Essen deinen Frieden zu schließen.
 
-![](../../uploads/caju-gomes-qdq3ylizg48-unsplash.jpg)
+![](../../uploads/pexels-d-ng-nhan-1510149.jpg)
 
 ### Abnehmen mit Hypnose: Eine echte Alternative zu Diät & Co.?
 

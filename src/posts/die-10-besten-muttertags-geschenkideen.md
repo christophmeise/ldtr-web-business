@@ -48,7 +48,7 @@ Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei d
 
 ## Die 10 besten Geschenke Tipps zum Muttertag
 
-Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben. 
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben.
 
 ***
 
@@ -109,6 +109,8 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 **Hier geht es direkt zum original** <a href="https://amzn.to/3gVc9VZ" target="_blank">**WOODSTOCK Klangspiel**</a>*.
 
 <a href="https://www.amazon.de/Woodstock-Windspiel-Bells-Paradise-Silber/dp/B008ES4DMG?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1VIMFCA1TJ1B&dchild=1&keywords=woodstock+chimes&qid=1620054248&refinements=p_76%3A183888031&rnid=183868031&rps=1&s=garden&sprefix=woodsto%2Coutdoor%2C192&sr=1-3&linkCode=li2&tag=innerlight06-21&linkId=3d994379c5bbb68fd076d27ac5edc61d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008ES4DMG&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B008ES4DMG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+![](../../uploads/alles-liebe-zum-muttertag.png)
 
 ## **Tipp 3: Schmuck**
 
@@ -182,13 +184,13 @@ Mein täglicher Begleiter und eines der Lieblingsgeschenke meiner Mama - dieses 
 >
 > _Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen_
 
-**Hier geht es direkt zum** <a href="https://amzn.to/3gXqMbr" target="_blank">**6-Minuten-Tagebuch__</a>* **mit Bonus-EBook.**
+**Hier geht es direkt zum** <a href="https://amzn.to/3gXqMbr" target="_blank">*6-Minuten-Tagebuch__</a> **mit Bonus-EBook.**
 
 <a href="https://www.amazon.de/6-Minuten-Tagebuch-Nachfolgeversion-Erfolgs-Journal-Dankbarkeits-Journal-Gelassenheit/dp/B07WFQCDZ3?dchild=1&keywords=6%2Bminuten%2Btagebuch&qid=1620056135&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSFczR1g0RTYzUFZEJmVuY3J5cHRlZElkPUEwODQ1NDUwMVRSMVpTUUFZNlczNyZlbmNyeXB0ZWRBZElkPUEwNzc5NDI5M0xLNjVKRU5WSUxURSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=li2&tag=innerlight06-21&linkId=e1d4e81cd357104975aed92cb2bf1ac3&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WFQCDZ3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07WFQCDZ3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ![](../../uploads/alles-liebe-zum-muttertag-1.png)
 
-## **Tipp 7: Verbundenheit** 
+## **Tipp 7: Verbundenheit**
 
 #### ↠ Vertellis Familien-Edition ↞
 
@@ -250,7 +252,7 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 
 #### ↠ Ayurvedisches Superfood ↞
 
-Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Produkte, die ökologisch nachhaltig sind und nicht nur etwas unheimlich gutes für den Körper tun, sondern auf für unseren Planeten, findest du bei Regenbogenkreis.de! 
+Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Produkte, die ökologisch nachhaltig sind und nicht nur etwas unheimlich gutes für den Körper tun, sondern auf für unseren Planeten, findest du bei Regenbogenkreis.de!
 
 <!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
 
@@ -307,6 +309,8 @@ Auch aus der Entfernung eine große Freude machen ist oft nicht einfach, doch mi
 ***
 
 #### **Ich freue mich, dass du deiner Mama eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
+
+![](../../uploads/1-1.png)
 
 ***
 

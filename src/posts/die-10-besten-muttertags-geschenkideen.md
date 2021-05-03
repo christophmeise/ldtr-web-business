@@ -216,7 +216,9 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > _inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt_
 
-**Das Buch "Die Kuh, die weinte" gibt es** [hier](https://amzn.to/3qY9qxL "Die Kuh, die weinte Buch")***.**
+**Hier gehts direkt zur Bestellung des Buches** <a href="https://amzn.to/3qY9qxL" target="_blank">**"Die Kuh, die weinte"**</a>*.
+
+<a href="https://www.amazon.de/Die-Kuh-die-weinte-Buddhistische/dp/3778781839?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3L6YXWTL53Q7D&dchild=1&keywords=die+kuh+die+weinte&qid=1620056408&sprefix=die+kuh+die+%2Caps%2C289&sr=8-1&linkCode=li2&tag=innerlight06-21&linkId=4345d98474459fbfd9b96424c437e1af&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3778781839&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3778781839" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -228,7 +230,9 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 >
 > _lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte_
 
-**Das Buch "Das Café am Rande der Welt" gibt es** [hier](https://amzn.to/2JZc45Q "Café am Rande der Welt")***.**
+**Hier gehts direkt zur Bestellung des Buches** <a href="https://amzn.to/2JZc45Q" target="_blank">**"Das Café am Rande der Welt"**</a>*.
+
+<a href="https://www.amazon.de/Das-Caf%C3%A9-Rande-Welt-Erz%C3%A4hlung/dp/3423209690?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ATWTMARY26I&dchild=1&keywords=das+cafe+am+rande+der+welt+teil+1&qid=1620056374&sprefix=cafe+am%2Coutdoor%2C581&sr=8-1&linkCode=li2&tag=innerlight06-21&linkId=d383568a11cdf9af82fdf054dcb32471&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3423209690&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3423209690" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 

@@ -23,9 +23,10 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Mit Hypnose nach der Rapid Transformational Therapy™ zu deinem Wunschgewicht
-  – einfach, dauerhaft, ohne Diät und ohne Jo-Jo Effekt. Ob Hypnose eine echte Alternative
-  ist und wie genau RTT zum Abnehmen funktioniert erfährst du in diesem Blogartikel!
+abstract: Erleben wir traumatische Erfahrungen, so kann das weitreichende Folgen für
+  unser Leben haben. Oft sind die Betroffenen nicht mehr in der Lage ihr Leben so
+  zu führen wie vor dem Trauma. Ob Hypnose eine echte Heilungschance bei einer posttraumatischen
+  Belastungsstörung bietet, erfährst du in diesem Blogartikel!
 
 ---
 ### Wie äußert sich ein Trauma?

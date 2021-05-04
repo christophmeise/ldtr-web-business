@@ -1,7 +1,7 @@
 ---
 title: Die 10 besten Muttertags-Geschenkideen
 path: "/geschenkideen-zum-muttertag"
-featuredImage: "../../uploads/1-1.png"
+featuredImage: "../../uploads/2-1.png"
 date: 2021-05-02T00:00:00+02:00
 tags:
 - Geschenke
@@ -40,15 +40,15 @@ Wir wollen an diesem Tag allen Arten von Müttern einmal DANKE sagen - inklusive
 
 #### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Die letzten Monate haben uns und unsere familiären Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deiner Mama etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die von Herzen kommen auch auch **spirituell Interessierte**, **nachhaltig orientierte Mamas** sowie **Yoga-Fans** erstrahlen lassen werden.
+Die letzten Monate haben uns und unsere familiären Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deiner Mama etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die von Herzen kommen und auch **spirituell Interessierte**, **nachhaltig orientierte Mamas** sowie **Yoga-Fans** erstrahlen lassen werden.
 
 Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!
 
-![](../../uploads/5.png)
+![](../../uploads/kopie-von-ohne-titel.jpg)
 
 ## Die 10 besten Geschenke Tipps zum Muttertag
 
-Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben.
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben und die nichts zu brauchen scheinen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke zum Muttertag für ein bewussteres, schöneres und erfülltes Leben.
 
 ***
 
@@ -94,7 +94,7 @@ Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidime
 
 **Hier geht es direkt zum wunderschönen** <a href="https://amzn.to/3akwsZA" target="_blank">**Blume des Lebens-Windspiel**</a>*.
 
-<a href="<a href="https://www.amazon.de/Kristallen-Wohn-Dekoration-Lebensblume-Spirituelles-Esoterik/dp/B079Y5XLZH?th=1&linkCode=li2&tag=innerlight06-21&linkId=1038effcfe5bce730c8cbd4e7684a08e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079Y5XLZH&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B079Y5XLZH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />" target="_blank"> </a>
+<a href="https://www.amazon.de/Kristallen-Wohn-Dekoration-Lebensblume-Spirituelles-Esoterik/dp/B079Y5XLZH?th=1&linkCode=li2&tag=innerlight06-21&linkId=05bb5a60ef7bf55707618a970f8269a1&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079Y5XLZH&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B079Y5XLZH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -110,7 +110,7 @@ Ein weiteres wundervolles Geschenk für alle, die Klänge und Töne lieben - die
 
 <a href="https://www.amazon.de/Woodstock-Windspiel-Bells-Paradise-Silber/dp/B008ES4DMG?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1VIMFCA1TJ1B&dchild=1&keywords=woodstock+chimes&qid=1620054248&refinements=p_76%3A183888031&rnid=183868031&rps=1&s=garden&sprefix=woodsto%2Coutdoor%2C192&sr=1-3&linkCode=li2&tag=innerlight06-21&linkId=3d994379c5bbb68fd076d27ac5edc61d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008ES4DMG&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B008ES4DMG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-![](../../uploads/alles-liebe-zum-muttertag.png)
+![](../../uploads/kopie-von-ohne-titel-1.jpg)
 
 ## **Tipp 3: Schmuck**
 
@@ -154,7 +154,9 @@ Bei diesem Zafukissen mit Seidenstickerei und Kapokfüllung handelt es sich um e
 >
 > _Kissen werden in Thailand von Familienbetrieben in liebevoller Handarbeit gefertigt; farbenfroh und wunderschönes Design; mit reinem, unbehandeltem Kapok gefüllt; nachhaltiges Qualitätsprodukt mit geprüfter Qualität_
 
-**Das wunderschöne Meditationskissen mit Kapokfüllung gibt es** [hier](https://amzn.to/379Rvwj "Meditationskissen")***.**
+**Hier geht es direkt zum wunderschönen** <a href="https://amzn.to/3th6lc3" target="_blank">**Meditationskissen mit Kapokfüllung**</a>*.
+
+<a href="https://www.amazon.de/dp/B00OW28W8Y?coliid=I1B1IFTWQLVU8B&colid=FCK5BNIBCT8E&psc=1&linkCode=li2&tag=innerlight06-21&linkId=4ee58e90440a98f1335202e905859a5e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OW28W8Y&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B00OW28W8Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -166,9 +168,7 @@ Für alle Yoga-Anfänger und Sport-Liebhaber das perfekte Geschenk - eine wunder
 >
 > _aus umweltfreundlichem Material, rutschfest, wunderschöne Farben und Designs, geeignet für Yoga, Pilates und Fitness-Übungen_
 
-**Hier geht es direkt zur perfekten .**
-
-<a href="https://amzn.to/3texbBB" target="_blank">**Yoga-Matte**</a>*.
+**Hier geht es direkt zur perfekten** <a href="https://amzn.to/3texbBB" target="_blank">**Yoga-Matte**</a>*.
 
 <a href="https://www.amazon.de/TOPLUS-hochwertigen-Gynastikmatte-%C3%9Cbungsmatte-usw-Hellblau/dp/B07WVVK1GX?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=yogamatte&qid=1620055701&refinements=p_76%3A183890031%2Cp_72%3A184747031&rnid=22579884031&rps=1&s=sports&sr=1-6&linkCode=li2&tag=innerlight06-21&linkId=5822d6f0d1dd26ab25dd2621690d1c4c&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WVVK1GX&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07WVVK1GX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -184,11 +184,11 @@ Mein täglicher Begleiter und eines der Lieblingsgeschenke meiner Mama - dieses 
 >
 > _Täglich nur sechs Minuten Zeitaufwand für mehr Achtsamkeit, Selbstliebe & Motivation; Qualität von innen & außen mit feinsten Französisches Leinen; Co2-neutraler Druck; verschiedene Farben; BONUS: E-Book zum Thema Morgenroutinen_
 
-**Hier geht es direkt zum** <a href="https://amzn.to/3gXqMbr" target="_blank">*6-Minuten-Tagebuch__</a> **mit Bonus-EBook.**
+**Hier geht es direkt zum** <a href="https://amzn.to/3gXqMbr" target="_blank">_**6-Minuten-Tagebuch**</a>* **mit Bonus-EBook.**
 
 <a href="https://www.amazon.de/6-Minuten-Tagebuch-Nachfolgeversion-Erfolgs-Journal-Dankbarkeits-Journal-Gelassenheit/dp/B07WFQCDZ3?dchild=1&keywords=6%2Bminuten%2Btagebuch&qid=1620056135&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSFczR1g0RTYzUFZEJmVuY3J5cHRlZElkPUEwODQ1NDUwMVRSMVpTUUFZNlczNyZlbmNyeXB0ZWRBZElkPUEwNzc5NDI5M0xLNjVKRU5WSUxURSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=li2&tag=innerlight06-21&linkId=e1d4e81cd357104975aed92cb2bf1ac3&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WFQCDZ3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07WFQCDZ3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-![](../../uploads/alles-liebe-zum-muttertag-1.png)
+![](../../uploads/kopie-von-ohne-titel-2.jpg)
 
 ## **Tipp 7: Verbundenheit**
 
@@ -200,7 +200,7 @@ Unsere schnelllebige, digitale Gesellschaft kann eine Herausforderung für das F
 >
 > _Das wertvollste was wir haben ist Zeit zusammen - mit diesem Kartenspiel schenkst du Aufmerksamkeit, Verbundenheit und tief gehende Gespräche, die deine Mama unendlich glücklich machen werden!_
 
-**Das Vertellis Kartenspiel in der Familien-Edition gibt es** <a href="https://amzn.to/2SezoA2" target="_blank">hier</a>*.
+**Hier geht es direkt zum** <a href="https://amzn.to/2SezoA2" target="_blank">**Vertellis Kartenspiel in der Familien-Edition**</a>*.
 
 <a href="https://www.amazon.de/Vertellis-Gesellschaftsspiel-mit-Fragen-Familie/dp/B07B8XYZ5H?_encoding=UTF8&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=vertellis&psc=1&qid=1620050066&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRTRFN05HTjVCVkNMJmVuY3J5cHRlZElkPUEwNTIzMTE5MjdXNkNNOUMwME5LQiZlbmNyeXB0ZWRBZElkPUEwMTQwNDEyM0ZTQkowV1NWSFlBTiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&sr=8-1-spons&linkCode=li2&tag=innerlight06-21&linkId=4ac1408785007202822b889e61efc4de&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B8XYZ5H&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07B8XYZ5H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -246,7 +246,11 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > _fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test_
 
-**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** [hier](https://amzn.to/3oPL7QL "Ayurveda-Kochbuch")***.**
+**Hier geht es direkt zum** 
+
+<a href="https://amzn.to/3oPL7QL" target="_blank">**Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test**</a>*.
+
+<a href="https://www.amazon.de/Ayurveda-Kochbuch-Selbstheilung-Entgiften-Dosha-Test/dp/B08LJ9TKT3?_encoding=UTF8&coliid=I24EFWDO0DQI3K&colid=FCK5BNIBCT8E&qid=&sr=&linkCode=li2&tag=innerlight06-21&linkId=19b5ce9830c34cc6155b1b0aba25f42a&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LJ9TKT3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08LJ9TKT3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -290,7 +294,7 @@ Jede Mutter hat einen Wunsch: dass ihr Kind gesund und glücklich ist. Mit Hilfs
 >
 > _Einzigartige Geschenk für Leute, die schon alles haben, und mit dem du gleichzeitig Menschen hilfst, die so gut wie nicht besitzen; dein Geld wirkt da, wo es am nötigsten gebraucht wird; personaliserbare Urkunde zum Verschenken_
 
-**Hier geht es zur Spende für** <a href="https://www.unicef.de/muttertag" target="_blank">UNICEF</a>.
+**Hier geht es zur Spende für** <a href="https://www.unicef.de/muttertag" target="_blank">**UNICEF**</a>.
 
 ***
 
@@ -310,7 +314,7 @@ Auch aus der Entfernung eine große Freude machen ist oft nicht einfach, doch mi
 
 #### **Ich freue mich, dass du deiner Mama eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_
 
-![](../../uploads/1-1.png)
+![](../../uploads/kopie-von-ohne-titel-3.jpg)
 
 ***
 

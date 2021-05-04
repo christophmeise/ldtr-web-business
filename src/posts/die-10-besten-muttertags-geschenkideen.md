@@ -246,9 +246,7 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 >
 > _fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test_
 
-**Hier geht es direkt zum** 
-
-<a href="https://amzn.to/3oPL7QL" target="_blank">**Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test**</a>*.
+**Hier geht es direkt zum** <a href="https://amzn.to/3oPL7QL" target="_blank">**Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test**</a>*.
 
 <a href="https://www.amazon.de/Ayurveda-Kochbuch-Selbstheilung-Entgiften-Dosha-Test/dp/B08LJ9TKT3?_encoding=UTF8&coliid=I24EFWDO0DQI3K&colid=FCK5BNIBCT8E&qid=&sr=&linkCode=li2&tag=innerlight06-21&linkId=19b5ce9830c34cc6155b1b0aba25f42a&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LJ9TKT3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08LJ9TKT3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -258,25 +256,15 @@ Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine
 
 Natürlicher Support für mehr Energie, strahlende Haut, weniger Stress und guten Schlaf - darüber freut sich wirklich jeder! Superfood-Produkte, die ökologisch nachhaltig sind und nicht nur etwas unheimlich gutes für den Körper tun, sondern auf für unseren Planeten, findest du bei Regenbogenkreis.de!
 
-<!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
-
-<a href="https://www.awin1.com/cread.php?s=2610419&v=16306&q=379574&r=845791">
-
-    <img src="https://www.awin1.com/cshow.php?s=2610419&v=16306&q=379574&r=845791" border="0">
-
-</a>
-
-<!-- END ADVERTISER: Regenbogenkreis DE from awin.com -->!
-
 > **_Was macht dieses Geschenk besonders?_**
 >
 > _Das Regenbogenkreis Projekt macht einen wirklichen Unterschied in der Welt und trägt zu deiner Heilung und der unserer Erde bei. Mit deiner Bestellung bekommst du nicht nur beste Premiumqualität und hochwertigste Bio-Produkte, sondern schützt auch Regenwald in Ecuador!_
 
 <!-- START ADVERTISER: Regenbogenkreis DE from awin.com -->
 
-<a href="https://www.awin1.com/cread.php?s=2569102&v=16306&q=381926&r=845791">
+<a href="https://www.awin1.com/cread.php?s=2610419&v=16306&q=379574&r=845791">
 
-    <img src="https://www.awin1.com/cshow.php?s=2569102&v=16306&q=381926&r=845791" border="0">
+    <img src="https://www.awin1.com/cshow.php?s=2610419&v=16306&q=379574&r=845791" border="0">
 
 </a>
 

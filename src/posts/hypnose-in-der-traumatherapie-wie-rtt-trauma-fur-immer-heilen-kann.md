@@ -2,7 +2,7 @@
 title: Hypnose in der Traumatherapie - Wie du mit RTT dein Trauma heilen kannst
 path: "/traumatherapie-durch-hypnose"
 featuredImage: "../../uploads/pexels-keenan-constance-2865901.jpg"
-date: 2021-05-09T00:00:00+02:00
+date: 2021-05-31T00:00:00+02:00
 tags:
 - RTT
 - Trauma
@@ -50,13 +50,7 @@ Die wichtigsten Symptome sind:
 * Misstrauen, Scham- und Schuldgefühle, vermindertes Selbstwertgefühl
 * Traurigkeit, Hoffnungslosigkeit, negatives Denken
 
-Auch kann sie erst mit einer gewissen Verzögerung nach dem traumatischen Ereignis auftreten.
-
-Später zeigen einige Betroffene anhaltende Angst und Schreckhaftigkeit. Immer wieder erleben sie die traumatischen Momente vor ihrem inneren Auge. Wie ein Film spielt sich das Trauma wiederholt ab, dazu treten erneut sehr intensive Angst- und Ohnmachtsgefühle auf. Das Wiedererleben kann durch Bilder, Geräusche, Gerüche oder Gedanken ausgelöst werden. Als Folge davon sind traumatisierte Menschen ständig angespannt und nervös, schlafen schlecht und können sich nicht entspannen. Sie vermeiden jegliche Situationen, die sie an das Trauma erinnern könnten.
-
-Etwa 15 bis 25 Prozent bleiben jedoch traumatisiert und entwickeln eine **Posttraumatische Belastungsstörung**.
-
-Bei dieser Symptomkombination handelt es sich um eine posttraumatische Belastungsstörung (PTBS). Die posttraumatische Belastungsstörung (PTBS) ist eine **psychische Reaktion auf ein belastendes Ereignis**, eine außergewöhnliche Bedrohung oder Extremsituation. Traumatische Erlebnisse können neben PTBS auch andere psychische Krankheiten wie Depression, Angststörungen, Suchterkrankungen oder Veränderungen der Persönlichkeit hervorrufen. Die posttraumatische Belastungsstörung ist nur eine von verschiedenen möglichen Traumafolgestörungen. Durch ein Trauma können außerdem Depressionen, Persönlichkeitsstörungen, Angststörungen oder eine Suchterkrankung entstehen.
+Traumatische Erlebnisse können neben PTBS auch andere psychische Krankheiten wie Depression, Angststörungen, Suchterkrankungen oder Veränderungen der Persönlichkeit hervorrufen. Die posttraumatische Belastungsstörung ist nur eine von verschiedenen möglichen Traumafolgestörungen. Durch ein Trauma können außerdem Depressionen, Persönlichkeitsstörungen, Angststörungen oder eine Suchterkrankung entstehen.
 
 #### Was bei einer traumatischen Erfahrung mit unserem Verstand passiert
 

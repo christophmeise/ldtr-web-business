@@ -2,7 +2,7 @@
 title: Hypnose in der Traumatherapie - Wie du mit RTT dein Trauma heilen kannst
 path: "/traumatherapie-durch-hypnose"
 featuredImage: "../../uploads/pexels-keenan-constance-2865901.jpg"
-date: 2021-05-31T00:00:00+02:00
+date: 2021-08-05T00:00:00+02:00
 tags:
 - RTT
 - Trauma

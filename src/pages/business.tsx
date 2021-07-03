@@ -4,7 +4,8 @@ import { graphql, Link } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import Img from 'gatsby-image';
 import React from 'react';
-import { Button, Container, Embed, Grid, GridColumn, GridRow, Icon } from 'semantic-ui-react';
+import { Button, Container, Embed, Grid, GridColumn, GridRow, Icon, Label } from 'semantic-ui-react';
+import BusinessIcons from '../components/BusinessIcons/business-icons';
 import CallToActionBanner from '../components/call-to-action-banner/call-to-action-banner';
 import HeaderOverlay from '../components/header-overlay/header-overlay';
 import SectionRTTSteps from '../components/index/rtt-steps';
@@ -13,7 +14,7 @@ import { getPathWithLocale } from '../components/navigateWithLocale';
 import SectionHeader from '../components/sectionHeader';
 import SEO from '../components/seo';
 import withI18next from '../components/withI18next/withI18next';
-import './rtt.less';
+import './business.less';
 
 interface Props {
     pageContext: any;
@@ -59,6 +60,37 @@ class BusinessPage extends React.Component<Props, any> {
             },
         ];
 
+        const tagLabels1 = [
+            t('business:text-7.2-li-1'),
+            t('business:text-7.2-li-2'),
+            t('business:text-7.2-li-3'),
+            t('business:text-7.2-li-4'),
+            t('business:text-7.2-li-5'),
+            t('business:text-7.2-li-6'),
+            t('business:text-7.2-li-7'),
+            t('business:text-7.2-li-8'),
+            t('business:text-7.2-li-9'),
+            t('business:text-7.2-li-10'),
+            t('business:text-7.2-li-11')
+        ];
+        const tagLabels2 = [
+            t('business:text-7.3-li-1'),
+            t('business:text-7.3-li-2'),
+            t('business:text-7.3-li-3'),
+            t('business:text-7.3-li-4'),
+            t('business:text-7.3-li-5'),
+            t('business:text-7.3-li-6'),
+            t('business:text-7.3-li-7'),
+            t('business:text-7.3-li-8'),
+            t('business:text-7.3-li-9'),
+            t('business:text-7.3-li-10'),
+            t('business:text-7.3-li-11'),
+            t('business:text-7.3-li-12'),
+            t('business:text-7.3-li-13'),
+            t('business:text-7.3-li-14'),
+            t('business:text-7.3-li-15'),
+        ];
+
         return (
             <Layout title={siteTitle} t={t}>
                 <SEO title={t('rtt:Rapid Transformational Therapy')} />
@@ -89,6 +121,7 @@ class BusinessPage extends React.Component<Props, any> {
                                     <li>{t('business:text-0-li-5')}</li>
                                 </ul>
                             </article>
+                            <hr />
                             <p>{t('business:text-1')}</p>
                             <p>{t('business:text-2')}</p>
                             <ul>
@@ -103,6 +136,67 @@ class BusinessPage extends React.Component<Props, any> {
                             <h4>{t('business:Innovative Unternehmen brauchen zukunftsweisendes Business-Coaching')}</h4>
                             <p>{t('business:text-6')}</p>
 
+                            {/* insert moving icons */}
+                            <BusinessIcons t={t}></BusinessIcons>
+
+                            <h4>{t('business:text-7')}</h4>
+                            <p>{t('business:text-7.1')}</p>
+                            <strong>{t('business:text-7.2')}</strong>
+                            <Label.Group className="business-tag-label-group">
+                                {tagLabels1.map((tag, index) => {
+                                    return (
+                                        <Label
+                                            key={"tag-" + index}
+                                            as="a"
+                                            className="blog-post-tag-label"
+                                            circular
+                                        >
+                                            {tag}
+                                        </Label>
+                                    );
+                                })}
+                            </Label.Group>
+                            <strong>{t('business:text-7.3')}</strong>
+                            <Label.Group className="business-tag-label-group">
+                                {tagLabels2.map((tag, index) => {
+                                    return (
+                                        <Label
+                                            key={"tag-" + index}
+                                            as="a"
+                                            className="blog-post-tag-label"
+                                            circular
+                                        >
+                                            {tag}
+                                        </Label>
+                                    );
+                                })}
+                            </Label.Group>
+                            <p>{t('business:text-7.4')}</p>
+                            <h4>{t('business:text-8')}</h4>
+                            <p>{t('business:text-8.1')}</p>
+                            <h5>{t('business:text-9')}</h5>
+                            <p>{t('business:text-9.1')}</p>
+                            <h5>{t('business:text-10')}</h5>
+                            <p>{t('business:text-10.1')}</p>
+                            <h5>{t('business:text-11')}</h5>
+                            <p>{t('business:text-11.1')}</p>
+
+                            <h4>{t('business:text-12')}</h4>
+                            <ul>
+                                <li>{t('business:text-12-li-1.1')}</li>
+                                <li>{t('business:text-12-li-1.2')}</li>
+                                <li>{t('business:text-12-li-2.1')}</li>
+                                <li>{t('business:text-12-li-2.2')}</li>
+                                <li>{t('business:text-12-li-3.1')}</li>
+                                <li>{t('business:text-12-li-3.2')}</li>
+                                <li>{t('business:text-12-li-4.1')}</li>
+                                <li>{t('business:text-12-li-4.2')}</li>
+                            </ul>
+                            <h4>{t('business:text-13')}</h4>
+                            {/* table here */}
+                            <h4>{t('business:text-14')}</h4>
+                            <p>{t('business:text-14.1')}</p>
+                            <p>{t('business:text-14.2')}</p>
                             <article>
                                 <Grid style={{ paddingTop: '2em' }} columns="2" stackable>
                                     {/*  <GridColumn stretched>

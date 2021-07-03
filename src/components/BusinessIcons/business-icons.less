@@ -1,0 +1,41 @@
+@import '../../styles/lib.less';
+
+.innovation-tile {
+    display       : flex;
+    flex-direction: column;
+    text-align    : left;
+
+    lord-icon {
+        height: 100px;
+        width : 100px;
+    }
+}
+
+@media @mobile {
+    .innovation-tile {
+        margin-left: 15px;
+    }
+}
+
+.innovation-tile>p {
+    line-height: 24px;
+}
+
+.innovation-tile>strong {
+    position     : relative;
+    font-size    : 15px;
+    font-weight  : 600;
+    line-height  : 20px;
+    margin-bottom: 12px;
+}
+
+.innovation-tile>strong::before {
+    content         : '';
+    position        : absolute;
+    left            : -15px;
+    top             : 7px;
+    height          : 7px;
+    width           : 7px;
+    background-color: @primaryColor;
+    border-radius   : 50%;
+}

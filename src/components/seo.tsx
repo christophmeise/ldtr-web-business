@@ -26,6 +26,7 @@ const SEO = ({ description, meta, title }: Props) => {
     );
 
     const pinterestBusinessContent = "affd6bb3f35488450ecc164162762b6c";
+    const facebookVerification = "cl8hnoy7frgop4ohh9lhogphylxrux";
 
     const metaDescription = description || site.siteMetadata.description;
     const lang = i18n.language;
@@ -49,12 +50,16 @@ const SEO = ({ description, meta, title }: Props) => {
 
                             var ml_account = ml('accounts', '2640527', 'j8z7t0x0z3', 'load');
                         `
-                    },
+                    }
                 ]}
                 meta={[
                     {
                         name: `p:domain_verify`,
                         content: pinterestBusinessContent,
+                    },
+                    {
+                        name: `facebook-domain-verification`,
+                        content: facebookVerification,
                     },
                     {
                         name: `description`,

@@ -81,6 +81,12 @@ module.exports = {
         'gatsby-transformer-sharp',
         'gatsby-plugin-less',
         `gatsby-plugin-fontawesome-css`,
+        {
+            resolve: `gatsby-plugin-facebook-pixel`,
+            options: {
+                pixelId: "1308782969523808",
+            },
+        },
         /*         {
             resolve: `gatsby-source-stripe`,
             options: {

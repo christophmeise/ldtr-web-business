@@ -14,7 +14,7 @@ declare global {
 const BusinessIcons = ({ t }) => {
 
     return (
-        <section className="main-section">
+        <section>
             <Container>
                 <Header
                     data-sal="slide-up"

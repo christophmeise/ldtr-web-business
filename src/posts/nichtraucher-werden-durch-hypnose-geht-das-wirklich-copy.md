@@ -1,8 +1,8 @@
 ---
 title: 'Vollmond-Ritual '
 path: "/vollmond-rituale"
-featuredImage: "../../uploads/kopie-von-vollmond-ritual.jpg"
-date: 2021-01-26T00:00:00+01:00
+featuredImage: "../../uploads/blogbeitrag_header-2.png"
+date: 2021-01-26T00:00:00.000+01:00
 tags:
 - Spiritualität
 - Vollmond
@@ -37,7 +37,9 @@ Das Ritual, das ich heute mit dir teilen möchte, ist eine Basisritual, das Du b
 
 Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen.
 
-##### Du möchtest zum Snow Moon am 27. Februar beim INNER LIGHT Vollmond-Ritual dabei sein? Tritt unser Community <a href="https://www.facebook.com/groups/innerlightsoulfamily/" target="_blank">hier</a> bei und verpasse kein Event mehr! Wir freuen uns auf dich! ♥
+> ##### Du möchtest zum letzten Vollmond am 19. Dezember beim <a href="https://www.meetup.com/de-DE/inner-light-spirituelle-community/events/282621341/" target="_blank">INNER LIGHT Vollmond-Ritual</a> dabei sein? Dort werden wir zusammen all das loslassen, was dir nicht mehr dient, damit du voller Liebe, Licht und Schöpferkraft das neue Jahr genau so kreieren kannst, wie du es dir wünschst. 
+>
+> ##### Wir freuen uns auf dich! ♥
 
 ## **Vollmond-Rituale**
 
@@ -82,10 +84,6 @@ Gehe nun auch nochmal die Liste mit deinen Wünschen durch und bedanke dich beim
 #### Part IV: Reflektionsfragen
 
 Nutze die Energien des aktuellen Vollmonds und geh tief in die Themen, die gerade hochkommen. Mit Reflektionsfragen kannst du dich genau damit auseinander setzen, was du vielleicht schon länger in dir arbeiten fühlst, aber wofür du bisher noch nicht den Raum oder die Kraft hattest dich tiefer damit auseinander zu setzen.
-
-Nutze das INNER LIGHT Workbook zum kostenlosen Download! Hier bekommst du immer die aktuellen Themen auf einen Blick zusammengefasst.
-
-**Lade dir** [HIER](https://docdro.id/MJZu5r2 "Workbook zum Wolfs-Vollmond") **dein Workbook zum Wolf-Vollmond am 28. Januar 2021 herunter!**
 
 #### Part V: Ritual ausklingen lassen
 

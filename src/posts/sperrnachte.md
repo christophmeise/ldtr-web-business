@@ -1,5 +1,5 @@
 ---
-title: Sperrnächte
+title: Die Magie der Sperrnächte
 path: "/sperrnächte-rituale"
 featuredImage: "../../uploads/blogbeitrag_header.png"
 date: 2021-12-08T00:00:00+01:00
@@ -29,7 +29,7 @@ abstract: Die Sperrnächte, die Zeit zum Rückblick, sind ebenso wie die Rauhnä
   seelischer Ebene abschließen kannst.
 
 ---
-## Die Magie der Dunkelnächte
+## Tauche ein in die Magie der Dunkelnächte
 
 Die magische Zeit der Rauhnächte steht kurz bevor und es kommt die Zeit das Jahr 2022 genau so zu manifestieren, wie du es dir wünschst. Aber wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das losgelassen hast, was du dir nicht mehr dient? Dafür sind die Dunkelnächte da, denn sie sind Portaltage in denen wir zur Innenschau angehalten werden. Diese werden auch Sperrnächte genannt und sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte. Diese Tage, meist vom 8. bis 19. Dezember, können wir nutzen, um das alte Jahr bewusst abzuschließen. Denn erst wenn dieses aktuelle Jahr auf Ebene deines Seelenwegs wirklich verarbeitet und integriert ist, dann bist du bereit für einen Neuanfang.
 
@@ -39,7 +39,6 @@ Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu g
 
 Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein uns bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen, was uns nicht mehr dient. Dabei unterstützt uns die Energie der Portaltage dabei die eigenen Schatten zu erkennen und aufzulösen, so dass auch wir am Ende der Sperrnächte unser inneres Licht mit neuer Kraft aus uns heraus strahlen lassen können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und die Zeit bewusst zur Innenschau nutzen.
 
-  
 Heute nutzen wir die Kraft der Sperr- und Dunkelnächte als Loslassprozess für unsere Seele und als eine ganz besondere Form der Jahresrückschau. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
 
 ### **Wie du die Energie der Sperrnächte nutzt**
@@ -78,12 +77,11 @@ Bei diesem Ritual geht es darum sich bewusst zu machen, was in diesem Jahr alles
 >
 > _19. auf 20. Dezember – Dezember_
 
-  
 Nimm dir an diesen Tagen, wenn du magst, jeden Abend etwas Zeit für dich. Gehe in die Stille oder mache einen Spaziergang und lasse den entsprechenden Monat Revue passieren. Vielleicht notierst du dir das Jahr über viel im Kalender oder hast ein Tagebuch, dann blättere diese durch, um dir wieder bewusst zu machen was alles passiert ist und vor allem - wie du dich gefühlt hast.
 
 Folgende Fragen kannst du dir stellen, um dir die Erfahrungen des jeweiligen Monats bewusst zu machen und zu verarbeiten:
 
-* Was war gut, was hat mich erfreut, wo war ich erfolgreich, was hat mich erfüllt/bereichert?   
+* Was war gut, was hat mich erfreut, wo war ich erfolgreich, was hat mich erfüllt/bereichert?  
   → Gehe bewusst in dieses Gefühl und lasse es nochmal dein Herz erfüllen
 * Was war schlecht? Wo habe ich mich geärgert? Wo hat man mich gekränkt/ausgelacht/ungerecht behandelt?  
   → Fühle auch hier hinein, ob du vergeben kannst oder was es noch braucht, um das Erlebte loszulassen und abzuschließen
@@ -100,8 +98,6 @@ Der beste Zeitpunkt, um loszulassen, was dir nicht mehr dient, liegt immer im Hi
 Stell dir für dieses Loslass-Ritual zu Beginn der Sperrnächte zum Beispiel die folgenden Fragen:
 
 * Was möchte ich alles loslassen, was mir nicht mehr dienlich ist?
-
-
 * Welche Angewohnheit dient mir nicht mehr oder hindert mich daran mein bestes Leben zu leben?
 * Welchen limitierenden Glaubenssatz bin ich bereit endgültig zu transformieren?
 * Was soll mich im neuen Jahr nicht mehr belasten?
@@ -109,9 +105,9 @@ Stell dir für dieses Loslass-Ritual zu Beginn der Sperrnächte zum Beispiel die
 
 Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch nicht endgültig wahr anfühlt - zunächst in eine kleine Kiste legen und wegsperren. Wenn du das Gefühl hast, das du wirklich bereit bist dich von diesen Dingen zu lösen, dann kannst du die Zettel am letzten Tag dem Feuer übergeben und während eines Räucherrituals auf körperlicher, geistiger und seelischer Ebene.
 
-> **Wünschst du dir Unterstützung beim Loslassen all dieser Dinge?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein 
+> **Wünschst du dir Unterstützung beim Loslassen all dieser Dinge?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein
 >
-> <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">kostenloses Erstgespräch</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2022 endlich das Leben zu kreieren, von dem du schon so lange träumst. 
+> <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">kostenloses Erstgespräch</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2022 endlich das Leben zu kreieren, von dem du schon so lange träumst.
 
 ### **Dankbarkeits-Ritual**
 

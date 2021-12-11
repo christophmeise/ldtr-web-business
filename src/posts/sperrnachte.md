@@ -1,11 +1,11 @@
 ---
 title: Sperrnächte
-path: "/vollmond-rituale"
-featuredImage: "../../uploads/kopie-von-vollmond-ritual.jpg"
-date: 2021-01-26T00:00:00.000+01:00
+path: "/sperrnächte-rituale"
+featuredImage: "../../uploads/blogbeitrag_header.png"
+date: 2021-12-08T00:00:00+01:00
 tags:
 - Spiritualität
-- Vollmond
+- Rituale
 blocks:
 - template: introduction
   images:
@@ -23,84 +23,110 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben
-  und natürliche Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der
-  Natur und der in ihr lebenden Magie verbinden will, kann deshalb die Mondphasen
-  nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen.
+abstract: Die Sperrnächte, die Zeit zum Rückblick, sind ebenso wie die Rauhnächte,
+  Portaltage im Jahreskreis. Finde heraus, was es mit der Magie der Dunkelnächte auf
+  sich hat und mit welchen Ritualen du dieses Jahr auf körperlicher, geistiger und
+  seelischer Ebene abschließen kannst.
 
 ---
-## Wie du die Mond-Energie für dich nutzen kannst
+## Die Magie der Dunkelnächte
 
-Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben und natürliche Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der Natur und der in ihr lebenden Magie verbinden will, kann deshalb die Mondphasen nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen. Wenn Du die Zyklen der Natur nutzen willst, um innezuhalten und wahrzunehmen, wo Du stehst, was Du erlebt hast und wo Du hin möchtest, hilft das sehr, dein Leben mit mehr Tiefe und Bewusstsein zu gestalten und wieder in Einklang mit dir selbst zu kommen.
+Die magische Zeit der Rauhnächte steht kurz bevor und es kommt die Zeit das Jahr 2022 genau so zu manifestieren, wie du es dir wünschst. Aber wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das losgelassen hast, was du dir nicht mehr dient? Dafür sind die Dunkelnächte da, denn sie sind Portaltage in denen wir zur Innenschau angehalten werden. Diese werden auch Sperrnächte genannt und sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte. Diese Tage, meist vom 8. bis 19. Dezember, können wir nutzen, um das alte Jahr bewusst abzuschließen. Denn erst wenn dieses aktuelle Jahr auf Ebene deines Seelenwegs wirklich verarbeitet und integriert ist, dann bist du bereit für einen Neuanfang.
 
-Das Ritual, das ich heute mit dir teilen möchte, ist eine Basisritual, das Du bei jedem Vollmond anwenden kannst, um die Energie für dich zu nutzen.
+### **Die Geschichte der Sperrnächte bzw. Dunkelnächte**
 
-Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen.
+Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu genutzt, um Haus und Hof winterfest zu machen und alle landwirtschaftlichen Geräte wegzuräumen und wegzusperren. Denn der Winter war keine Zeit, in der das Feld bearbeitet wurde, sondern eine Zeit, die vorwiegend im geschützten Innenraum verbracht wurde. Auch die Natur zieht sich in diesen dunkelsten Tagen des Jahres entdgültig zurück. Viele Tiere gehen in den Winterschlaf oder in die Winterruhe und auch die Pflanzen haben endgültig ihre Säfte unter die Erde verlegt.
 
-##### Du möchtest zum Snow Moon am 27. Februar beim INNER LIGHT Vollmond-Ritual dabei sein? Tritt unser Community <a href="https://www.facebook.com/groups/innerlightsoulfamily/" target="_blank">hier</a> bei und verpasse kein Event mehr! Wir freuen uns auf dich! ♥
+Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein uns bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen, was uns nicht mehr dient. Dabei unterstützt uns die Energie der Portaltage dabei die eigenen Schatten zu erkennen und aufzulösen, so dass auch wir am Ende der Sperrnächte unser inneres Licht mit neuer Kraft aus uns heraus strahlen lassen können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und die Zeit bewusst zur Innenschau nutzen.
 
-## **Vollmond-Rituale**
+  
+Heute nutzen wir die Kraft der Sperr- und Dunkelnächte als Loslassprozess für unsere Seele und als eine ganz besondere Form der Jahresrückschau. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
 
-Vollmonde stellen die Blüte und den Höhepunkt des gesamten Mondzyklus dar, wenn wir die Manifestation der Intentionen erleben, die wir beim Neumond gesetzt haben. Der Vollmond ist eine Zeit dein Inneres Licht erstrahlen zu lassen und alles loszulassen, was deinen Schein trübt: Er ist eine Einladung, uns mit unser INNER SOUL Family zu verbinden und unser Licht zum Leuchten zu bringen, um andere zu inspirieren, sich mit ihrer eigenen Essenz zu verbinden und ebenfalls hell zu leuchten.
+### **Wie du die Energie der Sperrnächte nutzt**
 
-#### Was du zu deinem Vollmond-Ritual benötigst:
+Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Manchmal halten intensive Erlebnisse wie der Verlust eines geliebten Menschens oder Tieres, eine Trennung oder schwierige Entscheidungen in uns aber Emotionen wie Wut, Scham oder Trauer gefangen. Erst wenn wir diesen Gefühle wirklich Raum geben und sie annehmen, können wir sie in Liebe transformieren und wirklich frei davon sein.
 
-* deinen <a href="https://amzn.to/36AiNuK"> Lieblingsstift</a> und dein <a href="https://amzn.to/39HBcrE" target="_blank"> Journal</a>
-* WORKBOOK mit Reflektionsfragen _(gratis zum Download in diesem Blogbeitrag)_
-* <a href="https://amzn.to/3oFBqDV" target="_blank">Kerzen Set</a>
-* Hintergrundmusik mit Frequenzen
-* Räucher-Zubehör: <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a>, <a href="https://amzn.to/3tlHZin" target="_blank">Räucher-Set´s</a> mit Weißem Salbei oder Palo Santo
-* <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a>
-* einen Ort, an dem Du zur Ruhe kommen und für dich sein kannst
+Die Zeit der Dunkelnächte ist daher vor allem eine Zeit der Annahme und der Vergebung - anderen und vor allem dir Selbst. Lasse wirklich jegliche (Selbst)Verurteilung los, denn nur so bist du frei deinen Seelenweg weiter zu gehen und das neue Jahr aus der Liebe und aus der Kraft heraus so zu gestalten, wie du es dir wünschst.
 
-### Dein Vollmond-Ritual
+Dabei gibt es verschiedene Rituale, die dich dabei unterstützen können die Energie der Sperrnächte zu nutzen - drei davon werde ich hier mit dir teilen ♥
 
-#### Part I: Einstimmung & energetische Reinigung
+### **Rückblick-Ritual**
 
-Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra <a href="https://www.youtube.com/watch?v=e6hEvSvpx7M" target="_blank">Kiss the Earth</a> von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von <a href="https://www.youtube.com/watch?v=itBR5TU-4L0" target="_blank">PowerThoughts Meditation Club.</a>
+Bei diesem Ritual geht es darum sich bewusst zu machen, was in diesem Jahr alles passiert ist und dankbar für die zahlreichen Erfahrungen, Begegnungen und Momente zu sein. Fühle dafür an jedem Tag der Dunkelnächte in den entsprechenden Monat rein und lasse ihn Revue passieren:
 
-Zur energetischen Reinigung eignen sich vor allem <a href="https://amzn.to/3rcJi1m" target="_blank">Palo Santo</a> und <a href="https://amzn.to/3arz1rp" target="_blank">Weißer Salbei</a>. Wichtig ist, dass du eine <a href="https://amzn.to/3cA9v5O" target="_blank">eine feuerfeste Räucherschale</a> hast, damit dein Räucherritual sicher ist. Nachdem du deine Umgebung energetisch gereinigt hast, zünde dir gern <a href="https://amzn.to/3pDqKHc" target="_blank">Räucherstäbchen</a> an und mach es dir richtig gemütlich!
+> _8. auf 9. Dezember – Januar_
+>
+> _9. auf 10. Dezember – Februar_
+>
+> _10. auf 11. Dezember – März_
+>
+> _11. auf 12. Dezember – April_
+>
+> _12. auf 13. Dezember – Mai_
+>
+> _13. auf 14. Dezember – Juni_
+>
+> _14. auf 15. Dezember – Juli_
+>
+> _15. auf 16. Dezember – August_
+>
+> _16. auf 17. Dezember – September_
+>
+> _17. auf 18. Dezember – Oktober_
+>
+> _18. auf 19. Dezember – November_
+>
+> _19. auf 20. Dezember – Dezember_
 
-#### Part II: Dankbarkeit
+  
+Nimm dir an diesen Tagen, wenn du magst, jeden Abend etwas Zeit für dich. Gehe in die Stille oder mache einen Spaziergang und lasse den entsprechenden Monat Revue passieren. Vielleicht notierst du dir das Jahr über viel im Kalender oder hast ein Tagebuch, dann blättere diese durch, um dir wieder bewusst zu machen was alles passiert ist und vor allem - wie du dich gefühlt hast.
 
-Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen aufzuschreiben, wofür du gerade dankbar in deinem Leben bist. Das können Menschen, besondere Momente, Dinge, die du besitzt oder scheinbare Kleinigkeiten wie dein Zuhause, dein Essen, dein Bett usw. sein. Durch die Dankbarkeit erhöhst du deine Energiefrequenz und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen Herzraum in der Mitte von deinem Brustkorb übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
+Folgende Fragen kannst du dir stellen, um dir die Erfahrungen des jeweiligen Monats bewusst zu machen und zu verarbeiten:
 
-#### Part III: Loslassen und Fülle einladen
+* Was war gut, was hat mich erfreut, wo war ich erfolgreich, was hat mich erfüllt/bereichert?   
+  → Gehe bewusst in dieses Gefühl und lasse es nochmal dein Herz erfüllen
+* Was war schlecht? Wo habe ich mich geärgert? Wo hat man mich gekränkt/ausgelacht/ungerecht behandelt?  
+  → Fühle auch hier hinein, ob du vergeben kannst oder was es noch braucht, um das Erlebte loszulassen und abzuschließen
+* Was habe ich erfahren und daraus gelernt?  
+  → Das sind Dinge, die du „verstanden“ hast, aus denen du jetzt neue Schlüsse und Erkenntnisse für die Zukunft gezogen hast
+* Welches Geschenk hat mir dieser Monat gebracht?
 
-Der Vollmond ist ein Symbol der Erleuchtung. Es ist eine Zeit in der Klarheit in unserem Inneren entsteht und Licht auf unbeleuchtete Themen geworfen wird, die zuvor versteckt oder unklar waren. Die Schatten können sich lichten und wir können diese Energie nutzen, um Klarheit darüber zu erlangen was unser nächster Schritt auf unserer Seelenreise ist.
+Oftmals hilft es, wenn du dir Situationen, die nicht ganz optimal gelaufen sind, einfach nochmal mit etwas Abstand anschaust - sie bewusst wahrnimmst und fühlst. Allein dadurch würdigst du deine Erfahrung und oftmals braucht es gar nicht mehr, um diese dann loszulassen.
 
-Wenn du so weit bist, schreibe nun auf ein Blatt all das auf, was Du gerne loslassen möchtest. Das können Verhaltensweisen, Glaubenssätze, Ängste, Ärger, Selbstkritik, überflüssig gewordene Dinge und vieles mehr sein. Schreib es alles einmal raus. Allein das kann schon sehr befreiend sein.
+### **Loslass-Ritual**
 
-Auf einem zweiten Blatt listest du anschließend all das auf, was du stattdessen gerne in dein Leben ziehen möchtest. Wenn du zum Beispiel geschrieben hast, dass Du Stress gerne loslassen möchtest, dann schreibe auf das zweite Blatt, was du dir stattdessen wünschst: Ruhe, Ausgeglichenheit, mehr Zeit für dich? Werde hier so konkret wie möglich.
+Der beste Zeitpunkt, um loszulassen, was dir nicht mehr dient, liegt immer im Hier und Jetzt. Oft geht die Reflektion unserer Erfahrungen jedoch im Alltag unter - wenn sich über das Jahr hinweg also einiges angesammelt hat, was dir nicht mehr dienlich ist, dann nutze auf jeden Fall die hochschwingenden Portaltage, die uns während der sogenannten Sperr- oder Dunkelnächten erwarten.
 
-Wenn Du magst, kannst Du jetzt nochmal alle Dinge auf deiner Loslass-Liste durchgehen und dir vorstellen, wie Du sie mit Liebe und Leichtigkeit gehen lässt. Irgendwann haben sie dir mal auf irgendeine Art und Weise gedient und daher lass sie nicht mit Groll, sondern mit einem Gefühl von Dankbarkeit los.
+Stell dir für dieses Loslass-Ritual zu Beginn der Sperrnächte zum Beispiel die folgenden Fragen:
 
-Symbolisch kannst Du diese Hälfte des Zettels jetzt in einer feuerfesten Schale verbrennen. Du kannst dir aber auch einfach vorstellen, dass Du alles Aufgeschriebene an eine höhere Kraft übergibst, die all diese Dinge transformiert. Es gibt hier kein richtig oder falsch, es geht nur um die Symbolik des Loslassens. Also werde gern kreativ und vertraue darauf, was sich für dich richtig anfühlt.
+* Was möchte ich alles loslassen, was mir nicht mehr dienlich ist?
 
-Gehe nun auch nochmal die Liste mit deinen Wünschen durch und bedanke dich beim Universum, deinem Higher Self oder einer höheren Kraft dafür, dass all das in dein Leben kommt.
 
-#### Part IV: Reflektionsfragen
+* Welche Angewohnheit dient mir nicht mehr oder hindert mich daran mein bestes Leben zu leben?
+* Welchen limitierenden Glaubenssatz bin ich bereit endgültig zu transformieren?
+* Was soll mich im neuen Jahr nicht mehr belasten?
+* Was hat mich bisher davon abgehalten wirklich loszulassen?
 
-Nutze die Energien des aktuellen Vollmonds und geh tief in die Themen, die gerade hochkommen. Mit Reflektionsfragen kannst du dich genau damit auseinander setzen, was du vielleicht schon länger in dir arbeiten fühlst, aber wofür du bisher noch nicht den Raum oder die Kraft hattest dich tiefer damit auseinander zu setzen.
+Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch nicht endgültig wahr anfühlt - zunächst in eine kleine Kiste legen und wegsperren. Wenn du das Gefühl hast, das du wirklich bereit bist dich von diesen Dingen zu lösen, dann kannst du die Zettel am letzten Tag dem Feuer übergeben und während eines Räucherrituals auf körperlicher, geistiger und seelischer Ebene.
 
-Nutze das INNER LIGHT Workbook zum kostenlosen Download! Hier bekommst du immer die aktuellen Themen auf einen Blick zusammengefasst.
+> **Wünschst du dir Unterstützung beim Loslassen all dieser Dinge?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein 
+>
+> <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">kostenloses Erstgespräch</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2022 endlich das Leben zu kreieren, von dem du schon so lange träumst. 
 
-**Lade dir** [HIER](https://docdro.id/MJZu5r2 "Workbook zum Wolfs-Vollmond") **dein Workbook zum Wolf-Vollmond am 28. Januar 2021 herunter!**
+### **Dankbarkeits-Ritual**
 
-#### Part V: Ritual ausklingen lassen
+Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M) von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club.](https://www.youtube.com/watch?v=itBR5TU-4L0)
+
+Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen aufzuschreiben, wofür du in diesem Jahr dankbar bist. Das können Menschen, besondere Momente, Dinge, die du besitzt oder scheinbare Kleinigkeiten wie dein Zuhause, dein Essen, dein Bett usw. sein. Besonders machtvoll wird es, wenn du die Dinge, die du loslassen möchtest, mit Dankbarkeit segnen kannst - dafür, dass sie da waren und ihren Zweck erfüllt haben. Dann bist du in der Lage eine neue Entscheidung zu treffen: dass du diese Dinge ab jetzt nicht mehr benötigst. Dass du es verdienst und dir Selbst die Erlaubnis gibst frei davon zu sein.
+
+Durch die Dankbarkeit erhöhst du deine Energiefrequenz und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen Herzraum in der Mitte von deinem Brustkorb übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
 
 Du kannst das Ritual abschließen, indem du nochmal mit geschlossenen Augen ein paar tiefe Atemzüge nimmst und nachspürst, wie es dir jetzt geht. Bedanke dich bei dir selbst, dass du dir diese wertvolle Zeit geschenkt hast.
 
-Wenn du möchtest, kannst du deine Dankbarkeitsliste und das Blatt mit deinen Wünschen gut sichtbar aufhängen. So lenkst du jeden Tag deinen Fokus darauf und ziehst automatisch mehr Fülle in dein Leben. Die Vollmond-Energie verstärkt diesen Effekt noch.
+> Dies ist der erste Teil einer dreiteiligen Serie über seelenreinigende Jahresend-Rituale. Wenn du mehr über den Abschluss des vergangenen und Beginn des neuen Jahres erfahren möchtest, schau bald wieder auf meinem Blog vorbei, wenn ich tiefgehendes Wissen und machtvolle Rituale rund um die Wintersonnenwende und die Rauhnächte mit dir teile.
 
-Wenn Du gerne badest, kannst Du jetzt noch ein reinigendes Bad nehmen und dich mit einem <a href="https://amzn.to/3oBBaWw" target="_blank">Peeling aus Meersalz, Honig und Kokosöl</a> peelen, um alle verbrauchten Energien loszulassen und so energetisch Raum für die Fülle zu schaffen.
+Genieße die Magie der Dunkelnächte und das wundervolle Gefühl nach diesen Ritualen. You deserve to be free ♥
 
-Die Energie des Vollmondes hält eine Weile an und Du kannst das Ritual auch 1-2 Tage vor oder nach Vollmond machen.
-
-Genieße die Magie des Abends und das wundervolle Gefühl nach dem Ritual. Happy Full Moon!
-
-##### Ich freue mich sehr für dich, dass du bereit bist deine Macht über dein Leben zu nutzen um dein wahres Selbst heller und heller scheinen zu lassen. Danke, dass es dich gibt, du wundervolle Seele! _Namasté_
+##### Ich freue mich sehr für dich, dass du bereit bist dich von allem zu lösen, was dir nicht mehr dient, um dein wahres Selbst heller und heller scheinen zu lassen. Danke, dass es dich gibt, du wundervolle Seele! _Namasté_
 
 ***
-
-_*Bei den in diesem Blogpost verwendeten Links handelt es sich um Affiliate-Links. Wenn du auf diesen Link klickst und einen Kauf abschließt unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts. Danke!_

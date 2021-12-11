@@ -1,6 +1,6 @@
 ---
 title: Die Magie der Sperrnächte
-path: "/sperrnächte-rituale"
+path: "/sperrnaechte-rituale"
 featuredImage: "../../uploads/blogbeitrag_header.png"
 date: 2021-12-08T00:00:00+01:00
 tags:

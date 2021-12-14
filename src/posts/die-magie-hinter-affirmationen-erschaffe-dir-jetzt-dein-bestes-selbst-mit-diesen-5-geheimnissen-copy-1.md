@@ -24,11 +24,10 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste
-  am Schenken ist für mich meinen Liebsten Danke zu sagen, für alles was sie sind
-  und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir
-  vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig,
-  sinnvoll und mit besonderer Bedeutung ist.
+abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Mit diesen
+  Top 10 DIY und LAST MINUTE Geschenkideen für spirituell Interessierte, nachhaltig
+  orientierte Menschen als auch Yoga-Fans findest du garantiert das besondere Geschenk,
+  was langfristig ein Lächeln ins Gesicht zaubert!
 
 ---
 ### Geschenke vom Herzen für die Seele

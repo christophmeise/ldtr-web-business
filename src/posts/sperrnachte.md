@@ -41,6 +41,14 @@ Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt dahe
 
 Heute nutzen wir die Kraft der Sperr- und Dunkelnächte als Loslassprozess für unsere Seele und als eine ganz besondere Form der Jahresrückschau. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
 
+![](../../uploads/8.png)
+
+> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** 
+>
+> **_<a href="https://www.etsy.com/de/listing/938608828/2022-mondkalender-mit-portaltagen?ref=listing_published_alert" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen für 2022</a>_**
+>
+>  **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
+
 ### **Wie du die Energie der Sperrnächte nutzt**
 
 Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Manchmal halten intensive Erlebnisse wie der Verlust eines geliebten Menschens oder Tieres, eine Trennung oder schwierige Entscheidungen in uns aber Emotionen wie Wut, Scham oder Trauer gefangen. Erst wenn wir diesen Gefühle wirklich Raum geben und sie annehmen, können wir sie in Liebe transformieren und wirklich frei davon sein.

@@ -1,7 +1,7 @@
 ---
-title: Die 10 besten Geschenkideen für spirituelle Menschen
+title: Die 10 besten Weihnachtsgeschenke für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
-featuredImage: "../../uploads/1.png"
+featuredImage: "../../uploads/roberto-nickson-u6fdue2x11g-unsplash.jpg"
 date: 2020-12-15T00:00:00.000+01:00
 tags:
 - Geschenke
@@ -33,19 +33,19 @@ abstract: Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Da
 ---
 ### Geschenke vom Herzen für die Seele
 
-Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste am Schenken ist für mich meinen Liebsten _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Bist du bereit tiefsinnige, bedeutsame Geschenke zu machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben sind?_** Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für Geburtstage und jeden anderen besonderen Anlass** zusammengestellt.
+Geliebten Menschen eine Freude machen ist ein wundervolles Gefühl. Das Schönste an Weihnachten ist für mich meinen Liebsten _Danke_ zu sagen, für alles was sie sind und jeden Tag leisten. In unserer materialisierten Konsumgesellschaft geht es mir vor allem darum ein Geschenk zu machen, welches von Herzen kommt und nachhaltig, sinnvoll und mit besonderer Bedeutung ist. **_Bist du bereit dieses Weihnachten tiefsinnige, bedeutsame Geschenke zu machen, die deinen Liebsten dauerhaft ein Lächeln ins Gesicht zaubern und die zum Besten von allem Leben sind?_** Ja? Fantastisch, ich bin so stolz auf dich! Damit dir das Geschenke-Brainstorming einfach und schnell gelingt, habe ich für dich in diesem Blog-Beitrag meine **Top 10 Geschenkideen für Weihnachten und jeden anderen besonderen Anlass** zusammengestellt.
 
 #### Außergewöhnliche Menschen verdienen außergewöhnliche Geschenke
 
-Die letzten Monate haben uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Geschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
+Die letzten Monate haben uns, unsere familiären und unsere freundschaftlichen Beziehungen sehr gefordert - Zeit, ein Lächeln zu verschenken! Wenn du deine Familie wirklich überraschen möchtest oder deinen Freunden etwas ganz besonderes schenken willst, habe ich für dich meine **Top 10 Weihnachtsgeschenke Tipps** zusammengestellt, die sowohl **spirituell Interessierte**, **nachhaltig orientierte Menschen** als auch **Yoga-Fans** und **Yoga-Lehrer** erstrahlen lassen werden.
 
-Damit deine spirituellen Geschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!![](../../uploads/3-1.png)
+Damit deine spirituellen Weihnachtsgeschenke auch **Last-Minute** ankommen, habe ich bei der Auswahl darauf geachtet, dass es kurze Lieferzeiten sind - viel Freude beim Aussuchen, Vorfreuen und Verschenken!![](../../uploads/3-1.png)
 
 ## Die 10 besten spirituellen Geschenke Tipps
 
-Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Geschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
+Was schenken wir den besonderen Menschen in unserem Leben, die alles haben, die nichts brauchen und die eigentlich bloß ihre innere Mitte suchen? Es soll ein außergewöhnliches Geschenk sein, etwas, dass ihr Herz zum strahlen bringt - und am besten **nachhaltig**, **mit Liebe** und für die Last-Minute-Geschenk Sucher **schnell lieferbar** sein. Keine Sorge: I got you ♥ mit den 10 besten Tipps für spirituelle Weihnachtsgeschenke für ein bewussteres, schöneres und erfülltes Leben. Dabei handelt es sich nicht nur um Geschenke für Frauen, sondern für wirklich jeden.
 
-Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit Geburtstagsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
+Damit du das passende Geschenk schnell und einfach findest habe ich die einzelnen Kategorien in verschiedene Geschenkvorschläge unterteilt. Die Preise liegen **zwischen 10 Euro** und **50 Euro** - so günstig kann ein Geschenk sein, welches deinen Liebsten langfristig ein Lächeln ins Gesicht zaubert! Yay! Also, bist du bereit Weihnachtsgeschenke für deinen Freund, deine Freundin, deine Eltern und alle anderen Herzensmenschen zu besorgen? Los geht´s!
 
 ***
 
@@ -107,6 +107,18 @@ Passend zum Räucher-Set eignet sich dieses Handbuch rund um das Räuchern. Die 
 ***
 
 ## **Tipp 2: Wohnen & Leben**
+
+#### ↠ Mondkalender mit Sternzeichen & Portaltagen ↞
+
+Dieser wunderschöne Mondkalender für 2022 zeigt nicht nur auf einen Blick alle Mondphasen, die dazugehörigen Sternzeichen und Portaltage, sondern er ist auch ein echter Hingucker für jedes spirituelle Zuhause! Das perfekte Last Minute Weihnachtsgeschenk, denn du kannst diesen Kalender zu Hause ausdrucken.
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> _Einzigartiger Mondkalender mit allen Portaltagen, Mondphasen und zugehörigen Sternzeichen; LAST MINUTE Geschenkidee, da dieser Kalender direkt zu Hause oder im Copyshop nebenan ausgedruckt werden kann_
+
+**Verschenke diesen** <a href="https://www.etsy.com/de/listing/938608828/2022-mondkalender-mit-portaltagen?ref=listing_published_alert" target="_blank">**magischen Mondkalender**</a> **und schenke Verbundenheit mit dem Universum in 2022!** 
+
+***
 
 #### ↠ Blume des Lebens-Windspiel ↞
 

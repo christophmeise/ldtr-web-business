@@ -134,6 +134,24 @@ Dieser wunderschöne Mondkalender für 2022 zeigt nicht nur auf einen Blick alle
 
 ***
 
+#### ↠ Persönliches Transformations-Recording ↞
+
+Jeder einzelne hat es verdient sein bestes Leben zu kreieren und frei von jeglichen Blockaden und Limitierungen zu sein - was wäre, wenn du diese Freiheit dieses Jahr verschenkst? Stell dir kurz einmal vor WIE großartig es wäre, deinen Liebsten ein Geschenk zu machen, was es ihnen ermöglicht wahrhaft von innen heraus glücklich zu sein. Oder vielleicht ist es auch an der Zeit dir Selbst dieses Geschenk zu machen? 
+
+<a href="https://www.etsy.com/de/listing/974969303/personalisierte-selbst-hypnose-o?click_key=3f764e698fd98aa0b129781cb1d68b4597c2ccd5%3A974969303&click_sum=8cc8ea90&ref=shop_home_active_3" target="_blank">**Personalisierte Selbsthypnose zu Weihnachten verschenken***</a>
+
+![Spirituelles Weihnachtsgeschenk für Menschen, die schon alles haben](../../uploads/titel.png "Personalisierte Selbsthypnose zu Weihnachten verschenken*")
+
+> **_Was macht dieses Geschenk besonders?_**
+>
+> _Individuelle Hypnose-Aufnahme genau auf die Bedürfnisse des Beschenkten zugeschnitten; durch regelmäßiges Hören werden unterbewusste Blockaden gelöst und durch neue positive Glaubenssätze ersetzt; dauerhafte Umprogrammierung des Unterbewusstseins & Verbesserung der Lebensqualität auf körperlicher, emotionaler und geistiger Ebene_
+
+**_So ein tolles Geschenk hat wohl noch niemand bekommen - du kannst dieses Jahr zu Weihnachten dauerhaftes Glück, Freude und Freiheit verschenken!_**
+
+Alternativ kannst du auch einen INNER LIGHT Gutschein in deiner gewünschten Höhe erwerben. Dieses gibt es mit einer persönlichen Widmung direkt per Mail in dein Postfach, sodass du dieses besondere Weihachtsgeschenk auch noch LAST MINUTE verschenken kannst!
+
+***
+
 #### ↠ Blume des Lebens-Windspiel ↞
 
 Mit diesem faszinierenden Mobile, das in Bewegung gebracht, zauberhafte dreidimensionale Welten erschafft, zauberst du deinen Liebsten jeden Tag aufs Neue ein Lächeln ins Gesicht. Die Blume des Lebens ist ein uraltes kosmisches Symbol und erzeugt ein absolut harmonisches Schwingungsfeld.  Es energetisiert in Windeseile jeden Raum, indem es Stillstehendes aufwirbelt und wieder zum Fließen bringen. Magisch zieht es jeden Betrachter in Bann, verzaubert und bringt ihn zur inneren Mitte zurück.

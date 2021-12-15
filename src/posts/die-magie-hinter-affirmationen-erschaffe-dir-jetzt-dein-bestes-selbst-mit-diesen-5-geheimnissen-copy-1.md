@@ -60,14 +60,9 @@ Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis
 >
 > _Hochwertige Rohstoffe, lange Brenndauer, traditionell gefertigt, nachhaltige Produktion, Chakra-Aktivierung durch wundervolle Düfte für Meditation, Yoga oder einfach zur Entspannung_
 
-_  
-_**Entdecke auch diese Räucherstäbchen Sets als Geschenkidee:**
+**Entdecke auch diese Räucherstäbchen Sets als Geschenkidee:**
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=innerlight06-21&language=de_DE&marketplace=amazon&region=DE&placement=B00ENB6TS4&asins=B00ENB6TS4&linkId=15b53b3107caca2f78433a4e8b57294d&show_border=true&link_opens_in_new_window=true"></iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=innerlight06-21&language=de_DE&marketplace=amazon&region=DE&placement=B08FX3CN96&asins=B08FX3CN96&linkId=95fb2d0256dcfca338264677c8f99c08&show_border=true&link_opens_in_new_window=true"></iframe>
-
-<a href="https://www.amazon.de/dp/B099FDSHKD?psc=1&pd_rd_i=B099FDSHKD&pd_rd_w=vsjSt&pf_rd_p=4f2ceb27-95e9-46ab-8808-db390b56ec01&pd_rd_wg=Vh8XN&pf_rd_r=FDFWX3PMZ82EWZNGNQ4K&pd_rd_r=4ed5935b-39f8-422f-ab30-0a49754b797a&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUU1JWE1YQldWWkVOJmVuY3J5cHRlZElkPUEwMTE2MTI1M0lUUzBGNkNQMDVKRSZlbmNyeXB0ZWRBZElkPUEwMDYzOTczMkZMS1U2T0ZZU0VXUCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li2&tag=innerlight06-21&linkId=82146f55ede9c32b28dc56a163d591c9&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099FDSHKD&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B099FDSHKD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.de/dp/B00ENB6TS4?&linkCode=li2&tag=innerlight06-21&linkId=622910c2dc50252d94560676e940ad88&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ENB6TS4&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B00ENB6TS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/dp/B08FX3CN96?&linkCode=li2&tag=innerlight06-21&linkId=8699e1da25e03d3494e797088bbad65e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FX3CN96&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08FX3CN96" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/dp/B099FDSHKD?psc=1&pd_rd_i=B099FDSHKD&pd_rd_w=vsjSt&pf_rd_p=4f2ceb27-95e9-46ab-8808-db390b56ec01&pd_rd_wg=Vh8XN&pf_rd_r=FDFWX3PMZ82EWZNGNQ4K&pd_rd_r=4ed5935b-39f8-422f-ab30-0a49754b797a&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUU1JWE1YQldWWkVOJmVuY3J5cHRlZElkPUEwMTE2MTI1M0lUUzBGNkNQMDVKRSZlbmNyeXB0ZWRBZElkPUEwMDYzOTczMkZMS1U2T0ZZU0VXUCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li2&tag=innerlight06-21&linkId=88298ad855dbba609f263e95632f4347&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099FDSHKD&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B099FDSHKD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -395,7 +390,7 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 ***
 
-#### **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namast_![](../../uploads/2.png)
+#### **Ich freue mich, dass du deinen Liebsten eine so große Freude machen wirst - deine Liebe macht die Welt zu einem schöneren, friedvolleren Ort. Danke, dass es dich gibt, du wundervolle Seele!** _Namasté_![](../../uploads/2.png)
 
 ***
 

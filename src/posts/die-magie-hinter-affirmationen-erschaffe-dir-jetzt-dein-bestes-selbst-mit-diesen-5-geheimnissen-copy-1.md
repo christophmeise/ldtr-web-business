@@ -128,7 +128,7 @@ Dieser wunderschöne Mondkalender für 2022 zeigt nicht nur auf einen Blick alle
 >
 > _Einzigartiger Mondkalender mit allen Portaltagen, Mondphasen und zugehörigen Sternzeichen; LAST MINUTE Geschenkidee, da dieser Kalender direkt zu Hause oder im Copyshop nebenan ausgedruckt werden kann_
 
-![](../../uploads/8.png)
+![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
 **Verschenke diesen** <a href="https://www.etsy.com/de/listing/938608828/2022-mondkalender-mit-portaltagen?ref=listing_published_alert" target="_blank">**magischen Mondkalender**</a> **und schenke Verbundenheit mit dem Universum in 2022!**
 

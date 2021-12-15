@@ -140,7 +140,7 @@ Jeder einzelne hat es verdient sein bestes Leben zu kreieren und frei von jeglic
 
 <a href="https://www.etsy.com/de/listing/974969303/personalisierte-selbst-hypnose-o?click_key=3f764e698fd98aa0b129781cb1d68b4597c2ccd5%3A974969303&click_sum=8cc8ea90&ref=shop_home_active_3" target="_blank">**Personalisierte Selbsthypnose zu Weihnachten verschenken***</a>
 
-![Spirituelles Weihnachtsgeschenk für Menschen, die schon alles haben](../../uploads/titel.png "Personalisierte Selbsthypnose zu Weihnachten verschenken*")
+![](../../uploads/transformationsrecording.png)
 
 > **_Was macht dieses Geschenk besonders?_**
 >
@@ -148,11 +148,13 @@ Jeder einzelne hat es verdient sein bestes Leben zu kreieren und frei von jeglic
 
 **_So ein tolles Geschenk haben deine Liebsten bestimmt noch nicht bekommen - du kannst dieses Jahr zu Weihnachten dauerhaftes Glück, Freude und Freiheit verschenken!_**
 
-Alternativ kannst du auch einen INNER LIGHT Gutschein in deiner gewünschten Höhe erwerben. Dieses gibt es mit einer persönlichen Widmung direkt per Mail in dein Postfach, sodass du dieses besondere Weihachtsgeschenk auch noch LAST MINUTE verschenken kannst!
+***
+
+Alternativ kannst du auch einen **INNER LIGHT Gutschein** in deiner gewünschten Höhe erwerben. Dieses gibt es mit einer persönlichen Widmung direkt per Mail in dein Postfach, sodass du dieses besondere Weihachtsgeschenk auch noch LAST MINUTE verschenken kannst!
 
 ![](../../uploads/gutschein.png)
 
-Du hast Fragen oder willst dich beraten lassen? Dann schreib mir direkt eine E-Mail an info@innerlight-hypnotherapy.com oder vereinbare ein <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">unverbindliches Erstgespräch</a>mit mir ♥ 
+Du hast Fragen oder willst dich beraten lassen? Dann schreib mir direkt eine E-Mail an **_info@innerlight-hypnotherapy.com_** oder vereinbare ein <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">**unverbindliches Erstgespräch**</a> mit mir ♥ 
 
 ***
 

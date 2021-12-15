@@ -340,13 +340,17 @@ Ob du es selbst für deine Liebsten bastelst oder dieses tolle DIY Set verschenk
 
 Ob erfahrener Räucherliebhaber oder Anfänger - Mit dieser kleinen Hexenkiste verschenkst du kreative Momente, um die persönlichen Räuchermischungen herzustellen. In diesem Set ist alles was man braucht dabei - ein perfektes Geschenk für alle Räucher-Anfänger und Kreative!
 
+<a href="https://amzn.to/2JWlMG5" target="_blank">__Starterset für´s Räuchern zu Weihnachten verschenken*__</a>
+
+<a href="https://www.amazon.de/NKlaus-Starterpaket-R%C3%A4ucherst%C3%B6vchen-R%C3%A4uchermischungen-Weihrauch/dp/B08MV215Z6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=r%C3%A4ucherset+starterpaket&qid=1608030811&sr=8-1-spons&psc=1&smid=A599EDTCMFNU0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWlk3VFBJVldTQU1QJmVuY3J5cHRlZElkPUEwNTUxMDc1M0RFUVNaMk9MSFY1RyZlbmNyeXB0ZWRBZElkPUExMDAzOTcxM0I3TkNHMVhBRDRPMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li2&tag=innerlight06-21&linkId=d55520deccd9f9995f1e630874559e9e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08MV215Z6&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08MV215Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 > **_Was macht dieses Geschenk besonders?_**
 >
 > _13-teiliges Starterset, zum sofortigen Start mit dem Räuchern, verschiedene Räucherkräuter zum kreativ werden und ausprobieren_
 
-**Das Starterpaket mit verschiedenen Räuchermischungen gibt es** <a href="https://amzn.to/2JWlMG5" target="_blank">hier*</a>.
+**Entdecke auch diese Räuchersets als Geschenkidee*:**
 
-<a href="https://www.amazon.de/NKlaus-Starterpaket-R%C3%A4ucherst%C3%B6vchen-R%C3%A4uchermischungen-Weihrauch/dp/B08MV215Z6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=r%C3%A4ucherset+starterpaket&qid=1608030811&sr=8-1-spons&psc=1&smid=A599EDTCMFNU0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWlk3VFBJVldTQU1QJmVuY3J5cHRlZElkPUEwNTUxMDc1M0RFUVNaMk9MSFY1RyZlbmNyeXB0ZWRBZElkPUExMDAzOTcxM0I3TkNHMVhBRDRPMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li2&tag=innerlight06-21&linkId=58f3799a2f4765f1a68b42db0c7804fd&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08MV215Z6&Format=SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08MV215Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/R%C3%A4ucherpfanne-Set-teilig-R%C3%A4uchergef%C3%A4%C3%9F-R%C3%A4ucherkohle/dp/B07HMKJ14C?pd_rd_w=nhqWE&pf_rd_p=ad79fb78-2eb6-4fd8-b228-cb6e6b4589d9&pf_rd_r=KX2KMGK6XZTK26H0VNVA&pd_rd_r=0879ace4-a395-44d8-913c-051503e27239&pd_rd_wg=FMV9Y&pd_rd_i=B07HMKJ14C&psc=1&linkCode=li2&tag=innerlight06-21&linkId=a00d487a72b5ad1ac27a3626cd48807c&language=de_DE&ref=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HMKJ14C&Format=SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07HMKJ14C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Esoterik-Versand-Weihrauchbrenner-10-teiliges-Schnupper-Set-32seitige/dp/B07KJB8BXJ?pd_rd_w=nhqWE&pf_rd_p=ad79fb78-2eb6-4fd8-b228-cb6e6b4589d9&pf_rd_r=KX2KMGK6XZTK26H0VNVA&pd_rd_r=0879ace4-a395-44d8-913c-051503e27239&pd_rd_wg=FMV9Y&pd_rd_i=B07KJB8BXJ&psc=1&linkCode=li2&tag=innerlight06-21&linkId=3b9ec82d20588554c98ac6936f22aeca&language=de_DE&ref=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KJB8BXJ&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07KJB8BXJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.de/dp/B08YKBLS1K?psc=1&pd_rd_i=B08YKBLS1K&pd_rd_w=qixGj&pf_rd_p=4f2ceb27-95e9-46ab-8808-db390b56ec01&pd_rd_wg=uPVVX&pf_rd_r=WD5TDVJ36X79YD15FJFR&pd_rd_r=383172d4-2621-4215-986a-1c10d174f57d&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySklDWDU0WElDNk5IJmVuY3J5cHRlZElkPUEwMDUyNDIxM1BDVkpDSEI5M0tHUiZlbmNyeXB0ZWRBZElkPUEwODQxODcwVktBN0IxWFpKSVM5JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=li2&tag=innerlight06-21&linkId=468e767038cb1ca7e3615534245dc13d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08YKBLS1K&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08YKBLS1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/R%C3%A4ucherpfanne-Set-teilig-R%C3%A4uchergef%C3%A4%C3%9F-R%C3%A4ucherkohle/dp/B07HMKJ14C?pd_rd_w=nhqWE&pf_rd_p=ad79fb78-2eb6-4fd8-b228-cb6e6b4589d9&pf_rd_r=KX2KMGK6XZTK26H0VNVA&pd_rd_r=0879ace4-a395-44d8-913c-051503e27239&pd_rd_wg=FMV9Y&pd_rd_i=B07HMKJ14C&psc=1&linkCode=li2&tag=innerlight06-21&linkId=a00d487a72b5ad1ac27a3626cd48807c&language=de_DE&ref=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HMKJ14C&Format=SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07HMKJ14C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><a href="https://www.amazon.de/Esoterik-Versand-Weihrauchbrenner-10-teiliges-Schnupper-Set-32seitige/dp/B07KJB8BXJ?pd_rd_w=nhqWE&pf_rd_p=ad79fb78-2eb6-4fd8-b228-cb6e6b4589d9&pf_rd_r=KX2KMGK6XZTK26H0VNVA&pd_rd_r=0879ace4-a395-44d8-913c-051503e27239&pd_rd_wg=FMV9Y&pd_rd_i=B07KJB8BXJ&psc=1&linkCode=li2&tag=innerlight06-21&linkId=3b9ec82d20588554c98ac6936f22aeca&language=de_DE&ref=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KJB8BXJ&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07KJB8BXJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ***
 
@@ -360,7 +364,7 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 >
 > _inspirierendes und erbauendes Buch, voll mit Geschichten von Liebe, Hoffnung, Glück und der Überwindung von Leiden; wundervolle Geschenkidee für jung und alt_
 
-**Das Buch "Die Kuh, die weinte" gibt es** <a href="https://amzn.to/3qY9qxL" target="_blank">hier*</a>.
+<a href="https://amzn.to/3qY9qxL" target="_blank">__"Die Kuh, die weinte" zu Weihnachten verschenken*__</a>.
 
 <a href="https://www.amazon.de/dp/3778781839?coliid=I1JYMPJCVZTSWV&colid=FCK5BNIBCT8E&psc=1&linkCode=li2&tag=innerlight06-21&linkId=4f7a408bf5419caf6d6efaf3b53fcfc3&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3778781839&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3778781839" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -370,11 +374,11 @@ Große Geschenk-Empfehlung für gemütliche Stunden vor dem Kamin - dieses beson
 
 Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese Sonderedition von John Strelecky ist beinhaltet eine zusätzliche Weihnachtsgeschichte - ein perfektes Buch für besinnliche Stunden unter dem Weihnachtsbaum.
 
+<a href="https://amzn.to/2JZc45Q" target="_blank">__Das Buch "Das Café am Rande der Welt" zu Weihnachten verschenken*__</a>.
+
 > **_Was macht dieses Geschenk besonders?_**
 >
 > _lebendiges, humorvolles und inspirierendes Buch; kurzweilig zu lesen; Sonderedition mit Weihnachtsgeschichte_
-
-**Das Buch "Das Café am Rande der Welt" gibt es** <a href="https://amzn.to/2JZc45Q" target="_blank">hier*</a>.
 
 <a href="https://www.amazon.de/Das-Caf%C3%A9-Rande-Welt-Erz%C3%A4hlung/dp/3423289848?_encoding=UTF8&qid=1608031051&sr=1-1&linkCode=li2&tag=innerlight06-21&linkId=dfc91fd633daf77ea021a44ac70b0d14&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3423289848&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=3423289848" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -386,11 +390,11 @@ Eine Erzählung über den Sinn des Lebens zum Verschenken und Selberlesen. Diese
 
 Verschenke Gesundheit auf allen Ebenen - mit diesem Buch geht es auf eine kleine Reise ins alte Indien, um sich von der Lebensphilosophie des Ayurveda inspirieren zu lassen. Das perfekte Kochbuch zum Entgiften und zur Aktivierung der Selbstheilungskräfte.
 
+<a href="https://amzn.to/3oPL7QL" target="_blank">__Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test zu Weihnachen verschenken*__</a>.
+
 > **_Was macht dieses Geschenk besonders?_**
 >
 > _fundiertes Wissen und praktische Alltagstipps rund um ayurvedische Ernährung, inkl. 100 außergewöhnliche, sehr leckere und leichtzubereitende Rezepte,  mit umfangreichen Dosha-Test_
-
-**Das Ayurveda-Kochbuch inkl. Rezepten und Dosha-Test gibt es** <a href="https://amzn.to/3oPL7QL" target="_blank">hier*</a>.
 
 <a href="https://www.amazon.de/Ayurveda-Kochbuch-Selbstheilung-Entgiften-Dosha-Test/dp/B08LJ9TKT3?_encoding=UTF8&coliid=I24EFWDO0DQI3K&colid=FCK5BNIBCT8E&qid=&sr=&linkCode=li2&tag=innerlight06-21&linkId=07a7b433218d54a8b8a264d72c3ee0ec&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LJ9TKT3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B08LJ9TKT3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -438,4 +442,4 @@ Verschenke ein Stück vom Glück! Über diese tolle Seite kannst du an Menschen 
 
 ***
 
-_*Dies ist ein Affiliate-Link. Wenn du auf diesen Link klickst und einen Kauf abschließt unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts. Danke!_
+_*Dies ist ein Affiliate-Link. Wenn du auf diesen Link klickst und einen Kauf abschließt, unterstützt du damit INNER LIGHT mit einer kleinen Provision. Für dich ändert sich dadurch nichts. Danke!_

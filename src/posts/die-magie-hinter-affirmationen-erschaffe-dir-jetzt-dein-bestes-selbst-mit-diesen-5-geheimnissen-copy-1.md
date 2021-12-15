@@ -54,6 +54,8 @@ Damit du das passende Geschenk schnell und einfach findest habe ich die einzelne
 
 Meine absoluten Lieblingsräucherstäbchen sind das perfekte Geschenk für Yogis & spirituelle Duft-Liebhaber: Die _Premium Masala Räucherstäbchen_ für alle 7 Chakren zeichnen sich durch sehr hohe Qualität und besonders intensiven, lang anhaltenden Duft aus. Angezündet verbreiten sie einen sehr feinen, unvergleichlichen Duft der dazu einlädt, einfach die Seele baumeln zu lassen. Zur Herstellung werden aromatische Kräuter, feine Harze und ätherische Öle verwendet. Diese Paste wird traditionell per Hand auf die Bambusstäbchen gerollt, getrocknet und anschließend in silberne Beutel verpackt.
 
+<a href="https://amzn.to/3yr82b8" target="_blank">__Räucherstäbchen-Set verschenken*__</a>
+
 <a href="https://www.amazon.de/R%C3%A4ucherst%C3%A4bchen-Muladhara-Swadhisthana-Meditation-Geschenkset/dp/B07RWD25J8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=luxflair+chakra&qid=1639565940&s=kitchen&sr=1-1&linkCode=li2&tag=innerlight06-21&linkId=e0d6489f40638e558ea015adec5c567e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07RWD25J8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=innerlight06-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=innerlight06-21&language=de_DE&l=li2&o=3&a=B07RWD25J8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 > **_Was macht dieses Geschenk besonders?_**

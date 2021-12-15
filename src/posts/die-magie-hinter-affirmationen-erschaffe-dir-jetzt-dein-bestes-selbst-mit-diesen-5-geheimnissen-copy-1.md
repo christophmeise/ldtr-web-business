@@ -150,6 +150,8 @@ Jeder einzelne hat es verdient sein bestes Leben zu kreieren und frei von jeglic
 
 Alternativ kannst du auch einen INNER LIGHT Gutschein in deiner gewünschten Höhe erwerben. Dieses gibt es mit einer persönlichen Widmung direkt per Mail in dein Postfach, sodass du dieses besondere Weihachtsgeschenk auch noch LAST MINUTE verschenken kannst!
 
+![](../../uploads/gutschein_innerlight_weihnachten-2021.png)
+
 ***
 
 #### ↠ Blume des Lebens-Windspiel ↞

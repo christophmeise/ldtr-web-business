@@ -146,11 +146,13 @@ Jeder einzelne hat es verdient sein bestes Leben zu kreieren und frei von jeglic
 >
 > _Individuelle Hypnose-Aufnahme genau auf die Bedürfnisse des Beschenkten zugeschnitten; durch regelmäßiges Hören werden unterbewusste Blockaden gelöst und durch neue positive Glaubenssätze ersetzt; dauerhafte Umprogrammierung des Unterbewusstseins & Verbesserung der Lebensqualität auf körperlicher, emotionaler und geistiger Ebene_
 
-**_So ein tolles Geschenk hat wohl noch niemand bekommen - du kannst dieses Jahr zu Weihnachten dauerhaftes Glück, Freude und Freiheit verschenken!_**
+**_So ein tolles Geschenk haben deine Liebsten bestimmt noch nicht bekommen - du kannst dieses Jahr zu Weihnachten dauerhaftes Glück, Freude und Freiheit verschenken!_**
 
 Alternativ kannst du auch einen INNER LIGHT Gutschein in deiner gewünschten Höhe erwerben. Dieses gibt es mit einer persönlichen Widmung direkt per Mail in dein Postfach, sodass du dieses besondere Weihachtsgeschenk auch noch LAST MINUTE verschenken kannst!
 
-<a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">![](../../uploads/gutschein_innerlight_weihnachten-2021.png)</a>
+![](../../uploads/gutschein.png)
+
+Du hast Fragen oder willst dich beraten lassen? Dann schreib mir direkt eine E-Mail an info@innerlight-hypnotherapy.com oder vereinbare ein <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">unverbindliches Erstgespräch</a>mit mir ♥ 
 
 ***
 

@@ -2,7 +2,7 @@
 title: Was ist RTT?
 path: "/vergebung-als-weg-zu-deiner-freiheit"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2021-12-31T00:00:00.000+01:00
+date: 2024-12-30T23:53:00+01:00
 tags:
 - Selflove
 - Personal Development

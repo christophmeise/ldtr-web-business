@@ -2,7 +2,7 @@
 title: Die 10 besten Weihnachtsgeschenke für spirituelle Menschen
 path: "/geschenke-fuer-spirituelle-Menschen"
 featuredImage: "../../uploads/roberto-nickson-u6fdue2x11g-unsplash.jpg"
-date: 2021-12-14T00:00:00+01:00
+date: 2022-11-26T00:00:00+01:00
 tags:
 - Geschenke
 - Spiritualität

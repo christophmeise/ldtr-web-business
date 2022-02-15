@@ -2,7 +2,7 @@
 title: Nichtraucher werden durch Hypnose - geht das wirklich?
 path: "/nichtraucher-durch-hypnose-ohne-entzug"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
-date: 2021-12-30T00:00:00+01:00
+date: 2024-12-31T00:00:00+01:00
 tags:
 - Geschenke
 - Spiritualität

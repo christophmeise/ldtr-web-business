@@ -3,7 +3,7 @@ title: Die Magie hinter Affirmationen - erschaffe dir jetzt dein bestes Selbst m
   diesen 5 Geheimnissen
 path: "/die-magie-von-affirmationen"
 featuredImage: "../../uploads/content-pixie-2v5pjggqyts-unsplash.jpg"
-date: 2021-12-31T00:00:00.000+01:00
+date: 2024-12-31T00:00:00+01:00
 tags:
 - Selflove
 - Personal Development

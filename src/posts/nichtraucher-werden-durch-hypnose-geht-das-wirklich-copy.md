@@ -23,10 +23,10 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Vollmonde und Neumonde laden uns dazu ein, wieder mehr in Zyklen zu leben
-  und natürliche Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der
-  Natur und der in ihr lebenden Magie verbinden will, kann deshalb die Mondphasen
-  nutzen, um sich mit Ritualen auf den besonderen Zauber einzuschwingen.
+abstract: Mond-Rituale laden uns dazu ein, wieder mehr in Zyklen zu leben und natürliche
+  Rhythmen in unseren Alltag zu integrieren. Wer sich mehr mit der Natur und der in
+  ihr lebenden Magie verbinden will, kann deshalb die Mondphasen nutzen, um sich mit
+  Ritualen auf den besonderen Zauber einzuschwingen.
 
 ---
 ## Wie du die Mond-Energie für dich nutzen kannst
@@ -37,7 +37,7 @@ Das Ritual, das ich heute mit dir teilen möchte, ist eine Basisritual, das Du b
 
 Jeder Vollmond hat jedoch eine ganz eigene Wirkung je nach Sternzeichen und Zeitqualität und dementsprechend kannst Du dein Ritual immer etwas anpassen. **Jeden Monat veranstalten wir ein INNER LIGHT Vollmond-Ritual als Online-Event mit wundervollen Herzensmenschen und spirituellen Suchern**. Dort gehen wir auf die Energien ein, die uns aktuell umgeben und beeinflussen. Neben geführten Meditationen, Live-Hypnosen und Karten legen bekommst du dort auch einen sicheren, geschützten Raum, um dich mit anderen wundervollen Seelen über deine Herausforderungen auszutauschen.
 
-> ##### Du möchtest zum letzten Vollmond am 19. Dezember beim <a href="https://www.meetup.com/de-DE/inner-light-spirituelle-community/events/282621341/" target="_blank">INNER LIGHT Vollmond-Ritual</a> dabei sein? Dort werden wir zusammen all das loslassen, was dir nicht mehr dient, damit du voller Liebe, Licht und Schöpferkraft das neue Jahr genau so kreieren kannst, wie du es dir wünschst. 
+> ##### Du möchtest beim nächsten Mond-Ritual dabei sein? Dann komm in unsere <a href="https://www.meetup.com/de-DE/inner-light-spirituelle-community/" target="_blank">INNER LIGHT MeetUp Gruppe</a> und erfahre immer, wann das nächste Ritual stattfindet. 
 >
 > ##### Wir freuen uns auf dich! ♥
 
@@ -97,7 +97,7 @@ Die Energie des Vollmondes hält eine Weile an und Du kannst das Ritual auch 1-2
 
 Genieße die Magie des Abends und das wundervolle Gefühl nach dem Ritual. Happy Full Moon!
 
-##### Ich freue mich sehr für dich, dass du bereit bist deine Macht über dein Leben zu nutzen um dein wahres Selbst heller und heller scheinen zu lassen. Danke, dass es dich gibt, du wundervolle Seele! _Namasté_
+##### Ich freue mich sehr für dich, dass du bereit bist dein wahres Selbst heller und heller scheinen zu lassen. Danke, dass es dich gibt, du wundervolle Seele! _Namasté_
 
 ***
 

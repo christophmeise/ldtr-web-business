@@ -2,7 +2,7 @@
 title: Die 10 besten Geschenkideen für spirituelle Menschen
 path: "/spirituelle-geschenkideen"
 featuredImage: "../../uploads/tetiana-shadrina-bgdvaapofe0-unsplash_gross.jpg"
-date: 2022-02-14T00:00:00+01:00
+date: 2023-02-01T00:00:00+01:00
 tags:
 - Geschenke
 - Spiritualität

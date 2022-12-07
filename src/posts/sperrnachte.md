@@ -45,11 +45,11 @@ Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt dahe
 
 Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem wahren Selbst in Einklang ist, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen. 
 
-![](../../uploads/8.png)
+![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
 > **_Schenke dir Selbst dieses Weihnachten deinen eigenen_**
 >
-> **_<a href="https://www.etsy.com/de/listing/938608828/2022-mondkalender-mit-portaltagen?ref=listing_published_alert" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen für 2022</a>_**
+> **_<a href="**https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen**" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen</a>_**
 >
 > **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
 

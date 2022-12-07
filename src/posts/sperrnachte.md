@@ -2,7 +2,7 @@
 title: Die Magie der Dunkelnächte
 path: "/dunkelnaechte"
 featuredImage: "../../uploads/blogbeitrag_header.png"
-date: 2022-12-06T00:00:00+01:00
+date: 2022-12-07T21:30:00+01:00
 tags:
 - Spiritualität
 - Rituale

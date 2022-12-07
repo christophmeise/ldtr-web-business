@@ -1,8 +1,8 @@
 ---
-title: Die Magie der Sperrnächte
-path: "/sperrnaechte-rituale"
+title: Die Magie der Dunkelnächte
+path: "/dunkelnaechte"
 featuredImage: "../../uploads/blogbeitrag_header.png"
-date: 2021-12-08T00:00:00+01:00
+date: 2022-12-07T00:00:00+01:00
 tags:
 - Spiritualität
 - Rituale
@@ -23,43 +23,49 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Die Sperrnächte, die Zeit zum Rückblick, sind ebenso wie die Rauhnächte,
-  Portaltage im Jahreskreis. Finde heraus, was es mit der Magie der Dunkelnächte auf
-  sich hat und mit welchen Ritualen du dieses Jahr auf körperlicher, geistiger und
-  seelischer Ebene abschließen kannst.
+abstract: Die Dunkelnächte sind besondere Portaltage, die es dir ermöglichen all das
+  loszulassen, was du nicht mit ins neue Jahr nehmen willst. Finde heraus, was es
+  mit der Magie der Dunkelnächte auf sich hat und mit welchen Ritualen du dieses Jahr
+  auf körperlicher, geistiger und seelischer Ebene abschließen kannst.
 
 ---
-## Tauche ein in die Magie der Dunkelnächte
+## Was ist der Unterschied zwischen den Rauhnächten und den Sperrnächten?
 
-Die magische Zeit der Rauhnächte steht kurz bevor und es kommt die Zeit das Jahr 2022 genau so zu manifestieren, wie du es dir wünschst. Aber wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das losgelassen hast, was du dir nicht mehr dient? Dafür sind die Dunkelnächte da, denn sie sind Portaltage in denen wir zur Innenschau angehalten werden. Diese werden auch Sperrnächte genannt und sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte. Diese Tage, meist vom 8. bis 19. Dezember, können wir nutzen, um das alte Jahr bewusst abzuschließen. Denn erst wenn dieses aktuelle Jahr auf Ebene deines Seelenwegs wirklich verarbeitet und integriert ist, dann bist du bereit für einen Neuanfang.
+Vielleicht hast du schon von den Rauhnächten gehört - eine magische Zeit zwischen dem 24. Dezember und dem 06. Januar, in welcher sich der Schleier zu den höheren Dimensionen lichtet und unsere **Manifestationsmagie** für das kommende Jahr aktiviert. Klingt super, oder? Ja, ich hör dich denken - "und wie genau kann ich das für mich nutzen?" Got you, beautiful soul! Denn dieses Jahr wird es erstmalig das [**INNER LIGHT Rauhnachts-Retreat**](https://elopage.com/s/innerlight/rauhnachts-challenge "Rauhnachts-Retreat 2022") geben, wo du dich mit deiner Seele verbindest und eine Schritt-für-Schritt Guidance von mir bekommst, wie du 2023 zu deinem YEARS OF MIRACLES machst!
+
+_Jetzt aber die große Frage - wann sind denn jetzt bitte diese Sperrnächte?_ Ha, gut das du fragst ;) Denn wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das **losgelassen** hast, was du dir nicht mehr dient? Genau dafür sind die **Sperrnächte** (auch Dunkelnächte genannt) da, denn sie sind **Portaltage**, in denen wir zur Innenschau angehalten werden. Diese sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte. 
+
+Diese Zeit **vom 8. bis 19. Dezember** können wir nutzen, um das alte Jahr bewusst abzuschließen. Denn erst wenn dieses aktuelle Jahr auf Ebene deines Seelenwegs wirklich verarbeitet und integriert ist, dann bist du bereit für den _Zauber des Neuanfangs._
 
 ### **Die Geschichte der Sperrnächte bzw. Dunkelnächte**
 
-Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu genutzt, um Haus und Hof winterfest zu machen und alle landwirtschaftlichen Geräte wegzuräumen und wegzusperren. Denn der Winter war keine Zeit, in der das Feld bearbeitet wurde, sondern eine Zeit, die vorwiegend im geschützten Innenraum verbracht wurde. Auch die Natur zieht sich in diesen dunkelsten Tagen des Jahres entdgültig zurück. Viele Tiere gehen in den Winterschlaf oder in die Winterruhe und auch die Pflanzen haben endgültig ihre Säfte unter die Erde verlegt.
+Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu genutzt, um Haus und Hof winterfest zu machen und alle landwirtschaftlichen Geräte wegzuräumen und wegzusperren. Denn der Winter war keine Zeit, in der das Feld bearbeitet wurde, sondern eine Zeit, die vorwiegend im geschützten Innenraum verbracht wurde. Auch die Natur zieht sich in diesen dunkelsten Tagen des Jahres endgültig zurück. Viele Tiere gehen in den Winterschlaf oder in die Winterruhe und auch die Pflanzen haben endgültig ihre Säfte unter die Erde verlegt.
 
-Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein uns bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen, was uns nicht mehr dient. Dabei unterstützt uns die Energie der Portaltage dabei die eigenen Schatten zu erkennen und aufzulösen, so dass auch wir am Ende der Sperrnächte unser inneres Licht mit neuer Kraft aus uns heraus strahlen lassen können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und die Zeit bewusst zur Innenschau nutzen.
+Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein, uns **bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen**, was uns nicht mehr dient. Dabei unterstützen uns die Energien der Portaltage, die eigenen **Schatten zu erkennen und aufzulösen**, sodass wir am Ende der Sperrnächte unser inneres Licht mit der [Kraft der Rauhnächte](https://elopage.com/s/innerlight/rauhnachts-challenge "Die Magie der Rauhnächte") aktivieren können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und diese Zeit bewusst zur Innenschau nutzen.
 
-Heute nutzen wir die Kraft der Sperr- und Dunkelnächte als Loslassprozess für unsere Seele und als eine ganz besondere Form der Jahresrückschau. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
+Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem wahren Selbst in Einklang ist, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen. 
 
 ![](../../uploads/8.png)
 
-> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** 
+> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_**
 >
 > **_<a href="https://www.etsy.com/de/listing/938608828/2022-mondkalender-mit-portaltagen?ref=listing_published_alert" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen für 2022</a>_**
 >
->  **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
+> **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
 
 ### **Wie du die Energie der Sperrnächte nutzt**
 
-Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Manchmal halten intensive Erlebnisse wie der Verlust eines geliebten Menschens oder Tieres, eine Trennung oder schwierige Entscheidungen in uns aber Emotionen wie Wut, Scham oder Trauer gefangen. Erst wenn wir diesen Gefühle wirklich Raum geben und sie annehmen, können wir sie in Liebe transformieren und wirklich frei davon sein.
+Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Unsere Seele weiß das, aber aus unserer menschlichen Erfahrungen können schmerzhafte Erlebnisse wie der Verlust eines geliebten Menschens oder Tieres, eine Trennung oder schwierige Entscheidungen, dazu führen, dass wir unaufgearbeitete Emotionen in uns festhalten. Kann diese Energie nicht frei fließen, weil wir den Schmerz von unserem Herz abschirmen wollen, so bleiben sie in unserem System und tragen sie mit ins neue Jahr. 
 
-Die Zeit der Dunkelnächte ist daher vor allem eine Zeit der Annahme und der Vergebung - anderen und vor allem dir Selbst. Lasse wirklich jegliche (Selbst)Verurteilung los, denn nur so bist du frei deinen Seelenweg weiter zu gehen und das neue Jahr aus der Liebe und aus der Kraft heraus so zu gestalten, wie du es dir wünschst.
+ Erst wenn wir auch den unangenehmen Gefühlen wie Wut, Scham oder Schuld wirklich **Raum geben, sie annehmen und ihre tiefere Message für uns verstehen können,** sind wir bereit sie in Liebe zu transformieren und wirklich frei davon sein.
 
-Dabei gibt es verschiedene Rituale, die dich dabei unterstützen können die Energie der Sperrnächte zu nutzen - drei davon werde ich hier mit dir teilen ♥
+Die Zeit der Dunkelnächte ist daher vor allem eine **Zeit der Annahme und der Vergebung** - anderen und vor allem dir Selbst. Lasse wirklich jegliche (Selbst)Verurteilung los, denn nur so bist du frei deinen **Seelenweg** weiter zu gehen und das neue Jahr aus der Liebe und aus der Kraft heraus so zu gestalten, wie du es dir wünschst.
+
+Dabei gibt es verschiedene Rituale, die dich dabei unterstützen können, die Energie der Sperrnächte zu nutzen - drei davon werde ich hier mit dir teilen ♥
 
 ### **Rückblick-Ritual**
 
-Bei diesem Ritual geht es darum sich bewusst zu machen, was in diesem Jahr alles passiert ist und dankbar für die zahlreichen Erfahrungen, Begegnungen und Momente zu sein. Fühle dafür an jedem Tag der Dunkelnächte in den entsprechenden Monat rein und lasse ihn Revue passieren:
+Bei diesem Ritual geht es darum sich **bewusst zu machen**, was in diesem Jahr alles passiert ist und **dankbar** für die zahlreichen Erfahrungen, Begegnungen und Momente zu sein. Fühle dafür an jedem Tag der Dunkelnächte in den entsprechenden Monat rein und lasse ihn Revue passieren:
 
 > _8. auf 9. Dezember – Januar_
 >
@@ -85,45 +91,47 @@ Bei diesem Ritual geht es darum sich bewusst zu machen, was in diesem Jahr alles
 >
 > _19. auf 20. Dezember – Dezember_
 
-Nimm dir an diesen Tagen, wenn du magst, jeden Abend etwas Zeit für dich. Gehe in die Stille oder mache einen Spaziergang und lasse den entsprechenden Monat Revue passieren. Vielleicht notierst du dir das Jahr über viel im Kalender oder hast ein Tagebuch, dann blättere diese durch, um dir wieder bewusst zu machen was alles passiert ist und vor allem - wie du dich gefühlt hast.
+Nimm dir an diesen Tagen, wenn du magst, **jeden Abend etwas Zeit für dich**. Gehe in die Stille oder mache einen Spaziergang und lasse den entsprechenden Monat Revue passieren. Vielleicht notierst du dir das Jahr über viel im Kalender oder hast ein Tagebuch - dann blättere diese durch, um dir wieder bewusst zu machen, was alles passiert ist und vor allem - **wie du dich gefühlt hast.**
 
-Folgende Fragen kannst du dir stellen, um dir die Erfahrungen des jeweiligen Monats bewusst zu machen und zu verarbeiten:
+_Folgende Fragen kannst du dir stellen, um dir die Erfahrungen des jeweiligen Monats bewusst zu machen und zu verarbeiten:_
 
 * Was war gut, was hat mich erfreut, wo war ich erfolgreich, was hat mich erfüllt/bereichert?  
-  → Gehe bewusst in dieses Gefühl und lasse es nochmal dein Herz erfüllen
-* Was war schlecht? Wo habe ich mich geärgert? Wo hat man mich gekränkt/ausgelacht/ungerecht behandelt?  
-  → Fühle auch hier hinein, ob du vergeben kannst oder was es noch braucht, um das Erlebte loszulassen und abzuschließen
+  _→ Gehe bewusst in dieses Gefühl und lasse es nochmal dein **Herz erfüllen**_
+* Was war schlecht? Wo habe ich mich geärgert? Wo hat man mich gekränkt/verletzt/ungerecht behandelt?  
+  _→ Fühle auch hier hinein, ob du **vergeben** kannst oder was es noch braucht, um das Erlebte loszulassen und abzuschließen_
 * Was habe ich erfahren und daraus gelernt?  
-  → Das sind Dinge, die du „verstanden“ hast, aus denen du jetzt neue Schlüsse und Erkenntnisse für die Zukunft gezogen hast
+  _→ Das sind Dinge, die du „verstanden“ hast, aus denen du jetzt neue Schlüsse und **Erkenntnisse für die Zukunft** ziehen kannst_
 * Welches Geschenk hat mir dieser Monat gebracht?
 
-Oftmals hilft es, wenn du dir Situationen, die nicht ganz optimal gelaufen sind, einfach nochmal mit etwas Abstand anschaust - sie bewusst wahrnimmst und fühlst. Allein dadurch würdigst du deine Erfahrung und oftmals braucht es gar nicht mehr, um diese dann loszulassen.
+  _→ Das Geschenk in **allen** Erfahrungen und Begegnungen sehen zu lernen, ermöglicht es uns in Kontakt mit unserem Seelenweg zu kommen_
+
+Oftmals hilft es, wenn du dir Situationen, die nicht ganz optimal gelaufen sind, einfach nochmal mit etwas Abstand anschaust - sie bewusst wahrnimmst und in sie hinein fühlst. Allein dadurch würdigst du deine Erfahrung und oftmals braucht es gar nicht mehr, um diese dann loszulassen.
 
 ### **Loslass-Ritual**
 
-Der beste Zeitpunkt, um loszulassen, was dir nicht mehr dient, liegt immer im Hier und Jetzt. Oft geht die Reflektion unserer Erfahrungen jedoch im Alltag unter - wenn sich über das Jahr hinweg also einiges angesammelt hat, was dir nicht mehr dienlich ist, dann nutze auf jeden Fall die hochschwingenden Portaltage, die uns während der sogenannten Sperr- oder Dunkelnächten erwarten.
+Der beste Zeitpunkt, um loszulassen, was dir nicht mehr dient, liegt immer im **Hier und Jetzt.** Oft geht die Reflektion unserer Erfahrungen jedoch im Alltag unter - wenn sich über das Jahr hinweg also einiges angesammelt hat, was dir nicht mehr dienlich ist, dann nutze auf jeden Fall die hochschwingenden Portaltage, die uns während der sogenannten Sperr- oder Dunkelnächten erwarten.
 
-Stell dir für dieses Loslass-Ritual zu Beginn der Sperrnächte zum Beispiel die folgenden Fragen:
+_Stell dir für dieses Loslass-Ritual zu Beginn der Sperrnächte zum Beispiel die folgenden Fragen:_
 
-* Was möchte ich alles loslassen, was mir nicht mehr dienlich ist?
-* Welche Angewohnheit dient mir nicht mehr oder hindert mich daran mein bestes Leben zu leben?
-* Welchen limitierenden Glaubenssatz bin ich bereit endgültig zu transformieren?
-* Was soll mich im neuen Jahr nicht mehr belasten?
-* Was hat mich bisher davon abgehalten wirklich loszulassen?
+* Was möchte ich **konkret loslassen**, was mir nicht mehr dienlich ist?
+* Welche **Angewohnheit** dient mir nicht mehr oder hindert mich daran mein bestes Leben zu leben?
+* Welchen **limitierenden Glaubenssatz** bin ich bereit endgültig zu transformieren?
+* Welche **Sorgen und negativen Gedanken** sollen mich im neuen Jahr nicht mehr belasten?
+* Was hat mich **bisher davon abgehalten** wirklich loszulassen?
 
-Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch nicht endgültig wahr anfühlt - zunächst in eine kleine Kiste legen und wegsperren. Wenn du das Gefühl hast, das du wirklich bereit bist dich von diesen Dingen zu lösen, dann kannst du die Zettel am letzten Tag dem Feuer übergeben und während eines Räucherrituals auf körperlicher, geistiger und seelischer Ebene.
+Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch nicht endgültig wahr anfühlt - zunächst **in eine kleine Kiste legen** und wegsperren. Wenn du das Gefühl hast, dass du wirklich bereit bist, dich von diesen Dingen zu lösen, dann kannst du die Zettel _am letzten Tag der Sperrnächte, dem 20. Dezember,_ dem **Feuer übergeben** und während eines Räucherrituals auf körperlicher, geistiger und seelischer Ebene.
 
-> **Wünschst du dir Unterstützung beim Loslassen all dieser Dinge?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein
+> **Du willst endgültig FREI von deiner Vergangenheit sein und dein Unterbewusstsein vollkommen neu programmieren?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein
 >
-> <a href="https://www.innerlight-hypnotherapy.com/book-call/" target="_blank">kostenloses Erstgespräch</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2022 endlich das Leben zu kreieren, von dem du schon so lange träumst.
+> <a href="https://calendly.com/innerlight-hypnotherapy/erstgespraech" target="_blank">kostenloses Erstgespräch</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2023 endlich das Leben zu kreieren, von dem du schon so lange träumst.
 
 ### **Dankbarkeits-Ritual**
 
 Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M) von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club.](https://www.youtube.com/watch?v=itBR5TU-4L0)
 
-Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen aufzuschreiben, wofür du in diesem Jahr dankbar bist. Das können Menschen, besondere Momente, Dinge, die du besitzt oder scheinbare Kleinigkeiten wie dein Zuhause, dein Essen, dein Bett usw. sein. Besonders machtvoll wird es, wenn du die Dinge, die du loslassen möchtest, mit Dankbarkeit segnen kannst - dafür, dass sie da waren und ihren Zweck erfüllt haben. Dann bist du in der Lage eine neue Entscheidung zu treffen: dass du diese Dinge ab jetzt nicht mehr benötigst. Dass du es verdienst und dir Selbst die Erlaubnis gibst frei davon zu sein.
+Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen **aufzuschreiben, wofür du in diesem Jahr dankbar bist**. Das können Menschen, besondere Momente, materielle Dinge oder scheinbare Kleinigkeiten sein, wie dein Zuhause, dein Essen oder dein Bett. Durch die Dankbarkeit erhöhst du deine **Schwingungsfrequenz** und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen **Herzraum** übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
 
-Durch die Dankbarkeit erhöhst du deine Energiefrequenz und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen Herzraum in der Mitte von deinem Brustkorb übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
+Besonders machtvoll wird es, wenn du auch die **Dinge, die du loslassen möchtest, mit Dankbarkeit segnen** kannst - dafür, dass sie da waren und ihren Zweck erfüllt haben. Denn von diesem Moment an, bist du wahrhaftig in der Lage eine **neue Entscheidung** zu treffen: dass du diese Dinge ab jetzt _nicht_ mehr benötigst. Dass du es verdienst und dir Selbst die Erlaubnis gibst, frei davon zu sein.
 
 Du kannst das Ritual abschließen, indem du nochmal mit geschlossenen Augen ein paar tiefe Atemzüge nimmst und nachspürst, wie es dir jetzt geht. Bedanke dich bei dir selbst, dass du dir diese wertvolle Zeit geschenkt hast.
 

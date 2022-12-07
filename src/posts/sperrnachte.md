@@ -53,9 +53,9 @@ Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seel
 >
 > **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
 
-### **Wie du die Energie der Sperrnächte nutzt**
+### **Wie du die Energie der Dunkelnächte nutzt**
 
-Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Unsere Seele weiß das, aber aus unserer menschlichen Erfahrungen können schmerzhafte Erlebnisse wie der Verlust eines geliebten Menschens oder Tieres, eine Trennung oder schwierige Entscheidungen, dazu führen, dass wir unaufgearbeitete Emotionen in uns festhalten. Kann diese Energie nicht frei fließen, weil wir den Schmerz von unserem Herz abschirmen wollen, so bleiben sie in unserem System und tragen sie mit ins neue Jahr. 
+Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Unsere Seele weiß das, aber aus unserer menschlichen Erfahrungen können schmerzhafte Erlebnisse wie der Verlust eines geliebten Menschen oder Tieres, eine Trennung oder schwierige Entscheidungen, dazu führen, dass wir unaufgearbeitete Emotionen in uns festhalten. Kann diese Energie nicht frei fließen, weil wir den Schmerz von unserem Herz abschirmen wollen, so bleiben sie in unserem System und tragen sie mit ins neue Jahr. 
 
  Erst wenn wir auch den unangenehmen Gefühlen wie Wut, Scham oder Schuld wirklich **Raum geben, sie annehmen und ihre tiefere Message für uns verstehen können,** sind wir bereit sie in Liebe zu transformieren und wirklich frei davon sein.
 

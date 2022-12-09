@@ -47,11 +47,7 @@ Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seel
 
 ![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
-> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_**
->
-> **_<a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen**" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen</a>_
->
-> **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
+> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen</a> **und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥**_
 
 ### **Wie du die Energie der Dunkelnächte nutzt**
 

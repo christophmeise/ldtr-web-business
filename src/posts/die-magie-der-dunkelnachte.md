@@ -125,7 +125,7 @@ Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch
 
 ### **Dankbarkeits-Ritual**
 
-Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, zum Beispiel das wundervolle Vollmond-Mantra [Kiss the Earth](https://www.youtube.com/watch?v=e6hEvSvpx7M) von Ajeet Kaur oder passende Frequenzen wie zum Beispiel von [PowerThoughts Meditation Club.](https://www.youtube.com/watch?v=itBR5TU-4L0)
+Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, Räucherstäbchen anzünden und es dir richtig gemütlich machen.
 
 Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen **aufzuschreiben, wofür du in diesem Jahr dankbar bist**. Das können Menschen, besondere Momente, materielle Dinge oder scheinbare Kleinigkeiten sein, wie dein Zuhause, dein Essen oder dein Bett. Durch die Dankbarkeit erhöhst du deine **Schwingungsfrequenz** und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen **Herzraum** übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
 

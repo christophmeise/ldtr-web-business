@@ -43,11 +43,11 @@ Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu g
 
 Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein, uns **bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen**, was uns nicht mehr dient. Dabei unterstützen uns die Energien der Portaltage, die eigenen **Schatten zu erkennen und aufzulösen**, sodass wir am Ende der Sperrnächte unser inneres Licht mit der <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**Kraft der Rauhnächte**</a> aktivieren können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und diese Zeit bewusst zur Innenschau nutzen.
 
-Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem wahren Selbst in Einklang ist, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
+Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem **wahren Selbst in Einklang ist**, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
 
 ![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
-> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen</a> **und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥**_
+> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">**Mondkalender mit allen Portaltagen und Sternzeichen**</a> **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
 
 ### **Wie du die Energie der Dunkelnächte nutzt**
 

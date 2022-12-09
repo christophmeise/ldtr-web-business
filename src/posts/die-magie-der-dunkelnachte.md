@@ -1,6 +1,6 @@
 ---
 title: Die Magie der Dunkelnächte
-path: "/dunkelnaechte-2022"
+path: "/dunkelnaechte"
 featuredImage: "../../uploads/blogbeitrag_header.png"
 date: 2022-12-06T00:00:00+01:00
 tags:
@@ -31,9 +31,9 @@ abstract: Die Dunkelnächte sind besondere Portaltage, die es dir ermöglichen a
 ---
 ## Was ist der Unterschied zwischen den Rauhnächten und den Sperrnächten?
 
-Vielleicht hast du schon von den Rauhnächten gehört - eine magische Zeit zwischen dem 24. Dezember und dem 06. Januar, in welcher sich der Schleier zu den höheren Dimensionen lichtet und unsere **Manifestationsmagie** für das kommende Jahr aktiviert. Klingt super, oder? Ja, ich hör dich denken - "und wie genau kann ich das für mich nutzen?" Got you, beautiful soul! Denn dieses Jahr wird es erstmalig das [**INNER LIGHT Rauhnachts-Retreat**](https://elopage.com/s/innerlight/rauhnachts-challenge "Rauhnachts-Retreat 2022") geben, wo du dich mit deiner Seele verbindest und eine Schritt-für-Schritt Guidance von mir bekommst, wie du 2023 zu deinem YEARS OF MIRACLES machst!
+Vielleicht hast du schon von den Rauhnächten gehört - eine magische Zeit zwischen dem 24. Dezember und dem 06. Januar, in welcher sich der Schleier zu den höheren Dimensionen lichtet und unsere **Manifestationsmagie** für das kommende Jahr aktiviert. Klingt super, oder? Ja, ich hör dich denken - "und wie genau kann ich das für mich nutzen?" Got you, beautiful soul! Denn dieses Jahr wird es erstmalig das <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT Rauhnachts-Retreat**</a> geben, wo du dich mit deiner Seele verbindest und eine Schritt-für-Schritt Guidance von mir bekommst, wie du 2023 zu deinem YEARS OF MIRACLES machst!
 
-_Jetzt aber die große Frage - wann sind denn jetzt bitte diese Sperrnächte?_ Ha, gut das du fragst ;) Denn wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das **losgelassen** hast, was du dir nicht mehr dient? Genau dafür sind die **Sperrnächte** (auch Dunkelnächte genannt) da, denn sie sind **Portaltage**, in denen wir zur Innenschau angehalten werden. Diese sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte. 
+_Jetzt aber die große Frage - wann sind denn jetzt bitte diese Sperrnächte?_ Ha, gut das du fragst ;) Denn wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das **losgelassen** hast, was du dir nicht mehr dient? Genau dafür sind die **Sperrnächte** (auch Dunkelnächte genannt) da, denn sie sind **Portaltage**, in denen wir zur Innenschau angehalten werden. Diese sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte.
 
 Diese Zeit **vom 8. bis 19. Dezember** können wir nutzen, um das alte Jahr bewusst abzuschließen. Denn erst wenn dieses aktuelle Jahr auf Ebene deines Seelenwegs wirklich verarbeitet und integriert ist, dann bist du bereit für den _Zauber des Neuanfangs._
 
@@ -43,21 +43,21 @@ Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu g
 
 Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein, uns **bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen**, was uns nicht mehr dient. Dabei unterstützen uns die Energien der Portaltage, die eigenen **Schatten zu erkennen und aufzulösen**, sodass wir am Ende der Sperrnächte unser inneres Licht mit der [Kraft der Rauhnächte](https://elopage.com/s/innerlight/rauhnachts-challenge "Die Magie der Rauhnächte") aktivieren können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und diese Zeit bewusst zur Innenschau nutzen.
 
-Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem wahren Selbst in Einklang ist, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen. 
+Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem wahren Selbst in Einklang ist, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
 
 ![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
 > **_Schenke dir Selbst dieses Weihnachten deinen eigenen_**
 >
-> **_<a href="**https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen**" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen</a>_**
+> **_<a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen**" target="_blank">Mondkalender mit allen Portaltagen und Sternzeichen</a>_
 >
 > **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
 
 ### **Wie du die Energie der Dunkelnächte nutzt**
 
-Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Unsere Seele weiß das, aber aus unserer menschlichen Erfahrungen können schmerzhafte Erlebnisse wie der Verlust eines geliebten Menschen oder Tieres, eine Trennung oder schwierige Entscheidungen, dazu führen, dass wir unaufgearbeitete Emotionen in uns festhalten. Kann diese Energie nicht frei fließen, weil wir den Schmerz von unserem Herz abschirmen wollen, so bleiben sie in unserem System und tragen sie mit ins neue Jahr. 
+Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Unsere Seele weiß das, aber aus unserer menschlichen Erfahrungen können schmerzhafte Erlebnisse wie der Verlust eines geliebten Menschen oder Tieres, eine Trennung oder schwierige Entscheidungen, dazu führen, dass wir unaufgearbeitete Emotionen in uns festhalten. Kann diese Energie nicht frei fließen, weil wir den Schmerz von unserem Herz abschirmen wollen, so bleiben sie in unserem System und tragen sie mit ins neue Jahr.
 
- Erst wenn wir auch den unangenehmen Gefühlen wie Wut, Scham oder Schuld wirklich **Raum geben, sie annehmen und ihre tiefere Message für uns verstehen können,** sind wir bereit sie in Liebe zu transformieren und wirklich frei davon sein.
+Erst wenn wir auch den unangenehmen Gefühlen wie Wut, Scham oder Schuld wirklich **Raum geben, sie annehmen und ihre tiefere Message für uns verstehen können,** sind wir bereit sie in Liebe zu transformieren und wirklich frei davon sein.
 
 Die Zeit der Dunkelnächte ist daher vor allem eine **Zeit der Annahme und der Vergebung** - anderen und vor allem dir Selbst. Lasse wirklich jegliche (Selbst)Verurteilung los, denn nur so bist du frei deinen **Seelenweg** weiter zu gehen und das neue Jahr aus der Liebe und aus der Kraft heraus so zu gestalten, wie du es dir wünschst.
 

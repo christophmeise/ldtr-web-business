@@ -92,11 +92,13 @@ Nimm dir an diesen Tagen, wenn du magst, **jeden Abend etwas Zeit für dich**. G
 _Folgende Fragen kannst du dir stellen, um dir die Erfahrungen des jeweiligen Monats bewusst zu machen und zu verarbeiten:_
 
 * Was war gut, was hat mich erfreut, wo war ich erfolgreich, was hat mich erfüllt/bereichert?  
-  _→ Gehe bewusst in dieses Gefühl und lasse es nochmal dein **Herz erfüllen**_
-* Was war schlecht? Wo habe ich mich geärgert? Wo hat man mich gekränkt/verletzt/ungerecht behandelt?  
+  _→ Gehe bewusst in diese Gefühle und lasse sie dein **Herz erfüllen**_
+* Was war schlecht? Wo habe ich mich geärgert? Wann habe ich mich gekränkt/verletzt/ungerecht behandelt gefühlt?  
   _→ Fühle auch hier hinein, ob du **vergeben** kannst oder was es noch braucht, um das Erlebte loszulassen und abzuschließen_
-* Was habe ich erfahren und daraus gelernt?  
-  _→ Das sind Dinge, die du „verstanden“ hast, aus denen du jetzt neue Schlüsse und **Erkenntnisse für die Zukunft** ziehen kannst_
+* Was habe ich aus diesen Erfahrungen in jenem Monat gelernt?
+
+  Welche Aha-Momente hatte ich?  
+  _→ reflektiere noch einmal bewusst die Dinge, die du „verstanden“ hast und welche Schlüsse und Erkenntnisse du für die Zukunft ziehen kannst_
 * Welches Geschenk hat mir dieser Monat gebracht?
 
   _→ Das Geschenk in **allen** Erfahrungen und Begegnungen sehen zu lernen, ermöglicht es uns in Kontakt mit unserem Seelenweg zu kommen_
@@ -119,7 +121,7 @@ Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch
 
 > **Du willst endgültig FREI von deiner Vergangenheit sein und dein Unterbewusstsein vollkommen neu programmieren?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein
 >
-> <a href="https://calendly.com/innerlight-hypnotherapy/erstgespraech" target="_blank">kostenloses Erstgespräch</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2023 endlich das Leben zu kreieren, von dem du schon so lange träumst.
+> <a href="https://calendly.com/innerlight-hypnotherapy/erstgespraech" target="_blank">**kostenloses Erstgespräch**</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2023 endlich das Leben zu kreieren, von dem du schon so lange träumst.
 
 ### **Dankbarkeits-Ritual**
 

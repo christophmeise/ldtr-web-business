@@ -1,8 +1,8 @@
 ---
-title: Plasma-Licht und die Wintersonnenwende 2022
-path: "/dunkelnaechte"
-featuredImage: "../../uploads/blogbeitrag_header.png"
-date: 2022-12-06T00:00:00+01:00
+title: Das kosmische Ereignis zur Wintersonnenwende 2022
+path: "/wintersonnenwende"
+featuredImage: "../../uploads/mond-ritual_titelbild_meetup.png"
+date: 2022-12-14T22:00:00+01:00
 tags:
 - Spiritualität
 - Rituale
@@ -23,93 +23,145 @@ blocks:
     So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 - template: fulltext
   title: test
-abstract: Die Dunkelnächte sind besondere Portaltage, die es dir ermöglichen all das
-  loszulassen, was du nicht mit ins neue Jahr nehmen willst. Finde heraus, was es
-  mit der Magie der Dunkelnächte auf sich hat und mit welchen Ritualen du dieses Jahr
-  auf körperlicher, geistiger und seelischer Ebene abschließen kannst.
+abstract: Die Wintersonnenwende ist eines der wichtigsten spirituellen Ereignisse
+  in diesem Jahr. Erfahre, warum es so entscheidend ist, dass du diese Energie nutzt
+  und welche Rituale dich dabei unterstützen deinen Lichtkörper zu aktivieren.
 
 ---
-## Was ist der Unterschied zwischen den Rauhnächten und den Sperrnächten?
+## Die Wintersonnenwende - ein entscheidendes Ereignis im Aufstiegsprozess des Planeten
 
-Vielleicht hast du schon von den Rauhnächten gehört - eine magische Zeit zwischen dem 24. Dezember und dem 06. Januar, in welcher sich der Schleier zu den höheren Dimensionen lichtet und unsere **Manifestationsmagie** für das kommende Jahr aktiviert. Klingt super, oder? Ja, ich hör dich denken - "und wie genau kann ich das für mich nutzen?" Got you, beautiful soul! Denn dieses Jahr wird es erstmalig das <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT Rauhnachts-Retreat**</a> geben, wo du dich mit deiner Seele verbindest und eine Schritt-für-Schritt Guidance von mir bekommst, wie du 2023 zu deinem YEARS OF MIRACLES machst!
+Die Wintersonnenwende ist ein wahrhaft mystisches Ereignis, welches auf der Nordhalbkugel zwischen dem 20. und 23. Dezember, auf der Südhalbkugel zwischen dem 20. und 23. Juni stattfindet. Zur **Wintersonnenwende** hat die Erde auf ihrer Bahn um die Sonne den Punkt erreicht, ab dem sich die Nordhalbkugel wieder stärker der Sonne zuwendet. In diesem Jahr geschieht das am 21. Dezember um genau 16.58 Uhr.
 
-_Jetzt aber die große Frage - wann sind denn jetzt bitte diese Sperrnächte?_ Ha, gut das du fragst ;) Denn wusstest du, dass dieser Manifestationsprozess nur dann seine volle Magie entfalten kann, wenn du vorher all das **losgelassen** hast, was du dir nicht mehr dient? Genau dafür sind die **Sperrnächte** (auch Dunkelnächte genannt) da, denn sie sind **Portaltage**, in denen wir zur Innenschau angehalten werden. Diese sind das „Gegenstück“ bzw. auch der Vorläufer der Rauhnächte.
+Es ist eine ganz besondere Zeit, um zu **reflektieren**, Altes **ins Feuer zu geben** und schließlich das **Licht, Liebe und Fülle** in unser Leben einzuladen. Die Wintersonnenwende oder Julnacht ist die längste Nacht des Jahres und markiert einen Wendepunkt – die Wiedergeburt des Lichts – und leitet die Rauhnächte ein.
 
-Diese Zeit **vom 8. bis 19. Dezember** können wir nutzen, um das alte Jahr bewusst abzuschließen. Denn erst wenn dieses aktuelle Jahr auf Ebene deines Seelenwegs wirklich verarbeitet und integriert ist, dann bist du bereit für den _Zauber des Neuanfangs._
+Die Wintersonnenwende ist eine Zeit der Besinnung und des Neubeginns. Genau wie bei der Sommersonnenwende sind wir eingeladen, einen Moment aus unserem **normalen Leben auszusteigen**, um still zu sein und uns mit dem **größeren Ganzen** unserer Reise zu verbinden. 
 
-### **Die Geschichte der Sperrnächte bzw. Dunkelnächte**
+Zu dieser Zeit ruht die gesamte Natur - Samen und Zwiebeln verstecken sich vor dem kalten Wetter unter der Erde und viele Tiere halten Winterschlaf. Auch wir sind vom Universum eingeladen diese Zeit nutzen, um zu uns **Selbst zurück zu finden** und alles **loszulassen**, was wir nicht mit in diese neue Lebensphase und das neue Jahr nehmen wollen. Es ist von unschätzbarem Wert, wenn wir uns Zeiten des Rückzugs gönnen, die uns helfen, unseren Körper, unseren Geist und unsere Seele zu heilen und die zarten **Samen unserer eigenen Schöpfung** zu nähren.
 
-Laut germanischer Überlieferung wurde die Zeit vor der Wintersonnenwende dazu genutzt, um Haus und Hof winterfest zu machen und alle landwirtschaftlichen Geräte wegzuräumen und wegzusperren. Denn der Winter war keine Zeit, in der das Feld bearbeitet wurde, sondern eine Zeit, die vorwiegend im geschützten Innenraum verbracht wurde. Auch die Natur zieht sich in diesen dunkelsten Tagen des Jahres endgültig zurück. Viele Tiere gehen in den Winterschlaf oder in die Winterruhe und auch die Pflanzen haben endgültig ihre Säfte unter die Erde verlegt.
+### **Die Geschichte der Wintersonnenwende**
 
-Die Bezeichnung dieser machtvollen Portaltage als “Dunkelnächte” kommt daher, da diese die dunkelste Zeit im Jahr darstellen. Sie laden uns dazu ein, uns **bewusst mit den Erfahrungen dieses Jahres auseinanderzusetzen und loszulassen**, was uns nicht mehr dient. Dabei unterstützen uns die Energien der Portaltage, die eigenen **Schatten zu erkennen und aufzulösen**, sodass wir am Ende der Sperrnächte unser inneres Licht mit der <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**Kraft der Rauhnächte**</a> aktivieren können. Wir dürfen die Dunkelheit als Geschenk und als Freund kennen- und schätzen lernen und diese Zeit bewusst zur Innenschau nutzen.
+Die Wintersonnenwende ist auch unter dem Namen Yule bekannt und geht auf alte keltische Traditionen zurück. In der keltischen Mythologie war Yule die Zeit, in der die **Sonne geboren** und die **Dunkelheit der Winternacht vertrieben** wurde. Die Kelten feierten Yule mit Feuerzeremonien und dem Austausch von Geschenken, um die Rückkehr des Lichts zu feiern.
 
-Diese besondere Zeit der Sperr- und Dunkelnächte ist die Einladung unserer Seele, alles loszulassen, was nicht mit unserem **wahren Selbst in Einklang ist**, indem wir uns für eine ganz besondere Form der Jahresrückschau öffnen. Wenn du auf irgendeiner Ebene noch an etwas Altem festhältst, ist es schwer, etwas Neues in dein Leben zu lassen. Seien es Angewohnheiten, Glaubenssätze, Menschen, Emotionen.
+Heute wird die Wintersonnenwende von vielen Menschen auf der ganzen Welt als spirituelles Ereignis gefeiert. Viele nutzen diesen Tag, um ihre **Absichten und Wünsche** für das neue Jahr zu setzen, indem sie Kerzen anzünden oder eine Zeremonie abhalten. Andere nutzen die Wintersonnenwende, um **Dankbarkeit und Wertschätzung** für das vergangene Jahr auszudrücken und all das, was sie nicht mit ins neue Jahr nehmen wollen, dem **Feuer zu übergeben**. Ich liebe Rituale und habe schon so viel Magie in solchen Zeremonien erleben dürfen, dass ich auch in diesem Blogbeitrag zwei meiner **Lieblings-Rituale zur Wintersonnenwende** mit dir teilen werde. ♥
+
+Die Wintersonnenwende ist vor allem auch ein **Fest der Wiedergeburt.** Ab diesem Zeitpunkt im Jahr werden die Tage länger und wärmer. Die Natur zeigt erste Anzeichen von Wachstum. Und auch wir beginnen, mehr **aus uns Selbst herauszugehen.** Auch wenn wir uns jetzt eher drinnen aufhalten, um uns warm zu halten und unsere Energie zu sparen, ist uns bewusst, dass die Sonne zurückkehrt und mit ihr neues Leben und neue Abenteuer. 
+
+Die Wintersonnenwende ist traditionell eine Zeit des **Beisammenseins und der Verbundenheit**. Daher werden wir gemeinsam in unserem INNER LIGHT Soultribe für ein machtvolles Lichtaktivierung-Ritual zusammenkommen, um uns auf die Energie der Wintersonnenwende einzustimmen, die Lichtquotionen-Updates, die zu diesem besonderen Portaltag auf die Erde fließen, zu empfangen und die Magie der Rauhnächte zu eröffnen.
+
+> **_Du willst bei diesem magischen Event dabei sein?_**  
+> Dann spring **jetzt ins Licht** und sichere dir deinen Platz im <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT Rauhnachts-Retreat**</a>. Erlebe am **20. Dezember um 19 Uhr** eine machtvolle Lichtzeremonie, in welcher du deinen Lichtkörper aktivierst, um die tief kodierten, potenten Plasmastrahlen nutzen zu können und deinen Aufstiegsprozess zu beschleunigen.
 
 ![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
 > **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">**Mondkalender mit allen Portaltagen und Sternzeichen**</a> **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
 
-### **Wie du die Energie der Dunkelnächte nutzt**
+### **Warum die Wintersonnenwende 2022 ein herausragendes Ereignis ist**
 
-Alles, was wir in diesem Jahr erlebt haben, ist aus einem tieferen Grund passiert. Unsere Seele weiß das, aber aus unserer menschlichen Erfahrungen können schmerzhafte Erlebnisse wie der Verlust eines geliebten Menschen oder Tieres, eine Trennung oder schwierige Entscheidungen, dazu führen, dass wir unaufgearbeitete Emotionen in uns festhalten. Kann diese Energie nicht frei fließen, weil wir den Schmerz von unserem Herz abschirmen wollen, so bleiben sie in unserem System und tragen sie mit ins neue Jahr.
+Die Erde durchläuft im Moment eine tiefgreifende und einzigartige Transformation. Wenn du gerade diese Worte liest, dann deshalb, weil du bereit bist dieses kosmische Wissen in dir zu aktivieren. 
 
-Erst wenn wir auch den unangenehmen Gefühlen wie Wut, Scham oder Schuld wirklich **Raum geben, sie annehmen und ihre tiefere Message für uns verstehen können,** sind wir bereit sie in Liebe zu transformieren und wirklich frei davon sein.
+Unser Planet steigt zu höheren Frequenzen auf, um zu einem neuen 5D Zuhause zu werden. Und zu diesem Zweck empfängt die Erde **_stark kodierte und hochwirksame Plasmastrahlen_**, die über verschiedene Lichtportale auf die Erde fließen. Wir nennen diese Strahlen photonisches Licht. Diese Plasmastrahlen kommen von der großen Zentralsonne, der Atmosphäre und dem kristallinen Kern der Erde. 
 
-Die Zeit der Dunkelnächte ist daher vor allem eine **Zeit der Annahme und der Vergebung** - anderen und vor allem dir Selbst. Lasse wirklich jegliche (Selbst)Verurteilung los, denn nur so bist du frei deinen **Seelenweg** weiter zu gehen und das neue Jahr aus der Liebe und aus der Kraft heraus so zu gestalten, wie du es dir wünschst.
+Mit der Wintersonnenwende 2022 werden erstmalig von einer Intensität sein, die wir noch nie zuvor gespürt haben. Diese Plasmastrahlen sind mit **Lichtcodes** ausgestattet, d.h. mit Informationen, die universelle Weisheit, Intelligenz und Liebe enthalten und darauf abzielen, unsere Zellen, unsere DNA und alle Schichten unseres Seins zu verändern und zu erwecken. Nicht nur die Erde, sondern auch jedes Lebewesen auf diesem Planeten, durchläuft gerade einen **tiefgreifenden Prozess des Aufstiegs.**
 
-Dabei gibt es verschiedene Rituale, die dich dabei unterstützen können, die Energie der Sperrnächte zu nutzen - drei davon werde ich hier mit dir teilen ♥
+> _Der Aufstieg ist ein Prozess der Bewusstseinserweiterung in höhere Schwingungsfrequenzen. Es ist die Erschaffung des Himmels auf Erden durch eine tiefe Verbindung zum Leben, das keinen Mangel, keine Trennung oder Begrenzung kennt._
 
-### **Rückblick-Ritual**
+Wenn wir alte Traumata, niedrig schwingende Emotionen wie Angst, Scham, Schuld, einschränkende Glaubenssätze, die wir im Laufe unseres Lebens erworben haben, sowie die Energien unserer Vorfahren und vergangener Leben **transformieren und loslassen**, beginnen wir unsere Schwingung zu erhöhen und unser Bewusstsein zu erweitern.
 
-Bei diesem Ritual geht es darum sich **bewusst zu machen**, was in diesem Jahr alles passiert ist und **dankbar** für die zahlreichen Erfahrungen, Begegnungen und Momente zu sein. Fühle dafür an jedem Tag der Dunkelnächte in den entsprechenden Monat rein und lasse ihn Revue passieren:
+### **Was verändert sich mit der Wintersonnenwende 2022?**
 
-> _8. auf 9. Dezember – Januar_
->
-> _9. auf 10. Dezember – Februar_
->
-> _10. auf 11. Dezember – März_
->
-> _11. auf 12. Dezember – April_
->
-> _12. auf 13. Dezember – Mai_
->
-> _13. auf 14. Dezember – Juni_
->
-> _14. auf 15. Dezember – Juli_
->
-> _15. auf 16. Dezember – August_
->
-> _16. auf 17. Dezember – September_
->
-> _17. auf 18. Dezember – Oktober_
->
-> _18. auf 19. Dezember – November_
->
-> _19. auf 20. Dezember – Dezember_
+Mit den geöffneten Lichtportalen wird es uns leichter fallen jene Gedanken, Emotionen und Glaubenssätze zu erkennen, die **nicht unserem wahren Selbst** entsprechen. Das Licht wirkt wie eine Bewusstseinserweiterung - wir können mehr von dem sehen, was wahrhaftig ist. Je mehr wir in der Lage sind, dieses Licht zu empfangen und zu speichern, können wir auch unsere unterbewussten Glaubenssätze **mit den richtigen Tools** verändern und uns auf höhere Frequenzen wie bedingungslose Liebe, Seins-Freude und Mitgefühl einschwingen. Wir beginnen, uns mit unserer wahren Essenz zu verbinden, mit unserem Höheren Selbst, wir beginnen, uns in den Prozess zu verlieben, voll und ganz zu sein, wer wir wirklich sind, und zu erfahren, wozu wir in diesem Leben fähig sind.
 
-Nimm dir an diesen Tagen, wenn du magst, **jeden Abend etwas Zeit für dich**. Gehe in die Stille oder mache einen Spaziergang und lasse den entsprechenden Monat Revue passieren. Vielleicht notierst du dir das Jahr über viel im Kalender oder hast ein Tagebuch - dann blättere diese durch, um dir wieder bewusst zu machen, was alles passiert ist und vor allem - **wie du dich gefühlt hast.**
+Aber auch in unserem **Körper** geschehen Veränderungen, denn unsere Zellen beginnen, die Fähigkeit zu verstärken, Licht zu empfangen und zu halten. Dieser Prozess erfordert eine **Aktivierung deines Lichtkörpers**, welche wir in der **Lichtzeremonie am 20. Dezember um 19 Uhr im Rahmen des** <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT Rauhnachts-Retreat**</a> gemeinsam einleiten werden. 
 
-_Folgende Fragen kannst du dir stellen, um dir die Erfahrungen des jeweiligen Monats bewusst zu machen und zu verarbeiten:_
+Sobald dein Körper in der Lage ist auf höheren Frequenzen zu schwingen, wirst du in der Lage sein, diese Lichtcodes zu empfangen und deine DNA zu upgraden. Dies ist jedoch bei den meisten Menschen, die jetzt auf diesem Planeten leben, bisher noch nicht der Fall, weshalb es so entscheidend ist, dass **DU zu den Lichtträgern** wirst, die den Aufstiegsprozess ermöglichen.
 
-* Was war gut, was hat mich erfreut, wo war ich erfolgreich, was hat mich erfüllt/bereichert?  
-  _→ Gehe bewusst in diese Gefühle und lasse sie dein **Herz erfüllen**_
-* Was war schlecht? Wo habe ich mich geärgert? Wann habe ich mich gekränkt/verletzt/ungerecht behandelt gefühlt?  
-  _→ Fühle auch hier hinein, ob du **vergeben** kannst oder was es noch braucht, um das Erlebte loszulassen und abzuschließen_
-* Was habe ich aus diesen Erfahrungen in jenem Monat gelernt?
+  
+Es braucht eine Weile, bis sich der Körper an diese höheren Schwingungen gewöhnt hat, und je nach Grad des Widerstandes und der Identifikation mit alten Glaubenssätzen und Ängsten, können wir emotionale, mentale, spirituelle oder körperliche Symptome verspüren. Diese Symptome werden **Aufstiegssymptome** genannt.
 
-  Welche Aha-Momente hatte ich?  
-  _→ reflektiere noch einmal bewusst die Dinge, die du „verstanden“ hast und welche Schlüsse und Erkenntnisse du für die Zukunft ziehen kannst_
-* Welches Geschenk hat mir dieser Monat gebracht?
+### **Welche Rituale du für die Wintersonnenwende nutzen kannst**
 
-  _→ Das Geschenk in **allen** Erfahrungen und Begegnungen sehen zu lernen, ermöglicht es uns in Kontakt mit unserem Seelenweg zu kommen_
+Wie kannst du also dieses besondere kosmische Ereignis der Wintersonnenwende feiern und für dich nutzen?
 
-Oftmals hilft es, wenn du dir Situationen, die nicht ganz optimal gelaufen sind, einfach nochmal mit etwas Abstand anschaust - sie bewusst wahrnimmst und in sie hinein fühlst. Allein dadurch würdigst du deine Erfahrung und oftmals braucht es gar nicht mehr, um diese dann loszulassen.
+![](../../uploads/heiliges-holz_wintersonnenwende-ritual.jpg)
 
-### **Loslass-Ritual**
+### (1) RITUAL DES HEILIGEN YULE-HOLZ
 
-Der beste Zeitpunkt, um loszulassen, was dir nicht mehr dient, liegt immer im **Hier und Jetzt.** Oft geht die Reflektion unserer Erfahrungen jedoch im Alltag unter - wenn sich über das Jahr hinweg also einiges angesammelt hat, was dir nicht mehr dienlich ist, dann nutze auf jeden Fall die hochschwingenden Portaltage, die uns während der sogenannten Sperr- oder Dunkelnächten erwarten.
+Für dieses Ritual brauchst du:
 
-_Stell dir für dieses Loslass-Ritual zu Beginn der Sperrnächte zum Beispiel die folgenden Fragen:_
+* Einen Ort, an dem du deinen Altar aufstellen kannst 
+* Ein Stück Holz, welches du verbrennst (wenn du kannst, mache einen Spaziergang in der Natur, um dein passendes Holz dafür zu finden)
+* etwas, worauf du deine Intentionen und Wünsche schreiben kannst, z. B. Papierstreifen oder Kartenanhänger
+* etwas, mit dem du diese an deinem heiligen Stück Holz befestigen kannst
+* einen Stift
+* Dinge, mit denen du dein heiliges Holz schmücken kannst, z. B. Bänder, Blumen oder jegliche Art von Kunst und Bastelmaterial, das für dich eine Bedeutung haben
+
+### WIE DU DEIN HEILIGES YULE-HOLZ KREIERST
+
+1. Mach eine Wanderung in der Natur mit der Intention dein heiliges Stück Holz (Yule-Holz) sowie die anderen Elemente für das oben erwähnte Ritual zu finden.
+2. Öffne für dich deinen heiligen Raum auf die Art und Weise, wie es sich für dich bedeutungsvoll und stimmig anfühlt. (Du kannst z.B. räuchern, eine Kerze anzünden, Klang-Frequenzen anmachen oder meditieren, um dich mit dir und deinem heiligen Raum zu verbinden)
+3. Nimm dir etwas Zeit, um zu den folgenden Fragen deine Impulse und Gedanken in dein Journal zu schreiben: 
+   * Was hast du in diesem Jahr erreicht, worauf du besonders stolz bist?
+   * Wofür bist du in deinem Leben gerade am meisten dankbar?
+   * Was darf gerade in dir erwachen?
+   * Was darf gehen?
+   * Was möchtest du im neuen Jahr mehr in dein Leben einladen?
+4. Schreibe deine Intentionen und Wünsche für das neue Jahr auf die Papierstreifen oder Kartenanhänger
+5. Befestige diese an deinem heiligen Yule-Holz. Folge einfach deiner Intuition und lass deiner Kreativität freien Lauf. Denkt daran, Schöpfung, Liebe und Kreativität sind Tore zu deiner Seele.
+6. Bereite einen sicheren, ungefährlichen Ort vor, an dem du dein Yule-Holz verbrennen kannst.
+7. Übergib dein Yule-Holz dem Feuer, und während er brennt, übergib deine Intentionen und Wünsche dem Universum und bedanke dich dafür, dass all das was du dir wünschst, zum besten von dir und allem was ist geschehen möge. Spüre die Wärme des Feuers und visualisiere wie es die Wiedergeburt des Lichts in dir und auf Mutter Erde erweckt.
+8. Während du die Flammen tanzen siehst, denke darüber nach, was in dir
+
+   in dir aufsteigt und was bereit ist, von dir abzufallen.
+9. Stelle sicher, dass die Flammen sicher gelöscht sind und schließe deinen heiligen Raum auf die Art und Weise, wie es sich für dich stimmig anfühlt.
+
+![](../../uploads/youtube-thumbnails.png)
+
+### (2) Herz-Licht-Reise
+
+Für dieses Meditations-Ritual brauchst du:
+
+* einen ruhigen Ort, an dem du ungestört bist
+* dein Journal oder Tagebuch sowie eine Stift
+* Eine Kerze in der Farbe deiner Wahl und etwas zum Anzünden 
+* eine Decke oder einen Yoga-Block, um beim Meditieren etwas erhöht zu sitzen, wenn es dir damit leichter fällt deine Wirbelsäule gerade zu halten
+* Räucherwerk deiner Wahl (das kann eine Räuchermischung sein, bestimmte getrocknete Kräuter, Palo Santo oder Räucherstäbchen) 
+
+. 
+
+**1. Öffne deinen heiligen Raum**
+
+Richte dir deinen Platz so her, dass du dich wohlfühlst und einige Zeit ungestört bist. Wenn du magst, mache dir ein warmes Getränk und lege schöne Musik auf. Bevor du beginnst, kannst du noch einmal die Fenster öffnen, sodass der Raum mit frischer Lebensenergie durchströmt wird.
+
+Dann zünde deine Kerze an mit der Intention, dass du jetzt deinen heiligen Raum eröffnest.
+
+Nimm dein Journal oder Tagebuch zur Hand und lass all deine Gedanken fließen, die sich jetzt gerade zeigen. **Fragen, die du dir stellen kannst:**
+
+* Was macht mein Herz schwer?
+* Wo erlaube ich mir nicht mein Licht hell erstrahlen zu lassen?
+* Was bin ich bereit loszulassen?
+* Was will ich stattdessen in mein Leben einladen?
+
+**2. Reinige dein Energiefeld**
+
+Nimm dein Räucherwerk und reinige dein **Energiefeld** mit der Intention, den Herz von allem zu befreien, was nicht mit deinem wahren Selbst im Einklang ist und was dein Inneres Licht dimmt. 
+
+Visualisiere wie der Rauch **jegliche Negativität und niedrige Schwingungen** einschließt und für dich zu den höchsten Frequenzen transformiert.
+
+**3. Meditation "Herz-Licht-Reise"**
+
+Nimm für die Meditation jetzt eine entspannte, aufrechte Sitzposition ein. Lege deine Hände mit den Handinnenflächen nach oben entspannt auf deinen Oberschenkeln oder in deinem Schoß ab. Wenn du deinen Sitz gewählt hast, dann schließe liebevoll deine Augen und nimm einen tiefen Atemzug.
+
+Der folgende **Atemzyklus** (so lange wie es sich für dich gut anfühlt, auf diese Art zu atmen) kann dir dabei helfen, mehr im gegenwärtigen Moment anzukommen: 
+
+* Atme tief durch deine Nase ein, bis in deinen Brustkorb und spüre wie dein Atem dein **inneres Licht** berührt. 
+* Halte die Luft in deinem **Herz-Raum** und fühle wie das Licht stärker wird, wie du ihm deine Aufmerksamkeit schenkst. 
+* Atme langsam über deine Nase aus und wie du ausatmest, **verbreitet sich dein inneres Licht** von deinem Herz-Raum bis in deinen gesamten Körper. 
+* Bleibe kurz in der **Atemstille** und spüre das Licht durch deinen Körper fließen. 
+* Wiederhole das einige Male in deinem Tempo, bis sich erst dein ganzer Körper in dem Licht erstrahlt, dann deine Aura, dann der Raum, in dem du bist, und schließlich wie dieses strahlende Licht die ganze Erde umschließt
+
+Bleibe solange es sich für dich stimmig anfühlt in diesem tief-verbundenem Gefühl mit deinem Herzen und erfüllt und umgeben von deinem Inneren Licht. Du kannst ein **Mantra** nutzen, um deine Gedanken immer wieder in den gegenwärtigen Moment zu bringen: _Ich bin genug. Ich bin Liebe. Ich bin Licht._
+
+> #### **_Du kannst diese Herz-Licht-Reise auch als_**  <a href="https://youtu.be/nJrP1x-xSGw" target="_blank">**geführte Meditation**</a>.**_mit mir zusammen machen ♥_**
 
 * Was möchte ich **konkret loslassen**, was mir nicht mehr dienlich ist?
 * Welche **Angewohnheit** dient mir nicht mehr oder hindert mich daran mein bestes Leben zu leben?

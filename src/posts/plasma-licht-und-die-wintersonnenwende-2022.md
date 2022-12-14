@@ -113,9 +113,7 @@ Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, u
 5. Befestige diese an deinem heiligen Yule-Holz. Folge einfach deiner Intuition und lass deiner **Kreativität** freien Lauf. Denkt daran - Schöpfung, Liebe und Kreativität sind Tore zu deiner Seele.
 6. Bereite einen **sicheren, ungefährlichen Ort** vor, an dem du dein Yule-Holz verbrennen kannst.
 7. Übergib dein Yule-Holz dem Feuer, und während er brennt, übergib deine Intentionen und Wünsche dem Universum und **bedanke dich dafür,** dass all das was du dir wünschst, zum besten von dir und allem was ist geschehen möge. Spüre die Wärme des Feuers und visualisiere, wie es die **Wiedergeburt des Lichts** in dir und auf Mutter Erde verkörpert.
-8. Während du die Flammen tanzen siehst, denke darüber nach, was in dir
-
-   **in dir aufsteigt** und was bereit ist, **von dir abzufallen.**
+8. Während du die Flammen tanzen siehst, denke darüber nach, was **in dir aufsteigt** und was bereit ist, **von dir abzufallen.**
 9. Stelle sicher, dass die Flammen **sicher gelöscht sind** und **schließe deinen heiligen Raum** auf die Art und Weise, wie es sich für dich stimmig anfühlt.
 
 ![](../../uploads/youtube-thumbnails.png)

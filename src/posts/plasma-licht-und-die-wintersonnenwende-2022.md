@@ -82,7 +82,7 @@ Es braucht eine Weile, bis sich der Körper an diese höheren Schwingungen gewö
 
 Die Ankunft des Lichts und die Veränderungen, die wir von nun an immer stärker auf individueller, aber auch auf kollektiver, Ebene spüren können, sind definitiv ein Grund zum Feiern! Wie schon angedeutet, LIEBE ich es, die Energien solch machtvoller Portaltage zu nutzen - für meinen eigenen Seelenweg, aber auch in meiner Verantwortung als Lichtbringerin für Mutter Erde und die Menschheit.   
   
-Du bist auch einer dieser außerwählten Seelen my love, nicht wahr? Dann solltest du UNBEDINGT bei der <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT** .**LICHTZEREMONIE am 20. Dezember um 19 Uhr**</a> dabei sein. Es wird so magisch!  
+Du bist auch einer dieser außerwählten Seelen my love, nicht wahr? Dann solltest du UNBEDINGT bei der <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT LICHTZEREMONIE am 20. Dezember um 19 Uhr**</a> dabei sein. Es wird so magisch!  
   
 Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, um das besondere kosmische Ereignis feiern und die Energien für dich nutzen.
 
@@ -127,6 +127,7 @@ Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, u
 * eine Kerze in der Farbe deiner Wahl und etwas zum Anzünden 
 * eine Decke oder einen Yoga-Block, um beim Meditieren etwas erhöht zu sitzen, wenn es dir damit leichter fällt deine Wirbelsäule gerade zu halten
 * Räucherwerk deiner Wahl (das kann eine Räuchermischung sein, bestimmte getrocknete Kräuter, Palo Santo oder Räucherstäbchen) 
+* Kopfhörer, wenn du diese Herz-Licht-Reise als   <a href="https://youtu.be/nJrP1x-xSGw" target="_blank">**geführte Meditation**</a> mit mir zusammen machen möchtest ♥
 
 **1. Öffne deinen heiligen Raum**
 

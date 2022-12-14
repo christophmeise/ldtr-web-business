@@ -55,7 +55,7 @@ Die Wintersonnenwende ist traditionell eine Zeit des **Beisammenseins und der Ve
 
 > **_Du willst auch in 2023 mit allen Portaltagen und Mondphasen verbunden sein? Dann schenke dir jetzt den_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">**INNER LIGHT Mondkalender mit allen Portaltagen und Sternzeichen!**</a>
 
-### **Warum die Wintersonnenwende 2022 ein herausragendes Ereignis ist**
+### **Warum die Wintersonnenwende 2022 ein herausragendes kosmisches Ereignis ist**
 
 Die Erde durchläuft im Moment eine tiefgreifende und einzigartige Transformation. Wenn du gerade diese Worte liest, dann deshalb, weil du bereit bist dieses kosmische Wissen in dir zu aktivieren. 
 

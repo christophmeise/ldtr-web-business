@@ -116,7 +116,7 @@ Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, u
 8. Während du die Flammen tanzen siehst, denke darüber nach, was **in dir aufsteigt** und was bereit ist, **von dir abzufallen.**
 9. Stelle sicher, dass die Flammen **sicher gelöscht sind** und **schließe deinen heiligen Raum** auf die Art und Weise, wie es sich für dich stimmig anfühlt.
 
-![](../../uploads/youtube-thumbnails.png)
+![](../../uploads/herz-licht-reise_inner-light.png)
 
 ### (2) Herz-Licht-Reise
 
@@ -162,7 +162,7 @@ Dann beginne in dem folgendem **Atemzyklus** zu atmen und folge der Visualisieru
 
 Bleibe solange es sich für dich stimmig anfühlt in diesem tief-verbundenem Gefühl mit deinem Herzen und erfüllt und umgeben von deinem Inneren Licht. Du kannst ein **Mantra** nutzen, um deine Gedanken immer wieder in den gegenwärtigen Moment zu bringen: _Ich bin genug. Ich bin Liebe. Ich bin Licht._
 
-> #### **_Du kannst diese Herz-Licht-Reise auch als_**  <a href="https://youtu.be/nJrP1x-xSGw" target="_blank">**geführte Meditation**</a>.**_mit mir zusammen machen ♥_**
+> #### **_Du kannst diese Herz-Licht-Reise auch als_** <a href="https://youtu.be/nJrP1x-xSGw" target="_blank">**geführte Meditation**</a>**_mit mir zusammen machen ♥_**
 
 ##### Dies ist ein Blogbeitrag aus einer mehrteiligen Serie über seelenreinigende Jahresend-Rituale. Wenn du mehr über den Abschluss des vergangenen und Beginn des neuen Jahres erfahren möchtest, dann schau gern auch bei <a href="https://innerlight-hypnotherapy.com/dunkelnaechte" target="_blank">**"Die Magie der Dunkelnächte"**</a> vorbei!
 

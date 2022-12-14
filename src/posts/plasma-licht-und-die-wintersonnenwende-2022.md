@@ -46,14 +46,14 @@ Heute wird die Wintersonnenwende von vielen Menschen auf der ganzen Welt als spi
 
 Die Wintersonnenwende ist vor allem auch ein **Fest der Wiedergeburt.** Ab diesem Zeitpunkt im Jahr werden die Tage länger und wärmer. Die Natur zeigt erste Anzeichen von Wachstum. Und auch wir beginnen, mehr **aus uns Selbst herauszugehen.** Auch wenn wir uns jetzt eher drinnen aufhalten, um uns warm zu halten und unsere Energie zu sparen, ist uns bewusst, dass die Sonne zurückkehrt und mit ihr neues Leben und neue Abenteuer. 
 
-Die Wintersonnenwende ist traditionell eine Zeit des **Beisammenseins und der Verbundenheit**. Daher werden wir gemeinsam in unserem INNER LIGHT Soultribe für ein machtvolles Lichtaktivierung-Ritual zusammenkommen, um uns auf die Energie der Wintersonnenwende einzustimmen, die Lichtquotionen-Updates, die zu diesem besonderen Portaltag auf die Erde fließen, zu empfangen und die Magie der Rauhnächte zu eröffnen.
+Die Wintersonnenwende ist traditionell eine Zeit des **Beisammenseins und der Verbundenheit**. Daher werden wir gemeinsam in unserem INNER LIGHT Soultribe für ein **_machtvolles Lichtaktivierung-Ritual_** zusammenkommen, um uns auf die Energie der Wintersonnenwende einzustimmen, die Lichtquotienten-Updates, die zu diesem besonderen Portaltag auf die Erde fließen, zu empfangen und die Magie der Rauhnächte zu eröffnen.
 
 > **_Du willst bei diesem magischen Event dabei sein?_**  
 > Dann spring **jetzt ins Licht** und sichere dir deinen Platz im <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT Rauhnachts-Retreat**</a>. Erlebe am **20. Dezember um 19 Uhr** eine machtvolle Lichtzeremonie, in welcher du deinen Lichtkörper aktivierst, um die tief kodierten, potenten Plasmastrahlen nutzen zu können und deinen Aufstiegsprozess zu beschleunigen.
 
 ![](../../uploads/2021-mond-kalender-banner-querformat.png)
 
-> **_Schenke dir Selbst dieses Weihnachten deinen eigenen_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">**Mondkalender mit allen Portaltagen und Sternzeichen**</a> **_und vielleicht verschenkst du diesen sogar an einen wundervollen Herzensmensch? ♥_**
+> **_Du willst auch in 2023 mit allen Portaltagen und Mondphasen verbunden sein? Dann schenke dir jetzt den_** <a href="https://www.etsy.com/de/listing/938608828/2023-mondkalender-mit-portaltagen" target="_blank">**INNER LIGHT Mondkalender mit allen Portaltagen und Sternzeichen!**</a>
 
 ### **Warum die Wintersonnenwende 2022 ein herausragendes Ereignis ist**
 

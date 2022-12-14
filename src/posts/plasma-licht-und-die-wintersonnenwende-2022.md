@@ -1,7 +1,7 @@
 ---
 title: Das kosmische Ereignis zur Wintersonnenwende 2022
 path: "/wintersonnenwende"
-featuredImage: "../../uploads/mond-ritual_titelbild_meetup.png"
+featuredImage: "../../uploads/wintersonnenwende_ritual_inner-light.png"
 date: 2022-12-14T22:00:00+01:00
 tags:
 - Spiritualität

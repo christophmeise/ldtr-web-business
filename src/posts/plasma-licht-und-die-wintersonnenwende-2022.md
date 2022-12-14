@@ -90,10 +90,10 @@ Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, u
 
 ### (1) RITUAL DES HEILIGEN YULE-HOLZ
 
-Für dieses Ritual brauchst du:
+**_Für dieses Ritual brauchst du:_**
 
-* Einen Ort, an dem du deinen Altar aufstellen kannst 
-* Ein Stück Holz, welches du verbrennst (wenn du kannst, mache einen Spaziergang in der Natur, um dein passendes Holz dafür zu finden)
+* einen Ort, an dem du deinen Altar aufstellen kannst 
+* ein Stück Holz, welches du verbrennst (wenn du kannst, mache einen Spaziergang in der Natur, um dein passendes Holz dafür zu finden)
 * etwas, worauf du deine Intentionen und Wünsche schreiben kannst, z. B. Papierstreifen oder Kartenanhänger
 * etwas, mit dem du diese an deinem heiligen Stück Holz befestigen kannst
 * einen Stift
@@ -101,36 +101,34 @@ Für dieses Ritual brauchst du:
 
 ### WIE DU DEIN HEILIGES YULE-HOLZ KREIERST
 
-1. Mach eine Wanderung in der Natur mit der Intention dein heiliges Stück Holz (Yule-Holz) sowie die anderen Elemente für das oben erwähnte Ritual zu finden.
-2. Öffne für dich deinen heiligen Raum auf die Art und Weise, wie es sich für dich bedeutungsvoll und stimmig anfühlt. (Du kannst z.B. räuchern, eine Kerze anzünden, Klang-Frequenzen anmachen oder meditieren, um dich mit dir und deinem heiligen Raum zu verbinden)
-3. Nimm dir etwas Zeit, um zu den folgenden Fragen deine Impulse und Gedanken in dein Journal zu schreiben: 
-   * Was hast du in diesem Jahr erreicht, worauf du besonders stolz bist?
-   * Wofür bist du in deinem Leben gerade am meisten dankbar?
-   * Was darf gerade in dir erwachen?
-   * Was darf gehen?
-   * Was möchtest du im neuen Jahr mehr in dein Leben einladen?
-4. Schreibe deine Intentionen und Wünsche für das neue Jahr auf die Papierstreifen oder Kartenanhänger
-5. Befestige diese an deinem heiligen Yule-Holz. Folge einfach deiner Intuition und lass deiner Kreativität freien Lauf. Denkt daran, Schöpfung, Liebe und Kreativität sind Tore zu deiner Seele.
-6. Bereite einen sicheren, ungefährlichen Ort vor, an dem du dein Yule-Holz verbrennen kannst.
-7. Übergib dein Yule-Holz dem Feuer, und während er brennt, übergib deine Intentionen und Wünsche dem Universum und bedanke dich dafür, dass all das was du dir wünschst, zum besten von dir und allem was ist geschehen möge. Spüre die Wärme des Feuers und visualisiere wie es die Wiedergeburt des Lichts in dir und auf Mutter Erde erweckt.
+1. Mach eine **Wanderung in der Natur** mit der Intention dein heiliges Stück Holz (Yule-Holz) sowie die anderen Elemente für das oben erwähnte Ritual zu finden.
+2. Öffne für dich deinen **heiligen Raum** auf die Art und Weise, wie es sich für dich bedeutungsvoll und stimmig anfühlt. (Du kannst z.B. räuchern, eine Kerze anzünden, Klang-Frequenzen anmachen oder meditieren, um dich mit dir und deinem heiligen Raum zu verbinden)
+3. Nimm dir etwas Zeit, um zu den folgenden Fragen deine Impulse und Gedanken in dein **Journal** zu schreiben: 
+   * _Was hast du in diesem Jahr erreicht, worauf du besonders stolz bist?_
+   * _Wofür bist du in deinem Leben gerade am meisten dankbar?_
+   * _Was darf gerade in dir erwachen?_
+   * _Was darf gehen?_
+   * _Was möchtest du im neuen Jahr mehr in dein Leben einladen?_
+4. Schreibe deine **Intentionen und Wünsche für das neue Jahr** auf die Papierstreifen oder Kartenanhänger
+5. Befestige diese an deinem heiligen Yule-Holz. Folge einfach deiner Intuition und lass deiner **Kreativität** freien Lauf. Denkt daran - Schöpfung, Liebe und Kreativität sind Tore zu deiner Seele.
+6. Bereite einen **sicheren, ungefährlichen Ort** vor, an dem du dein Yule-Holz verbrennen kannst.
+7. Übergib dein Yule-Holz dem Feuer, und während er brennt, übergib deine Intentionen und Wünsche dem Universum und **bedanke dich dafür,** dass all das was du dir wünschst, zum besten von dir und allem was ist geschehen möge. Spüre die Wärme des Feuers und visualisiere, wie es die **Wiedergeburt des Lichts** in dir und auf Mutter Erde verkörpert.
 8. Während du die Flammen tanzen siehst, denke darüber nach, was in dir
 
-   in dir aufsteigt und was bereit ist, von dir abzufallen.
-9. Stelle sicher, dass die Flammen sicher gelöscht sind und schließe deinen heiligen Raum auf die Art und Weise, wie es sich für dich stimmig anfühlt.
+   **in dir aufsteigt** und was bereit ist, **von dir abzufallen.**
+9. Stelle sicher, dass die Flammen **sicher gelöscht sind** und **schließe deinen heiligen Raum** auf die Art und Weise, wie es sich für dich stimmig anfühlt.
 
 ![](../../uploads/youtube-thumbnails.png)
 
 ### (2) Herz-Licht-Reise
 
-Für dieses Meditations-Ritual brauchst du:
+**_Für dieses Meditations-Ritual brauchst du:_**
 
 * einen ruhigen Ort, an dem du ungestört bist
 * dein Journal oder Tagebuch sowie eine Stift
-* Eine Kerze in der Farbe deiner Wahl und etwas zum Anzünden 
+* eine Kerze in der Farbe deiner Wahl und etwas zum Anzünden 
 * eine Decke oder einen Yoga-Block, um beim Meditieren etwas erhöht zu sitzen, wenn es dir damit leichter fällt deine Wirbelsäule gerade zu halten
 * Räucherwerk deiner Wahl (das kann eine Räuchermischung sein, bestimmte getrocknete Kräuter, Palo Santo oder Räucherstäbchen) 
-
-. 
 
 **1. Öffne deinen heiligen Raum**
 
@@ -153,45 +151,26 @@ Visualisiere wie der Rauch **jegliche Negativität und niedrige Schwingungen** e
 
 **3. Meditation "Herz-Licht-Reise"**
 
-Nimm für die Meditation jetzt eine entspannte, aufrechte Sitzposition ein. Lege deine Hände mit den Handinnenflächen nach oben entspannt auf deinen Oberschenkeln oder in deinem Schoß ab. Wenn du deinen Sitz gewählt hast, dann schließe liebevoll deine Augen und nimm einen tiefen Atemzug.
+Nimm für die Meditation jetzt eine entspannte, aufrechte Sitzposition ein. Sitze gern etwas erhöht auf einer Decke oder einem Yoga-Block, wenn es dir damit leichter fällt deine Wirbelsäule gerade zu halten. Lege deine Hände mit den Handinnenflächen nach oben entspannt auf deinen Oberschenkeln oder in deinem Schoß ab. Wenn du deinen Sitz gewählt hast, dann schließe liebevoll deine Augen und nimm einen tiefen Atemzug.
 
-Der folgende **Atemzyklus** (so lange wie es sich für dich gut anfühlt, auf diese Art zu atmen) kann dir dabei helfen, mehr im gegenwärtigen Moment anzukommen: 
+Dann beginne in dem folgendem **Atemzyklus** zu atmen und folge der Visualisierung so lange wie es sich für dich gut anfühlt:
 
 * Atme tief durch deine Nase ein, bis in deinen Brustkorb und spüre wie dein Atem dein **inneres Licht** berührt. 
 * Halte die Luft in deinem **Herz-Raum** und fühle wie das Licht stärker wird, wie du ihm deine Aufmerksamkeit schenkst. 
 * Atme langsam über deine Nase aus und wie du ausatmest, **verbreitet sich dein inneres Licht** von deinem Herz-Raum bis in deinen gesamten Körper. 
 * Bleibe kurz in der **Atemstille** und spüre das Licht durch deinen Körper fließen. 
-* Wiederhole das einige Male in deinem Tempo, bis sich erst dein ganzer Körper in dem Licht erstrahlt, dann deine Aura, dann der Raum, in dem du bist, und schließlich wie dieses strahlende Licht die ganze Erde umschließt
+
+  Wiederhole das einige Male in deinem Tempo, bis sich erst dein ganzer Körper in dem Licht erstrahlt, dann deine Aura, dann der Raum, in dem du bist, und schließlich wie dieses strahlende Licht die ganze Erde umschließt
 
 Bleibe solange es sich für dich stimmig anfühlt in diesem tief-verbundenem Gefühl mit deinem Herzen und erfüllt und umgeben von deinem Inneren Licht. Du kannst ein **Mantra** nutzen, um deine Gedanken immer wieder in den gegenwärtigen Moment zu bringen: _Ich bin genug. Ich bin Liebe. Ich bin Licht._
 
 > #### **_Du kannst diese Herz-Licht-Reise auch als_**  <a href="https://youtu.be/nJrP1x-xSGw" target="_blank">**geführte Meditation**</a>.**_mit mir zusammen machen ♥_**
 
-* Was möchte ich **konkret loslassen**, was mir nicht mehr dienlich ist?
-* Welche **Angewohnheit** dient mir nicht mehr oder hindert mich daran mein bestes Leben zu leben?
-* Welchen **limitierenden Glaubenssatz** bin ich bereit endgültig zu transformieren?
-* Welche **Sorgen und negativen Gedanken** sollen mich im neuen Jahr nicht mehr belasten?
-* Was hat mich **bisher davon abgehalten** wirklich loszulassen?
+##### Dies ist ein Blogbeitrag aus einer mehrteiligen Serie über seelenreinigende Jahresend-Rituale. Wenn du mehr über den Abschluss des vergangenen und Beginn des neuen Jahres erfahren möchtest, dann schau gern auch bei <a href="https://innerlight-hypnotherapy.com/dunkelnaechte" target="_blank">**"Die Magie der Dunkelnächte"**</a> vorbei!
 
-Das alles kannst du auf einen Zettel schreiben und - wenn es sich für dich noch nicht endgültig wahr anfühlt - zunächst **in eine kleine Kiste legen** und wegsperren. Wenn du das Gefühl hast, dass du wirklich bereit bist, dich von diesen Dingen zu lösen, dann kannst du die Zettel _am letzten Tag der Sperrnächte, dem 20. Dezember,_ dem **Feuer übergeben** und während eines Räucherrituals auf körperlicher, geistiger und seelischer Ebene.
+Genieße die Magie der Wintersonnenwende und das wundervolle Gefühl nach diesen Ritualen. You deserve to be free ♥
 
-> **Du willst endgültig FREI von deiner Vergangenheit sein und dein Unterbewusstsein vollkommen neu programmieren?** Dann wisse du bist nicht allein auf deiner Reise - vereinbare jetzt dein
->
-> <a href="https://calendly.com/innerlight-hypnotherapy/erstgespraech" target="_blank">**kostenloses Erstgespräch**</a> mit mir und finde heraus, wie du dein machtvolles Unterbewusstsein dafür nutzt, um dir in 2023 endlich das Leben zu kreieren, von dem du schon so lange träumst.
-
-### **Dankbarkeits-Ritual**
-
-Schaffe dir eine angenehme Atmosphäre und zünde dir als Zeichen für den Beginn des Rituals ein paar Kerzen an. Du kannst dir auch Hintergrundmusik anmachen, Räucherstäbchen anzünden und es dir richtig gemütlich machen.
-
-Wenn du das Gefühl hast, präsent zu sein, kannst du jetzt beginnen **aufzuschreiben, wofür du in diesem Jahr dankbar bist**. Das können Menschen, besondere Momente, materielle Dinge oder scheinbare Kleinigkeiten sein, wie dein Zuhause, dein Essen oder dein Bett. Durch die Dankbarkeit erhöhst du deine **Schwingungsfrequenz** und signalisierst dem Universum, dass du die Fülle in deinem Leben wertschätzt und dir mehr davon wünschst. Wenn du alles aufgeschrieben hast, lege deine beiden Hände auf deinen **Herzraum** übereinander und spüre eine Weile in das Gefühl der Dankbarkeit hinein.
-
-Besonders machtvoll wird es, wenn du auch die **Dinge, die du loslassen möchtest, mit Dankbarkeit segnen** kannst - dafür, dass sie da waren und ihren Zweck erfüllt haben. Denn von diesem Moment an, bist du wahrhaftig in der Lage eine **neue Entscheidung** zu treffen: dass du diese Dinge ab jetzt _nicht_ mehr benötigst. Dass du es verdienst und dir Selbst die Erlaubnis gibst, frei davon zu sein.
-
-Du kannst das Ritual abschließen, indem du nochmal mit geschlossenen Augen ein paar tiefe Atemzüge nimmst und nachspürst, wie es dir jetzt geht. Bedanke dich bei dir selbst, dass du dir diese wertvolle Zeit geschenkt hast.
-
-> Dies ist der erste Teil einer dreiteiligen Serie über seelenreinigende Jahresend-Rituale. Wenn du mehr über den Abschluss des vergangenen und Beginn des neuen Jahres erfahren möchtest, schau bald wieder auf meinem Blog vorbei, wenn ich tiefgehendes Wissen und machtvolle Rituale rund um die Wintersonnenwende und die Rauhnächte mit dir teile.
-
-Genieße die Magie der Dunkelnächte und das wundervolle Gefühl nach diesen Ritualen. You deserve to be free ♥
+![](../../uploads/email-header-inner-light.png)
 
 ##### Ich freue mich sehr für dich, dass du bereit bist dich von allem zu lösen, was dir nicht mehr dient, um dein wahres Selbst heller und heller scheinen zu lassen. Danke, dass es dich gibt, du wundervolle Seele! _Namasté_
 

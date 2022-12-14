@@ -80,7 +80,11 @@ Es braucht eine Weile, bis sich der Körper an diese höheren Schwingungen gewö
 
 ### **Welche Rituale du für die Wintersonnenwende nutzen kannst**
 
-Wie kannst du also dieses besondere kosmische Ereignis der Wintersonnenwende feiern und für dich nutzen?
+Die Ankunft des Lichts und die Veränderungen, die wir von nun an immer stärker auf individueller, aber auch auf kollektiver, Ebene spüren können, sind definitiv ein Grund zum Feiern! Wie schon angedeutet, LIEBE ich es, die Energien solch machtvoller Portaltage zu nutzen - für meinen eigenen Seelenweg, aber auch in meiner Verantwortung als Lichtbringerin für Mutter Erde und die Menschheit.   
+  
+Du bist auch einer dieser außerwählten Seelen my love, nicht wahr? Dann solltest du UNBEDINGT bei der <a href="https://elopage.com/s/innerlight/rauhnachts-challenge" target="_blank">**INNER LIGHT** .**LICHTZEREMONIE am 20. Dezember um 19 Uhr**</a> dabei sein. Es wird so magisch!  
+  
+Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, um das besondere kosmische Ereignis feiern und die Energien für dich nutzen.
 
 ![](../../uploads/heiliges-holz_wintersonnenwende-ritual.jpg)
 

@@ -103,7 +103,7 @@ Um die Wintersonnenwende herum, kannst du außerdem diese zwei Rituale nutzen, u
 
 1. Mach eine **Wanderung in der Natur** mit der Intention dein heiliges Stück Holz (Yule-Holz) sowie die anderen Elemente für das oben erwähnte Ritual zu finden.
 2. Öffne für dich deinen **heiligen Raum** auf die Art und Weise, wie es sich für dich bedeutungsvoll und stimmig anfühlt. (Du kannst z.B. räuchern, eine Kerze anzünden, Klang-Frequenzen anmachen oder meditieren, um dich mit dir und deinem heiligen Raum zu verbinden)
-3. Nimm dir etwas Zeit, um zu den folgenden Fragen deine Impulse und Gedanken in dein **Journal** zu schreiben: 
+3. Nimm dir etwas Zeit, um zu den folgenden Fragen deine Impulse und Gedanken in dein **Journal** zu schreiben:
    * _Was hast du in diesem Jahr erreicht, worauf du besonders stolz bist?_
    * _Wofür bist du in deinem Leben gerade am meisten dankbar?_
    * _Was darf gerade in dir erwachen?_

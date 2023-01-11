@@ -48,7 +48,7 @@
     "gatsby-source-filesystem": "^3.2.0",
     "gatsby-source-google-analytics-reporting-api": "^1.0.2",
     "gatsby-source-stripe": "^3.2.2",
-    "gatsby-transformer-remark": "^3.2.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^3.2.0",
     "googleapis": "^71.0.0",
     "hyphen": "^1.6.4",

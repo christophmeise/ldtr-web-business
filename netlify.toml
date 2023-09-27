@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://innerlight-hypnotherapy.com/"
+  from = "https://innerlight-hypnotherapy.com/*"
   to = "https://myinnerlight.de/"
   status = 301
   force = true

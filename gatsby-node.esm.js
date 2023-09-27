@@ -155,24 +155,6 @@ export async function sourceNodes({ actions }) {
             ],
         },
     });
-
-    // Add analytics data to graphql
-    const { rows } = result.data.reports[0].data;
-    for (const { dimensions, metrics } of rows) {
-        const path = dimensions[0];
-        const totalCount = metrics[0].values[0];
-        createNode({
-            path,
-            totalCount: Number(totalCount),
-            id: path,
-            internal: {
-                type: `PageViews`,
-                contentDigest: crypto.createHash(`md5`).update(JSON.stringify({ path, totalCount })).digest(`hex`),
-                mediaType: `text/plain`,
-                description: `Page views per path`,
-            },
-        });
-    }
 }
 
 export function onCreateWebpackConfig({ actions }) {

@@ -20,14 +20,6 @@ interface Props {
                 description: string;
             };
         };
-        allPageViews: {
-            nodes: [
-                {
-                    id;
-                    totalCount;
-                },
-            ];
-        };
     };
 }
 
@@ -59,8 +51,8 @@ class ShopCheckoutPage extends React.Component<Props, State> {
             extraViews = 232;
         }
         const currentPagePath = '/shop/checkout?option=' + this.state.checkoutOption;
-        const pageViewNode = this.props.data.allPageViews.nodes.filter((node) => node.id === currentPagePath)[0];
-        let pageViews = pageViewNode?.totalCount;
+        // const pageViewNode = this.props.data.allPageViews.nodes.filter((node) => node.id === currentPagePath)[0];
+        let pageViews = 0;
         if (!pageViews) {
             pageViews = extraViews;
         } else {
@@ -186,12 +178,6 @@ export const pageQuery = graphql`
             siteMetadata {
                 title
                 description
-            }
-        }
-        allPageViews {
-            nodes {
-                id
-                totalCount
             }
         }
     }
